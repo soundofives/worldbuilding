@@ -1,0 +1,210 @@
+%See http://www.kzoo.edu/ajp/tex/ for a template and instructions for writing a paper for American Journal of Physics
+
+\documentclass[12pt,aps,prb,preprint]{revtex4-1}   % style for Physical Review B and AJP are similar
+
+\usepackage{amsmath}    % need for subequations
+\usepackage{graphicx}   % for figures
+\usepackage{amssymb} %imports additional math symbols
+\usepackage{fullpage} % makes the margins 1 in.
+
+\begin{document}
+
+%%%%%%%%% TITLE SECTION %%%%%%%%%
+\title{Functionality of Yoga Mats Compared to a Gymnastics Sting Mat}
+\author{Nolan Roth, Erin Brady}
+\affiliation{Department of Physics, High Point University, High Point, NC 27262}
+
+%\author{Name of second author}
+%\affiliation{University of California, Riverside, Department of Chemical and Environmental Engineering, Riverside,
+%CA}
+\date{\today}
+
+\bigskip
+
+\begin{abstract}
+An alternative material for gymnastics landing mats was investigated using drop tests onto a force plate. Three different types of yoga mats were considered as replacement materials. The peak ground reaction force experienced during the drop tests was found for each of these mats in stacks of 1, 2, and 4 mats. This was done to discern any trends in the peak ground reaction forces. A replacement material should have a peak ground reaction force equal to or less than the gymnastics sting mat and cost less per cubic meter. This study found that two of the mats showed a downward trend in their peak ground reaction forces. A 6.16 mm PVC yoga mat fulfilled both criteria to act as an alternative mat material. A computational model of this material was created in VPython to visually simulate the drop test. The visual model used a new mathematical model to match the trends seen in the data.
+\end{abstract}
+
+\maketitle
+
+%%%%%%%%% INTRODUCTION/BACKGROUND %%%%%%%%%
+\section{Introduction}
+
+Gymnasts today rely on large, often expensive landing mats to protect them from harm. Despite the presence of landing mats, gymnasts are still at high risks of injury. It has been shown that injuries in gymnastics are more prevalent on the lower body, particularly the knee and ankle (Fig. \ref{fig:gymnast}).
+
+\begin{figure}[h]
+	\includegraphics[scale=0.6]{Gymnast}
+	\caption{This highlights the locations on the body both where injury is most common for gymnasts and where treatment costs are highest\cite{Bradshaw}.}
+	\label{fig:gymnast}
+\end{figure}
+
+As shown in Figure \ref{fig:gymnast}, it was found that of 13,000 medical claims studied, the knee and ankle had two of the highest treatment costs\cite{Bradshaw}. These kinds of injuries pose serious risks to gymnasts, as a single injury could easily end their careers.
+
+Significant research has been done speculating on both the cause of gymnastics injuries and methods that help decrease risk of injury. A survey of injuries in gymnastics found that approximately 70\% of gymnastics injuries occurred during landings or dismounts. The survey presents various techniques that gymnasts can use to increase safety, and it also states: ``Equipment manufacturers are encouraged to reevaluate the design of the landing mats to allow for better absorption of forces" \cite{Marshall}. Emphasizing the need for further study on mat composition and safe practice, McNitt-Gray et al. in 1993 found that the stiffness of the mat and the drop height affects the landing technique the athletes prefer\cite{McNitt}. This conclusion was made by using a force plate and video camera to study drops onto different mats. Thus, mat composition has a significant effect on how gymnasts can land. A separate study used drop tests to examine how mat layer construction and density affected plantar pressure. The research produced significant pressure correlation between various mats, which supported drop tests as effective means of investigating the characteristics of various mats\cite{Perez}. In 2009, Davidson et al. used experimental force data from head-mass drop tests as their comparative values in landing mat models. The models were compared to the measured drop values to find the one that best predicted the impact forces on dropped objects. In that study, an exponential model of the spring force and viscous damping force was found to most closely match acceleration vs. time data and force vs. impact depth data gathered from the drop tests\cite{Davidson}. 
+
+Modeling gymnastics landing mats as Hookean springs with elastic and viscous properties is a common method to model soft mats. Mills et al. in 2006 focused on determining the accuracy of different spring damper system models when compared to a gymnastics landing mat. The most accurate model consisted of multiple spring-damper systems linked in series\cite{Mills2006}. These findings helped build a model that used layered damped springs to optimize the stiffness and damping of the mat. The optimized variables minimized the ground reaction force experienced by an object dropped on the mat, but may have increased forces experienced by specific sections of the gymnast’s feet\cite{Mills2010}. While work in this field has focused on the optimization and study of current systems, the replacement or use of alternative mat materials has rarely been researched.
+
+This paper investigates the material and safety properties of alternative landing mat materials. Following previous studies, we expected the yoga mats to behave like spring-damper systems. With this basis, we believed that yoga mats could provide a safe and cheap alternative for some gymnastics landing mats when stacked. We use both an accelerometer and a force plate to collect and check the peak acceleration and ground reaction force experienced by a mass in a drop-test. This method of drop testing follows Perez-Soriano et al.’s conclusions supporting drop tests\cite{Perez}.
+
+%%%%%%%%% MATERIALS AND METHODS %%%%%%%%%
+\section{Materials and Methods}
+
+This study aimed to quantitatively measure the peak ground reaction forces (PGRF) of alternative mat materials and a gymnastics sting mat and compare them. We chose yoga mats of various thicknesses to act as the alternative materials due to their low cost and high availability. The inexpensive yoga mats would be effective substitutes for expensive gymnastics mats if they proved to be equal in their reactive characteristics. The PGRF is the force felt by the mass upon hitting a mat. This force was found using mass drop tests onto the various mats. Using the data, a computational model was created in VPython to visualize and predict untested circumstances.
+
+\begin{figure}[h]
+	\centering
+	\includegraphics[scale=0.1]{SetUp}
+	\caption{Experimental set up used for our drop tests. The shown drop height was kept constant throughout the testing, as was the mass. The accelerometer attached to the mass was used in early testing, but was not used in later data collection. It was kept to ensure the repeatable drop method. The mass was dropped by cutting the string.}
+	\label{fig:setup}
+\end{figure}
+
+The mats were positioned above a Vernier FP-BTA force plate. The mass was suspended above the mat by a string and leveled prior to each drop. The force plate registered the PGRF experienced by the dropped mass, a 0.5~kg block shown in Figure \ref{fig:setup}, at 500~samples-per-second. The mass was consistently dropped from $0.57 \pm 0.05$~cm onto one of three types of yoga mats. We used Sporti Studio Yoga Mats of $2.18 \pm 0.01$~mm (Mat 1), $6.16 \pm 0.01$~mm (Mat 2), and $6.47 \pm 0.01$~mm (Mat 3) thicknesses and a $23.92 \pm 0.05$~mm ByGMR Floppy Throw Sting Mat. The cross-sectional thicknesses of the yoga mats are visually compared in Figure \ref{fig:matcomp}. To examine the similarities in the behavior of the yoga mats to Hookean springs, each mat was placed in stacks on top of the force plate. PGRF data was gathered for a single mat, stacks of two, and stacks of four mats.
+
+Each mat was cut to $30 \times 56 \pm 1$~cm, and the drop tests were all targeted on a consistent location near the center of each mat. The mats were rotated out so that they could rest and reform after each drop to ensure previous tests had no effect on mat compression. Throughout the experimental process, the error was minimized using consistent testing procedures: the mass was leveled prior to any testing, the drop location, height, and mass were constant, and measures were taken to keep the mats in good condition through the testing. Despite these procedures, the most significant source of error in the values came from human error in the drop tests. Each data point is a compilation of 5-10 tests. The VPython model helps simulate drop tests with zero error.
+
+\vspace{-0.5 mm}
+\begin{figure}[h]
+	\centering
+	\includegraphics[scale=0.17]{ThickComp}
+	\caption{Comparison of the thicknesses of the different yoga mats tested. Mat 1 is 2.18 mm, Mat 2 is 6.16 mm, and Mat 3 is 6.47 mm thick. The material of each mat was not found to be the same, with Mat Type 2 being more easily compressed than either Mat Type 1 or Mat Type 3.}
+	\label{fig:matcomp}
+\end{figure}
+
+\vspace{-2 mm}
+Data analysis was conducted using the VPython environment and LoggerPro computational software. The data gathered by the force plate was registered and graphed in the LoggerPro program. The software helped us organize and categorize the forces measured, and built in functions allowed us to find the maximum PGRF and time to peak force. The data gathered in LoggerPro allowed us to create a VPython visual model of an impact on an elastic mat (Figure \ref{fig:sim}).
+
+\begin{figure}[h]
+	\centering
+	\includegraphics[scale=0.5]{Sim}
+	\caption{VPython model to simulate the compression of Mat 2. The drop mass is represented by a yellow rectangle, and the mat is represented by a spring.}
+	\label{fig:sim}
+\end{figure}
+
+The mat was modeled as a simple damped spring, and was optimized to match the trends shown by the PGRF data. The model allowed us to simulate mass drop tests with mats of untested characteristics and observe large and small scale trends.
+We modeled the net force on the dropped mass using the equation of motion
+
+\vspace{-8 mm}
+\begin{eqnarray}
+m\ddot x = -kx - c\dot x -mg
+\end{eqnarray}
+
+\noindent where $m$ is the mass of the dropped object, $k$ is the spring stiffness of the mat, $c$ is the damping coefficient, and $g$ is the acceleration due to gravity. The simulation started the mass 5.7~mm above the spring, so it contacted the spring at a speed of 0.3344~m/s, driving the compression of the mat.
+
+%%%%%%%%% RESULTS AND DISCUSSION %%%%%%%%%
+\section{Results and Discussion}
+
+Data from the drop tests were compiled and analyzed to show possible trends in the PGRF as the mats were stacked. The mass drop tests showed trends in Mat 2 and Mat 3. While Mat 1 shows no clear trend, the uncertainties in the values give rise to the possibility of a downward linear trend. Mat 3\textsc{\char13}s trend appeared less linear than Mat 2\textsc{\char13}s trend; instead it seemed it may approach a limit of approximately 70 Newtons as more mats were stacked. More testing is needed to make solid conclusions on the behavior of Mat 3. To be able to draw a clear trend with Mat 1, further testing is needed. As Mat 2 was stacked and tested, the PGRF registered by the force plate decreased in a nearly linear fashion. The significance of this trend is given credibility by the data’s small standard deviation. In addition, Mat 2 is the only mat to overlap with the PGRF produced by the gymnastics sting mat (Figure \ref{fig:trend}).
+
+\begin{figure}[h]
+	\centering
+	\includegraphics[scale=0.4]{MatGraph}
+	\caption{Average peak ground reaction forces for different mats. This shows the change in the average peak ground reaction force as a function of the number of mats in a stack.}
+	\label{fig:trend}
+\end{figure}
+\vspace{-9 mm}
+Because of this overlap, we calibrated the VPython model to match the data of Mat 2. A quantitative description of the forces experienced by each mat is shown in Table \ref{tab:allPGRF}. Another characteristic of the mat that may affect its safety is the time over which the falling object reaches the PGRF--a sharp jolting stop may be worse for bones than a gradual one. We analyzed the LoggerPro force vs. time curves and found that the time to PGRF is approximately the same for all Mat 2 stacks and the gymnastics sting mat (\ref{tab:times}).
+
+The calibrated VPython simulation used $k=25$~N/m and $c=240$~kg/s to achieve a comparable PGRF for one mat layer. However, this model does not approximate the PGRF for stacked mats accurately. For that, we found an equivalent spring stiffness using the equation
+
+\begin{tabular}{c c}
+	\hspace{-2 mm}
+	%\begin{table}[h]
+	%\centering
+	\begin{tabular}{ c | c  c  c}
+	&Unstacked&2 Stack&4 Stack\\
+	MAT&PGRF (N)&PGRF (N)&PGRF (N)\\
+	\hline
+	Mat 1 & $78 \pm 8$ & $85 \pm 3$ & $73 \pm 5$ \\
+	Mat 2 & $74 \pm 4$ & $64 \pm 2$ & $50 \pm 2$ \\
+	Mat 3 & $82 \pm 4$ & $75 \pm 3$ & $73 \pm 3$ \\
+	Mat 4 & $59 \pm 2$ & ** & ** \\
+	\end{tabular}
+	%\caption{The quantitative PGRFs of each type of mat are shown. Each data point is the average of 5 – 8 tests. The gymnastics mat was not tested in stacks, as the goal of the research is to compare the PGRFs of yoga mats to that of a regularly used gymnastics mat}
+	%\label{tab:allPGRF}
+	%\end{table}
+&
+	\hspace{2 mm}
+	%\begin{table}
+	\begin{tabular}{ c | c | c}
+	 &Number&\\
+	Mat&in Stack&Time (seconds)\\
+	\hline
+	Sting Mat&1&0.010  $\pm$ 0.001\\
+	Mat 2&1&0.008 $\pm$ 0.001\\
+	Mat 2&2&0.009 $\pm$ 0.001\\
+	Mat 2&4&0.010 $\pm$ 0.001
+	\end{tabular}
+	%\caption{Times to peak ground reaction force for the gymnastics sting mat and each of the Mat 2 stacks.}
+	%\label{tab:times}
+	%\end{table}
+
+\end{tabular}
+\begin{table}[h]
+	\caption{(Left) The quantitative PGRFs of each type of mat are shown. Each data point is the average of 5 to 8 tests. The gymnastics sting mat was not tested in stacks, as the goal of the research is to compare the PGRFs of yoga mats to that of a regularly used gymnastics mat.}
+	\label{tab:allPGRF}
+\end{table}
+\vspace{-8 mm}
+\begin{table}[h]
+	\caption{(Right) Times to peak ground reaction force for the gymnastics sting mat and each of the Mat 2 stacks.}
+	\label{tab:times}
+\end{table}
+
+\vspace{-6 mm}
+\begin{eqnarray}
+\frac{1}{k_\text{eq}}=\frac{N}{k}
+\end{eqnarray}
+
+\noindent for springs in series, treating each layer as identical. The number of mats stacked is $N$. Employing a similar equation for the damping coefficient was unsuccessful, so we modified it to be the following:
+
+\vspace{-10 mm}
+\begin{eqnarray}
+C_{eq}=\frac{1}{Ne^{N-1}}  \left(\frac{c}{N}\right)
+\end{eqnarray}
+
+\noindent where $C_{eq}$ is the equivalent spring damping constant of the stacked mats. Using this model allowed us to compare our simulation to our experimental data, albeit with an unphysical spring constant of $1.5 \times10^5$~N/m and a damping constant of 155.3~kg/s in our simulation. Figure \ref{fig:overlay} compares simulated and experimental data. We used experimental data from Mat 2 because its stacked trend overlapped the peak ground reaction force of the gymnastics sting mat.
+
+\begin{table}
+	\begin{tabular}{ c | c | c}
+	Number in Stack&Experimental PGRF (N)&Simulated PGRF (N)\\
+	\hline
+	1&74 $\pm$ 4 &75\\
+	2&64 $\pm$ 2 &64\\
+	4&50 $\pm$ 2 &48\\
+	\end{tabular}
+	\caption{Experimental vs. Simulated PGRF data for Mat 2. Using the new mathematical model for the equivilant spring constant, the simulation follows the trend seen in the experimental data.}
+	\label{tab:geoff}
+\end{table}
+
+\begin{figure}[h]
+	\centering
+	\includegraphics[scale=0.7]{Trend}
+	\caption{Experimental average ground reaction force vs. time curve overlayed with force vs. time data simulated in our VPython model.}
+	\label{fig:overlay}
+\end{figure}
+
+The PGRF values of Figure \ref{fig:overlay} for each number of stacked mats (of Mat 2 material) obtained experimentally and with the simulation are shown in Table \ref{tab:geoff}. While our mathematical model fits for this material, we do not have evidence that it will match other materials.
+
+The basis of this research was to test alternative materials for their PGRF and compare them to a gymnastics sting mat. A replacement material should have a PGRF equal to or less than the gymnastics mat and cost less per cubic meter. Based on the trend lines of Figure \ref{fig:trend}, we can conclude that the most viable replacement mat for our gymnastics sting mat is Mat 2. The linear trend followed by Mat 2 in Figure \ref{fig:trend} suggests a stack of approximately 2.75 Mat 2 mats will have a PGRF in the same range as our gymnastics sting mat. With the PGRF within the same range, the next factor to check to see if Mat 2 is an effective replacement material is the cost. The cost-per-cubic meter of Mat 2 from the manufacturer that we purchased it from is 1309 dollars. In comparison, the cost-per-cubic meter of the ByGMR Floppy Throw Sting Mat from the manufacturer is 3167 dollars. These values were calculated based on the cost and dimensions of the mats we purchased. If we approximate using Figure \ref{fig:trend}'s trend lines that three stacked Mat 2\textsc{\char13}s produce an equal PGRF to our gymnastics sting mat, then we can show that less material will be needed to produce that PGRF: the gymnastics mat is approximately 24~mm thick while the equivalent Mat 2 thickness is approximately 18~mm. These conclusions show that Mat 2 is a viable replacement material for the ByGMR Floppy Throw sting mat.
+
+Seeing that the time to peak ground reaction force for both the ByGMR Floppy Throw Sting Mat and each of the Mat 2 stacks were the same further supports our findings. While we do not know the exact safety implications of the time to PGRF, their equivilency demonstrates that the stacked yoga mats are just as safe as the gymnastics mat.
+
+\section*{acknowledgments}
+We would like to thank our faculty advisor, Dr. Briana Fiser in the Department of Physics at High Point University, for her help, guidance, and inspiration throughout our work on this project.
+
+Our acknowledgements and thanks are also extended to the High Point University Department of Physics for funding this project.
+
+\newpage
+%%%%%%%%% BIBLIOGRAPHY %%%%%%%%%
+\begin{thebibliography}{7}
+\bibitem{Bradshaw}Bradshaw, E. J., Hume, P. A. (2012). Biomechanical approaches to identify and quantify injury mechanisms and risk factors in women's artistic gymnastics. Sports Biomechanics.
+\bibitem{Marshall}Marshall, S. W., Covassin, T., Dick, R., Nassar, L. G., Agel, J. (2007). Descriptive Epidemiology of Collegiate Women's Gymnastics Injuries: ... Journal of Athletic Training, 42(2), 234-240.
+\bibitem{McNitt}McNitt-Gray, J. L., Yokoi, T., Millward, C. (1993). Landing Strategy Adjustments Made by Female Gymnasts in Response to Drop Height and Mat Composition. Journal of Applied Biomechanics(9), 173-190.
+\bibitem{Perez}Pedro Pérez-Soriano , Salvador Llana-Belloch , Gaspar Morey-Klapsing , Jose Antonio Perez-Turpin , Juan Manuel Cortell-Tormo, Roland van den Tillaar (2010) Effects of mat characteristics on plantar pressure patterns and perceived mat properties during landing in gymnastics, Sports Biomechanics, 9:4, 245-257
+\bibitem{Davidson}P. L. Davidson, S. J. Wilson, B. D. Wilson and D. J. Chalmers, Journal of Applied Biomechanics (25), 351-359 (2009)
+\bibitem{Mills2006}Mills, C., Pain, M.T.G. and Yeadon, M.R., 2006. Modelling a viscoelastic gymnastics landing mat during impact. Journal of Applied Biomechanics, 22 (2), pp.103-111.
+\bibitem{Mills2010}Chris Mills, Maurice R. Yeadon, Matthew T.G. Pain (2010) Modifying landing mat material properties may decrease peak contact forces but increase forefoot forces in gymnastics landings, Sports Biomechanics, 9:3, 153-164.
+%\bibitem{Wylie}C. R. Wylie Jr., \textsl{Advanced Engineering Mathematics} (McGraw-Hill, 1966), pp. 323--327. 
+\end{thebibliography}
+
+
+\end{document}
