@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+		<html>
+		<head>
+		<meta http-equiv='content-type' content='text/html; charset=UTF-8'>
+		<link href='C:\Users\Nolan\Documents\DND\Resources\Geneology\MyHeritage\Bin\Checker\Checker.css' type='text/css' rel='stylesheet'>
+		<script>
+				var rtl = 0;
+				var cancelButton = "Cancel";
+				var ignoredIssues = 0;
+				var ignoredOneIssueText = "One issue ignored";
+				var ignoredIssuesText = "%NUMBER% issues ignored";
+				var foundIssues = 0;
+				var issuesFoundNoneText = "No consistency issues found";
+				var issuesFoundOneText = "One consistency issue found";
+				var issuesFoundManyText = "%NUMBER% consistency issues found";
+				var ignoreRadio = "Ignore this specific issue";
+				var disableRadio = "Disable the check '%TYPE%' for the entire Project";
+				var checkTypes = [
+	"",
+	"Birth after death (#1)",
+	"Died too old (#2)",
+	"Alive but too old (#3)",
+	"Child older than parent (#4)",
+	"Parent too young (#5)",
+	"Parent too old (#6)",
+	"Child born after death of parent (#7)",
+	"Fact occurring after death (#8)",
+	"Fact occurring before birth (#9)",
+	"Death date resembles cause of death (#10)",
+	"Death place resembles cause of death (#11)",
+	"Siblings age (#12)",
+	"Siblings with same first name (#13)",
+	"Descendant older than ancestor (#14)",
+	"Descendant-ancestor age mismatch (#15)",
+	"Ancestor of himself (#16)",
+	"Large spouse age difference (#17)",
+	"Same sex spouses (#18)",
+	"Married too young (#19)",
+	"Too young to be spouse (#20)",
+	"Inconsistent place name spelling (#21)",
+	"Place name resembles date (#22)",
+	"Tagged in photo before birth (#23)",
+	"Tagged in photo after death (#24)",
+	"Inconsistent last name spelling (#25)",
+	"Wrong designation of husband and wife (#26)",
+	"Multiple marriages of same couple (#27)",
+	"Maiden name similar to married name (#28)",
+	"Double spaces in name (#29)",
+	"Prefix in first name (#30)",
+	"Prefix in last name (#31)",
+	"Suffix in first name (#32)",
+	"Suffix in last name (#33)",
+	"Alias in first name (#34)",
+	"Alias in last name (#35)",
+	"Siblings with different last names (#36)",
+	"Incorrect use of uppercase/lowercase (#37)",
+	"Year with two digits (#38)",
+];
+				var ignoreMessage = "Select whether to ignore this specific issue or to completely disable this check";
+				var issueHasBeenFixed = "Issue has been fixed.\n\nRefresh list of issues?";
+				var issueHasNotBeenFixed = "Issue could not be fixed";
+				var spousesOfWrongGender = "%SPOUSE1% is a female and %SPOUSE2% is a male but they are defined as a husband and wife in a family, respectively";
+				var spousesOfWrongGenderText1 = "Correct %HUSBAND% to be the wife, and %WIFE% to be the husband in this family";
+				var spousesOfWrongGenderText2 = "Correct %HUSBAND% to be male, and %WIFE% to be female";
+				var spouseOfWrongGender = [ "%PERSON% is a male but is defined as a wife in a family", "%PERSON% is a female but is defined as a husband in a family"];
+				var spouseOfWrongGenderText1 = [ "Correct %PERSON% to be the husband in this family", "Correct %PERSON% to be the wife in this family"];
+				var spouseOfWrongGenderText2 = [ "Correct %PERSON% to be female", "Correct %PERSON% to be male"];
+</script>
+		<script src='C:\Users\Nolan\Documents\DND\Resources\Geneology\MyHeritage\Bin\Checker\Checker.js' type='text/javascript'></script>
+		</head>
+
+		<body onload='OnLoad()' dir='ltr'>
+		<table width='100%' cellpadding='0' cellspacing='0' border='0'><tr>		<td>		<img src='C:\Users\Nolan\Documents\DND\Resources\Geneology\MyHeritage\Bin\Checker\Checker.jpg' style='display:none'>		</td> 		<td width='100%' style='padding-left:0px; padding-right:10px'>
+		 <div><span id='header'>No consistency issues found</span> <span id='limit'></span>
+		 <div>38 checks performed &nbsp;&nbsp;<a href='javascript:Configure()'>Configure</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href='javascript:Rerun()'>Refresh</a></div>
+		 <div id='ignore' style='display:none'><span id='ignoredIssues'>TODO</span>&nbsp;&nbsp;<span id='ignoreLink'><a href='javascript:ResetIgnoredIssues()'>Reset ignored issues</a></span></div>
+<br>
+		 <div></div>
+		</td>		<td valign='top' nowrap>		 <img src='C:\Users\Nolan\Documents\DND\Resources\Geneology\MyHeritage\Bin\Checker\Print.gif' onclick='Print()' border='0' style='cursor:pointer'>&nbsp;<a href='javascript:Print()'>Print</a><br>		 <img src='C:\Users\Nolan\Documents\DND\Resources\Geneology\MyHeritage\Bin\Checker\Excel.jpg' onclick='Save()' border='0' style='cursor:pointer'>&nbsp;<a href='javascript:Save()'>Save</a><br>		</td>		</tr></table>
+		<table id='results' width='100%' cellpadding='0' cellspacing='0'>
+</table>
+		<div id='calloutWindow' style='display:none'>
+		<table cellpadding='0' cellspacing='0' width='100%'>
+		<tr><td id='calloutHeader' valign='top'></td><td valign='top' style='text-align:right'><img src='C:\Users\Nolan\Documents\DND\Resources\Geneology\MyHeritage\Bin\Checker\Close.gif' onclick='CloseCallout()' style='cursor:pointer'/></td></tr>
+		<tr><td id='calloutMessage' colspan='2'></td></tr>
+		</table>
+		</body>
+		</html>
