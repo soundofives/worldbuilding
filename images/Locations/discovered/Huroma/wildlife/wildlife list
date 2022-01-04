@@ -1,0 +1,30 @@
+Domestic:
+mammals:
+    eohippus
+    western chalicotherium
+    ass
+
+dinosaurs:
+    small parave
+    protoceratops
+    saurolophus
+
+-----------------------------------------------
+Wild:
+mammals:
+    plains rhino
+
+giant insects:
+    giant centipede
+    giant slug
+
+dinosaurs:
+    large avian dinosaurs
+    large theropods
+        alosaurus
+        dilophosaurus
+        Huroman raptor
+
+mythic:
+    great huroman serpent
+    swamp crocodile
