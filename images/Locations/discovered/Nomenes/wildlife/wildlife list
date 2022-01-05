@@ -1,0 +1,56 @@
+NOMENES
+
+Domestic:
+mammal:
+    zebra
+    horse
+    brontotheriidae
+    eastern chal
+    southern chal
+
+insect:
+    kokoro beetle
+
+dinosaurs:
+    theropods
+        scrub raptor
+        parave
+    sauropods
+        unarmored sauropods
+    triceratops
+        wooly
+        feathered
+        eastern
+    hadrosaurs
+    lisowicia
+
+Wild:
+mammal:
+    wooly rhino / elathmotherium
+    scaled rhino
+    brachyohippus
+
+insect:
+    crag spider
+    desert worm
+
+dinosaurs:
+    theropods
+        spinosaurs
+        tyranosaurs
+    sauropods
+        armored sauropods
+    archosaurs
+        giant crocodile
+        drake archosaurs
+    pteradons
+    triceratops
+        lowland
+
+mythic:
+    aseka ajejo
+    oniru ajejo
+    scaley monkey lion
+    eastern spirit beast
+    horrid desert beast
+
