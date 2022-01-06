@@ -1,7 +1,10 @@
 HUROMA
+
 Domestic:
+
 mammals:
     eohippus
+    eohippogriff
     western chalicotherium
     ass
 
@@ -29,3 +32,4 @@ dinosaurs:
 mythic:
     great huroman serpent
     swamp crocodile
+    hippogriff
