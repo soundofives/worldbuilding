@@ -1,18 +1,30 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
-
 <svg
-   inkscape:version="1.1 (c4e8f9e, 2021-05-24)"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   inkscape:version="1.0.2 (e86c870, 2021-01-15)"
    width="8000"
    height="2000"
    viewBox="0 0 2116.6666 529.16668"
    version="1.1"
    id="svg33175"
-   sodipodi:docname="gantt.svg"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:svg="http://www.w3.org/2000/svg">
+   sodipodi:docname="gantt.svg">
+  <metadata
+     id="metadata2887">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
   <sodipodi:namedview
      id="namedview33177"
      pagecolor="#ffffff"
@@ -23,17 +35,18 @@
      inkscape:pagecheckerboard="0"
      inkscape:document-units="mm"
      showgrid="false"
-     inkscape:zoom="0.70710678"
-     inkscape:cx="2850.3474"
-     inkscape:cy="1581.0908"
-     inkscape:window-width="3840"
-     inkscape:window-height="2067"
+     inkscape:zoom="4.021396"
+     inkscape:cx="293.11662"
+     inkscape:cy="386.22907"
+     inkscape:window-width="1920"
+     inkscape:window-height="996"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer11"
+     inkscape:current-layer="layer13"
      units="px"
-     inkscape:snap-global="true" />
+     inkscape:snap-global="true"
+     inkscape:document-rotation="0" />
   <defs
      id="defs33172">
     <marker
@@ -4114,7 +4127,8 @@
       <g
          inkscape:groupmode="layer"
          id="layer11"
-         inkscape:label="civs 3">
+         inkscape:label="civs 3"
+         style="opacity:1">
         <path
            style="fill:none;fill-opacity:1;stroke:#10cae1;stroke-width:0.375999;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
            d="m 768.61045,174.76815 c -23.16662,301.65186 12.21556,284.41629 12.21556,284.41629"
@@ -5229,5 +5243,14 @@
            x="-81.8554"
            y="634.30585">Passion Creates the Usada</tspan></text>
     </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer12"
+     inkscape:label="chart content">
+    <g
+       inkscape:groupmode="layer"
+       id="layer13"
+       inkscape:label="civs 4" />
   </g>
 </svg>
