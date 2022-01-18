@@ -35,15 +35,15 @@
      inkscape:pagecheckerboard="0"
      inkscape:document-units="mm"
      showgrid="false"
-     inkscape:zoom="5.12"
-     inkscape:cx="4305.0781"
-     inkscape:cy="3291.211"
+     inkscape:zoom="0.32"
+     inkscape:cx="2593.75"
+     inkscape:cy="1871.875"
      inkscape:window-width="3840"
      inkscape:window-height="2067"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer13"
+     inkscape:current-layer="layer15"
      units="px"
      inkscape:snap-global="true"
      inkscape:document-rotation="0"
@@ -11130,6 +11130,13 @@
        id="layer13"
        inkscape:label="civs"
        style="display:inline">
+      <rect
+         style="display:inline;fill:#006200;fill-opacity:1;stroke:none;stroke-width:0.171873;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.0999795;stop-color:#000000"
+         id="rect66883"
+         width="28.350435"
+         height="1.9697521"
+         x="1203.4459"
+         y="823.96576" />
       <path
          style="display:inline;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.4;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.262154;stop-color:#000000"
          d="m 1131.8667,950.7103 c 3.8184,-0.0662 2.4392,3.19975 9.2825,3.45912"
@@ -12661,9 +12668,9 @@
            x="1098.9683"
            y="829.27228">Western Yayurs</tspan></text>
       <rect
-         style="display:inline;fill:#af409a;fill-opacity:1;stroke:none;stroke-width:0.263003;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.0999795;stop-color:#000000"
+         style="display:inline;fill:#af409a;fill-opacity:1;stroke:none;stroke-width:0.281044;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.0999795;stop-color:#000000"
          id="rect189265-8"
-         width="66.383965"
+         width="75.803452"
          height="1.9697521"
          x="1099.1855"
          y="838.552" />
@@ -12708,8 +12715,8 @@
            x="1093.699"
            y="827.01282">Deshgair</tspan></text>
       <path
-         style="display:inline;opacity:0.253159;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.4;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         d="m 1099.9953,826.51563 h 101.1584"
+         style="display:inline;opacity:0.253159;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.469205;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="M 1099.9953,826.51563 H 1239.185"
          id="path207528" />
       <rect
          style="display:inline;fill:#40af87;fill-opacity:1;stroke:none;stroke-width:0.203577;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.0999795;stop-color:#000000"
@@ -12931,9 +12938,9 @@
          id="path577014-0-0-0"
          sodipodi:nodetypes="cc" />
       <rect
-         style="display:inline;fill:#8c041a;fill-opacity:1;stroke:none;stroke-width:0.19695;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.0999795;stop-color:#000000"
+         style="display:inline;fill:#8c041a;fill-opacity:1;stroke:none;stroke-width:0.220527;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.0999795;stop-color:#000000"
          id="rect336248"
-         width="37.226692"
+         width="46.672985"
          height="1.9697521"
          x="1128.4225"
          y="827.8443" />
@@ -12967,9 +12974,9 @@
            x="1135.7909"
            y="957.0575">First Nemorite Empire</tspan></text>
       <rect
-         style="display:inline;fill:#c9004c;fill-opacity:1;stroke:none;stroke-width:0.181506;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.0999795;stop-color:#000000"
+         style="display:inline;fill:#c9004c;fill-opacity:1;stroke:none;stroke-width:0.226922;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.0999795;stop-color:#000000"
          id="rect367075"
-         width="31.61743"
+         width="49.419518"
          height="1.9697521"
          x="1138.9486"
          y="953.65979" />
@@ -13003,9 +13010,9 @@
            x="1147.756"
            y="948.02545">Dhaneramath</tspan></text>
       <rect
-         style="display:inline;fill:#54a185;fill-opacity:0.741176;stroke:none;stroke-width:0.145973;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
+         style="display:inline;fill:#54a185;fill-opacity:0.741176;stroke:none;stroke-width:0.259325;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
          id="rect393710"
-         width="20.449892"
+         width="64.540955"
          height="1.9697521"
          x="1144.2107"
          y="845.6944" />
@@ -13021,9 +13028,9 @@
            x="1144.8594"
            y="847.12238">Marman city states</tspan></text>
       <rect
-         style="display:inline;fill:#06416a;fill-opacity:1;stroke:none;stroke-width:0.169888;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.0999795;stop-color:#000000"
+         style="display:inline;fill:#06416a;fill-opacity:1;stroke:none;stroke-width:0.148404;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.0999795;stop-color:#000000"
          id="rect427590"
-         width="27.699282"
+         width="21.136646"
          height="1.9697521"
          x="1151.1719"
          y="955.62952" />
@@ -13039,9 +13046,9 @@
            x="1151.8206"
            y="957.0575">Thandana Kingdoms</tspan></text>
       <rect
-         style="display:inline;fill:#af409a;fill-opacity:1;stroke:none;stroke-width:0.139186;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.0999795;stop-color:#000000"
+         style="display:inline;fill:#af409a;fill-opacity:1;stroke:none;stroke-width:0.170925;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.0999795;stop-color:#000000"
          id="rect436243"
-         width="18.592463"
+         width="28.038557"
          height="1.9697521"
          x="1147.0569"
          y="829.81403" />
@@ -13084,7 +13091,76 @@
            id="tspan446619"
            style="fill:#ffffff;stroke-width:0.376"
            x="1169.6262"
-           y="849.0921">Kingdom of Meteshahar</tspan></text>
+           y="849.0921">Kingdom of Meteshahar, Free Marman Kingdoms</tspan></text>
+      <rect
+         style="display:inline;fill:#0063a8;fill-opacity:1;stroke:none;stroke-width:0.143307;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.0999795;stop-color:#000000"
+         id="rect17502"
+         width="19.709766"
+         height="1.9697521"
+         x="1172.3085"
+         y="955.62952" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;line-height:1.25;font-family:Georgia;-inkscape-font-specification:'Georgia, Normal';font-variant-ligatures:normal;font-variant-caps:small-caps;font-variant-numeric:normal;font-variant-east-asian:normal;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.375999;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.490765;stop-color:#000000"
+         x="1172.428"
+         y="957.0575"
+         id="text17506"><tspan
+           sodipodi:role="line"
+           id="tspan17504"
+           style="fill:#ffffff;stroke-width:0.376"
+           x="1172.428"
+           y="957.0575">Second Nemorite Empire</tspan></text>
+      <path
+         style="display:inline;opacity:0.253159;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.331878;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 1131.8667,950.7103 h 42.9865"
+         id="path29745" />
+      <rect
+         style="display:inline;fill:#a7001a;fill-opacity:1;stroke:none;stroke-width:0.16966;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.0999795;stop-color:#000000"
+         id="rect29747"
+         width="27.625227"
+         height="1.9697521"
+         x="1188.3682"
+         y="953.65979" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;line-height:1.25;font-family:Georgia;-inkscape-font-specification:'Georgia, Normal';font-variant-ligatures:normal;font-variant-caps:small-caps;font-variant-numeric:normal;font-variant-east-asian:normal;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.375999;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.490765;stop-color:#000000"
+         x="1188.7323"
+         y="955.08777"
+         id="text29751"><tspan
+           sodipodi:role="line"
+           id="tspan29749"
+           style="fill:#ffffff;stroke-width:0.376"
+           x="1188.7323"
+           y="955.08777">Eastern Yayur Empire</tspan></text>
+      <rect
+         style="display:inline;fill:#bc3b50;fill-opacity:1;stroke:none;stroke-width:0.171873;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.0999795;stop-color:#000000"
+         id="rect59013"
+         width="28.350435"
+         height="1.9697521"
+         x="1175.0955"
+         y="827.8443" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;line-height:1.25;font-family:Georgia;-inkscape-font-specification:'Georgia, Normal';font-variant-ligatures:normal;font-variant-caps:small-caps;font-variant-numeric:normal;font-variant-east-asian:normal;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.375999;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.490765;stop-color:#000000"
+         x="1175.215"
+         y="829.27228"
+         id="text59017"><tspan
+           sodipodi:role="line"
+           id="tspan59015"
+           style="fill:#ffffff;stroke-width:0.376"
+           x="1175.215"
+           y="829.27228">Uparat Dynasty</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;line-height:1.25;font-family:Georgia;-inkscape-font-specification:'Georgia, Normal';font-variant-ligatures:normal;font-variant-caps:small-caps;font-variant-numeric:normal;font-variant-east-asian:normal;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.375999;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.490765;stop-color:#000000"
+         x="1204.0142"
+         y="825.31885"
+         id="text63509"><tspan
+           sodipodi:role="line"
+           id="tspan63507"
+           style="fill:#ffffff;stroke-width:0.376"
+           x="1204.0142"
+           y="825.31885">Shukunene Kingdoms</tspan></text>
     </g>
     <g
        inkscape:groupmode="layer"
@@ -13535,6 +13611,28 @@
            x="219.43008"
            y="1391.7372"
            id="tspan347050">      first astar empire</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.175px;line-height:0.35;font-family:Georgia;-inkscape-font-specification:'Georgia, Bold';font-variant-ligatures:normal;font-variant-caps:small-caps;font-variant-numeric:normal;font-variant-east-asian:normal;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.176;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.0999795;stop-color:#000000"
+         x="244.08495"
+         y="1413.658"
+         id="text276178-3-0-8-2-0-1-7-3-9-5-1"
+         transform="rotate(-45)"><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;font-family:Georgia;-inkscape-font-specification:'Georgia, Normal';font-variant-ligatures:normal;font-variant-caps:small-caps;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke-width:0.176"
+           x="244.08495"
+           y="1413.658"
+           id="tspan347050-0">The Thakur Dynasty</tspan><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;font-family:Georgia;-inkscape-font-specification:'Georgia, Normal';font-variant-ligatures:normal;font-variant-caps:small-caps;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke-width:0.176"
+           x="244.08495"
+           y="1414.9495"
+           id="tspan21627">  becomes an Omanusian</tspan><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;font-family:Georgia;-inkscape-font-specification:'Georgia, Normal';font-variant-ligatures:normal;font-variant-caps:small-caps;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke-width:0.176"
+           x="244.08495"
+           y="1416.2411"
+           id="tspan21629">     puppet</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.175px;line-height:0.35;font-family:Georgia;-inkscape-font-specification:'Georgia, Bold';font-variant-ligatures:normal;font-variant-caps:small-caps;font-variant-numeric:normal;font-variant-east-asian:normal;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.176;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.0999795;stop-color:#000000"
@@ -14500,12 +14598,12 @@
          d="m 771.47935,1193.0143 h 6.82556"
          id="path328707-4" />
       <path
-         style="fill:#bf00ff;fill-opacity:1;stroke:#37b437;stroke-width:0.529167;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
-         d="m 826.56508,1120.8838 h 6.82556"
+         style="fill:#bf00ff;fill-opacity:1;stroke:#37b437;stroke-width:0.529;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
+         d="M 826.56508,1120.8838 H 1097.0464"
          id="path328707-4-8" />
       <path
          style="fill:#bf00ff;fill-opacity:1;stroke:#37b437;stroke-width:0.529;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
-         d="M 811.58446,1117.7408 H 836.9865"
+         d="M 811.58446,1117.7408 H 1206.4901"
          id="path328707-4-8-5" />
       <text
          xml:space="preserve"
@@ -15588,8 +15686,7 @@
     <g
        inkscape:groupmode="layer"
        id="layer8"
-       inkscape:label="global events"
-       sodipodi:insensitive="true">
+       inkscape:label="global events">
       <path
          style="fill:#ffb316;fill-opacity:1;stroke:#a80f00;stroke-width:1.264;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.490765;stop-color:#000000"
          d="M 403.80989,1017.9999 V 13.766325"
@@ -15681,6 +15778,22 @@
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;font-family:Georgia;-inkscape-font-specification:'Georgia, Normal';font-variant-ligatures:normal;font-variant-caps:small-caps;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.376"
            x="-450.57492"
            y="1007.9202">Power shatters</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;line-height:1.25;font-family:Georgia;-inkscape-font-specification:'Georgia, Normal';font-variant-ligatures:normal;font-variant-caps:small-caps;font-variant-numeric:normal;font-variant-east-asian:normal;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.375999;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.490765;stop-color:#000000"
+         x="177.49026"
+         y="1630.7343"
+         id="text485573-4"
+         transform="rotate(-45)"><tspan
+           sodipodi:role="line"
+           id="tspan485571-7"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;font-family:Georgia;-inkscape-font-specification:'Georgia, Normal';font-variant-ligatures:normal;font-variant-caps:small-caps;font-variant-numeric:normal;font-variant-east-asian:normal;stroke:none;stroke-width:0.376"
+           x="177.49026"
+           y="1630.7343">VEI 8 Eruption</tspan></text>
+      <path
+         style="fill:#ffb316;fill-opacity:1;stroke:#3a0002;stroke-width:1.264;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.49076504;stop-color:#000000"
+         d="M 1285.4544,1017.2933 V 14.001431"
+         id="path71367" />
     </g>
   </g>
   <g
