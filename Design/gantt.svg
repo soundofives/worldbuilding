@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   inkscape:version="1.1 (c4e8f9e, 2021-05-24)"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   inkscape:version="1.0.2 (e86c870, 2021-01-15)"
    width="8000"
    height="5200"
    viewBox="0 0 2116.6666 1375.8334"
    version="1.1"
    id="svg33175"
-   sodipodi:docname="gantt.svg"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:dc="http://purl.org/dc/elements/1.1/">
+   sodipodi:docname="gantt.svg">
   <metadata
      id="metadata2887">
     <rdf:RDF>
@@ -35,15 +35,15 @@
      inkscape:pagecheckerboard="0"
      inkscape:document-units="mm"
      showgrid="false"
-     inkscape:zoom="0.32"
-     inkscape:cx="2593.75"
-     inkscape:cy="1871.875"
-     inkscape:window-width="3840"
-     inkscape:window-height="2067"
+     inkscape:zoom="2.0051199"
+     inkscape:cx="5748.6356"
+     inkscape:cy="3870.3317"
+     inkscape:window-width="1920"
+     inkscape:window-height="996"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer15"
+     inkscape:current-layer="layer8"
      units="px"
      inkscape:snap-global="true"
      inkscape:document-rotation="0"
@@ -15794,6 +15794,38 @@
          style="fill:#ffb316;fill-opacity:1;stroke:#3a0002;stroke-width:1.264;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.49076504;stop-color:#000000"
          d="M 1285.4544,1017.2933 V 14.001431"
          id="path71367" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;line-height:1.25;font-family:Georgia;-inkscape-font-specification:'Georgia, Normal';font-variant-ligatures:normal;font-variant-caps:small-caps;font-variant-numeric:normal;font-variant-east-asian:normal;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.375999;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.490765;stop-color:#000000"
+         x="237.28511"
+         y="1695.1678"
+         id="text5061"
+         transform="rotate(-45)"><tspan
+           sodipodi:role="line"
+           id="tspan5059"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;font-family:Georgia;-inkscape-font-specification:'Georgia, Normal';font-variant-ligatures:normal;font-variant-caps:small-caps;font-variant-numeric:normal;font-variant-east-asian:normal;stroke:none;stroke-width:0.376"
+           x="237.28511"
+           y="1695.1678">Last Glacial Maximum</tspan></text>
+      <path
+         style="fill:#ffb316;fill-opacity:1;stroke:#62a6ad;stroke-width:1.264;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.49076504;stop-color:#000000"
+         d="M 1378.0596,1017.2933 V 14.001431"
+         id="path5063" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;line-height:1.25;font-family:Georgia;-inkscape-font-specification:'Georgia, Normal';font-variant-ligatures:normal;font-variant-caps:small-caps;font-variant-numeric:normal;font-variant-east-asian:normal;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.375999;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.490765;stop-color:#000000"
+         x="392.56607"
+         y="1853.264"
+         id="text5067"
+         transform="rotate(-45)"><tspan
+           sodipodi:role="line"
+           id="tspan5065"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;font-family:Georgia;-inkscape-font-specification:'Georgia, Normal';font-variant-ligatures:normal;font-variant-caps:small-caps;font-variant-numeric:normal;font-variant-east-asian:normal;stroke:none;stroke-width:0.376"
+           x="392.56607"
+           y="1853.264">End of the Glacial Period</tspan></text>
+      <path
+         style="fill:#ffb316;fill-opacity:1;stroke:#62a6ad;stroke-width:1.264;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.490765;stop-color:#000000"
+         d="M 1601.3691,1017.2933 V 14.001431"
+         id="path5069" />
     </g>
   </g>
   <g
