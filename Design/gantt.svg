@@ -9,6 +9,7 @@
    sodipodi:docname="gantt.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
@@ -35,15 +36,15 @@
      inkscape:pagecheckerboard="0"
      inkscape:document-units="mm"
      showgrid="false"
-     inkscape:zoom="2.4917155"
-     inkscape:cx="1205.9964"
-     inkscape:cy="253.64052"
+     inkscape:zoom="0.62292888"
+     inkscape:cx="2422.4274"
+     inkscape:cy="3334.249"
      inkscape:window-width="3840"
      inkscape:window-height="2067"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer13"
+     inkscape:current-layer="layer14"
      units="px"
      inkscape:snap-global="true"
      inkscape:document-rotation="0"
@@ -51,6 +52,18 @@
      inkscape:snap-bbox="true" />
   <defs
      id="defs33172">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient38634">
+      <stop
+         style="stop-color:#3c0000;stop-opacity:1;"
+         offset="0"
+         id="stop38630" />
+      <stop
+         style="stop-color:#3c0000;stop-opacity:0;"
+         offset="1"
+         id="stop38632" />
+    </linearGradient>
     <marker
        style="overflow:visible"
        id="marker10834"
@@ -3372,6 +3385,16 @@
          d="M 0,0 5,-5 -12.5,0 5,5 Z"
          id="path9760-6" />
     </marker>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient38634"
+       id="linearGradient38636"
+       x1="1286.0719"
+       y1="515.88305"
+       x2="1305.9308"
+       y2="515.88305"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.063214,0,0,1.0009077,-82.553155,-0.0964133)" />
   </defs>
   <g
      inkscape:groupmode="layer"
@@ -11189,7 +11212,187 @@
        inkscape:label="civs"
        style="display:inline">
       <path
-         style="display:inline;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.4;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.262154;stop-color:#000000"
+         style="display:inline;fill:none;fill-opacity:1;stroke:#b3b3b3;stroke-width:0.4;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.99631411;stop-color:#000000;opacity:1"
+         d="m 462.22504,526.29815 c 24.4924,0.85416 25.98051,9.28182 36.73927,9.03095"
+         id="path577014-0-9-57"
+         sodipodi:nodetypes="cc" />
+      <path
+         style="display:inline;opacity:1;fill:#000000;fill-opacity:1;stroke:#b3b3b3;stroke-width:0.4;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 892.53414,86.238893 h 28.80521"
+         id="path14503-0-7-9" />
+      <path
+         style="display:inline;opacity:1;fill:#000000;fill-opacity:1;stroke:#b3b3b3;stroke-width:0.4;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="M 932.02449,104.14361 H 960.8297"
+         id="path14503-0-7-9-4" />
+      <path
+         style="display:inline;opacity:1;fill:#000000;fill-opacity:1;stroke:#b3b3b3;stroke-width:0.4;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 900.78955,77.462965 h 28.80521"
+         id="path856535" />
+      <path
+         style="display:inline;opacity:1;fill:#000000;fill-opacity:1;stroke:#b3b3b3;stroke-width:0.4;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 941.46726,113.19195 h 28.80521"
+         id="path856541" />
+      <path
+         style="display:inline;opacity:1;fill:#000000;fill-opacity:1;stroke:#b3b3b3;stroke-width:0.4;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 906.38042,95.669017 h 28.80521"
+         id="path856547" />
+      <path
+         style="display:inline;fill:none;fill-opacity:1;stroke:#b3b3b3;stroke-width:0.4;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;opacity:1"
+         d="m 892.53414,86.238893 c 1.59113,-5.93819 3.4117,-8.98658 8.25541,-8.775928"
+         id="path577014-0-9"
+         sodipodi:nodetypes="cc" />
+      <path
+         style="display:inline;fill:none;fill-opacity:1;stroke:#b3b3b3;stroke-width:0.4;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;opacity:1"
+         d="m 892.53414,86.238893 c 1.29327,7.949731 4.61975,9.617321 13.84628,9.430124"
+         id="path856856"
+         sodipodi:nodetypes="cc" />
+      <path
+         style="display:inline;fill:none;fill-opacity:1;stroke:#b3b3b3;stroke-width:0.4;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;opacity:1"
+         d="m 932.02449,104.14361 c 1.29327,7.94973 4.59906,8.83769 9.44277,9.04834"
+         id="path856856-2"
+         sodipodi:nodetypes="cc" />
+      <path
+         style="display:inline;opacity:1;fill:#000000;fill-opacity:1;stroke:#b3b3b3;stroke-width:0.4;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 812.16484,95.669017 h 79.07694"
+         id="path862422" />
+      <path
+         style="display:inline;opacity:1;fill:#000000;fill-opacity:1;stroke:#b3b3b3;stroke-width:0.4;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 1102.2369,947.93852 h 63.127"
+         id="path86159-3" />
+      <path
+         style="display:inline;fill:none;fill-opacity:1;stroke:#b3b3b3;stroke-width:0.4;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.96043324;stop-color:#000000;opacity:1"
+         d="m 967.66577,911.5728 c -1.89694,56.28904 16.37798,53.77179 16.37798,53.77179"
+         id="path577014-0-8-6-4"
+         sodipodi:nodetypes="cc" />
+      <path
+         style="display:inline;opacity:1;fill:none;fill-opacity:1;stroke:#b3b3b3;stroke-width:0.4;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.96043324;stop-color:#000000"
+         d="M 772.25394,956.97767 C 853.7735,910.02435 785.38173,833.82819 898.8496,831.06607"
+         id="path576827"
+         sodipodi:nodetypes="cc" />
+      <path
+         style="display:inline;opacity:1;fill:#000000;fill-opacity:1;stroke:#b3b3b3;stroke-width:0.4;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.96043324"
+         d="M 943.44681,875.93368 H 1052.9605"
+         id="path14503-0-7" />
+      <path
+         style="display:inline;opacity:1;fill:#000000;fill-opacity:1;stroke:#b3b3b3;stroke-width:0.4;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.96043324"
+         d="m 943.447,884.68904 h 109.2794"
+         id="path790750" />
+      <path
+         style="display:inline;opacity:1;fill:#000000;fill-opacity:1;stroke:#b3b3b3;stroke-width:0.4;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.96043324"
+         d="M 943.60557,893.28355 H 1052.8785"
+         id="path790752" />
+      <path
+         style="display:inline;opacity:1;fill:#000000;fill-opacity:1;stroke:#b3b3b3;stroke-width:0.4;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.96043324"
+         d="M 952.00447,902.76706 H 1052.7104"
+         id="path790754" />
+      <path
+         style="display:inline;opacity:1;fill:#000000;fill-opacity:1;stroke:#b3b3b3;stroke-width:0.4;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.96043324"
+         d="m 964.83313,911.55576 h 87.91437"
+         id="path790756" />
+      <path
+         style="display:inline;opacity:1;fill:#000000;fill-opacity:1;stroke:#b3b3b3;stroke-width:0.4;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.96043324"
+         d="m 965.2132,920.30865 h 87.1506"
+         id="path790758" />
+      <path
+         style="display:inline;opacity:1;fill:#000000;fill-opacity:1;stroke:#b3b3b3;stroke-width:0.4;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.96043324"
+         d="m 984.04375,965.34459 h 68.84495"
+         id="path790760" />
+      <path
+         style="display:inline;opacity:1;fill:#000000;fill-opacity:1;stroke:#b3b3b3;stroke-width:0.4;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.96043324"
+         d="m 992.68109,974.5837 h 60.05281"
+         id="path790762" />
+      <path
+         style="display:inline;opacity:1;fill:#000000;fill-opacity:1;stroke:#b3b3b3;stroke-width:0.4;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.96043324"
+         d="m 1004.4165,983.13467 h 48.2465"
+         id="path793284" />
+      <path
+         style="display:inline;fill:none;fill-opacity:1;stroke:#b3b3b3;stroke-width:0.4;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.96043324;stop-color:#000000;opacity:1"
+         d="m 924.59772,867.60395 c 9.5191,8.87055 18.84909,8.32973 18.84909,8.32973"
+         id="path577014-0"
+         sodipodi:nodetypes="cc" />
+      <path
+         style="display:inline;fill:none;fill-opacity:1;stroke:#b3b3b3;stroke-width:0.4;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.96043324;stop-color:#000000;opacity:1"
+         d="m 924.75437,865.70685 c 10.86437,-2.08823 12.28064,-43.29066 26.92961,-43.96266"
+         id="path577014-0-82"
+         sodipodi:nodetypes="cc" />
+      <path
+         style="display:inline;fill:none;fill-opacity:1;stroke:#b3b3b3;stroke-width:0.4;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.96043324;stop-color:#000000;opacity:1"
+         d="m 936.6965,893.9036 c 0.37405,9.48982 15.30797,8.86346 15.30797,8.86346"
+         id="path577014-0-8"
+         sodipodi:nodetypes="cc" />
+      <path
+         style="display:inline;fill:none;fill-opacity:1;stroke:#b3b3b3;stroke-width:0.4;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.96043324;stop-color:#000000;opacity:1"
+         d="m 952.05356,903.34133 c 3.09204,6.41577 12.77957,8.21443 12.77957,8.21443"
+         id="path577014-0-8-6"
+         sodipodi:nodetypes="cc" />
+      <path
+         style="display:inline;fill:none;fill-opacity:1;stroke:#b3b3b3;stroke-width:0.4;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.96043324;stop-color:#000000;opacity:1"
+         d="m 924.59772,867.60395 c 4.32759,16.51578 18.84928,17.08509 18.84928,17.08509"
+         id="path796266"
+         sodipodi:nodetypes="cc" />
+      <path
+         style="display:inline;fill:none;fill-opacity:1;stroke:#b3b3b3;stroke-width:0.4;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.96043324;stop-color:#000000;opacity:1"
+         d="m 943.447,884.68904 c 0.96799,24.7963 21.7662,35.61961 21.7662,35.61961"
+         id="path796266-2"
+         sodipodi:nodetypes="cc" />
+      <path
+         style="display:inline;fill:none;fill-opacity:1;stroke:#b3b3b3;stroke-width:0.4;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.96043324;stop-color:#000000;opacity:1"
+         d="m 924.59772,867.60395 c -0.43774,25.71008 19.00785,25.6796 19.00785,25.6796"
+         id="path796268"
+         sodipodi:nodetypes="cc" />
+      <path
+         style="display:inline;fill:none;fill-opacity:1;stroke:#b3b3b3;stroke-width:0.4;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.96043324;stop-color:#000000;opacity:1"
+         d="m 974.74104,966.14978 c 4.47835,9.11671 17.94005,8.43392 17.94005,8.43392 m -14.65293,1.11902"
+         id="path577014-0-8-6-7"
+         sodipodi:nodetypes="cc" />
+      <path
+         style="display:inline;fill:none;fill-opacity:1;stroke:#b3b3b3;stroke-width:0.4;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.96043324;stop-color:#000000;opacity:1"
+         d="m 986.47645,974.70075 c 4.47835,9.11671 17.94005,8.43392 17.94005,8.43392 m -14.65293,1.11902"
+         id="path577014-0-8-6-7-9"
+         sodipodi:nodetypes="cc" />
+      <path
+         style="display:inline;fill:none;fill-opacity:1;stroke:#b3b3b3;stroke-width:0.4;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;opacity:1"
+         d="m 898.8496,831.06607 c 6.37183,-9.92681 28.24883,-3.70123 193.7255,-4.69299"
+         id="path577014-0-82-3"
+         sodipodi:nodetypes="cc" />
+      <path
+         style="display:inline;opacity:1;fill:#000000;fill-opacity:1;stroke:#b3b3b3;stroke-width:0.4;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="M 951.68398,821.74419 H 1083.6924"
+         id="path14503-0-7-7" />
+      <path
+         style="display:inline;opacity:1;fill:#000000;fill-opacity:1;stroke:#b3b3b3;stroke-width:0.334581;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 1062.4233,830.51573 h 70.776"
+         id="path148585" />
+      <path
+         style="display:inline;opacity:1;fill:#000000;fill-opacity:1;stroke:#b3b3b3;stroke-width:0.469205;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="M 1099.9953,826.51563 H 1239.185"
+         id="path207528" />
+      <path
+         style="display:inline;opacity:1;fill:#000000;fill-opacity:1;stroke:#b3b3b3;stroke-width:0.4;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 1095.6871,821.74419 h 21.2992"
+         id="path221237" />
+      <path
+         style="display:inline;fill:none;fill-opacity:1;stroke:#b3b3b3;stroke-width:0.4;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;opacity:1"
+         d="m 1116.9863,821.74419 c 12.0885,-0.10916 -0.3801,25.78075 7.4085,26.1586"
+         id="path577014-0-0"
+         sodipodi:nodetypes="cc" />
+      <path
+         style="display:inline;fill:none;fill-opacity:1;stroke:#b3b3b3;stroke-width:0.4;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;opacity:1"
+         d="m 1133.1993,830.51573 c 2.5021,0.29165 5.3858,-0.45064 7.1231,-1.12441"
+         id="path577014-0-0-0"
+         sodipodi:nodetypes="cc" />
+      <path
+         style="display:inline;fill:none;fill-opacity:1;stroke:#b3b3b3;stroke-width:0.4;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.97200894;stop-color:#000000;opacity:1"
+         d="m 1053.3291,954.69904 c 10.4899,0.63835 16.7562,-7.01989 23.5996,-6.76052"
+         id="path577014-0-8-6-8"
+         sodipodi:nodetypes="cc" />
+      <path
+         style="display:inline;fill:none;fill-opacity:1;stroke:#b3b3b3;stroke-width:0.4;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.97200894;stop-color:#000000;opacity:1"
+         d="m 1053.3291,954.69904 c 34.4464,-0.59635 16.7291,-176.28732 40.0808,-177.28533"
+         id="path229354"
+         sodipodi:nodetypes="cc" />
+      <path
+         style="display:inline;fill:none;fill-opacity:1;stroke:#b3b3b3;stroke-width:0.4;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;opacity:1"
          d="m 780.93567,42.528526 c 15.31567,0.02469 3.31098,385.169404 15.15926,385.335014"
          id="path19229"
          sodipodi:nodetypes="cc" />
@@ -11208,9 +11411,9 @@
          x="1203.4459"
          y="823.96576" />
       <path
-         style="display:inline;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.4;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.262154;stop-color:#000000"
-         d="m 1131.8667,950.7103 c 3.8184,-0.0662 2.4392,3.19975 9.2825,3.45912"
-         id="path577014-0-8-6-8-47"
+         style="display:inline;fill:none;fill-opacity:0.25098041;stroke:#b3b3b3;stroke-width:0.4;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
+         d="m 1127.2947,954.67079 c 3.8184,-0.0662 4.0096,2.02181 8.5805,1.99088"
+         id="path577014-0-8-6-8-47-0"
          sodipodi:nodetypes="cc" />
       <path
          style="display:inline;fill:none;fill-opacity:1;stroke:#00dff9;stroke-width:0.4;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
@@ -11228,12 +11431,7 @@
          id="path281727"
          sodipodi:nodetypes="cc" />
       <path
-         style="display:inline;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.4;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.262154;stop-color:#000000"
-         d="m 967.66577,911.5728 c -1.89694,56.28904 16.37798,53.77179 16.37798,53.77179"
-         id="path577014-0-8-6-4"
-         sodipodi:nodetypes="cc" />
-      <path
-         style="display:inline;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.4;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.262154;stop-color:#000000"
+         style="display:inline;fill:none;fill-opacity:1;stroke:#b3b3b3;stroke-width:0.4;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;opacity:1"
          d="m 797.00558,103.30126 c 4.12086,-0.93468 6.74434,-7.106664 15.15926,-7.632243"
          id="path577014-0-9-5"
          sodipodi:nodetypes="cc" />
@@ -11594,12 +11792,12 @@
            x="953.70538"
            y="920.73212">Nlashikir Tribes</tspan></text>
       <path
-         style="display:inline;opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.4;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.262154;stop-color:#000000"
+         style="display:inline;opacity:1;fill:none;fill-opacity:1;stroke:#b3b3b3;stroke-width:0.4;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.99684775;stop-color:#000000"
          d="m 891.72387,930.33196 c 1.5316,7.45297 4.95946,7.80045 4.95946,7.80045"
          id="path577014"
          sodipodi:nodetypes="cc" />
       <path
-         style="display:inline;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.4;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.262154;stop-color:#000000"
+         style="display:inline;fill:none;fill-opacity:1;stroke:#b3b3b3;stroke-width:0.4;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.99684775;stop-color:#000000;opacity:1"
          d="m 896.68333,938.13241 c -20.29963,0.40524 -23.49758,13.74682 -23.49758,13.74682"
          id="path577014-8"
          sodipodi:nodetypes="cc" />
@@ -11726,14 +11924,9 @@
          id="path586792"
          sodipodi:nodetypes="cc" />
       <path
-         style="display:inline;opacity:0.259378;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.4;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.999222;stop-color:#000000"
+         style="display:inline;opacity:1;fill:none;fill-opacity:1;stroke:#b3b3b3;stroke-width:0.4;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.99684775;stop-color:#000000"
          d="m 772.25394,956.97767 c 114.46776,-12.4073 118.4946,-26.75485 118.4946,-26.75485"
          id="path543795"
-         sodipodi:nodetypes="cc" />
-      <path
-         style="display:inline;opacity:0.259378;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.4;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.999222;stop-color:#000000"
-         d="M 772.25394,956.97767 C 853.7735,910.02435 785.38173,833.82819 898.8496,831.06607"
-         id="path576827"
          sodipodi:nodetypes="cc" />
       <text
          xml:space="preserve"
@@ -12034,7 +12227,7 @@
            y="867.03693"
            id="tspan14497-8">Orun clans</tspan></text>
       <path
-         style="display:inline;opacity:0.253159;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.4;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="display:inline;opacity:1;fill:#000000;fill-opacity:1;stroke:#b3b3b3;stroke-width:0.4;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          d="M 417.1844,866.67528 H 768.57611"
          id="path14503-8" />
       <rect
@@ -12130,100 +12323,9 @@
            x="972.37732"
            y="965.80951">Nlashikir Tribes</tspan></text>
       <path
-         style="display:inline;opacity:0.253159;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.4;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         d="M 943.44681,875.93368 H 1052.9605"
-         id="path14503-0-7" />
-      <path
-         style="display:inline;opacity:0.253159;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.4;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         d="m 943.447,884.68904 h 109.2794"
-         id="path790750" />
-      <path
-         style="display:inline;opacity:0.253159;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.4;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         d="M 943.60557,893.28355 H 1052.8785"
-         id="path790752" />
-      <path
-         style="display:inline;opacity:0.253159;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.4;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         d="M 952.00447,902.76706 H 1052.7104"
-         id="path790754" />
-      <path
-         style="display:inline;opacity:0.253159;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.4;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         d="m 964.83313,911.55576 h 87.91437"
-         id="path790756" />
-      <path
-         style="display:inline;opacity:0.253159;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.4;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         d="m 965.2132,920.30865 h 87.1506"
-         id="path790758" />
-      <path
-         style="display:inline;opacity:0.253159;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.4;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         d="m 984.04375,965.34459 h 68.84495"
-         id="path790760" />
-      <path
-         style="display:inline;opacity:0.253159;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.4;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         d="m 992.68109,974.5837 h 60.05281"
-         id="path790762" />
-      <path
-         style="display:inline;opacity:0.253159;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.4;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         d="m 1004.4165,983.13467 h 48.2465"
-         id="path793284" />
-      <path
-         style="display:inline;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.4;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.262154;stop-color:#000000"
-         d="m 924.59772,867.60395 c 9.5191,8.87055 18.84909,8.32973 18.84909,8.32973"
-         id="path577014-0"
-         sodipodi:nodetypes="cc" />
-      <path
-         style="display:inline;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.4;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.262154;stop-color:#000000"
-         d="m 924.75437,865.70685 c 10.86437,-2.08823 12.28064,-43.29066 26.92961,-43.96266"
-         id="path577014-0-82"
-         sodipodi:nodetypes="cc" />
-      <path
-         style="display:inline;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.4;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.262154;stop-color:#000000"
-         d="m 898.8496,831.06607 c 6.37183,-9.92681 28.24883,-3.70123 193.7255,-4.69299"
-         id="path577014-0-82-3"
-         sodipodi:nodetypes="cc" />
-      <path
-         style="display:inline;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.4;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.262154;stop-color:#000000"
-         d="m 936.6965,893.9036 c 0.37405,9.48982 15.30797,8.86346 15.30797,8.86346"
-         id="path577014-0-8"
-         sodipodi:nodetypes="cc" />
-      <path
-         style="display:inline;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.4;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.262154;stop-color:#000000"
-         d="m 952.05356,903.34133 c 3.09204,6.41577 12.77957,8.21443 12.77957,8.21443"
-         id="path577014-0-8-6"
-         sodipodi:nodetypes="cc" />
-      <path
-         style="display:inline;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.4;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.262154;stop-color:#000000"
-         d="m 1053.3291,954.69904 c 10.4899,0.63835 16.7562,-7.01989 23.5996,-6.76052"
-         id="path577014-0-8-6-8"
-         sodipodi:nodetypes="cc" />
-      <path
          style="display:inline;fill:none;fill-opacity:1;stroke:#0063a8;stroke-width:0.4;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
-         d="m 1052.8248,956.38279 c 10.4402,-1.3629 28.4072,-2.1231 54.9996,-1.77462"
+         d="m 1052.8248,956.38279 c 10.8778,1.41615 38.8677,-3.83274 55.1698,-3.81854"
          id="path577014-0-8-6-8-0"
-         sodipodi:nodetypes="cc" />
-      <path
-         style="display:inline;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.4;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.262154;stop-color:#000000"
-         d="m 924.59772,867.60395 c 4.32759,16.51578 18.84928,17.08509 18.84928,17.08509"
-         id="path796266"
-         sodipodi:nodetypes="cc" />
-      <path
-         style="display:inline;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.4;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.262154;stop-color:#000000"
-         d="m 943.447,884.68904 c 0.96799,24.7963 21.7662,35.61961 21.7662,35.61961"
-         id="path796266-2"
-         sodipodi:nodetypes="cc" />
-      <path
-         style="display:inline;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.4;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.262154;stop-color:#000000"
-         d="m 924.59772,867.60395 c -0.43774,25.71008 19.00785,25.6796 19.00785,25.6796"
-         id="path796268"
-         sodipodi:nodetypes="cc" />
-      <path
-         style="display:inline;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.4;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.262154;stop-color:#000000"
-         d="m 974.74104,966.14978 c 4.47835,9.11671 17.94005,8.43392 17.94005,8.43392 m -14.65293,1.11902"
-         id="path577014-0-8-6-7"
-         sodipodi:nodetypes="cc" />
-      <path
-         style="display:inline;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.4;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.262154;stop-color:#000000"
-         d="m 986.47645,974.70075 c 4.47835,9.11671 17.94005,8.43392 17.94005,8.43392 m -14.65293,1.11902"
-         id="path577014-0-8-6-7-9"
          sodipodi:nodetypes="cc" />
       <rect
          style="display:inline;fill:#90846c;fill-opacity:1;stroke:none;stroke-width:0.39632;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.0999795;stop-color:#000000"
@@ -12272,10 +12374,6 @@
            style="stroke-width:0.376"
            x="883.02728"
            y="86.603844">Rhun nomads</tspan></text>
-      <path
-         style="display:inline;opacity:0.253159;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.4;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         d="m 892.53414,86.238893 h 28.80521"
-         id="path14503-0-7-9" />
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;line-height:1.25;font-family:Georgia;-inkscape-font-specification:'Georgia, Normal';font-variant-ligatures:normal;font-variant-caps:small-caps;font-variant-numeric:normal;font-variant-east-asian:normal;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.375999;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.490765;stop-color:#000000"
@@ -12287,10 +12385,6 @@
            style="stroke-width:0.376"
            x="922.51758"
            y="104.50857">Rhun nomads</tspan></text>
-      <path
-         style="display:inline;opacity:0.253159;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.4;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         d="M 932.02449,104.14361 H 960.8297"
-         id="path14503-0-7-9-4" />
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;line-height:1.25;font-family:Georgia;-inkscape-font-specification:'Georgia, Normal';font-variant-ligatures:normal;font-variant-caps:small-caps;font-variant-numeric:normal;font-variant-east-asian:normal;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.375999;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.490765;stop-color:#000000"
@@ -12313,10 +12407,6 @@
            style="stroke-width:0.376"
            x="959.32086"
            y="77.045227">280,000 Rhun sail from Rhunendor</tspan></text>
-      <path
-         style="display:inline;opacity:0.253159;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.4;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         d="m 900.78955,77.462965 h 28.80521"
-         id="path856535" />
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;line-height:1.25;font-family:Georgia;-inkscape-font-specification:'Georgia, Normal';font-variant-ligatures:normal;font-variant-caps:small-caps;font-variant-numeric:normal;font-variant-east-asian:normal;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.375999;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.490765;stop-color:#000000"
@@ -12328,40 +12418,17 @@
            style="stroke-width:0.376"
            x="931.96033"
            y="113.55691">Rhun nomads</tspan></text>
-      <path
-         style="display:inline;opacity:0.253159;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.4;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         d="m 941.46726,113.19195 h 28.80521"
-         id="path856541" />
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;line-height:1.25;font-family:Georgia;-inkscape-font-specification:'Georgia, Normal';font-variant-ligatures:normal;font-variant-caps:small-caps;font-variant-numeric:normal;font-variant-east-asian:normal;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.375999;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.490765;stop-color:#000000"
-         x="891.26587"
-         y="94.93116"
+         x="891.45233"
+         y="96.067207"
          id="text856545"><tspan
            sodipodi:role="line"
            id="tspan856543"
            style="stroke-width:0.376"
-           x="891.26587"
-           y="94.93116">Rhun nomads</tspan></text>
-      <path
-         style="display:inline;opacity:0.253159;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.4;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         d="m 900.7727,94.566211 h 28.80521"
-         id="path856547" />
-      <path
-         style="display:inline;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.4;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.262154;stop-color:#000000"
-         d="m 892.53414,86.238893 c 1.59113,-5.93819 3.4117,-8.98658 8.25541,-8.775928"
-         id="path577014-0-9"
-         sodipodi:nodetypes="cc" />
-      <path
-         style="display:inline;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.4;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.262154;stop-color:#000000"
-         d="m 892.53414,86.238893 c 1.29327,7.949731 3.73317,7.659369 8.23856,8.327318"
-         id="path856856"
-         sodipodi:nodetypes="cc" />
-      <path
-         style="display:inline;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.4;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.262154;stop-color:#000000"
-         d="m 932.02449,104.14361 c 1.29327,7.94973 4.59906,8.83769 9.44277,9.04834"
-         id="path856856-2"
-         sodipodi:nodetypes="cc" />
+           x="891.45233"
+           y="96.067207">Rhun nomads develop</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;line-height:1.25;font-family:Georgia;-inkscape-font-specification:'Georgia, Normal';font-variant-ligatures:normal;font-variant-caps:small-caps;font-variant-numeric:normal;font-variant-east-asian:normal;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.375999;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.490765;stop-color:#000000"
@@ -12373,10 +12440,6 @@
            style="stroke-width:0.376"
            x="795.06079"
            y="95.959991">Followers of Berhayeth</tspan></text>
-      <path
-         style="display:inline;opacity:0.253159;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.4;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         d="M 812.16484,95.669017 H 941.04416"
-         id="path862422" />
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;line-height:1.25;font-family:Georgia;-inkscape-font-specification:'Georgia, Normal';font-variant-ligatures:normal;font-variant-caps:small-caps;font-variant-numeric:normal;font-variant-east-asian:normal;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.375999;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.979031;stop-color:#000000"
@@ -12389,7 +12452,7 @@
            y="526.64459"
            id="tspan14497-9">Loss'kelvar nomads</tspan></text>
       <path
-         style="display:inline;opacity:0.253159;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.4;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="display:inline;opacity:1;fill:#000000;fill-opacity:1;stroke:#b3b3b3;stroke-width:0.4;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.99631411"
          d="M 418.30421,526.29815 H 797.25752"
          id="path14503-4" />
       <text
@@ -12404,14 +12467,9 @@
            y="535.67554"
            id="tspan878980">Loss'kelvar nomads</tspan></text>
       <path
-         style="display:inline;opacity:0.253159;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.354754;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="display:inline;opacity:1;fill:#000000;fill-opacity:1;stroke:#b3b3b3;stroke-width:0.354754;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.99631411"
          d="M 498.96431,535.3291 H 797.03618"
          id="path878984" />
-      <path
-         style="display:inline;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.4;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.262154;stop-color:#000000"
-         d="m 462.22504,526.29815 c 24.4924,0.85416 25.98051,9.28182 36.73927,9.03095"
-         id="path577014-0-9-57"
-         sodipodi:nodetypes="cc" />
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;line-height:1.25;font-family:Georgia;-inkscape-font-specification:'Georgia, Normal';font-variant-ligatures:normal;font-variant-caps:small-caps;font-variant-numeric:normal;font-variant-east-asian:normal;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.375999;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.490765;stop-color:#000000"
@@ -12423,10 +12481,6 @@
            style="stroke-width:0.376"
            x="940.17291"
            y="822.24683">Nlashikir Tribes</tspan></text>
-      <path
-         style="display:inline;opacity:0.253159;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.4;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         d="M 951.68398,821.74419 H 1083.6924"
-         id="path14503-0-7-7" />
       <rect
          style="display:inline;opacity:1;fill:#ff9697;fill-opacity:1;stroke:none;stroke-width:0.504151;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.0999795;stop-color:#000000"
          id="rect890365"
@@ -12617,85 +12671,32 @@
            style="stroke-width:0.376"
            x="1080.765"
            y="928.0882">Cerisian Kingdoms</tspan></text>
-      <path
-         style="display:inline;opacity:0.253159;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.334581;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         d="m 1062.4233,830.51573 h 70.776"
-         id="path148585" />
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;line-height:1.25;font-family:Georgia;-inkscape-font-specification:'Georgia, Normal';font-variant-ligatures:normal;font-variant-caps:small-caps;font-variant-numeric:normal;font-variant-east-asian:normal;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.375999;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.490765;stop-color:#000000"
-         x="1060.9279"
-         y="956.74762"
-         id="text151251"><tspan
-           sodipodi:role="line"
-           id="tspan151249"
-           style="stroke-width:0.376"
-           x="1060.9279"
-           y="956.74762">Rajanan tribes</tspan></text>
-      <path
-         style="display:inline;opacity:0.253159;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.4;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         d="m 1071.3984,956.45528 h 65.0174"
-         id="path151253" />
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;line-height:1.25;font-family:Georgia;-inkscape-font-specification:'Georgia, Normal';font-variant-ligatures:normal;font-variant-caps:small-caps;font-variant-numeric:normal;font-variant-east-asian:normal;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.375999;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.490765;stop-color:#000000"
          x="1054.3215"
-         y="952.90704"
+         y="955.02374"
          id="text156959"><tspan
            sodipodi:role="line"
            id="tspan156957"
            style="stroke-width:0.376"
            x="1054.3215"
-           y="952.90704">Naga cults</tspan></text>
+           y="955.02374">Naga Cults, Rajanan tribes, Usvajran Raider bands develop</tspan></text>
       <path
-         style="display:inline;opacity:0.253159;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.4;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         d="m 1062.1334,952.61472 h 110.2788"
+         style="display:inline;opacity:1;fill:none;fill-opacity:1;stroke:#b3b3b3;stroke-width:0.4;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 1094.7249,954.69904 h 110.2788"
          id="path156961" />
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;line-height:1.25;font-family:Georgia;-inkscape-font-specification:'Georgia, Normal';font-variant-ligatures:normal;font-variant-caps:small-caps;font-variant-numeric:normal;font-variant-east-asian:normal;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.375999;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.490765;stop-color:#000000"
-         x="1061.2527"
-         y="951.00262"
-         id="text159754"><tspan
-           sodipodi:role="line"
-           id="tspan159752"
-           style="stroke-width:0.376"
-           x="1061.2527"
-           y="951.00262">Usvajran raiders</tspan></text>
-      <path
-         style="display:inline;opacity:0.253159;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.385706;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         d="m 1073.8053,950.7103 h 58.0614"
-         id="path159756" />
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;line-height:1.25;font-family:Georgia;-inkscape-font-specification:'Georgia, Normal';font-variant-ligatures:normal;font-variant-caps:small-caps;font-variant-numeric:normal;font-variant-east-asian:normal;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.375999;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.490765;stop-color:#000000"
-         x="1058.8207"
+         x="1077.3732"
          y="948.17126"
          id="text51901-7"><tspan
            sodipodi:role="line"
            id="tspan51899-5"
            style="stroke-width:0.376"
-           x="1058.8207"
-           y="948.17126">Tellinese-Jangatet Tribes</tspan></text>
-      <path
-         style="display:inline;opacity:0.253159;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.4;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         d="m 1076.9287,947.93852 h 63.127"
-         id="path86159-3" />
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;line-height:1.25;font-family:Georgia;-inkscape-font-specification:'Georgia, Normal';font-variant-ligatures:normal;font-variant-caps:small-caps;font-variant-numeric:normal;font-variant-east-asian:normal;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.375999;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.490765;stop-color:#000000"
-         x="1070.4619"
-         y="946.43011"
-         id="text169958"><tspan
-           sodipodi:role="line"
-           id="tspan169956"
-           style="stroke-width:0.376"
-           x="1070.4619"
-           y="946.43011">Samavaga</tspan></text>
-      <path
-         style="display:inline;opacity:0.253159;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.4;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         d="m 1076.9287,946.19734 h 95.2367"
-         id="path169960" />
+           x="1077.3732"
+           y="948.17126">Tellinese-Jangatet, Samavaga Tribes</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;line-height:1.25;font-family:Georgia;-inkscape-font-specification:'Georgia, Normal';font-variant-ligatures:normal;font-variant-caps:small-caps;font-variant-numeric:normal;font-variant-east-asian:normal;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.375999;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.490765;stop-color:#000000"
@@ -12707,29 +12708,6 @@
            style="stroke-width:0.376"
            x="1094.3923"
            y="777.5426">Haritians</tspan></text>
-      <path
-         style="display:inline;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.4;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.262154;stop-color:#000000"
-         d="m 1053.3291,954.69904 c 10.4899,0.63835 16.7562,-8.76107 23.5996,-8.5017"
-         id="path170118"
-         sodipodi:nodetypes="cc" />
-      <rect
-         style="display:inline;fill:#d589c0;fill-opacity:1;stroke:none;stroke-width:0.123486;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.0999795;stop-color:#000000"
-         id="rect178051"
-         width="14.634684"
-         height="1.9697521"
-         x="1073.4354"
-         y="937.26862" />
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;line-height:1.25;font-family:Georgia;-inkscape-font-specification:'Georgia, Normal';font-variant-ligatures:normal;font-variant-caps:small-caps;font-variant-numeric:normal;font-variant-east-asian:normal;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.375999;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.490765;stop-color:#000000"
-         x="1076.0038"
-         y="938.69659"
-         id="text178055"><tspan
-           sodipodi:role="line"
-           id="tspan178053"
-           style="stroke-width:0.376"
-           x="1076.0038"
-           y="938.69659">Ishian Kingdoms</tspan></text>
       <rect
          style="display:inline;fill:#a7001a;fill-opacity:1;stroke:none;stroke-width:0.175542;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.0999795;stop-color:#000000"
          id="rect189265"
@@ -12766,24 +12744,6 @@
            style="fill:#ffffff;stroke-width:0.376"
            x="1099.8342"
            y="839.97998">Omanusia</tspan></text>
-      <rect
-         style="display:inline;fill:#a7001a;fill-opacity:1;stroke:none;stroke-width:0.181506;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.0999795;stop-color:#000000"
-         id="rect189271"
-         width="31.61743"
-         height="1.9697521"
-         x="1107.3312"
-         y="953.65979" />
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;line-height:1.25;font-family:Georgia;-inkscape-font-specification:'Georgia, Normal';font-variant-ligatures:normal;font-variant-caps:small-caps;font-variant-numeric:normal;font-variant-east-asian:normal;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.375999;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.490765;stop-color:#000000"
-         x="1107.4507"
-         y="955.08777"
-         id="text189275"><tspan
-           sodipodi:role="line"
-           id="tspan189273"
-           style="fill:#ffffff;stroke-width:0.376"
-           x="1107.4507"
-           y="955.08777">Eastern Yayurs</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;line-height:1.25;font-family:Georgia;-inkscape-font-specification:'Georgia, Normal';font-variant-ligatures:normal;font-variant-caps:small-caps;font-variant-numeric:normal;font-variant-east-asian:normal;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.375999;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.490765;stop-color:#000000"
@@ -12795,10 +12755,6 @@
            style="fill:#000000;stroke-width:0.376"
            x="1093.699"
            y="827.01282">Deshgair</tspan></text>
-      <path
-         style="display:inline;opacity:0.253159;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.469205;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         d="M 1099.9953,826.51563 H 1239.185"
-         id="path207528" />
       <rect
          style="display:inline;fill:#40af87;fill-opacity:1;stroke:none;stroke-width:0.203577;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.0999795;stop-color:#000000"
          id="rect213929"
@@ -12828,15 +12784,6 @@
            style="stroke-width:0.376"
            x="1084.3492"
            y="822.24683">Tribes of Asham</tspan></text>
-      <path
-         style="display:inline;opacity:0.253159;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.4;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         d="m 1095.6871,821.74419 h 21.2992"
-         id="path221237" />
-      <path
-         style="display:inline;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.4;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.262154;stop-color:#000000"
-         d="m 1053.3291,954.69904 c 34.4464,-0.59635 16.7291,-176.28732 40.0808,-177.28533"
-         id="path229354"
-         sodipodi:nodetypes="cc" />
       <path
          sodipodi:type="star"
          style="opacity:0.506989;fill:#40af87;fill-opacity:1;stroke:#000000;stroke-width:1.51181;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
@@ -13004,19 +12951,9 @@
            x="1121.6904"
            y="849.0921">Asham</tspan></text>
       <path
-         style="display:inline;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.4;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.262154;stop-color:#000000"
-         d="m 1116.9863,821.74419 c 12.0885,-0.10916 -0.3801,25.78075 7.4085,26.1586"
-         id="path577014-0-0"
-         sodipodi:nodetypes="cc" />
-      <path
          style="display:inline;fill:none;fill-opacity:1;stroke:#af409a;stroke-width:0.4;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
          d="m 1142.3585,838.87185 c 12.0885,-0.10916 7.5866,-7.96052 15.3752,-7.58267"
          id="path577014-0-0-8"
-         sodipodi:nodetypes="cc" />
-      <path
-         style="display:inline;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.4;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.262154;stop-color:#000000"
-         d="m 1133.1993,830.51573 c 2.5021,0.29165 5.3858,-0.45064 7.1231,-1.12441"
-         id="path577014-0-0-0"
          sodipodi:nodetypes="cc" />
       <rect
          style="display:inline;fill:#8c041a;fill-opacity:1;stroke:none;stroke-width:0.220527;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.0999795;stop-color:#000000"
@@ -13054,24 +12991,6 @@
            style="fill:#ffffff;stroke-width:0.376"
            x="1135.7909"
            y="957.0575">First Nemorite Empire</tspan></text>
-      <rect
-         style="display:inline;fill:#c9004c;fill-opacity:1;stroke:none;stroke-width:0.226922;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.0999795;stop-color:#000000"
-         id="rect367075"
-         width="49.419518"
-         height="1.9697521"
-         x="1138.9486"
-         y="953.65979" />
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;line-height:1.25;font-family:Georgia;-inkscape-font-specification:'Georgia, Normal';font-variant-ligatures:normal;font-variant-caps:small-caps;font-variant-numeric:normal;font-variant-east-asian:normal;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.375999;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.490765;stop-color:#000000"
-         x="1141.1848"
-         y="955.08777"
-         id="text367079"><tspan
-           sodipodi:role="line"
-           id="tspan367077"
-           style="fill:#ffffff;stroke-width:0.376"
-           x="1141.1848"
-           y="955.08777">Yayur Raider State</tspan></text>
       <rect
          style="display:inline;fill:#9e5af0;fill-opacity:1;stroke:none;stroke-width:0.181506;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.0999795;stop-color:#000000"
          id="rect374076"
@@ -13191,28 +13110,6 @@
            style="fill:#ffffff;stroke-width:0.376"
            x="1172.428"
            y="957.0575">Second Nemorite Empire</tspan></text>
-      <path
-         style="display:inline;opacity:0.253159;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.331878;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         d="m 1131.8667,950.7103 h 42.9865"
-         id="path29745" />
-      <rect
-         style="display:inline;fill:#a7001a;fill-opacity:1;stroke:none;stroke-width:0.16966;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.0999795;stop-color:#000000"
-         id="rect29747"
-         width="27.625227"
-         height="1.9697521"
-         x="1188.3682"
-         y="953.65979" />
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;line-height:1.25;font-family:Georgia;-inkscape-font-specification:'Georgia, Normal';font-variant-ligatures:normal;font-variant-caps:small-caps;font-variant-numeric:normal;font-variant-east-asian:normal;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.375999;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.490765;stop-color:#000000"
-         x="1188.7323"
-         y="955.08777"
-         id="text29751"><tspan
-           sodipodi:role="line"
-           id="tspan29749"
-           style="fill:#ffffff;stroke-width:0.376"
-           x="1188.7323"
-           y="955.08777">Eastern Yayur Empire</tspan></text>
       <rect
          style="display:inline;fill:#bc3b50;fill-opacity:1;stroke:none;stroke-width:0.171873;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.0999795;stop-color:#000000"
          id="rect59013"
@@ -13259,7 +13156,7 @@
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;font-family:Georgia;-inkscape-font-specification:'Georgia, Normal';font-variant-ligatures:normal;font-variant-caps:small-caps;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;stroke:none;stroke-width:0.376"
            x="781.52222"
            y="42.076431"
-           id="tspan14497-4-4">Warlords States of the Vanhar<tspan
+           id="tspan14497-4-4">Warlord States of the Vanhar<tspan
    style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.705556px;font-family:Georgia;-inkscape-font-specification:'Georgia, Normal';font-variant-ligatures:normal;font-variant-caps:small-caps;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff"
    id="tspan132810-4">, beneath luazil</tspan></tspan></text>
       <text
@@ -13274,9 +13171,93 @@
            x="783.2243"
            y="428.15451">Vanhar Nomads</tspan></text>
       <path
-         style="display:inline;opacity:0.253159;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.4;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="display:inline;opacity:1;fill:#000000;fill-opacity:1;stroke:#b3b3b3;stroke-width:0.4;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          d="M 796.09493,427.86354 H 924.97425"
          id="path19235" />
+      <rect
+         style="display:inline;fill:#a7001a;fill-opacity:1;stroke:none;stroke-width:0.181506;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.0999795;stop-color:#000000"
+         id="rect33126"
+         width="31.61743"
+         height="1.9697521"
+         x="1107.3312"
+         y="951.69006" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;line-height:1.25;font-family:Georgia;-inkscape-font-specification:'Georgia, Normal';font-variant-ligatures:normal;font-variant-caps:small-caps;font-variant-numeric:normal;font-variant-east-asian:normal;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.375999;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.490765;stop-color:#000000"
+         x="1107.4507"
+         y="953.11804"
+         id="text33130"><tspan
+           sodipodi:role="line"
+           id="tspan33128"
+           style="fill:#ffffff;stroke-width:0.376"
+           x="1107.4507"
+           y="953.11804">Eastern Yayurs</tspan></text>
+      <rect
+         style="display:inline;fill:#c9004c;fill-opacity:1;stroke:none;stroke-width:0.226922;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.0999795;stop-color:#000000"
+         id="rect33132"
+         width="49.419518"
+         height="1.9697521"
+         x="1138.9486"
+         y="951.69006" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;line-height:1.25;font-family:Georgia;-inkscape-font-specification:'Georgia, Normal';font-variant-ligatures:normal;font-variant-caps:small-caps;font-variant-numeric:normal;font-variant-east-asian:normal;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.375999;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.490765;stop-color:#000000"
+         x="1141.1848"
+         y="953.11804"
+         id="text33136"><tspan
+           sodipodi:role="line"
+           id="tspan33134"
+           style="fill:#ffffff;stroke-width:0.376"
+           x="1141.1848"
+           y="953.11804">Yayur Raider State</tspan></text>
+      <rect
+         style="display:inline;fill:#a7001a;fill-opacity:1;stroke:none;stroke-width:0.16966;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.0999795;stop-color:#000000"
+         id="rect33138"
+         width="27.625227"
+         height="1.9697521"
+         x="1188.3682"
+         y="951.69006" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;line-height:1.25;font-family:Georgia;-inkscape-font-specification:'Georgia, Normal';font-variant-ligatures:normal;font-variant-caps:small-caps;font-variant-numeric:normal;font-variant-east-asian:normal;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.375999;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.490765;stop-color:#000000"
+         x="1188.7323"
+         y="953.11804"
+         id="text33142"><tspan
+           sodipodi:role="line"
+           id="tspan33140"
+           style="fill:#ffffff;stroke-width:0.376"
+           x="1188.7323"
+           y="953.11804">Eastern Yayur Empire</tspan></text>
+      <rect
+         style="display:inline;fill:#d589c0;fill-opacity:1;stroke:none;stroke-width:0.123486;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.0999795;stop-color:#000000"
+         id="rect178051"
+         width="14.634684"
+         height="1.9697521"
+         x="1073.4354"
+         y="937.26862" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;line-height:1.25;font-family:Georgia;-inkscape-font-specification:'Georgia, Normal';font-variant-ligatures:normal;font-variant-caps:small-caps;font-variant-numeric:normal;font-variant-east-asian:normal;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.375999;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.490765;stop-color:#000000"
+         x="1076.0038"
+         y="938.69659"
+         id="text178055"><tspan
+           sodipodi:role="line"
+           id="tspan178053"
+           style="stroke-width:0.376"
+           x="1076.0038"
+           y="938.69659">Ishian Kingdoms</tspan></text>
+    </g>
+    <g
+       inkscape:groupmode="layer"
+       id="layer10"
+       inkscape:label="SPACER BLOCK">
+      <rect
+         style="display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.181506;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.0999795;stop-color:#000000"
+         id="rect33126-4"
+         width="31.61743"
+         height="1.9697521"
+         x="1147.6082"
+         y="883.08081" />
     </g>
     <g
        inkscape:groupmode="layer"
@@ -13285,16 +13266,18 @@
        style="display:inline">
       <path
          style="display:inline;fill:#666666;stroke:#ff3436;stroke-width:0.4;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
-         d="m 1052.025,938.34631 h 20.6097"
+         d="m 1052.8225,938.34631 h 20.6097"
          id="path292600-8" />
       <path
-         style="display:inline;opacity:1;fill:#666666;stroke:#00ca5b;stroke-width:0.4;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
-         d="m 1052.4186,950.37504 h 8.0071"
-         id="path292600" />
+         style="display:inline;opacity:1;fill:none;stroke:#00ca5b;stroke-width:0.4;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
+         d="m 1052.4186,950.37504 c 0,0 4.1536,0.23952 6.3907,3.54477"
+         id="path292600"
+         sodipodi:nodetypes="cc" />
       <path
-         style="display:inline;opacity:1;fill:#666666;stroke:#0063a8;stroke-width:0.4;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
-         d="m 1052.8248,956.38279 h 8.0071"
-         id="path67174-6" />
+         style="display:inline;opacity:1;fill:none;stroke:#0063a8;stroke-width:0.4;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
+         d="m 1052.8248,956.38279 c 4.0535,0.0353 10.7529,0.36168 12.2223,-1.20904"
+         id="path67174-6"
+         sodipodi:nodetypes="cc" />
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;line-height:0.95;font-family:Georgia;-inkscape-font-specification:'Georgia, Normal';font-variant-ligatures:normal;font-variant-caps:small-caps;font-variant-numeric:normal;font-variant-east-asian:normal;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;display:inline;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.375999;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.979031;stop-color:#000000"
@@ -13395,19 +13378,19 @@
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;line-height:0.95;font-family:Georgia;-inkscape-font-specification:'Georgia, Normal';font-variant-ligatures:normal;font-variant-caps:small-caps;font-variant-numeric:normal;font-variant-east-asian:normal;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.375999;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.979031;stop-color:#000000"
-         x="502.14581"
-         y="586.42267"
+         x="498.74826"
+         y="583.02509"
          id="text464219-6-0-2-9"
          transform="rotate(-45)"><tspan
            sodipodi:role="line"
            style="stroke-width:0.376"
-           x="502.14581"
-           y="586.42267"
+           x="498.74826"
+           y="583.02509"
            id="tspan720072-8">Raededir develops</tspan><tspan
            sodipodi:role="line"
            style="stroke-width:0.376"
-           x="502.14581"
-           y="587.76324"
+           x="498.74826"
+           y="584.36566"
            id="tspan723039">   Andolem Wells</tspan></text>
       <text
          xml:space="preserve"
@@ -13826,8 +13809,7 @@
     <g
        inkscape:groupmode="layer"
        id="layer15"
-       inkscape:label="anariima"
-       sodipodi:insensitive="true">
+       inkscape:label="anariima">
       <path
          style="fill:none;fill-opacity:1;stroke:#37b437;stroke-width:0.529;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
          d="m 759.69237,1135.5977 c 8.45798,0 13.75067,11.5482 25.26055,11.5482"
@@ -14916,24 +14898,24 @@
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;line-height:0.75;font-family:Georgia;-inkscape-font-specification:'Georgia, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#d40000;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-opacity:1"
-         x="511.56659"
-         y="593.26141"
+         x="503.91772"
+         y="585.61255"
          id="text30672-9-6-0-2-9"
          transform="rotate(-45)"><tspan
            sodipodi:role="line"
-           x="511.56659"
-           y="593.26141"
+           x="503.91772"
+           y="585.61255"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;font-family:Georgia;-inkscape-font-specification:'Georgia, Normal';font-variant-ligatures:normal;font-variant-caps:small-caps;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#d40000;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-opacity:1"
            id="tspan603763-4">Linarata's second cord</tspan><tspan
            sodipodi:role="line"
-           x="511.56659"
-           y="594.31976"
+           x="503.91772"
+           y="586.6709"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;font-family:Georgia;-inkscape-font-specification:'Georgia, Normal';font-variant-ligatures:normal;font-variant-caps:small-caps;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#d40000;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-opacity:1"
            id="tspan708677">   left in Tarullume</tspan></text>
       <circle
          style="fill:#d40000;fill-opacity:1;stroke:#d40000;stroke-width:0.529167;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.974825;stop-color:#000000"
          id="path174939-2-3-04-1"
-         cx="780.78076"
+         cx="769.96362"
          cy="59.127853"
          r="0.86013991" />
       <text
@@ -15910,7 +15892,7 @@
            y="1630.7343">VEI 8 Eruption</tspan></text>
       <path
          style="fill:#ffb316;fill-opacity:1;stroke:#3a0002;stroke-width:1.264;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.490765;stop-color:#000000"
-         d="M 1285.4544,1017.2933 V 14.001431"
+         d="M 1285.4544,1018.5963 V 14.001431"
          id="path71367" />
       <text
          xml:space="preserve"
@@ -15944,6 +15926,13 @@
          style="fill:#ffb316;fill-opacity:1;stroke:#62a6ad;stroke-width:1.264;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.490765;stop-color:#000000"
          d="M 1601.3691,1017.2933 V 14.001431"
          id="path5069" />
+      <rect
+         style="opacity:0.493259;fill:url(#linearGradient38636);fill-opacity:1;stroke:none;stroke-width:0.304016;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.490765;stop-color:#000000"
+         id="rect34258"
+         width="21.114"
+         height="1005.145"
+         x="1284.8165"
+         y="13.682373" />
     </g>
   </g>
   <g

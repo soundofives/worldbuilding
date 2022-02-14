@@ -10,14 +10,14 @@ EARLY PERIOD
 
 
 SUMMARY-----------------------------------
-Political state beginning:  79000  BBT
+Political state beginning:  79500  BBT
 Political state collapse:  55000  BBT
-Political state duration:  24000  years
+Political state duration:  24500  years
 
 New technologies possible:  [['First Egyptian Stepped Pyramid', 74000], ['First standing armies', 60000], ['Earliest libraries', 60000]] 
 
 --------------------------------------------------
-Initial year:  79000  BBT
+Initial year:  79500  BBT
 Initial developed technologies:  [['Daily usage of fire', 21942000], ['Fictive language', 4906000], ['Surface mining', 3054000], ['Non-sailing boats', 2832000], ['Shaft mining', 2682000], ['Pottery', 1202000], ['Obsidian trade networks', 758000], ['Neolithic period', 608000], ['Settlement size: 100', 608000], ['Agriculture', 608000], ['Animal Husbandry', 608000], ['Archery', 608000], ['Timekeeping', 608000], ['Granaries appear', 572000], ['Non-burial spiritual architecture', 534000], ['Proto-writing', 386000], ['Settlement size: 800', 386000], ['\nCharcolithic period', 312000], ['Copper working', 312000], ['Early textiles', 312000], ['Settlement size: 4000', 312000], ['Early Proto-Indo-European Millenium', 276000], ['Trapping', 276000], ['Carpentry', 276000], ['Founding of Eridu', 268000], ['Founding of Uruk', 202000], ['Late Proto-Indo-European Millenium', 164000], ['Significant Masonry', 164000], ['Paved roads', 164000], ['Earliest complex civilizations', 164000], ['Founding of Ur', 150000], ['\nBronze Age', 128000], ['Spear and shield formations', 128000], ['Wheel', 128000], ['Horseback riding', 128000], ['Bronze working in Mesopotamia', 128000], ['Writing', 120000], ['Uruk has 40,000 residents, 90,000 near', 98000], ['Unification of Egypt', 98000], ['Modern calendar', 90000], ['Polytheistic religions', 90000], ['Early mathematics', 90000], ['Ocean Sailing', 90000], ['Post and Lintel construction', 90000], ['Early currency', 90000], ['Eridu at largest point', 82000], ['Early Sumerian Dynastic Period', 82000]] 
 
 Initial population:  200000
@@ -53,24 +53,24 @@ NEW TECHNOLOGY:  [['First Egyptian Stepped Pyramid', 74000], ['First standing ar
 
 Final Demographics:
 
-Total population of the region:  474526.0
-Total area of the region:  949052.0 sq km or 9.490520e+05 ; in hexes:  684.9192243925033
-Total area of the region, square Mm:  0.95
-Population of the largest city:  4133
-Population of the second largest city:  1653
-Array of notable cities and towns:  [4133, 1653, 1488, 1265]
+Total population of the region:  483145.0
+Total area of the region:  966290.0 sq km or 9.662900e+05 ; in hexes:  697.3596782244093
+Total area of the region, square Mm:  0.97
+Population of the largest city:  4866
+Population of the second largest city:  1460
+Array of notable cities and towns:  [4866, 1460, 1241, 1055]
 Number of towns:  4
-Total population of towns:  8539
-Total urban population:  8539
-Total rural population:  465987.0
-Estimate of the number of small villages:  3107
-Estimate of the number of manors:  1036
-Estimate of the number of small villages per manor:  2.999034749034749
-Number of square km per town:  237263.0
-Amount of cultivated land:  6828  sq km.
+Total population of towns:  8622
+Total urban population:  8622
+Total rural population:  474523.0
+Estimate of the number of small villages:  3163
+Estimate of the number of manors:  1054
+Estimate of the number of small villages per manor:  3.0009487666034156
+Number of square km per town:  241572.5
+Amount of cultivated land:  6952  sq km.
 This is  1 % of the total region's area.
-Number of square km per town considering only cultivated land:  1707
-Number of km between towns within a cluster:  41
+Number of square km per town considering only cultivated land:  1738
+Number of km between towns within a cluster:  42
 
 
 --------------------------------------------------------------------------------
