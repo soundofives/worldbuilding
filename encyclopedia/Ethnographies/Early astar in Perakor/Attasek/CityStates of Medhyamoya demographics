@@ -79,3 +79,66 @@ Number of km between towns within a cluster:  48
 
 After introduction of tin bronze:
 
+SUMMARY-----------------------------------
+Political state beginning:  45500  BBT
+Political state collapse:  41831  BBT
+Political state duration:  3669  years
+
+New technologies possible:  [['\nBronze Age', 44479], ['Spear and shield formations', 44479], ['Wheel', 44479], ['Horseback riding', 44479], ['Bronze working in Mesopotamia', 44479], ['Writing', 43679]] 
+
+--------------------------------------------------
+Initial year:  45500  BBT
+Initial developed technologies:  [['Daily usage of fire', 2225879], ['Fictive language', 522279], ['Surface mining', 337079], ['Non-sailing boats', 314879], ['Shaft mining', 299879], ['Pottery', 151879], ['Obsidian trade networks', 107479], ['Neolithic period', 92479], ['Settlement size: 100', 92479], ['Agriculture', 92479], ['Animal Husbandry', 92479], ['Archery', 92479], ['Timekeeping', 92479], ['Granaries appear', 88879], ['Non-burial spiritual architecture', 85079], ['Proto-writing', 70279], ['Settlement size: 800', 70279], ['\nCharcolithic period', 62879], ['Copper working', 62879], ['Early textiles', 62879], ['Settlement size: 4000', 62879], ['Early Proto-Indo-European Millenium', 59279], ['Trapping', 59279], ['Carpentry', 59279], ['Founding of Eridu', 58479], ['Founding of Uruk', 51879], ['Late Proto-Indo-European Millenium', 48079], ['Significant Masonry', 48079], ['Paved roads', 48079], ['Earliest complex civilizations', 48079], ['Founding of Ur', 46679]] 
+
+Initial population:  650000
+
+Initial Demographics:
+
+Total population of the region:  650000
+Total area of the region:  325000.0 sq km or 3.250000e+05 ; in hexes:  234.54852624257006
+Total area of the region, square Mm:  0.32
+Population of the largest city:  4837
+Population of the second largest city:  3386
+Array of notable cities and towns:  [4837, 3386, 2540, 1905, 1238]
+Number of towns:  5
+Total population of towns:  13906
+Total urban population:  13906
+Total rural population:  636094
+Estimate of the number of small villages:  4241
+Estimate of the number of manors:  1414
+Estimate of the number of small villages per manor:  2.999292786421499
+Number of square km per town:  65000.0
+Amount of cultivated land:  9353  sq km.
+This is  3 % of the total region's area.
+Number of square km per town considering only cultivated land:  1871
+Number of km between towns within a cluster:  43
+
+
+
+--------------------------------------------------
+Final year:  41831  BBT
+
+NEW TECHNOLOGY:  [['\nBronze Age', 44479], ['Spear and shield formations', 44479], ['Wheel', 44479], ['Horseback riding', 44479], ['Bronze working in Mesopotamia', 44479], ['Writing', 43679]] 
+
+
+Final Demographics:
+
+Total population of the region:  1954075.0
+Total area of the region:  977037.5 sq km or 9.770375e+05 ; in hexes:  705.1160175653079
+Total area of the region, square Mm:  0.98
+Population of the largest city:  5592
+Population of the second largest city:  3914
+Array of notable cities and towns:  [5592, 3914, 2544, 2162, 1730, 1124]
+Number of towns:  6
+Total population of towns:  17066
+Total urban population:  17066
+Total rural population:  1937009.0
+Estimate of the number of small villages:  12913
+Estimate of the number of manors:  4304
+Estimate of the number of small villages per manor:  3.000232342007435
+Number of square km per town:  162839.58333333334
+Amount of cultivated land:  28117  sq km.
+This is  3 % of the total region's area.
+Number of square km per town considering only cultivated land:  4686
+Number of km between towns within a cluster:  68
+
