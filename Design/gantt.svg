@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   inkscape:version="1.1 (c4e8f9e, 2021-05-24)"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   inkscape:version="1.0.2 (e86c870, 2021-01-15)"
    width="8000"
    height="5400"
    viewBox="0 0 2116.6666 1428.7501"
    version="1.1"
    id="svg33175"
-   sodipodi:docname="gantt.svg"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:dc="http://purl.org/dc/elements/1.1/">
+   sodipodi:docname="gantt.svg">
   <metadata
      id="metadata2887">
     <rdf:RDF>
@@ -36,11 +36,11 @@
      inkscape:pagecheckerboard="0"
      inkscape:document-units="mm"
      showgrid="false"
-     inkscape:zoom="3.523818"
-     inkscape:cx="3698.6871"
-     inkscape:cy="423.97195"
-     inkscape:window-width="3840"
-     inkscape:window-height="2067"
+     inkscape:zoom="3.8268179"
+     inkscape:cx="4156.8403"
+     inkscape:cy="648.09573"
+     inkscape:window-width="1920"
+     inkscape:window-height="996"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -3423,6 +3423,16 @@
        id="linearGradient91148"
        gradientUnits="userSpaceOnUse"
        gradientTransform="matrix(2.193855,0,0,1.6896351,-1303.7736,-1252.4699)"
+       x1="1053.2637"
+       y1="885.99544"
+       x2="1074.3777"
+       y2="885.99544" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient9045"
+       id="linearGradient5996"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.52043214,0,0,0.31085524,413.16175,-183.29503)"
        x1="1053.2637"
        y1="885.99544"
        x2="1074.3777"
@@ -11245,6 +11255,16 @@
        style="display:inline">
       <path
          style="display:inline;fill:none;fill-opacity:1;stroke:#b3b3b3;stroke-width:0.4;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
+         d="m 1090.672,175.89763 c 5.0453,-0.0441 4.0784,-1.47965 8.2144,-1.6941"
+         id="path64746-6-5"
+         sodipodi:nodetypes="cc" />
+      <path
+         style="display:inline;fill:none;fill-opacity:1;stroke:#9a4554;stroke-width:0.4;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
+         d="m 1083.7646,184.65936 c 5.0453,-0.0441 2.5897,-21.44606 6.7257,-21.66051"
+         id="path64746-7"
+         sodipodi:nodetypes="cc" />
+      <path
+         style="display:inline;fill:none;fill-opacity:1;stroke:#b3b3b3;stroke-width:0.4;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
          d="m 1038.7431,167.0613 c 5.684,2.12265 0.7585,153.15621 5.6023,152.94556"
          id="path73210"
          sodipodi:nodetypes="cc" />
@@ -11280,52 +11300,33 @@
          sodipodi:nodetypes="cc" />
       <path
          style="display:inline;opacity:1;fill:#000000;fill-opacity:1;stroke:#b3b3b3;stroke-width:0.4;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         d="m 892.53414,86.238893 h 28.80521"
+         d="m 892.53414,86.238893 h 99.64023"
          id="path14503-0-7-9" />
       <path
          style="display:inline;opacity:1;fill:#000000;fill-opacity:1;stroke:#b3b3b3;stroke-width:0.4;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         d="M 932.02449,104.14361 H 960.8297"
+         d="m 932.02449,104.14361 h 59.69683"
          id="path14503-0-7-9-4" />
       <path
          style="display:inline;opacity:1;fill:#000000;fill-opacity:1;stroke:#b3b3b3;stroke-width:0.4;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         d="m 900.78955,77.462965 h 28.80521"
-         id="path856535" />
+         d="m 908.25971,77.462965 h 84.11336"
+         id="path856535"
+         sodipodi:nodetypes="cc" />
       <path
          style="display:inline;opacity:1;fill:#000000;fill-opacity:1;stroke:#b3b3b3;stroke-width:0.4;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         d="m 941.46726,113.19195 h 28.80521"
+         d="m 948.04403,113.2749 h 64.89927"
          id="path856541" />
       <path
          style="display:inline;opacity:1;fill:#000000;fill-opacity:1;stroke:#b3b3b3;stroke-width:0.4;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         d="m 906.38042,95.669017 h 28.80521"
+         d="m 906.38042,95.669017 h 85.4663"
          id="path856547" />
       <path
-         style="display:inline;fill:none;fill-opacity:1;stroke:#b3b3b3;stroke-width:0.4;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;opacity:1"
-         d="m 892.53414,86.238893 c 1.59113,-5.93819 3.4117,-8.98658 8.25541,-8.775928"
-         id="path577014-0-9"
-         sodipodi:nodetypes="cc" />
-      <path
-         style="display:inline;fill:none;fill-opacity:1;stroke:#b3b3b3;stroke-width:0.4;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;opacity:1"
-         d="m 892.53414,86.238893 c 1.29327,7.949731 4.61975,9.617321 13.84628,9.430124"
-         id="path856856"
-         sodipodi:nodetypes="cc" />
-      <path
-         style="display:inline;fill:none;fill-opacity:1;stroke:#b3b3b3;stroke-width:0.4;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;opacity:1"
-         d="m 932.02449,104.14361 c 1.29327,7.94973 4.59906,8.83769 9.44277,9.04834"
-         id="path856856-2"
-         sodipodi:nodetypes="cc" />
-      <path
          style="display:inline;opacity:1;fill:#000000;fill-opacity:1;stroke:#b3b3b3;stroke-width:0.4;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         d="m 812.16484,95.669017 h 79.07694"
+         d="M 812.16484,95.669017 H 896.3157"
          id="path862422" />
       <path
          style="display:inline;opacity:1;fill:#000000;fill-opacity:1;stroke:#b3b3b3;stroke-width:0.4;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          d="m 1102.2369,947.93852 h 63.127"
          id="path86159-3" />
-      <path
-         style="display:inline;fill:none;fill-opacity:1;stroke:#b3b3b3;stroke-width:0.4;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.96043324;stop-color:#000000;opacity:1"
-         d="m 967.66577,911.5728 c -1.89694,56.28904 16.37798,53.77179 16.37798,53.77179"
-         id="path577014-0-8-6-4"
-         sodipodi:nodetypes="cc" />
       <path
          style="display:inline;opacity:1;fill:none;fill-opacity:1;stroke:#b3b3b3;stroke-width:0.4;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.96043324;stop-color:#000000"
          d="M 772.25394,956.97767 C 853.7735,910.02435 785.38173,833.82819 898.8496,831.06607"
@@ -11369,48 +11370,8 @@
          id="path793284" />
       <path
          style="display:inline;fill:none;fill-opacity:1;stroke:#b3b3b3;stroke-width:0.4;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.96043324;stop-color:#000000;opacity:1"
-         d="m 924.59772,867.60395 c 9.5191,8.87055 18.84909,8.32973 18.84909,8.32973"
-         id="path577014-0"
-         sodipodi:nodetypes="cc" />
-      <path
-         style="display:inline;fill:none;fill-opacity:1;stroke:#b3b3b3;stroke-width:0.4;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.96043324;stop-color:#000000;opacity:1"
          d="m 924.75437,865.70685 c 10.86437,-2.08823 12.28064,-43.29066 26.92961,-43.96266"
          id="path577014-0-82"
-         sodipodi:nodetypes="cc" />
-      <path
-         style="display:inline;fill:none;fill-opacity:1;stroke:#b3b3b3;stroke-width:0.4;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.96043324;stop-color:#000000;opacity:1"
-         d="m 936.6965,893.9036 c 0.37405,9.48982 15.30797,8.86346 15.30797,8.86346"
-         id="path577014-0-8"
-         sodipodi:nodetypes="cc" />
-      <path
-         style="display:inline;fill:none;fill-opacity:1;stroke:#b3b3b3;stroke-width:0.4;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.96043324;stop-color:#000000;opacity:1"
-         d="m 952.05356,903.34133 c 3.09204,6.41577 12.77957,8.21443 12.77957,8.21443"
-         id="path577014-0-8-6"
-         sodipodi:nodetypes="cc" />
-      <path
-         style="display:inline;fill:none;fill-opacity:1;stroke:#b3b3b3;stroke-width:0.4;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.96043324;stop-color:#000000;opacity:1"
-         d="m 924.59772,867.60395 c 4.32759,16.51578 18.84928,17.08509 18.84928,17.08509"
-         id="path796266"
-         sodipodi:nodetypes="cc" />
-      <path
-         style="display:inline;fill:none;fill-opacity:1;stroke:#b3b3b3;stroke-width:0.4;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.96043324;stop-color:#000000;opacity:1"
-         d="m 943.447,884.68904 c 0.96799,24.7963 21.7662,35.61961 21.7662,35.61961"
-         id="path796266-2"
-         sodipodi:nodetypes="cc" />
-      <path
-         style="display:inline;fill:none;fill-opacity:1;stroke:#b3b3b3;stroke-width:0.4;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.96043324;stop-color:#000000;opacity:1"
-         d="m 924.59772,867.60395 c -0.43774,25.71008 19.00785,25.6796 19.00785,25.6796"
-         id="path796268"
-         sodipodi:nodetypes="cc" />
-      <path
-         style="display:inline;fill:none;fill-opacity:1;stroke:#b3b3b3;stroke-width:0.4;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.96043324;stop-color:#000000;opacity:1"
-         d="m 974.74104,966.14978 c 4.47835,9.11671 17.94005,8.43392 17.94005,8.43392 m -14.65293,1.11902"
-         id="path577014-0-8-6-7"
-         sodipodi:nodetypes="cc" />
-      <path
-         style="display:inline;fill:none;fill-opacity:1;stroke:#b3b3b3;stroke-width:0.4;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.96043324;stop-color:#000000;opacity:1"
-         d="m 986.47645,974.70075 c 4.47835,9.11671 17.94005,8.43392 17.94005,8.43392 m -14.65293,1.11902"
-         id="path577014-0-8-6-7-9"
          sodipodi:nodetypes="cc" />
       <path
          style="display:inline;fill:none;fill-opacity:1;stroke:#b3b3b3;stroke-width:0.4;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;opacity:1"
@@ -11790,13 +11751,13 @@
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;line-height:1.25;font-family:Georgia;-inkscape-font-specification:'Georgia, Normal';font-variant-ligatures:normal;font-variant-caps:small-caps;font-variant-numeric:normal;font-variant-east-asian:normal;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.375999;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.490765;stop-color:#000000"
-         x="932.01593"
+         x="933.07428"
          y="893.71991"
          id="text533908-7-7"><tspan
            sodipodi:role="line"
            id="tspan533906-60-3"
            style="stroke-width:0.376"
-           x="932.01593"
+           x="933.07428"
            y="893.71991">Nlashikir Tribes</tspan></text>
       <text
          xml:space="preserve"
@@ -11823,13 +11784,13 @@
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;line-height:1.25;font-family:Georgia;-inkscape-font-specification:'Georgia, Normal';font-variant-ligatures:normal;font-variant-caps:small-caps;font-variant-numeric:normal;font-variant-east-asian:normal;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.375999;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.490765;stop-color:#000000"
-         x="940.43542"
+         x="941.75653"
          y="903.16528"
          id="text533908-7-7-2"><tspan
            sodipodi:role="line"
            id="tspan533906-60-3-6"
            style="stroke-width:0.376"
-           x="940.43542"
+           x="941.75653"
            y="903.16528">Nlashikir Tribes</tspan></text>
       <text
          xml:space="preserve"
@@ -12292,6 +12253,21 @@
          style="display:inline;opacity:1;fill:#000000;fill-opacity:1;stroke:#b3b3b3;stroke-width:0.4;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          d="M 417.1844,866.67528 H 768.57611"
          id="path14503-8" />
+      <path
+         style="display:inline;fill:none;fill-opacity:1;stroke:#b3b3b3;stroke-width:0.4;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
+         d="m 924.59772,867.60395 c 2.9518,-0.48489 2.18605,8.30335 6.93545,8.32973"
+         id="path47613-2"
+         sodipodi:nodetypes="cc" />
+      <path
+         style="display:inline;fill:none;fill-opacity:1;stroke:#b3b3b3;stroke-width:0.4;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
+         d="m 924.59772,867.60395 c 2.9518,-0.48489 2.33315,17.05871 7.08255,17.08509"
+         id="path30410"
+         sodipodi:nodetypes="cc" />
+      <path
+         style="display:inline;fill:none;fill-opacity:1;stroke:#b3b3b3;stroke-width:0.4;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
+         d="m 924.59772,867.60395 c 2.9518,-0.48489 2.25691,25.65322 7.00631,25.6796"
+         id="path30412"
+         sodipodi:nodetypes="cc" />
       <rect
          style="display:inline;opacity:1;fill:#38641b;fill-opacity:1;stroke:none;stroke-width:0.933829;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.979031;stop-color:#000000"
          id="rect493103"
@@ -12450,47 +12426,36 @@
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;line-height:1.25;font-family:Georgia;-inkscape-font-specification:'Georgia, Normal';font-variant-ligatures:normal;font-variant-caps:small-caps;font-variant-numeric:normal;font-variant-east-asian:normal;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.375999;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.490765;stop-color:#000000"
-         x="891.28265"
+         x="899.22028"
          y="77.827911"
          id="text856533"><tspan
            sodipodi:role="line"
            id="tspan856531"
            style="stroke-width:0.376"
-           x="891.28265"
+           x="899.22028"
            y="77.827911">Rhun nomads</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;line-height:1.25;font-family:Georgia;-inkscape-font-specification:'Georgia, Normal';font-variant-ligatures:normal;font-variant-caps:small-caps;font-variant-numeric:normal;font-variant-east-asian:normal;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.375999;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.490765;stop-color:#000000"
-         x="959.32086"
-         y="77.045227"
-         id="text856533-4"><tspan
-           sodipodi:role="line"
-           id="tspan856531-7"
-           style="stroke-width:0.376"
-           x="959.32086"
-           y="77.045227">500,000 Rhun sail from Rhunendor</tspan></text>
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;line-height:1.25;font-family:Georgia;-inkscape-font-specification:'Georgia, Normal';font-variant-ligatures:normal;font-variant-caps:small-caps;font-variant-numeric:normal;font-variant-east-asian:normal;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.375999;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.490765;stop-color:#000000"
-         x="931.96033"
+         x="938.8396"
          y="113.55691"
          id="text856539"><tspan
            sodipodi:role="line"
            id="tspan856537"
            style="stroke-width:0.376"
-           x="931.96033"
+           x="938.8396"
            y="113.55691">Rhun nomads</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;line-height:1.25;font-family:Georgia;-inkscape-font-specification:'Georgia, Normal';font-variant-ligatures:normal;font-variant-caps:small-caps;font-variant-numeric:normal;font-variant-east-asian:normal;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.375999;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.490765;stop-color:#000000"
-         x="891.45233"
+         x="896.74408"
          y="96.067207"
          id="text856545"><tspan
            sodipodi:role="line"
            id="tspan856543"
            style="stroke-width:0.376"
-           x="891.45233"
-           y="96.067207">Rhun nomads </tspan></text>
+           x="896.74408"
+           y="96.067207">+Rhun nomads </tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;line-height:1.25;font-family:Georgia;-inkscape-font-specification:'Georgia, Normal';font-variant-ligatures:normal;font-variant-caps:small-caps;font-variant-numeric:normal;font-variant-east-asian:normal;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.375999;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.490765;stop-color:#000000"
@@ -12870,15 +12835,15 @@
          id="path239403"
          inkscape:flatsided="false"
          sodipodi:sides="5"
-         sodipodi:cx="1069.5811"
-         sodipodi:cy="236.52265"
+         sodipodi:cx="1158.9419"
+         sodipodi:cy="234.53346"
          sodipodi:r1="9.8332071"
          sodipodi:r2="4.9166036"
          sodipodi:arg1="0.84750634"
          sodipodi:arg2="1.4758249"
          inkscape:rounded="0"
          inkscape:randomized="0"
-         d="m 1076.0892,243.89393 -6.0419,-2.47684 -5.4656,3.57303 0.4885,-6.51159 -5.0871,-4.09399 6.3439,-1.54754 2.3216,-6.10325 3.4321,5.55516 6.522,0.32197 -4.2227,4.98082 z"
+         d="m 1165.45,241.90475 -6.0419,-2.47684 -5.4656,3.57303 0.4886,-6.51159 -5.0871,-4.09399 6.3438,-1.54754 2.3216,-6.10325 3.4322,5.55516 6.5219,0.32197 -4.2226,4.98081 z"
          inkscape:transform-center-x="0.28815924"
          inkscape:transform-center-y="-0.66071317" />
       <path
@@ -12901,20 +12866,19 @@
          inkscape:transform-center-y="-1.1200004" />
       <path
          sodipodi:type="star"
-         style="opacity:0.506989;fill:#40af87;fill-opacity:1;stroke:#000000;stroke-width:1.51181;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+         style="opacity:0.506989;fill:#40af87;fill-opacity:1;stroke:#000000;stroke-width:0.4;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
          id="path239407"
          inkscape:flatsided="false"
          sodipodi:sides="5"
-         sodipodi:cx="3609.2158"
-         sodipodi:cy="335.11349"
-         sodipodi:r1="36.157547"
-         sodipodi:r2="18.078773"
+         sodipodi:cx="1037.5932"
+         sodipodi:cy="89.862941"
+         sodipodi:r1="9.5666838"
+         sodipodi:r2="4.7833419"
          sodipodi:arg1="1.0703367"
          sodipodi:arg2="1.6986552"
          inkscape:rounded="0"
          inkscape:randomized="0"
-         d="m 3626.5653,366.83676 -19.6547,-13.79207 -22.5041,8.37212 7.0434,-22.95468 -14.9165,-18.81555 24.0077,-0.39472 13.2852,-20.00076 7.7942,22.71073 23.1272,6.4544 -19.1907,14.43072 z"
-         transform="scale(0.26458333)"
+         d="m 1042.1835,98.256384 -5.2003,-3.64915 -5.9542,2.215123 1.8636,-6.073427 -3.9467,-4.97828 6.3521,-0.104435 3.515,-5.29187 2.0622,6.008883 6.1191,1.707725 -5.0775,3.818129 z"
          inkscape:transform-center-x="-0.37694411"
          inkscape:transform-center-y="-0.54757456" />
       <path
@@ -13309,7 +13273,7 @@
            y="938.69659">Ishian Kingdoms</tspan></text>
       <path
          style="display:inline;fill:#000000;fill-opacity:1;stroke:#b3b3b3;stroke-width:0.4;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         d="m 840.96879,175.89763 h 69.11864"
+         d="M 840.96879,175.89763 H 1166.5911"
          id="path5797"
          sodipodi:nodetypes="cc" />
       <rect
@@ -13318,18 +13282,18 @@
          width="111.82707"
          height="1.9697521"
          x="910.07684"
-         y="175.03134" />
+         y="184.10489" />
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.175px;line-height:1.25;font-family:Georgia;-inkscape-font-specification:'Georgia, Bold';font-variant-ligatures:normal;font-variant-caps:small-caps;font-variant-numeric:normal;font-variant-east-asian:normal;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.176;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.0999795;stop-color:#000000"
          x="910.53845"
-         y="176.49576"
+         y="185.56931"
          id="text814410-6"><tspan
            sodipodi:role="line"
            id="tspan814408-2"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;font-family:Georgia;-inkscape-font-specification:'Georgia, Normal';font-variant-ligatures:normal;font-variant-caps:small-caps;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;stroke-width:0.176"
            x="910.53845"
-           y="176.49576">City States of Medhyamoya</tspan></text>
+           y="185.56931">City States of Medhyamoya</tspan></text>
       <path
          style="display:inline;opacity:1;fill:#000000;fill-opacity:1;stroke:#b3b3b3;stroke-width:0.4;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          d="m 807.04135,166.78546 34.46484,0"
@@ -13414,7 +13378,7 @@
          sodipodi:nodetypes="cc" />
       <path
          style="display:inline;fill:#000000;fill-opacity:1;stroke:#b3b3b3;stroke-width:0.4;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         d="M 857.33366,184.96858 H 1053.182"
+         d="m 857.33366,184.96858 h 52.74495"
          id="path5799"
          sodipodi:nodetypes="cc" />
       <path
@@ -13779,23 +13743,23 @@
            x="1025.933"
            y="246.4286">Kingdom of Kindelhaarg</tspan></text>
       <rect
-         style="display:inline;fill:#d8634c;fill-opacity:1;stroke:none;stroke-width:0.254826;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.0999795;stop-color:#000000"
+         style="display:inline;fill:#d8634c;fill-opacity:1;stroke:none;stroke-width:0.174995;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.0999795;stop-color:#000000"
          id="rect176346"
-         width="62.320995"
+         width="29.390083"
          height="1.9697521"
          x="1021.9039"
-         y="175.03134" />
+         y="184.10489" />
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.175px;line-height:1.25;font-family:Georgia;-inkscape-font-specification:'Georgia, Bold';font-variant-ligatures:normal;font-variant-caps:small-caps;font-variant-numeric:normal;font-variant-east-asian:normal;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.176;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.0999795;stop-color:#000000"
          x="1022.3656"
-         y="176.49576"
+         y="185.56931"
          id="text176350"><tspan
            sodipodi:role="line"
            id="tspan176348"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;font-family:Georgia;-inkscape-font-specification:'Georgia, Normal';font-variant-ligatures:normal;font-variant-caps:small-caps;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;stroke-width:0.176"
            x="1022.3656"
-           y="176.49576">Kingdom of Kar-Galnoskar</tspan></text>
+           y="185.56931">Kingdom of Kar-Galnoskar</tspan></text>
       <path
          style="display:inline;fill:#000000;fill-opacity:1;stroke:#b3b3b3;stroke-width:0.4;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          d="m 1020.6155,131.24148 h 12.8114"
@@ -14362,14 +14326,14 @@
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;line-height:1.25;font-family:Georgia;-inkscape-font-specification:'Georgia, Normal';font-variant-ligatures:normal;font-variant-caps:small-caps;font-variant-numeric:normal;font-variant-east-asian:normal;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.375999;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.490765;stop-color:#000000"
-         x="1053.5769"
-         y="122.49627"
+         x="1053.0543"
+         y="122.86108"
          id="text62202"><tspan
            sodipodi:role="line"
            id="tspan62200"
            style="stroke-width:0.376"
-           x="1053.5769"
-           y="122.49627">Zvir</tspan></text>
+           x="1053.0543"
+           y="122.86108">+Zvir</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;line-height:1.25;font-family:Georgia;-inkscape-font-specification:'Georgia, Normal';font-variant-ligatures:normal;font-variant-caps:small-caps;font-variant-numeric:normal;font-variant-east-asian:normal;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.375999;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.490765;stop-color:#000000"
@@ -14410,7 +14374,7 @@
          sodipodi:nodetypes="cc" />
       <path
          style="display:inline;fill:none;fill-opacity:1;stroke:#b3b3b3;stroke-width:0.4;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
-         d="m 1046.7656,131.24148 c 5.0453,-0.0441 2.3649,-8.8505 6.5009,-9.06495"
+         d="m 1046.7656,131.24148 c 5.0453,-0.0441 1.7902,-8.55796 5.9262,-8.77241"
          id="path64746"
          sodipodi:nodetypes="cc" />
       <path
@@ -14440,7 +14404,7 @@
          sodipodi:nodetypes="cc" />
       <path
          style="display:inline;fill:#000000;fill-opacity:1;stroke:#b3b3b3;stroke-width:0.4;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         d="m 1056.7388,122.17653 h 75.9566"
+         d="m 1057.2203,122.46907 h 75.9566"
          id="path71993"
          sodipodi:nodetypes="cc" />
       <text
@@ -14476,6 +14440,314 @@
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.705556px;font-family:Georgia;-inkscape-font-specification:'Georgia, Normal';font-variant-ligatures:normal;font-variant-caps:small-caps;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;stroke-width:0.176"
            x="784.39508"
            y="104.5295">Cevast</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;line-height:1.25;font-family:Georgia;-inkscape-font-specification:'Georgia, Normal';font-variant-ligatures:normal;font-variant-caps:small-caps;font-variant-numeric:normal;font-variant-east-asian:normal;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.375999;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.490765;stop-color:#000000"
+         x="970.30121"
+         y="59.99678"
+         id="text856533-3"><tspan
+           sodipodi:role="line"
+           id="tspan856531-6"
+           style="stroke-width:0.376"
+           x="970.30121"
+           y="59.99678">Rhun nomads</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;line-height:1.25;font-family:Georgia;-inkscape-font-specification:'Georgia, Normal';font-variant-ligatures:normal;font-variant-caps:small-caps;font-variant-numeric:normal;font-variant-east-asian:normal;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.375999;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.490765;stop-color:#000000"
+         x="986.32385"
+         y="68.953873"
+         id="text856533-7"><tspan
+           sodipodi:role="line"
+           id="tspan856531-5"
+           style="stroke-width:0.376"
+           x="986.32385"
+           y="68.953873">Rhun nomads</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;line-height:1.25;font-family:Georgia;-inkscape-font-specification:'Georgia, Normal';font-variant-ligatures:normal;font-variant-caps:small-caps;font-variant-numeric:normal;font-variant-east-asian:normal;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.375999;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.490765;stop-color:#000000"
+         x="981.22821"
+         y="123.09174"
+         id="text856533-35"><tspan
+           sodipodi:role="line"
+           id="tspan856531-62"
+           style="stroke-width:0.376"
+           x="981.22821"
+           y="123.09174">Rhun nomads</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;line-height:1.25;font-family:Georgia;-inkscape-font-specification:'Georgia, Normal';font-variant-ligatures:normal;font-variant-caps:small-caps;font-variant-numeric:normal;font-variant-east-asian:normal;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.375999;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.490765;stop-color:#000000"
+         x="994.74713"
+         y="149.93663"
+         id="text856533-9"><tspan
+           sodipodi:role="line"
+           id="tspan856531-1"
+           style="stroke-width:0.376"
+           x="994.74713"
+           y="149.93663">Rhun nomads</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;line-height:1.25;font-family:Georgia;-inkscape-font-specification:'Georgia, Normal';font-variant-ligatures:normal;font-variant-caps:small-caps;font-variant-numeric:normal;font-variant-east-asian:normal;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.375999;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.490765;stop-color:#000000"
+         x="1003.7495"
+         y="1002.0141"
+         id="text856533-35-2"><tspan
+           sodipodi:role="line"
+           id="tspan856531-62-7"
+           style="stroke-width:0.376"
+           x="1003.7495"
+           y="1002.0141">Rhun nomads</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;line-height:1.25;font-family:Georgia;-inkscape-font-specification:'Georgia, Normal';font-variant-ligatures:normal;font-variant-caps:small-caps;font-variant-numeric:normal;font-variant-east-asian:normal;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.375999;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.490765;stop-color:#000000"
+         x="1003.6728"
+         y="867.66907"
+         id="text856533-35-0"><tspan
+           sodipodi:role="line"
+           id="tspan856531-62-9"
+           style="stroke-width:0.376"
+           x="1003.6728"
+           y="867.66907">Rhun nomads</tspan></text>
+      <path
+         style="display:inline;fill:none;fill-opacity:1;stroke:#b3b3b3;stroke-width:0.4;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
+         d="m 892.53414,86.238893 c 5.0453,-0.0441 1.4674,-8.680718 5.6034,-8.895168"
+         id="path64746-3"
+         sodipodi:nodetypes="cc" />
+      <path
+         style="display:inline;fill:none;fill-opacity:1;stroke:#b3b3b3;stroke-width:0.4;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
+         d="m 892.53414,86.238893 c 5.0453,-0.0441 0.96978,9.178198 3.78156,9.430124"
+         id="path51076-1-6"
+         sodipodi:nodetypes="cc" />
+      <path
+         style="display:inline;fill:none;fill-opacity:1;stroke:#b3b3b3;stroke-width:0.4;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
+         d="m 932.02449,104.14361 c 5.0453,-0.0441 1.6526,9.37718 5.7886,9.16273"
+         id="path51076-1-0"
+         sodipodi:nodetypes="cc" />
+      <path
+         style="display:inline;fill:none;fill-opacity:1;stroke:#b3b3b3;stroke-width:0.4;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
+         d="m 974.91345,113.30634 c 5.0453,-0.0441 1.6526,9.37718 5.7886,9.16273"
+         id="path51076-1-0-6"
+         sodipodi:nodetypes="cc" />
+      <path
+         style="display:inline;fill:none;fill-opacity:1;stroke:#b3b3b3;stroke-width:0.4;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
+         d="m 963.67757,77.41257 c 5.0453,-0.0441 2.28904,-17.632691 6.42504,-17.847141"
+         id="path64746-3-2"
+         sodipodi:nodetypes="cc" />
+      <path
+         style="display:inline;fill:none;fill-opacity:1;stroke:#b3b3b3;stroke-width:0.4;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
+         d="m 980.76339,59.565429 c 5.0453,-0.0441 2.60622,8.730147 5.418,8.982073"
+         id="path51076-1-6-6"
+         sodipodi:nodetypes="cc" />
+      <path
+         style="display:inline;opacity:1;fill:#000000;fill-opacity:1;stroke:#b3b3b3;stroke-width:0.4;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 979.70505,59.565429 h 84.11335"
+         id="path18762"
+         sodipodi:nodetypes="cc" />
+      <path
+         style="display:inline;opacity:1;fill:#000000;fill-opacity:1;stroke:#b3b3b3;stroke-width:0.4;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 995.23275,68.547502 h 84.11335"
+         id="path18764"
+         sodipodi:nodetypes="cc" />
+      <path
+         style="display:inline;opacity:1;fill:#000000;fill-opacity:1;stroke:#b3b3b3;stroke-width:0.4;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 990.39696,122.46907 h 62.29484"
+         id="path18766"
+         sodipodi:nodetypes="cc" />
+      <path
+         style="display:inline;fill:none;fill-opacity:1;stroke:#b3b3b3;stroke-width:0.4;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
+         d="m 990.37925,113.2749 c 15.67975,-0.11261 -0.0596,753.65765 13.18325,753.96876"
+         id="path51076-1-0-6-1"
+         sodipodi:nodetypes="cc" />
+      <path
+         style="display:inline;fill:none;fill-opacity:1;stroke:#b3b3b3;stroke-width:0.4;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
+         d="m 990.37925,113.2749 c 24.72765,-0.0708 -9.4914,888.1375 13.25075,888.3533"
+         id="path21680"
+         sodipodi:nodetypes="cc" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;line-height:1.25;font-family:Georgia;-inkscape-font-specification:'Georgia, Normal';font-variant-ligatures:normal;font-variant-caps:small-caps;font-variant-numeric:normal;font-variant-east-asian:normal;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.375999;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.490765;stop-color:#000000"
+         x="1003.9088"
+         y="553.9541"
+         id="text856533-35-8"><tspan
+           sodipodi:role="line"
+           id="tspan856531-62-79"
+           style="stroke-width:0.376"
+           x="1003.9088"
+           y="553.9541">Rhun nomads</tspan></text>
+      <path
+         style="display:inline;fill:none;fill-opacity:1;stroke:#b3b3b3;stroke-width:0.4;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
+         d="m 972.23365,86.238893 c 18.0399,7.517053 -4.03755,467.304037 31.14915,467.092577"
+         id="path51076-1-0-6-2"
+         sodipodi:nodetypes="cc" />
+      <path
+         style="display:inline;fill:#000000;fill-opacity:1;stroke:#b3b3b3;stroke-width:0.4;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 1013.0778,553.33147 h 62.2949"
+         id="path18766-0"
+         sodipodi:nodetypes="cc" />
+      <path
+         style="display:inline;fill:none;fill-opacity:1;stroke:#b3b3b3;stroke-width:0.4;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
+         d="m 933.31837,894.15525 c 4.4569,0.95968 3.68386,8.58543 8.43326,8.61181"
+         id="path47613-2-3"
+         sodipodi:nodetypes="cc" />
+      <path
+         style="display:inline;fill:none;fill-opacity:1;stroke:#b3b3b3;stroke-width:0.4;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
+         d="m 948.71452,884.68904 c 7.48122,0 -0.0212,35.59323 4.72816,35.61961"
+         id="path47613-2-7"
+         sodipodi:nodetypes="cc" />
+      <path
+         style="display:inline;fill:none;fill-opacity:1;stroke:#b3b3b3;stroke-width:0.4;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
+         d="m 957.81462,902.76706 c 2.9518,-0.48489 2.26911,8.76232 7.01851,8.7887"
+         id="path47613-2-5"
+         sodipodi:nodetypes="cc" />
+      <path
+         style="display:inline;fill:none;fill-opacity:1;stroke:#b3b3b3;stroke-width:0.4;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
+         d="m 967.11541,911.55576 c 6.35211,0 -2.5233,53.74637 5.12048,53.78883"
+         id="path47613-2-5-9"
+         sodipodi:nodetypes="cc" />
+      <path
+         style="display:inline;fill:none;fill-opacity:1;stroke:#b3b3b3;stroke-width:0.4;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
+         d="m 984.04375,965.34459 c 2.9518,-0.48489 3.88794,9.21273 8.63734,9.23911"
+         id="path47613-2-5-2"
+         sodipodi:nodetypes="cc" />
+      <path
+         style="display:inline;fill:none;fill-opacity:1;stroke:#b3b3b3;stroke-width:0.4;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
+         d="m 995.83209,974.5837 c 2.9518,-0.48489 3.83504,8.52459 8.58441,8.55097"
+         id="path30504"
+         sodipodi:nodetypes="cc" />
+      <rect
+         style="display:inline;fill:#c00066;fill-opacity:1;stroke:none;stroke-width:0.183427;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.0999795;stop-color:#000000"
+         id="rect5826"
+         width="32.290676"
+         height="1.9697521"
+         x="1051.2939"
+         y="184.10489" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.175px;line-height:1.25;font-family:Georgia;-inkscape-font-specification:'Georgia, Bold';font-variant-ligatures:normal;font-variant-caps:small-caps;font-variant-numeric:normal;font-variant-east-asian:normal;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.176;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.0999795;stop-color:#000000"
+         x="1051.7556"
+         y="185.56931"
+         id="text5830"><tspan
+           sodipodi:role="line"
+           id="tspan5828"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;font-family:Georgia;-inkscape-font-specification:'Georgia, Normal';font-variant-ligatures:normal;font-variant-caps:small-caps;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;stroke-width:0.176"
+           x="1051.7556"
+           y="185.56931">City States of Medhyamoya</tspan></text>
+      <path
+         style="display:inline;fill:none;fill-opacity:1;stroke:#b3b3b3;stroke-width:0.4;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
+         d="m 1062.3852,166.78546 c 5.0453,-0.0441 4.0784,-1.47965 8.2144,-1.6941"
+         id="path64746-6"
+         sodipodi:nodetypes="cc" />
+      <rect
+         style="display:inline;fill:#409189;fill-opacity:1;stroke:none;stroke-width:0.169368;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.0999795;stop-color:#000000"
+         id="rect5837"
+         width="27.530148"
+         height="1.9697521"
+         x="1070.5869"
+         y="164.10335" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.175px;line-height:1.25;font-family:Georgia;-inkscape-font-specification:'Georgia, Bold';font-variant-ligatures:normal;font-variant-caps:small-caps;font-variant-numeric:normal;font-variant-east-asian:normal;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.176;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.0999795;stop-color:#000000"
+         x="1071.0486"
+         y="165.56776"
+         id="text5842"><tspan
+           sodipodi:role="line"
+           id="tspan5840"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;font-family:Georgia;-inkscape-font-specification:'Georgia, Normal';font-variant-ligatures:normal;font-variant-caps:small-caps;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;stroke-width:0.176"
+           x="1071.0486"
+           y="165.56776">City States of Bhroshtalath</tspan></text>
+      <path
+         style="display:inline;fill:#000000;fill-opacity:1;stroke:#b3b3b3;stroke-width:0.4;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 1056.4862,166.78546 h 211.8916"
+         id="path5797-3"
+         sodipodi:nodetypes="cc" />
+      <rect
+         style="display:inline;fill:#8ba261;fill-opacity:1;stroke:none;stroke-width:0.236687;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.0999795;stop-color:#000000"
+         id="rect5895"
+         width="53.764568"
+         height="1.9697521"
+         x="1073.5432"
+         y="246.93394" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.175px;line-height:1.25;font-family:Georgia;-inkscape-font-specification:'Georgia, Bold';font-variant-ligatures:normal;font-variant-caps:small-caps;font-variant-numeric:normal;font-variant-east-asian:normal;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.176;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.0999795;stop-color:#000000"
+         x="1074.0049"
+         y="248.39836"
+         id="text5899"><tspan
+           sodipodi:role="line"
+           id="tspan5897"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;font-family:Georgia;-inkscape-font-specification:'Georgia, Normal';font-variant-ligatures:normal;font-variant-caps:small-caps;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;stroke-width:0.176"
+           x="1074.0049"
+           y="248.39836">City States of Andesedabon</tspan></text>
+      <rect
+         style="display:inline;fill:#9a4554;fill-opacity:1;stroke:none;stroke-width:0.254826;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.0999795;stop-color:#000000"
+         id="rect5901"
+         width="62.320995"
+         height="1.9697521"
+         x="1083.5846"
+         y="184.10489" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.175px;line-height:1.25;font-family:Georgia;-inkscape-font-specification:'Georgia, Bold';font-variant-ligatures:normal;font-variant-caps:small-caps;font-variant-numeric:normal;font-variant-east-asian:normal;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.176;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.0999795;stop-color:#000000"
+         x="1084.0463"
+         y="185.56931"
+         id="text5905"><tspan
+           sodipodi:role="line"
+           id="tspan5903"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;font-family:Georgia;-inkscape-font-specification:'Georgia, Normal';font-variant-ligatures:normal;font-variant-caps:small-caps;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;stroke-width:0.176"
+           x="1084.0463"
+           y="185.56931">Kingdom of Kar-Esodhkar</tspan></text>
+      <rect
+         style="display:inline;fill:#9a4554;fill-opacity:1;stroke:none;stroke-width:0.254826;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.0999795;stop-color:#000000"
+         id="rect5913"
+         width="62.320995"
+         height="1.9697521"
+         x="1083.6069"
+         y="162.13359" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.175px;line-height:1.25;font-family:Georgia;-inkscape-font-specification:'Georgia, Bold';font-variant-ligatures:normal;font-variant-caps:small-caps;font-variant-numeric:normal;font-variant-east-asian:normal;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.176;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.0999795;stop-color:#000000"
+         x="1084.0686"
+         y="163.59801"
+         id="text5917"><tspan
+           sodipodi:role="line"
+           id="tspan5915"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;font-family:Georgia;-inkscape-font-specification:'Georgia, Normal';font-variant-ligatures:normal;font-variant-caps:small-caps;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;stroke-width:0.176"
+           x="1084.0686"
+           y="163.59801">Kingdom of Kar-Esodhkar</tspan></text>
+      <rect
+         style="display:inline;fill:#3ab086;fill-opacity:1;stroke:none;stroke-width:0.169368;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.0999795;stop-color:#000000"
+         id="rect5939"
+         width="27.530148"
+         height="1.9697521"
+         x="1098.1171"
+         y="164.10335" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.175px;line-height:1.25;font-family:Georgia;-inkscape-font-specification:'Georgia, Bold';font-variant-ligatures:normal;font-variant-caps:small-caps;font-variant-numeric:normal;font-variant-east-asian:normal;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.176;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.0999795;stop-color:#000000"
+         x="1098.5787"
+         y="165.56776"
+         id="text5943"><tspan
+           sodipodi:role="line"
+           id="tspan5941"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;font-family:Georgia;-inkscape-font-specification:'Georgia, Normal';font-variant-ligatures:normal;font-variant-caps:small-caps;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;stroke-width:0.176"
+           x="1098.5787"
+           y="165.56776">Kingdom of Kor-Borakord</tspan></text>
+      <rect
+         style="display:inline;fill:#4c50d8;fill-opacity:1;stroke:none;stroke-width:0.254826;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.0999795;stop-color:#000000"
+         id="rect5945"
+         width="62.320995"
+         height="1.9697521"
+         x="1098.321"
+         y="173.14349" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.175px;line-height:1.25;font-family:Georgia;-inkscape-font-specification:'Georgia, Bold';font-variant-ligatures:normal;font-variant-caps:small-caps;font-variant-numeric:normal;font-variant-east-asian:normal;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.176;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.0999795;stop-color:#000000"
+         x="1098.7827"
+         y="174.60791"
+         id="text5949"><tspan
+           sodipodi:role="line"
+           id="tspan5947"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;font-family:Georgia;-inkscape-font-specification:'Georgia, Normal';font-variant-ligatures:normal;font-variant-caps:small-caps;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;stroke-width:0.176"
+           x="1098.7827"
+           y="174.60791">Kingdom of Kor-Bargakord</tspan></text>
     </g>
     <g
        inkscape:groupmode="layer"
@@ -15068,19 +15340,19 @@
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;line-height:0.95;font-family:Georgia;-inkscape-font-specification:'Georgia, Normal';font-variant-ligatures:normal;font-variant-caps:small-caps;font-variant-numeric:normal;font-variant-east-asian:normal;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.375999;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.979031;stop-color:#000000"
-         x="480.52768"
-         y="727.61523"
+         x="474.16669"
+         y="733.97675"
          id="text464219-6-0-2-9-7-4"
          transform="rotate(-45)"><tspan
            sodipodi:role="line"
            style="stroke-width:0.376"
-           x="480.52768"
-           y="727.61523"
+           x="474.16669"
+           y="733.97675"
            id="tspan5887-0">Attasek build hill forts</tspan><tspan
            sodipodi:role="line"
            style="stroke-width:0.376"
-           x="480.52768"
-           y="728.95581"
+           x="474.16669"
+           y="735.31732"
            id="tspan66314">    in Medhyamoya</tspan></text>
       <text
          xml:space="preserve"
@@ -15158,29 +15430,29 @@
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;line-height:0.95;font-family:Georgia;-inkscape-font-specification:'Georgia, Normal';font-variant-ligatures:normal;font-variant-caps:small-caps;font-variant-numeric:normal;font-variant-east-asian:normal;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.375999;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.979031;stop-color:#000000"
-         x="547.95636"
-         y="794.5296"
+         x="541.59485"
+         y="800.89111"
          id="text464219-6-0-2-9-7-9-5-8"
          transform="rotate(-45)"><tspan
            sodipodi:role="line"
            style="stroke-width:0.376"
-           x="547.95636"
-           y="794.5296"
+           x="541.59485"
+           y="800.89111"
            id="tspan6182-7">The Attasek know</tspan><tspan
            sodipodi:role="line"
            style="stroke-width:0.376"
-           x="547.95636"
-           y="795.87018"
+           x="541.59485"
+           y="802.23169"
            id="tspan17558">     themselves as</tspan><tspan
            sodipodi:role="line"
            style="stroke-width:0.376"
-           x="547.95636"
-           y="797.21069"
+           x="541.59485"
+           y="803.5722"
            id="tspan21344">        Davakrai</tspan><tspan
            sodipodi:role="line"
            style="stroke-width:0.376"
-           x="547.95636"
-           y="798.55127"
+           x="541.59485"
+           y="804.91278"
            id="tspan14354" /></text>
       <text
          xml:space="preserve"
@@ -15219,46 +15491,46 @@
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;line-height:0.95;font-family:Georgia;-inkscape-font-specification:'Georgia, Normal';font-variant-ligatures:normal;font-variant-caps:small-caps;font-variant-numeric:normal;font-variant-east-asian:normal;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.375999;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.979031;stop-color:#000000"
-         x="573.42828"
-         y="834.80573"
+         x="580.164"
+         y="828.07001"
          id="text464219-6-0-2-9-7-9-5-9-7"
          transform="rotate(-45)"><tspan
            sodipodi:role="line"
            style="stroke-width:0.376"
-           x="573.42828"
-           y="834.80573"
+           x="580.164"
+           y="828.07001"
            id="tspan141265-5">Some Davakrai</tspan><tspan
            sodipodi:role="line"
            style="stroke-width:0.376"
-           x="573.42828"
-           y="836.1463"
+           x="580.164"
+           y="829.41058"
            id="tspan6594">      migrate from</tspan><tspan
            sodipodi:role="line"
            style="stroke-width:0.376"
-           x="573.42828"
-           y="837.48682"
+           x="580.164"
+           y="830.7511"
            id="tspan6596">         Lunima</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;line-height:0.95;font-family:Georgia;-inkscape-font-specification:'Georgia, Normal';font-variant-ligatures:normal;font-variant-caps:small-caps;font-variant-numeric:normal;font-variant-east-asian:normal;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.375999;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.979031;stop-color:#000000"
-         x="599.78046"
-         y="846.78705"
+         x="593.41895"
+         y="853.14856"
          id="text464219-6-0-2-9-7-9-5-9-2"
          transform="rotate(-45)"><tspan
            sodipodi:role="line"
            style="stroke-width:0.376"
-           x="599.78046"
-           y="846.78705"
+           x="593.41895"
+           y="853.14856"
            id="tspan141265-7">Export of grain halts</tspan><tspan
            sodipodi:role="line"
            style="stroke-width:0.376"
-           x="599.78046"
-           y="848.12762"
+           x="593.41895"
+           y="854.48914"
            id="tspan226505">    as population rises</tspan><tspan
            sodipodi:role="line"
            style="stroke-width:0.376"
-           x="599.78046"
-           y="849.46814"
+           x="593.41895"
+           y="855.82965"
            id="tspan226509">        to critical levels</tspan></text>
       <text
          xml:space="preserve"
@@ -15305,12 +15577,12 @@
            style="stroke-width:0.376"
            x="576.88281"
            y="722.56213"
-           id="tspan5887-0-8">Attasek build hill forts</tspan><tspan
+           id="tspan66314-5">Cevast falls to</tspan><tspan
            sodipodi:role="line"
            style="stroke-width:0.376"
            x="576.88281"
            y="723.90271"
-           id="tspan66314-5">    in Medhyamoya</tspan></text>
+           id="tspan5784">      raiders</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;line-height:0.95;font-family:Georgia;-inkscape-font-specification:'Georgia, Normal';font-variant-ligatures:normal;font-variant-caps:small-caps;font-variant-numeric:normal;font-variant-east-asian:normal;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.375999;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.979031;stop-color:#000000"
@@ -15345,6 +15617,167 @@
            x="563.27423"
            y="684.56372"
            id="tspan102325">      Cafuin</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;line-height:0.95;font-family:Georgia;-inkscape-font-specification:'Georgia, Normal';font-variant-ligatures:normal;font-variant-caps:small-caps;font-variant-numeric:normal;font-variant-east-asian:normal;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.375999;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.979031;stop-color:#000000"
+         x="493.85754"
+         y="612.65515"
+         id="text464219-6-0-2-9-3-8-3"
+         transform="rotate(-45)"><tspan
+           sodipodi:role="line"
+           style="stroke-width:0.376"
+           x="493.85754"
+           y="612.65515"
+           id="tspan5835">The Dark Ages of </tspan><tspan
+           sodipodi:role="line"
+           style="stroke-width:0.376"
+           x="493.85754"
+           y="613.99573"
+           id="tspan5839">   the Rhun begin</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;line-height:0.95;font-family:Georgia;-inkscape-font-specification:'Georgia, Normal';font-variant-ligatures:normal;font-variant-caps:small-caps;font-variant-numeric:normal;font-variant-east-asian:normal;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.375999;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.979031;stop-color:#000000"
+         x="580.45428"
+         y="725.86774"
+         id="text464219-6-0-2-9-7-4-7-5"
+         transform="rotate(-45)"><tspan
+           sodipodi:role="line"
+           style="stroke-width:0.376"
+           x="580.45428"
+           y="725.86774"
+           id="tspan5784-5">The last Rhun</tspan><tspan
+           sodipodi:role="line"
+           style="stroke-width:0.376"
+           x="580.45428"
+           y="727.20831"
+           id="tspan5871">    civilization</tspan><tspan
+           sodipodi:role="line"
+           style="stroke-width:0.376"
+           x="580.45428"
+           y="728.54883"
+           id="tspan5873">       collapses</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;line-height:0.95;font-family:Georgia;-inkscape-font-specification:'Georgia, Normal';font-variant-ligatures:normal;font-variant-caps:small-caps;font-variant-numeric:normal;font-variant-east-asian:normal;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.375999;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.979031;stop-color:#000000"
+         x="519.95416"
+         y="654.43793"
+         id="text464219-6-0-2-9-7-4-7-5-6"
+         transform="rotate(-45)"><tspan
+           sodipodi:role="line"
+           style="stroke-width:0.376"
+           x="519.95416"
+           y="654.43793"
+           id="tspan5873-1">Knowledge is tethered</tspan><tspan
+           sodipodi:role="line"
+           style="stroke-width:0.376"
+           x="519.95416"
+           y="655.7785"
+           id="tspan5912">   to Hundie by</tspan><tspan
+           sodipodi:role="line"
+           style="stroke-width:0.376"
+           x="519.95416"
+           y="657.11902"
+           id="tspan5914">         Revelation</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;line-height:0.95;font-family:Georgia;-inkscape-font-specification:'Georgia, Normal';font-variant-ligatures:normal;font-variant-caps:small-caps;font-variant-numeric:normal;font-variant-east-asian:normal;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.375999;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.979031;stop-color:#000000"
+         x="613.047"
+         y="747.53076"
+         id="text5954"
+         transform="rotate(-45)"><tspan
+           sodipodi:role="line"
+           style="stroke-width:0.376"
+           x="613.047"
+           y="747.53076"
+           id="tspan5952">Knowledge is freed,</tspan><tspan
+           sodipodi:role="line"
+           style="stroke-width:0.376"
+           x="613.047"
+           y="748.87134"
+           id="tspan5963">    Revelation is killed</tspan><tspan
+           sodipodi:role="line"
+           style="stroke-width:0.376"
+           x="613.047"
+           y="750.21185"
+           id="tspan5965">        Rhunendor is</tspan><tspan
+           sodipodi:role="line"
+           style="stroke-width:0.376"
+           x="613.047"
+           y="751.55243"
+           id="tspan5967">             flooded</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:1.41111px;line-height:0.2;font-family:Georgia;-inkscape-font-specification:'Georgia, Bold';font-variant-ligatures:normal;font-variant-caps:small-caps;font-variant-numeric:normal;font-variant-east-asian:normal;text-decoration-color:#000000;letter-spacing:1.32292px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.176;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.0999795;stop-color:#000000"
+         x="-112.59415"
+         y="961.0769"
+         id="text77224-8-1-4-6"
+         transform="rotate(-90)"><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;font-family:Georgia;-inkscape-font-specification:'Georgia, Normal';font-variant-ligatures:normal;font-variant-caps:small-caps;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke-width:0.176"
+           x="-112.59415"
+           y="961.0769"
+           id="tspan135269-5-6-2">Flood  of  REvelation</tspan></text>
+      <text
+         xml:space="preserve"
+         style="display:inline;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;line-height:1;font-family:Georgia;-inkscape-font-specification:'Georgia, Normal';font-variant-ligatures:normal;font-variant-caps:small-caps;font-variant-numeric:normal;font-variant-east-asian:normal;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.375999;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.490765;stop-color:#000000"
+         x="628.59558"
+         y="737.77789"
+         id="text856533-4"
+         transform="rotate(-45)"><tspan
+           sodipodi:role="line"
+           id="tspan856531-7"
+           style="stroke-width:0.376"
+           x="628.59558"
+           y="737.77789">Rhun refugees </tspan><tspan
+           sodipodi:role="line"
+           style="stroke-width:0.376"
+           x="628.59558"
+           y="739.18903"
+           id="tspan6023">      leave Rhunendor</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;line-height:0.95;font-family:Georgia;-inkscape-font-specification:'Georgia, Normal';font-variant-ligatures:normal;font-variant-caps:small-caps;font-variant-numeric:normal;font-variant-east-asian:normal;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.375999;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.979031;stop-color:#000000"
+         x="613.6604"
+         y="873.39001"
+         id="text5838"
+         transform="rotate(-45)"><tspan
+           sodipodi:role="line"
+           style="stroke-width:0.376"
+           x="613.6604"
+           y="873.39001"
+           id="tspan5836">Kar-Zurumothcar</tspan><tspan
+           sodipodi:role="line"
+           style="stroke-width:0.376"
+           x="613.6604"
+           y="874.73059"
+           id="tspan5845">     throws off the rule</tspan><tspan
+           sodipodi:role="line"
+           style="stroke-width:0.376"
+           x="613.6604"
+           y="876.07111"
+           id="tspan5847">            of Kar-Galnoskar</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;line-height:0.95;font-family:Georgia;-inkscape-font-specification:'Georgia, Normal';font-variant-ligatures:normal;font-variant-caps:small-caps;font-variant-numeric:normal;font-variant-east-asian:normal;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.375999;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.979031;stop-color:#000000"
+         x="618.60022"
+         y="878.32983"
+         id="text5855"
+         transform="rotate(-45)"><tspan
+           sodipodi:role="line"
+           style="stroke-width:0.376"
+           x="618.60022"
+           y="878.32983"
+           id="tspan5853">The early dynastic</tspan><tspan
+           sodipodi:role="line"
+           style="stroke-width:0.376"
+           x="618.60022"
+           y="879.67041"
+           id="tspan5862">      period of Lunima</tspan><tspan
+           sodipodi:role="line"
+           style="stroke-width:0.376"
+           x="618.60022"
+           y="881.01093"
+           id="tspan5864">         begins</tspan></text>
     </g>
     <g
        inkscape:groupmode="layer"
@@ -17692,6 +18125,13 @@
          height="143.00107"
          x="1053.3129"
          y="814.61584" />
+      <rect
+         style="display:inline;opacity:0.504298;fill:url(#linearGradient5996);fill-opacity:1;stroke:none;stroke-width:0.0461615;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.490765;stop-color:#000000"
+         id="rect34258-8-9-0"
+         width="10.988404"
+         height="44.527817"
+         x="961.31403"
+         y="69.857376" />
     </g>
   </g>
   <g
