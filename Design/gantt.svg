@@ -37,15 +37,15 @@
      inkscape:pagecheckerboard="0"
      inkscape:document-units="mm"
      showgrid="false"
-     inkscape:zoom="2.8284271"
-     inkscape:cx="4286.0188"
-     inkscape:cy="1509.7586"
+     inkscape:zoom="3.5109475"
+     inkscape:cx="3506.0316"
+     inkscape:cy="697.41619"
      inkscape:window-width="1920"
      inkscape:window-height="996"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer13"
+     inkscape:current-layer="layer14"
      units="px"
      inkscape:snap-global="true"
      inkscape:document-rotation="0"
@@ -7924,6 +7924,21 @@
        y1="885.99542"
        x2="1074.3777"
        y2="885.99542" />
+    <marker
+       style="overflow:visible"
+       id="marker9230-0"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mstart"
+       inkscape:isstock="true"
+       inkscape:collect="always">
+      <path
+         transform="scale(0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path9228-5" />
+    </marker>
   </defs>
   <g
      inkscape:groupmode="layer"
@@ -23649,6 +23664,67 @@
            x="491.84354"
            y="1075.6401"
            id="tspan206651">       the Kohtunik</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;line-height:0.95;font-family:Georgia;-inkscape-font-specification:'Georgia, Normal';font-variant-ligatures:normal;font-variant-caps:small-caps;font-variant-numeric:normal;font-variant-east-asian:normal;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.375999;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.979031;stop-color:#000000"
+         x="638.99634"
+         y="908.60272"
+         id="text102327-0"
+         transform="rotate(-45)"><tspan
+           sodipodi:role="line"
+           style="stroke-width:0.376"
+           x="638.99634"
+           y="908.60272"
+           id="tspan102325-3">Sigil is founded</tspan><tspan
+           sodipodi:role="line"
+           style="stroke-width:0.376"
+           x="638.99634"
+           y="909.9433"
+           id="tspan13863">    by the Lady of Pain</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;line-height:0.95;font-family:Georgia;-inkscape-font-specification:'Georgia, Normal';font-variant-ligatures:normal;font-variant-caps:small-caps;font-variant-numeric:normal;font-variant-east-asian:normal;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.375999;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.979031;stop-color:#000000"
+         x="438.16537"
+         y="707.80658"
+         id="text102327-7"
+         transform="rotate(-45)"><tspan
+           sodipodi:role="line"
+           style="stroke-width:0.376"
+           x="438.16537"
+           y="707.80658"
+           id="tspan102325-6">Vanemer bridges</tspan><tspan
+           sodipodi:role="line"
+           style="stroke-width:0.376"
+           x="438.16537"
+           y="709.14716"
+           id="tspan13882">   Corilya, Andolem,</tspan><tspan
+           sodipodi:role="line"
+           style="stroke-width:0.376"
+           x="438.16537"
+           y="710.48767"
+           id="tspan13884">         and Mediul</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;line-height:0.95;font-family:Georgia;-inkscape-font-specification:'Georgia, Normal';font-variant-ligatures:normal;font-variant-caps:small-caps;font-variant-numeric:normal;font-variant-east-asian:normal;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.375999;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.979031;stop-color:#000000"
+         x="481.77548"
+         y="750.97858"
+         id="text102327-5"
+         transform="rotate(-45)"><tspan
+           sodipodi:role="line"
+           style="stroke-width:0.376"
+           x="481.77548"
+           y="750.97858"
+           id="tspan102325-0">Vanemer bridges</tspan><tspan
+           sodipodi:role="line"
+           style="stroke-width:0.376"
+           x="481.77548"
+           y="752.31915"
+           id="tspan13903">   Mediul and the</tspan><tspan
+           sodipodi:role="line"
+           style="stroke-width:0.376"
+           x="481.77548"
+           y="753.65967"
+           id="tspan13905">       Fey Realms</tspan></text>
     </g>
     <g
        inkscape:groupmode="layer"
@@ -25828,8 +25904,7 @@
        inkscape:groupmode="layer"
        id="layer8"
        inkscape:label="global events"
-       style="display:inline"
-       sodipodi:insensitive="true">
+       style="display:inline">
       <path
          style="fill:#ffb316;fill-opacity:1;stroke:#a80f00;stroke-width:1.264;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.490765;stop-color:#000000"
          d="M 403.80989,1175.5493 V 171.31568"
@@ -25980,8 +26055,7 @@
     <g
        inkscape:groupmode="layer"
        id="layer11"
-       inkscape:label="local events"
-       sodipodi:insensitive="true">
+       inkscape:label="local events">
       <rect
          style="display:inline;opacity:0.504298;fill:url(#linearGradient91148);fill-opacity:1;stroke:none;stroke-width:0.220963;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.490765;stop-color:#000000"
          id="rect34258-8-9"
@@ -26068,8 +26142,7 @@
      inkscape:groupmode="layer"
      id="layer9"
      inkscape:label="magic timeline"
-     style="display:inline"
-     sodipodi:insensitive="true">
+     style="display:inline">
     <path
        style="display:inline;fill:none;stroke:#000000;stroke-width:0.474299;stop-color:#000000"
        d="M 52.163492,1463.6768 H 2116.0253"
@@ -28002,6 +28075,36 @@
          style="font-size:6.35px;stroke-width:0.176389"
          x="1367.1882"
          y="1483.1653">Epoch of Reclaimed Power</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777px;line-height:0;font-family:Georgia;-inkscape-font-specification:'Georgia, Normal';font-variant-ligatures:normal;font-variant-caps:small-caps;font-variant-numeric:normal;font-variant-east-asian:normal;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.176389;stop-color:#000000"
+       x="1316.8064"
+       y="1498.0391"
+       id="text145313-6"><tspan
+         sodipodi:role="line"
+         id="tspan145307-7"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777px;line-height:1.05;font-family:Georgia;-inkscape-font-specification:'Georgia, Normal';font-variant-ligatures:normal;font-variant-caps:small-caps;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.176389"
+         x="1316.8064"
+         y="1498.0391">(TENTATIVE)</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777px;line-height:1.05;font-family:Georgia;-inkscape-font-specification:'Georgia, Normal';font-variant-ligatures:normal;font-variant-caps:small-caps;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.176389"
+         x="1316.8064"
+         y="1501.7432"
+         id="tspan145681-7">Extraplanar Visitors</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11667px;line-height:0.95;font-family:Georgia;-inkscape-font-specification:'Georgia, Normal';font-variant-ligatures:normal;font-variant-caps:small-caps;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.176389"
+         x="1316.8064"
+         y="1504.2095"
+         id="tspan145311-0">The first explorers from other planes</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11667px;line-height:0.95;font-family:Georgia;-inkscape-font-specification:'Georgia, Normal';font-variant-ligatures:normal;font-variant-caps:small-caps;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.176389"
+         x="1316.8064"
+         y="1506.2203"
+         id="tspan13831">arrive in Asfalon</tspan></text>
+    <path
+       style="display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.176;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#marker9230-0);stop-color:#000000"
+       d="m 1317.2548,1494.9908 v -6.7747"
+       id="path145315-6" />
   </g>
   <g
      inkscape:groupmode="layer"
