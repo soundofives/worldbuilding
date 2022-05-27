@@ -1,14 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   inkscape:version="1.0.2 (e86c870, 2021-01-15)"
+   inkscape:version="1.1 (c4e8f9e, 2021-05-24)"
    width="8000"
    height="6000"
    viewBox="0 0 2116.6666 1587.5001"
@@ -17,7 +9,15 @@
    sodipodi:docname="gantt.svg"
    inkscape:export-filename="/home/soundofives/Documents/DND/Design/gantt.png"
    inkscape:export-xdpi="800"
-   inkscape:export-ydpi="800">
+   inkscape:export-ydpi="800"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
   <metadata
      id="metadata2887">
     <rdf:RDF>
@@ -40,14 +40,14 @@
      inkscape:document-units="mm"
      showgrid="false"
      inkscape:zoom="4.3116888"
-     inkscape:cx="4334.4514"
-     inkscape:cy="1770.7042"
-     inkscape:window-width="1920"
-     inkscape:window-height="996"
+     inkscape:cx="3986.9529"
+     inkscape:cy="4736.1952"
+     inkscape:window-width="3840"
+     inkscape:window-height="2067"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer13"
+     inkscape:current-layer="layer15"
      units="px"
      inkscape:snap-global="true"
      inkscape:document-rotation="0"
@@ -55,6 +55,18 @@
      inkscape:snap-bbox="true" />
   <defs
      id="defs33172">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient324623">
+      <stop
+         style="stop-color:#d40000;stop-opacity:1;"
+         offset="0"
+         id="stop324619" />
+      <stop
+         style="stop-color:#f6cccc;stop-opacity:1"
+         offset="1"
+         id="stop324621" />
+    </linearGradient>
     <linearGradient
        inkscape:collect="always"
        id="linearGradient170291">
@@ -7961,6 +7973,33 @@
        y1="1253.1135"
        x2="304.83435"
        y2="1374.9963"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient324623"
+       id="linearGradient324625"
+       x1="769.92542"
+       y1="1330.4038"
+       x2="759.44189"
+       y2="1327.8297"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient324623"
+       id="linearGradient328754"
+       x1="768.24017"
+       y1="1338.806"
+       x2="759.81494"
+       y2="1328.3146"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient324623"
+       id="linearGradient342857"
+       x1="765.93341"
+       y1="1349.9961"
+       x2="757.45709"
+       y2="1329.0364"
        gradientUnits="userSpaceOnUse" />
   </defs>
   <g
@@ -24499,6 +24538,13 @@
        inkscape:groupmode="layer"
        id="layer15"
        inkscape:label="anariima">
+      <rect
+         style="display:inline;opacity:0.2;fill:#d40000;fill-opacity:1;stroke:none;stroke-width:0.117557;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.979031;stop-color:#000000"
+         id="rect496657"
+         width="1.0218083"
+         height="5.291635"
+         x="758.41675"
+         y="1323.556" />
       <path
          style="fill:none;fill-opacity:1;stroke:#37b437;stroke-width:0.529;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
          d="m 759.69237,1293.1471 c 8.45798,0 13.75067,11.5482 25.26055,11.5482"
@@ -24510,13 +24556,13 @@
          id="path326992-6-7-7-2"
          sodipodi:nodetypes="cc" />
       <path
-         style="fill:none;fill-opacity:1;stroke:#d40000;stroke-width:0.529;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
-         d="m 759.43855,1328.5939 c 6.43737,0.7693 -16.81403,21.9478 7.9896,21.9478"
+         style="fill:none;fill-opacity:1;stroke:url(#linearGradient342857);stroke-width:0.529;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+         d="m 759.37013,1328.5754 c 6.43737,0.7693 -16.74561,21.9663 8.05802,21.9663"
          id="path326992-6-7-7-3"
          sodipodi:nodetypes="cc" />
       <path
-         style="fill:none;fill-opacity:1;stroke:#d40000;stroke-width:0.529;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
-         d="m 759.43855,1328.0647 c 9.64144,0.186 5.6574,11.6025 10.12258,11.5763"
+         style="fill:none;fill-opacity:1;stroke:url(#linearGradient328754);stroke-width:0.529;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+         d="m 759.35755,1328.0438 c 9.64144,0.186 5.7384,11.6234 10.20358,11.5972"
          id="path326992-6-7-7-3-5"
          sodipodi:nodetypes="cc" />
       <path
@@ -25393,10 +25439,6 @@
          id="path328707-4" />
       <path
          style="fill:#bf00ff;fill-opacity:1;stroke:#37b437;stroke-width:0.529;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
-         d="M 826.56508,1278.4332 H 1097.0464"
-         id="path328707-4-8" />
-      <path
-         style="fill:#bf00ff;fill-opacity:1;stroke:#37b437;stroke-width:0.529;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
          d="M 850.30968,1313.9923 H 1120.791"
          id="path328707-4-8-3" />
       <path
@@ -25961,20 +26003,12 @@
          y="1289.1827"
          transform="scale(-1,1)" />
       <rect
-         style="fill:#35b535;fill-opacity:1;stroke:none;stroke-width:0.644204;stroke-opacity:0.894118;stop-color:#000000"
+         style="fill:#35b535;fill-opacity:1;stroke:none;stroke-width:2.62061;stroke-opacity:0.894118;stop-color:#000000"
          id="rect496639-2"
-         width="16.548193"
+         width="273.84695"
          height="2.6458333"
-         x="-797.02063"
+         x="-1054.3193"
          y="1289.7119"
-         transform="scale(-1,1)" />
-      <rect
-         style="fill:#35b535;fill-opacity:1;stroke:none;stroke-width:1.26193;stroke-opacity:0.894118;stop-color:#000000"
-         id="rect496639-2-1"
-         width="79.375"
-         height="2.1166666"
-         x="-874.80811"
-         y="1290.2411"
          transform="scale(-1,1)" />
       <rect
          style="display:inline;opacity:0.8;fill:#35b535;fill-opacity:1;stroke:none;stroke-width:0.15984;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.979031;stop-color:#000000"
@@ -26031,13 +26065,6 @@
          width="1.4819251"
          height="3.7042308"
          x="759.96771"
-         y="1323.556" />
-      <rect
-         style="display:inline;opacity:0.2;fill:#d40000;fill-opacity:1;stroke:none;stroke-width:0.117557;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.979031;stop-color:#000000"
-         id="rect496657"
-         width="1.0218083"
-         height="5.291635"
-         x="758.41675"
          y="1323.556" />
       <text
          xml:space="preserve"
@@ -26320,27 +26347,9 @@
          d="m 780.75886,1289.4479 c 5.11239,-0.039 3.31502,-14.1577 11.98365,-14.1577"
          id="path609252-0"
          sodipodi:nodetypes="cc" />
-      <text
-         xml:space="preserve"
-         style="font-size:3.52777px;line-height:1.25;font-family:Georgia;-inkscape-font-specification:'Georgia, Normal';font-variant-caps:small-caps;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#c500c5;stroke-width:0.529167;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
-         x="810.02936"
-         y="1278.8644"
-         id="text67952-7-6-22-0-3-7-9"><tspan
-           sodipodi:role="line"
-           id="tspan67950-5-1-0-2-8-3-0"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;font-family:Georgia;-inkscape-font-specification:'Georgia, Normal';font-variant-ligatures:normal;font-variant-caps:small-caps;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.529167"
-           x="810.02936"
-           y="1278.8644">Faranwe's cord<tspan
-   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.705556px;font-family:Georgia;-inkscape-font-specification:'Georgia, Normal';font-variant-ligatures:normal;font-variant-caps:small-caps;font-variant-numeric:normal;font-variant-east-asian:normal"
-   id="tspan967488">, in the soul spike</tspan></tspan></text>
       <path
-         style="fill:none;fill-opacity:1;stroke:#37b437;stroke-width:0.529;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
-         d="m 796.49146,1290.0447 c 5.11239,-0.039 4.39356,-11.6115 13.06219,-11.6115"
-         id="path609252-0-6"
-         sodipodi:nodetypes="cc" />
-      <path
-         style="fill:none;fill-opacity:1;stroke:#d40000;stroke-width:0.529;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
-         d="m 759.43855,1327.5355 c 8.88763,0.43 8.65159,2.8928 10.48684,2.8683"
+         style="fill:none;fill-opacity:1;stroke:url(#linearGradient324625);stroke-width:0.529;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+         d="m 759.3426,1327.4968 c 8.88763,0.43 8.74754,2.9315 10.58279,2.907"
          id="path678916"
          sodipodi:nodetypes="cc" />
       <text
@@ -26494,31 +26503,19 @@
       <text
          xml:space="preserve"
          style="font-size:3.52777px;line-height:0.25;font-family:Georgia;-inkscape-font-specification:'Georgia, Normal';font-variant-caps:small-caps;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#c500c5;stroke-width:0.529167;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
-         x="-328.96048"
-         y="1477.9088"
-         id="text256635-2-9-6-7-2-1-7"
-         transform="rotate(-45)"><tspan
-           sodipodi:role="line"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;font-family:Georgia;-inkscape-font-specification:'Georgia, Normal';font-variant-ligatures:normal;font-variant-caps:small-caps;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.529167"
-           x="-328.96048"
-           y="1477.9088"
-           id="tspan897639-6-4">Given to Toran</tspan></text>
-      <text
-         xml:space="preserve"
-         style="font-size:3.52777px;line-height:0.25;font-family:Georgia;-inkscape-font-specification:'Georgia, Normal';font-variant-caps:small-caps;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#c500c5;stroke-width:0.529167;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
-         x="-314.15546"
-         y="1517.0376"
+         x="-311.16205"
+         y="1520.0308"
          id="text256635-2-9-6-7-2-1-7-3"
          transform="rotate(-45)"><tspan
            sodipodi:role="line"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;font-family:Georgia;-inkscape-font-specification:'Georgia, Normal';font-variant-ligatures:normal;font-variant-caps:small-caps;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.529167"
-           x="-314.15546"
-           y="1517.0376"
+           x="-311.16205"
+           y="1520.0308"
            id="tspan897639-6-4-8">Recovered by</tspan><tspan
            sodipodi:role="line"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;font-family:Georgia;-inkscape-font-specification:'Georgia, Normal';font-variant-ligatures:normal;font-variant-caps:small-caps;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.529167"
-           x="-314.15546"
-           y="1518.2417"
+           x="-311.16205"
+           y="1521.2349"
            id="tspan40784">    Mithanar and Esodh</tspan></text>
       <text
          xml:space="preserve"
@@ -26681,6 +26678,64 @@
          height="2.1166666"
          x="299.28378"
          y="1250.8904" />
+      <text
+         xml:space="preserve"
+         style="font-size:3.52777px;line-height:0.25;font-family:Georgia;-inkscape-font-specification:'Georgia, Normal';font-variant-caps:small-caps;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#c500c5;stroke-width:0.529167;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+         x="-348.68582"
+         y="1474.5789"
+         id="text349104"
+         transform="rotate(-45)"><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;font-family:Georgia;-inkscape-font-specification:'Georgia, Normal';font-variant-ligatures:normal;font-variant-caps:small-caps;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.529167"
+           x="-348.68582"
+           y="1474.5789"
+           id="tspan349102">Given to Seranixia</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:3.52777px;line-height:0.25;font-family:Georgia;-inkscape-font-specification:'Georgia, Normal';font-variant-caps:small-caps;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#c500c5;stroke-width:0.529167;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+         x="-335.2392"
+         y="1488.0255"
+         id="text355547"
+         transform="rotate(-45)"><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;font-family:Georgia;-inkscape-font-specification:'Georgia, Normal';font-variant-ligatures:normal;font-variant-caps:small-caps;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.529167"
+           x="-335.2392"
+           y="1488.0255"
+           id="tspan355545">Taken by Zuwra-Esarend</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:3.52777px;line-height:0.25;font-family:Georgia;-inkscape-font-specification:'Georgia, Normal';font-variant-caps:small-caps;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#c500c5;stroke-width:0.529167;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+         x="-307.42145"
+         y="1515.8433"
+         id="text356513"
+         transform="rotate(-45)"><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;font-family:Georgia;-inkscape-font-specification:'Georgia, Normal';font-variant-ligatures:normal;font-variant-caps:small-caps;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.529167"
+           x="-307.42145"
+           y="1515.8433"
+           id="tspan356511">Stolen, given to Yuvis in</tspan><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;font-family:Georgia;-inkscape-font-specification:'Georgia, Normal';font-variant-ligatures:normal;font-variant-caps:small-caps;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.529167"
+           x="-307.42145"
+           y="1517.0474"
+           id="tspan356771">       Navastana</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:3.52777px;line-height:0.25;font-family:Georgia;-inkscape-font-specification:'Georgia, Normal';font-variant-caps:small-caps;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#c500c5;stroke-width:0.529167;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+         x="-167.27528"
+         y="1655.9894"
+         id="text356857"
+         transform="rotate(-45)"><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;font-family:Georgia;-inkscape-font-specification:'Georgia, Normal';font-variant-ligatures:normal;font-variant-caps:small-caps;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.529167"
+           x="-167.27528"
+           y="1655.9894"
+           id="tspan356855">Taken by Vayhati-Ceris</tspan><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;font-family:Georgia;-inkscape-font-specification:'Georgia, Normal';font-variant-ligatures:normal;font-variant-caps:small-caps;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.529167"
+           x="-167.27528"
+           y="1657.1935"
+           id="tspan357711">    to Cerisia</tspan></text>
     </g>
     <g
        inkscape:groupmode="layer"
