@@ -104,3 +104,130 @@ Shukunenes
 Desharenes
 Omanusians
 Marmans
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+-------------------------
+New ideas. I think the former population densities were too high... Maybe? Maybe not. Population densities of the Tripalli culture were INSANE and were from a time period before this (ish). They lasted for a while too, before being dispersed by more invasions from the east. These people are similar to refugees too. Let's rework it a little though.
+
+
+54k - 10 million returned in the Atanosta to  Nomenes.
+9000 years w/ 0.02/100 growth rate
+
+The first thing that must happen is that these people begin to diffuse. There are so many! They have a pretty small growth rate during this diffusion--the process is sometimes violent and the travel is dangerous. These returned astar are new to the environment. 0.02 growth rate during the earliest diffusion.
+What are the dynamics of the diffusion? There are two main ways out of Dinaelin: east and west. East is the wide plains and eventually the red desert. The plains themselves are a big draw, and a big river flows into them.
+The river also flows out west, into the Mediterranean/forested Nos Mori sea. Both are attractive options. Let's say the diffusion rate is 1 km / yr (based on online source for farmers in Europe). Most of these people that spread start as horticulturalists (as the astar were at the end of the previous period in Amarth) though many transition to hunter-gatherer lifestyles in the east. Their diffusion rate is 2 km / yr. Northward diffusion is slowed by the proximity of the poisonous mercury. It only begins after ~2000 years, after Kastas-Ceris makes the deal with the snake spirit. 
+
+The normal diffusion lasts until the average population density distant to Tellin is 0.5 people / sq mile.
+
+Western diffusion:---------------------------------------
+
+--After 1200 years the first astar cross the land bridge into Huroma.
+
+--After 2700 years the first astar reach the end of the Samavaga peninsula.
+
+--3700 years--astar reach the southern tip of the Weswesum, meeting Ghahaka
+
+--4100 years--astar on Samavaga peninsula cross the strait to Eyasol
+
+--4200 years--the first astar reach Huroma's west coast.
+
+--5200 years--the first astar reach the southern tip of Huroma.
+
+--5900 years--astar in Eyasol diffuse halfway across the subcontinent, to the northern teeth
+
+********6200 years--astar from southern tip of Huroma cross to Eyasol.
+
+CONFLICT!! MIXING OF CULTURES!!!
+
+--7900 years--astar diffuse all the way across Eyasol.
+
+--10000 years--astar from western Eyasol cross to the easternmost island chain of **********Austera**********.
+
+Northern diffusion:--------------------------------------
+
+1700 years--astar found Sokstanum 400 km northeast of Tellin.
+2200 years--Kastas-Ceris makes deal with spirit. Diffusion north increases from practically zero to 0.5 km /yr, moving with the culture.
+
+5700 years--Ruksal diffuse east, hitting the central sea.
+
+6400 years--Ruksal reach the northernmost point of the peninsula above the Weswesum.
+
+7700 years--Ruksal (culture?) move south, rounding the bend in the central sea.
+
+7700 years--Ruksal first cross the central sea.
+
+Generally, around this time, Ruksal tend to diffuse across the sea rather than farther south.
+
+Eastern diffusion-----------------------------------------
+Diffusion rates to the wide open east are faster, as the cultures here primarily reverted to hunting and gathering. 2 km /yr avg, though slowing once they reached the colder southern climates. Diffusion is also slowed to the far east by the remnant lizardmen populations.
+
+
+1100 years--hunter gatherers reach the westernmost coast of the central sea.
+
+1200 years--hunter gatherer astar reach the southernmost parts of the Weswesum.
+
+1300 years--hunter gatherers reach the norhternmost peninsula above the Weswesum.
+
+1400 years--hunter gatherers reach the northwesternmost corner of the southern inland sea.
+
+1900 years--hunter gatherers reach the eastern mountains.
+
+2000 years--hunter gatherers reach the easternmost parts of the central sea.
+
+2000 years--hunter gatherers from most parts of the central sea have crossed it, expanding into the northern half of Nomenes.
+
+2500 years--hunter gatherers reach the eastern side of the southern sea.
+
+3000 years--hunter gatherers reach the southern coastal mountains and round the southern tip of the inland sea.
+
+3200 years--HGs from the northern coast of the middle central sea reach the eastern mountains.
+
+3500 years--HGs from the northwestern coast of the northern part of Nomenes reach Ebo.
+
+3600 years--HGs from the northeastern parts of the southern sea diffuse south, reaching the southeastern corner.
+
+3900 years--HGs cross the eastern mountains into the island-filled bowl bay.
+
+4000 years--HGs diffuse across the southern coast of the inland sea, reaching the eastern side. They meet the HGs that reached there 400 years prior! CONFLICT?
+
+4700 years--HGs from the mideastern coast of the southern sea diffuse further east, reaching the eastern coast of Nomenes.
+
+5200 years--HGs on the western side of the central part of the eastern mountains cross over the mountains at a thin region near a sea. They cross into the southernmost reaches of Ebo.
+
+5900 years--HGs from the southern parts of the eastern coast of Nomenes diffuse upwards, meeting those astar that crossed the mountains directly. CONFLICT?
+
+6000 years--HGs from the northern coast of the middle central sea cross the desert and reach Ebo
+
+6000 years--HGs from the southeastern coast of Nomenes diffuse across the largest bowl island.
+
+6400 years--HGs from the island bowl bay diffuse northeast and reach the easternmost point of Nomenes.
+
+7200 years--HGs that crossed over the eastern mountains near the center reach the easternmost part of Nomenes.
+
+7400 years--HGs from the largest bowl island reach the next large island to the east.
+
+10000 years--HGs from that next large island reach ********Austera's********** western coast, near the teeth.
+
+------
+Wow. 10,000 years of expansion!
+By this time, Tellin has entered the Bronze age.
+With average growth rate of 0.02/100, total astar population is 73 million! 0.02 is decent rate for all pre-Bronze cultures, even diffusing ones.
+Average population density across all the territory of the astar (~54 Mm!) is 3.5. Tellin and around Nos Mori is generally more dense than other regions. Okos is forming, as are other cities. Nlashikir are beginning to influence the west.
+
+After 10,000 years, territory in Nomenes has run out. From here on, growth slows and stagnates in regions that do not develop further.
+
+Additionally, after 10,000 years, the first groups of astar reach east and west Austera. The populations here are no longer controlled by pure diffusion, instead their expansion is controlled by population growth alone. They expand much slower.

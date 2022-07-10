@@ -54,7 +54,7 @@ def pre_sim_process(ages,mortality,lifetime,fertility_start,fertility_end,TF_gue
     #I create a functional form of the mortality with get_curve and evaluate it at points:
     #np.linspace(0,int(max(ages)),len(ages)). The array isn't expanded at all yet.
     #if (ages[1]-ages[0]) != (ages[3]-ages[2]) != (ages[9]-ages[8]):
-    if abs((ages[1]-ages[0]) - (ages[9]-ages[8])) > 1e-5 :
+    if abs((ages[1]-ages[0]) - (ages[7]-ages[6])) > 1e-5 :
         abb_mortality = get_curve(ages,len(ages),mortality,deg=curve_degree)
     else:
         #if it's already got normalized ages, no need to change anything
