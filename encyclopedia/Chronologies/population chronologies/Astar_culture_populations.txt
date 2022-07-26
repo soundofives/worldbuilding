@@ -135,25 +135,25 @@ The normal diffusion lasts until the average population density distant to Telli
 
 Western diffusion:---------------------------------------
 
-+--After 1200 years the first astar cross the land bridge into Huroma.
+/+--After 1200 years the first astar cross the land bridge into Huroma.
 
-+--After 2700 years the first astar reach the end of the Samavaga peninsula.
+/+--After 2700 years the first astar reach the end of the Samavaga peninsula.
 
-+--3700 years--astar reach the southern tip of the Weswesum, meeting Ghahaka
+/+--3700 years--astar reach the southern tip of the Weswesum, meeting Ghahaka
 
-+--4100 years--astar on Samavaga peninsula cross the strait to Eyasol
+/+--4100 years--astar on Samavaga peninsula cross the strait to Eyasol
 
-+--4200 years--the first astar reach Huroma's west coast.
+/+--4200 years--the first astar reach Huroma's west coast.
 
-+--5200 years--the first astar reach the southern tip of Huroma.
+/+--5200 years--the first astar reach the southern tip of Huroma.
 
-+--5900 years--astar in Eyasol diffuse halfway across the subcontinent, to the northern teeth
+/+--5900 years--astar in Eyasol diffuse halfway across the subcontinent, to the northern teeth
 
-********6200 years--astar from southern tip of Huroma cross to Eyasol.
+/********6200 years--astar from southern tip of Huroma cross to Eyasol.
 
 CONFLICT!! MIXING OF CULTURES!!!
 
---7900 years--astar diffuse all the way across Eyasol.
+/--7900 years--astar diffuse all the way across Eyasol.
 
 --10000 years--astar from western Eyasol cross to the easternmost island chain of **********Austera**********.
 
@@ -175,49 +175,49 @@ Generally, around this time, Ruksal tend to diffuse across the sea rather than f
 Eastern diffusion-----------------------------------------
 Diffusion rates to the wide open east are faster, as the cultures here primarily reverted to hunting and gathering. 2 km /yr avg, though slowing once they reached the colder southern climates. Diffusion is also slowed to the far east by the remnant lizardmen populations.
 
---1100 years--hunter gatherers reach the westernmost coast of the central sea.
+/--1100 years--hunter gatherers reach the westernmost coast of the central sea.
 
---1200 years--hunter gatherer astar reach the southernmost parts of the Weswesum.
+/--1200 years--hunter gatherer astar reach the southernmost parts of the Weswesum.
 
---1300 years--hunter gatherers reach the norhternmost peninsula above the Weswesum.
+/--1300 years--hunter gatherers reach the norhternmost peninsula above the Weswesum.
 
---1400 years--hunter gatherers reach the northwesternmost corner of the southern inland sea.
+/--1400 years--hunter gatherers reach the northwesternmost corner of the southern inland sea.
 
---1900 years--hunter gatherers reach the eastern mountains.
+/--1900 years--hunter gatherers reach the eastern mountains.
 
-(non visual) 2000 years--hunter gatherers reach the easternmost parts of the central sea.
+/(non visual) 2000 years--hunter gatherers reach the easternmost parts of the central sea.
 
---2000 years--hunter gatherers from most parts of the central sea have crossed it, expanding into the northern half of Nomenes.
+/--2000 years--hunter gatherers from most parts of the central sea have crossed it, expanding into the northern half of Nomenes.
 
---2500 years--hunter gatherers reach the eastern side of the southern sea.
+/--2500 years--hunter gatherers reach the eastern side of the southern sea.
 
---3000 years--hunter gatherers reach the southern coastal mountains and round the southern tip of the inland sea.
+/51800--3000 years--hunter gatherers reach the southern coastal mountains and round the southern tip of the inland sea.
 
---3200 years--HGs from the northern coast of the middle central sea reach the eastern mountains.
+/--3200 years--HGs from the northern coast of the middle central sea reach the eastern mountains.
 
---3500 years--HGs from the northwestern coast of the northern part of Nomenes reach Ebo.
+/ (non visual) 3600 years--HGs from the northeastern parts of the southern sea diffuse south, reaching the southeastern corner.
 
- (non visual) 3600 years--HGs from the northeastern parts of the southern sea diffuse south, reaching the southeastern corner.
+/--3900 years--HGs cross the eastern mountains into the island-filled bowl bay.
 
---3900 years--HGs cross the eastern mountains into the island-filled bowl bay.
+/--4000 years--HGs diffuse across the southern coast of the inland sea, reaching the eastern side. They meet the HGs that reached there 400 years prior! CONFLICT?
 
---4000 years--HGs diffuse across the southern coast of the inland sea, reaching the eastern side. They meet the HGs that reached there 400 years prior! CONFLICT?
+/(non visual) 4700 years--HGs from the mideastern coast of the southern sea diffuse further east, reaching the eastern coast of Nomenes.
 
-(non visual) 4700 years--HGs from the mideastern coast of the southern sea diffuse further east, reaching the eastern coast of Nomenes.
+/--5200 years--HGs on the western side of the central part of the eastern mountains cross over the mountains at a thin region near a sea. They cross into the southernmost reaches of Ebo.
 
---5200 years--HGs on the western side of the central part of the eastern mountains cross over the mountains at a thin region near a sea. They cross into the southernmost reaches of Ebo.
+/--5500 years--HGs from the northwestern coast of the northern part of Nomenes reach Ebo. (CHANGE THIS IN GANTT, from 3500)
 
 --5900 years--HGs from the southern parts of the eastern coast of Nomenes diffuse upwards, meeting those astar that crossed the mountains directly. CONFLICT?
 
---6000 years--HGs from the northern coast of the middle central sea cross the desert and reach Ebo
+REMOVED - desert crossing is hard until you get camels n shit--6000 years--HGs from the northern coast of the middle central sea cross the desert and reach Ebo
 
 (non visual) 6000 years--HGs from the southeastern coast of Nomenes diffuse across the largest bowl island.
 
---6400 years--HGs from the island bowl bay diffuse northeast and reach the easternmost point of Nomenes.
+/--6400 years--HGs from the island bowl bay diffuse northeast and reach the easternmost point of Nomenes.
 
---7200 years--HGs that crossed over the eastern mountains near the center reach the easternmost part of Nomenes.
+/--7200 years--HGs that crossed over the eastern mountains near the center reach the easternmost part of Nomenes.
 
---7400 years--HGs from the largest bowl island reach the next large island to the east.
+/--7400 years--HGs from the largest bowl island reach the next large island to the east.
 
 --10000 years--HGs from that next large island reach ********Austera's********** western coast, near the teeth.
 
