@@ -1,6 +1,6 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2021.9.13)  5 AUG 2022 14:21
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2022.8.7)  7 AUG 2022 10:26
 entering extended mode
- \write18 enabled.
+ restricted \write18 enabled.
  %&-line parsing enabled.
 **CultureLibrary.tex
 (./CultureLibrary.tex
@@ -550,8 +550,8 @@ d pseu-dopoly-the-ist, spirit-
 [4] (./CultureLibrary.aux) ) 
 Here is how much of TeX's memory you used:
  9652 strings out of 481239
- 167738 string characters out of 5920377
- 452250 words of memory out of 5000000
+ 167738 string characters out of 5920378
+ 452249 words of memory out of 5000000
  24757 multiletter control sequences out of 15000+600000
  542711 words of font info for 68 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
