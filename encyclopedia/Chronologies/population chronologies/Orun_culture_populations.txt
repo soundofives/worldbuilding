@@ -34,6 +34,11 @@ Most of these Orun remained in Ebo and surrounding territories, but about 200,00
 
 How much territory can the Akobi control?
 Let's say he has full support from his populace (full deity pool), with 2.5 million people that's 8600 points--but some have to go to deities too! Let's say he gets 38/48 of those major deity slots.
+<<<<<<< HEAD
 blah blah blah population density must be ~12-17 per sq km. 20-34 per sq mile. Pretty dense!
 
 Anyway, the actual Akobate grows veeeery slowly during this time. Fractions of a km per year.
+=======
+blah blah blah population density must be ~17 per sq km. 34 per sq mile. Pretty dense!
+
+>>>>>>> refs/remotes/origin/main
