@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2022.8.7)  14 AUG 2022 10:52
-=======
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2022.8.7)  11 AUG 2022 20:09
->>>>>>> refs/remotes/origin/main
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2022.8.7)  27 AUG 2022 12:41
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -557,17 +553,10 @@ d pseu-dopoly-the-ist, spirit-
 
 [4] [5] (./CultureLibrary.aux) ) 
 Here is how much of TeX's memory you used:
-<<<<<<< HEAD
  9651 strings out of 481239
  167720 string characters out of 5920378
  452249 words of memory out of 5000000
  24756 multiletter control sequences out of 15000+600000
-=======
- 9652 strings out of 481239
- 167738 string characters out of 5920378
- 452249 words of memory out of 5000000
- 24757 multiletter control sequences out of 15000+600000
->>>>>>> refs/remotes/origin/main
  542711 words of font info for 68 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  35i,6n,40p,3246b,199s stack positions out of 5000i,500n,10000p,200000b,80000s

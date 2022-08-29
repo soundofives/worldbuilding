@@ -39,15 +39,15 @@
      inkscape:pagecheckerboard="0"
      inkscape:document-units="mm"
      showgrid="false"
-     inkscape:zoom="5.6568542"
-     inkscape:cx="3963.8638"
-     inkscape:cy="3776.6573"
+     inkscape:zoom="4"
+     inkscape:cx="3981.875"
+     inkscape:cy="4135.75"
      inkscape:window-width="3840"
      inkscape:window-height="2129"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer14"
+     inkscape:current-layer="layer13"
      units="px"
      inkscape:snap-global="true"
      inkscape:document-rotation="0"
@@ -18889,6 +18889,11 @@
        inkscape:label="civs"
        style="display:inline">
       <path
+         style="display:inline;fill:none;fill-opacity:1;stroke:#0063a8;stroke-width:0.4;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
+         d="m 1054.7255,1111.9166 c 11.8138,0.6507 36.967,-1.8172 53.2691,-1.803"
+         id="path577014-0-8-6-8-0"
+         sodipodi:nodetypes="cc" />
+      <path
          style="display:inline;fill:none;fill-opacity:1;stroke:#b3b3b3;stroke-width:0.4;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.960433;stop-color:#000000"
          d="m 969.23414,988.61543 c 17.59715,-0.27599 -1.26866,125.36077 18.18433,125.36077"
          id="path224813-8"
@@ -19121,7 +19126,7 @@
          sodipodi:nodetypes="cc" />
       <path
          style="display:inline;fill:none;fill-opacity:1;stroke:#0063a8;stroke-width:0.4;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
-         d="m 1053.6615,1113.9682 c 36.7843,0.1746 18.9407,-127.9857 45.5331,-127.63722"
+         d="m 1054.7255,1111.9166 c 36.7843,0.1746 17.8767,-125.9341 44.4691,-125.58562"
          id="path281727"
          sodipodi:nodetypes="cc" />
       <path
@@ -19884,11 +19889,6 @@
          d="m 908.72855,1095.6818 22.9269,0"
          id="path14503-0-33"
          sodipodi:nodetypes="cc" />
-      <path
-         style="display:inline;fill:none;fill-opacity:1;stroke:#0063a8;stroke-width:0.4;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
-         d="m 1052.8248,1113.9322 c 10.8778,1.4161 38.8677,-3.8328 55.1698,-3.8186"
-         id="path577014-0-8-6-8-0"
-         sodipodi:nodetypes="cc" />
       <rect
          style="display:inline;fill:#90846c;fill-opacity:1;stroke:none;stroke-width:0.39632;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.0999795;stop-color:#000000"
          id="rect814406"
@@ -20047,17 +20047,6 @@
            style="stroke-width:0.376"
            x="1080.765"
            y="1085.6376">Cerisian Kingdoms</tspan></text>
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;line-height:1.25;font-family:Georgia;-inkscape-font-specification:'Georgia, Normal';font-variant-ligatures:normal;font-variant-caps:small-caps;font-variant-numeric:normal;font-variant-east-asian:normal;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.375999;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.490765;stop-color:#000000"
-         x="1054.3215"
-         y="1112.5731"
-         id="text156959"><tspan
-           sodipodi:role="line"
-           id="tspan156957"
-           style="stroke-width:0.376"
-           x="1054.3215"
-           y="1112.5731">+Naga Cults, Rajanan tribes, Usvajran Raider bands</tspan></text>
       <path
          style="display:inline;opacity:1;fill:none;fill-opacity:1;stroke:#b3b3b3;stroke-width:0.4;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          d="m 1087.1912,1112.2484 h 117.8125"
@@ -22005,7 +21994,7 @@
          sodipodi:nodetypes="cc" />
       <path
          style="display:inline;fill:none;fill-opacity:1;stroke:#b3b3b3;stroke-width:0.4;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
-         d="m 993.70098,1060.3164 c 12.57892,-0.022 5.99124,8.5266 15.25792,8.7887"
+         d="m 993.70098,1060.3164 c 12.57892,-0.022 5.58745,8.6522 15.25792,8.7887"
          id="path47613-2-5"
          sodipodi:nodetypes="cc" />
       <rect
@@ -25077,7 +25066,7 @@
            y="1141.6567">+Nlashikir Tribes</tspan></text>
       <path
          style="display:inline;fill:none;fill-opacity:1;stroke:#b3b3b3;stroke-width:0.4;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
-         d="m 1014.1997,1078.183 c 31.6121,0 24.3159,63.0908 50.708,63.0908"
+         d="m 1014.1997,1078.183 c 31.6121,0 24.1078,63.0468 50.4999,63.0468"
          id="path65056"
          sodipodi:nodetypes="cc" />
       <text
@@ -25276,6 +25265,87 @@
          d="m 1000.014,1033.483 284.7489,0"
          id="path303989"
          sodipodi:nodetypes="cc" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;line-height:1.25;font-family:Georgia;-inkscape-font-specification:'Georgia, Normal';font-variant-ligatures:normal;font-variant-caps:small-caps;font-variant-numeric:normal;font-variant-east-asian:normal;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;display:inline;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.375999;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.490765;stop-color:#000000"
+         x="1042.7"
+         y="1078.6331"
+         id="text16405"><tspan
+           sodipodi:role="line"
+           id="tspan16403"
+           style="stroke-width:0.376"
+           x="1042.7"
+           y="1078.6331">&gt;Esinsiwear Tribes</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;line-height:1.25;font-family:Georgia;-inkscape-font-specification:'Georgia, Normal';font-variant-ligatures:normal;font-variant-caps:small-caps;font-variant-numeric:normal;font-variant-east-asian:normal;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;display:inline;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.375999;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.490765;stop-color:#000000"
+         x="1049.5763"
+         y="1114.4192"
+         id="text17297"><tspan
+           sodipodi:role="line"
+           id="tspan17295"
+           style="stroke-width:0.376"
+           x="1049.5763"
+           y="1114.4192">~Tellin Culture Tribes&gt;Rajanan Tribes</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;line-height:1.25;font-family:Georgia;-inkscape-font-specification:'Georgia, Normal';font-variant-ligatures:normal;font-variant-caps:small-caps;font-variant-numeric:normal;font-variant-east-asian:normal;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;display:inline;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.375999;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.490765;stop-color:#000000"
+         x="947.78058"
+         y="1123.4619"
+         id="text71129"><tspan
+           sodipodi:role="line"
+           id="tspan71127"
+           style="stroke-width:0.376"
+           x="947.78058"
+           y="1123.4619">&gt;Savatumra culture</tspan></text>
+      <path
+         style="display:inline;fill:none;fill-opacity:1;stroke:#b3b3b3;stroke-width:0.4;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
+         d="m 962.81054,1122.894 c 9.0565,-0.036 16.53364,9.1456 29.52494,9.1456"
+         id="path47613-2-5-7-8"
+         sodipodi:nodetypes="cc" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;line-height:1.25;font-family:Georgia;-inkscape-font-specification:'Georgia, Normal';font-variant-ligatures:normal;font-variant-caps:small-caps;font-variant-numeric:normal;font-variant-east-asian:normal;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.375999;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.490765;stop-color:#000000"
+         x="993.18469"
+         y="1132.5304"
+         id="text98387"><tspan
+           sodipodi:role="line"
+           id="tspan98385"
+           style="stroke-width:0.376"
+           x="993.18469"
+           y="1132.5304">~&gt;Savatumra culture</tspan></text>
+      <path
+         style="display:inline;fill:none;fill-opacity:1;stroke:#b3b3b3;stroke-width:0.4;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
+         d="m 1008.1689,1132.0396 c 9.0565,-0.036 16.4742,9.2342 29.4655,9.2342"
+         id="path99602"
+         sodipodi:nodetypes="cc" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;line-height:1.25;font-family:Georgia;-inkscape-font-specification:'Georgia, Normal';font-variant-ligatures:normal;font-variant-caps:small-caps;font-variant-numeric:normal;font-variant-east-asian:normal;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.375999;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.490765;stop-color:#000000"
+         x="1038.0952"
+         y="1141.6567"
+         id="text99880"><tspan
+           sodipodi:role="line"
+           id="tspan99878"
+           style="stroke-width:0.376"
+           x="1038.0952"
+           y="1141.6567">~&gt;Savatumra culture</tspan></text>
+      <path
+         style="display:inline;fill:none;fill-opacity:1;stroke:#b3b3b3;stroke-width:0.4;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
+         d="m 962.81054,1122.894 c 9.0565,-0.036 12.9413,27.2387 25.9326,27.2387"
+         id="path114842"
+         sodipodi:nodetypes="cc" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;line-height:1.25;font-family:Georgia;-inkscape-font-specification:'Georgia, Normal';font-variant-ligatures:normal;font-variant-caps:small-caps;font-variant-numeric:normal;font-variant-east-asian:normal;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.375999;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.490765;stop-color:#000000"
+         x="988.79791"
+         y="1150.6187"
+         id="text115158"><tspan
+           sodipodi:role="line"
+           id="tspan115156"
+           style="stroke-width:0.376"
+           x="988.79791"
+           y="1150.6187">~&gt;Savatumra culture</tspan></text>
     </g>
     <g
        inkscape:groupmode="layer"
@@ -25304,16 +25374,6 @@
          style="display:inline;fill:#b6b6b6;fill-opacity:1;stroke:#b6b6b6;stroke-width:0.4;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
          d="m 814.0994,1095.6818 18.87914,0"
          id="path24617"
-         sodipodi:nodetypes="cc" />
-      <path
-         style="display:inline;opacity:1;fill:none;stroke:#00ca5b;stroke-width:0.4;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
-         d="m 1052.4186,1107.9244 c 0,0 4.1536,0.2395 6.3907,3.5448"
-         id="path292600"
-         sodipodi:nodetypes="cc" />
-      <path
-         style="display:inline;opacity:1;fill:none;stroke:#0063a8;stroke-width:0.4;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
-         d="m 1052.8248,1113.9322 c 4.0535,0.035 10.7529,0.3616 12.2223,-1.2091"
-         id="path67174-6"
          sodipodi:nodetypes="cc" />
       <text
          xml:space="preserve"
@@ -25639,30 +25699,40 @@
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.175px;line-height:0.35;font-family:Georgia;-inkscape-font-specification:'Georgia, Bold';font-variant-ligatures:normal;font-variant-caps:small-caps;font-variant-numeric:normal;font-variant-east-asian:normal;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.176;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.0999795;stop-color:#000000"
-         x="-39.955536"
-         y="1531.4377"
+         x="-40.329712"
+         y="1531.0636"
          id="text77224-8"
          transform="rotate(-45)"><tspan
            sodipodi:role="line"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;font-family:Georgia;-inkscape-font-specification:'Georgia, Normal';font-variant-ligatures:normal;font-variant-caps:small-caps;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke-width:0.176"
-           x="-39.955536"
-           y="1531.4377"
+           x="-40.329712"
+           y="1531.0636"
            id="tspan132251">Narazi divine continuance</tspan><tspan
            sodipodi:role="line"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;font-family:Georgia;-inkscape-font-specification:'Georgia, Normal';font-variant-ligatures:normal;font-variant-caps:small-caps;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke-width:0.176"
-           x="-39.955536"
-           y="1532.7292"
-           id="tspan135269">   collapses, ushering dark age</tspan></text>
+           x="-40.329712"
+           y="1532.3551"
+           id="tspan135269">   collapses, ushering dark age</tspan><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;font-family:Georgia;-inkscape-font-specification:'Georgia, Normal';font-variant-ligatures:normal;font-variant-caps:small-caps;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke-width:0.176"
+           x="-40.329712"
+           y="1533.6467"
+           id="tspan52448">        Narazi and Usvajrans</tspan><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;font-family:Georgia;-inkscape-font-specification:'Georgia, Normal';font-variant-ligatures:normal;font-variant-caps:small-caps;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke-width:0.176"
+           x="-40.329712"
+           y="1534.9382"
+           id="tspan52450">             degenerate</tspan></text>
       <text
          xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.175px;line-height:0.35;font-family:Georgia;-inkscape-font-specification:'Georgia, Bold';font-variant-ligatures:normal;font-variant-caps:small-caps;font-variant-numeric:normal;font-variant-east-asian:normal;text-decoration-color:#000000;letter-spacing:0.66145833px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.176;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.0999795;stop-color:#000000"
-         x="-1114.1903"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.175px;line-height:0.35;font-family:Georgia;-inkscape-font-specification:'Georgia, Bold';font-variant-ligatures:normal;font-variant-caps:small-caps;font-variant-numeric:normal;font-variant-east-asian:normal;text-decoration-color:#000000;letter-spacing:0.661458px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.176;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.0999795;stop-color:#000000"
+         x="-1113.132"
          y="1053.1204"
          id="text77224-8-1"
          transform="rotate(-90)"><tspan
            sodipodi:role="line"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;font-family:Georgia;-inkscape-font-specification:'Georgia, Normal';font-variant-ligatures:normal;font-variant-caps:small-caps;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke-width:0.176"
-           x="-1114.1903"
+           x="-1113.132"
            y="1053.1204"
            id="tspan135269-5">Nos Mori Dark Age</tspan></text>
       <text
@@ -27705,7 +27775,7 @@
          sodipodi:nodetypes="cc" />
       <path
          style="display:inline;fill:#b6b6b6;fill-opacity:1;stroke:#b6b6b6;stroke-width:0.4;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
-         d="m 847.11866,1132.0396 271.23374,0"
+         d="M 847.11866,1132.0396 H 992.33548"
          id="path24734"
          sodipodi:nodetypes="cc" />
       <path
@@ -27787,7 +27857,7 @@
          sodipodi:nodetypes="cc" />
       <path
          style="display:inline;fill:#b6b6b6;fill-opacity:1;stroke:#b6b6b6;stroke-width:0.4;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
-         d="m 870.09615,1141.2738 194.81155,0"
+         d="m 870.09615,1141.2738 167.53825,0"
          id="path83929"
          sodipodi:nodetypes="cc" />
       <path
@@ -27881,8 +27951,13 @@
          sodipodi:nodetypes="cc" />
       <path
          style="display:inline;fill:#b6b6b6;fill-opacity:1;stroke:#b6b6b6;stroke-width:0.4;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
-         d="m 937.48131,1150.1767 80.80689,-0.044"
+         d="m 937.48131,1150.1767 51.26183,-0.044"
          id="path49410-6"
+         sodipodi:nodetypes="cc" />
+      <path
+         style="display:inline;fill:#b6b6b6;fill-opacity:1;stroke:#b6b6b6;stroke-width:0.4;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
+         d="m 1052.9951,1141.2738 11.7045,-0.044"
+         id="path49410-6-6"
          sodipodi:nodetypes="cc" />
       <path
          style="display:inline;fill:#b6b6b6;fill-opacity:1;stroke:#b6b6b6;stroke-width:0.4;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
@@ -27916,7 +27991,7 @@
          sodipodi:nodetypes="cc" />
       <path
          style="display:inline;fill:#b6b6b6;fill-opacity:1;stroke:#b6b6b6;stroke-width:0.4;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
-         d="m 899.17624,1122.894 279.89686,0"
+         d="m 899.17624,1122.894 48.0274,0"
          id="path349630"
          sodipodi:nodetypes="cc" />
       <text
@@ -28078,7 +28153,7 @@
          sodipodi:nodetypes="cc" />
       <path
          style="display:inline;fill:#b6b6b6;fill-opacity:1;stroke:#b6b6b6;stroke-width:0.4;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
-         d="m 1014.1997,1078.183 49.1456,0"
+         d="m 1014.1997,1078.183 27.9211,0"
          id="path256865"
          sodipodi:nodetypes="cc" />
       <text
@@ -28127,6 +28202,31 @@
            x="-1014.9732"
            y="1053.1204"
            id="tspan357447">Nos Mori Dark Age</tspan></text>
+      <path
+         style="display:inline;fill:#b6b6b6;fill-opacity:1;stroke:#b6b6b6;stroke-width:0.4;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
+         d="m 1055.9798,1078.183 h 27.9211"
+         id="path17293"
+         sodipodi:nodetypes="cc" />
+      <path
+         style="display:inline;fill:#b6b6b6;fill-opacity:1;stroke:#b6b6b6;stroke-width:0.4;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
+         d="m 1086.0195,1113.9762 39.6548,0"
+         id="path31774"
+         sodipodi:nodetypes="cc" />
+      <path
+         style="display:inline;fill:#b6b6b6;fill-opacity:1;stroke:#b6b6b6;stroke-width:0.4;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
+         d="M 962.81054,1122.894 H 1179.0731"
+         id="path83961"
+         sodipodi:nodetypes="cc" />
+      <path
+         style="display:inline;fill:#b6b6b6;fill-opacity:1;stroke:#b6b6b6;stroke-width:0.4;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
+         d="m 1008.1689,1132.0396 110.1835,0"
+         id="path99501"
+         sodipodi:nodetypes="cc" />
+      <path
+         style="display:inline;fill:#b6b6b6;fill-opacity:1;stroke:#b6b6b6;stroke-width:0.4;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
+         d="m 1004.184,1150.1767 51.2618,-0.044"
+         id="path115766"
+         sodipodi:nodetypes="cc" />
     </g>
     <g
        inkscape:groupmode="layer"
@@ -30713,7 +30813,8 @@
     <g
        inkscape:groupmode="layer"
        id="layer11"
-       inkscape:label="local events">
+       inkscape:label="local events"
+       sodipodi:insensitive="true">
       <rect
          style="display:inline;opacity:0.504298;fill:url(#linearGradient91148);fill-opacity:1;stroke:none;stroke-width:0.220963;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.490765;stop-color:#000000"
          id="rect34258-8-9"
