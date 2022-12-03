@@ -2,6 +2,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 import pandas as pd
 from scipy.optimize import curve_fit #used for curve fitting
+from scipy.interpolate import UnivariateSpline
 import datetime as dt
 import time
 import copy
@@ -44,36 +45,56 @@ plt.style.use('ggplot')
 ########################################################
 ########################################################
 ########################################################
-def pre_sim_process(ages,mortality,lifetime,fertility_start,fertility_end,TF_guess=3,curve_degree=12,cohort_len=1,flat_fertility_pdf=0,customfactor=1,verbose=0):
+def pre_sim_process(ages,mortality,lifetime,fertility_start,fertility_end,TF_guess=3,curve_degree=3,cohort_len=1,flat_fertility_pdf=0,customfactor=1,verbose=0):
 
     #Constants:
     human_astar_life_ratio = 100/1000
     human_waith_life_ratio = 100/25000
     
     #mortality values need to be evaluated at normalized age spaces
-    #I create a functional form of the mortality with get_curve and evaluate it at points:
-    #np.linspace(0,int(max(ages)),len(ages)). The array isn't expanded at all yet.
-    #if (ages[1]-ages[0]) != (ages[3]-ages[2]) != (ages[9]-ages[8]):
-    if abs((ages[1]-ages[0]) - (ages[7]-ages[6])) > 1e-5 :
-        abb_mortality = get_curve(ages,len(ages),mortality,deg=curve_degree)
-    else:
-        #if it's already got normalized ages, no need to change anything
-        abb_mortality = mortality
+#     #I create a functional form of the mortality with get_curve and evaluate it at points:
+#     #np.linspace(0,int(max(ages)),len(ages)). The array isn't expanded at all yet.
+#     if abs((ages[1]-ages[0]) - (ages[7]-ages[6])) > 1e-5 :
+#         #abb_mortality = get_curve(ages,len(ages),mortality,deg=curve_degree)
+# 		#Or, instead, you can use this interpolation function if you want to really preserve the initial points at the cost of smoothness.
+#         [abb_mortality,spline_interp] = get_spline(ages,len(ages),mortality,deg=curve_degree)
+#     else:
+#         #if it's already got normalized ages, no need to change anything
+#         abb_mortality = mortality
+	
+    spl = UnivariateSpline(ages,mortality,k = curve_degree, s=len(ages))
+    even_space_ages = np.linspace(min(ages),max(ages),len(ages))
+    even_space_mort = spl(even_space_ages)
+    even_space_mort = even_space_mort.clip(max=100)
+    even_space_mort = even_space_mort.clip(min=0)
+	
+    [abb_mortality,spline_interp] = get_spline(ages,len(ages),mortality,deg=1)
     
     #We need a short version of the ages (with the original length but capturing all desired ages)
-    ages_initial = np.arange(0,lifetime,int(lifetime/len(abb_mortality)))#np.linspace(0,max(ages),len(abb_mortality))
-
+    #ages_initial = np.arange(0,lifetime,int(lifetime/len(abb_mortality)))
+    #ages_initial = np.linspace(0,lifetime,len(abb_mortality))
 
     #and a long version of the ages that goes between 0 and lifetime with a number of points
     #closest fitting to the division of the cohort length. For a cohort length of 1, there will be lifetime
     #number of points.
     #num_ages = np.linspace()#int((lifetime+cohort_len)/cohort_len)
     #ages_final = np.linspace(0,lifetime,num_ages)
-    ages_final = np.arange(0,lifetime,cohort_len)
+    #ages_final = np.arange(0,lifetime,cohort_len)
 
     #We use both of the age arrays to interpolate the mortality into an equivilant array with proper cohort lengths.
-    mortality_final = full_expansion(ages_initial,ages_final,abb_mortality,deg=curve_degree,customfactor=customfactor,verbose=verbose)
-   
+    #mortality_final = full_expansion(ages_initial,ages_final,abb_mortality,deg=curve_degree,customfactor=customfactor,verbose=verbose)
+    [ages_final,mortality_final] = full_expansion_new(even_space_ages,even_space_mort,lifetime,cohort_len)
+    ages_final = np.array(ages_final)
+    cohort_ratio = (even_space_ages[1]-even_space_ages[0])/cohort_len
+    if cohort_ratio < 1:
+        cohort_ratio = cohort_len/(even_space_ages[1]-even_space_ages[0])
+    mortality_final = smooth_bin_interp(mortality_final,even_space_ages,ages_final,cohort_ratio,customfactor)
+    
+    #spl = UnivariateSpline(ages_final,mortality_final,k=1)
+    #mortality_final = spl(ages_final)
+    
+    
+    #print(len(ages_final),len(mortality_final))
     #We can now use the full mortality and ages to get a steady-state population distribution (growth rate 0)
     #This also gives us some deaths data and expected life times at different ages (e)
     [I,d,e] = get_population_distribution(mortality_final,ages_final)
@@ -137,6 +158,39 @@ def get_curve(ages,new_ages_len,mortality,deg=12):
     
     return curve
 
+def get_spline(ages,new_len,mortality,deg=3):
+	#Use scipy's spline interpolation to preserve initial points as knots
+	spl = UnivariateSpline(ages,mortality,k = deg, s=len(ages))
+	data = np.linspace(0,int(max(ages)),new_len)
+	curve = spl(data)
+	curve = curve.clip(max=100)
+	curve = curve.clip(min=0)
+	return [curve,spl]
+
+
+def full_expansion_new(ages_init,mort_init,lifetime,new_cohort):
+    #expand to cohort = 1, smallest partition
+    mort_c1 = []
+    c_init = ages_init[1]-ages_init[0]
+    for c in range(len(mort_init)):
+        mort_c1 = mort_c1 + list( np.zeros(int(c_init))+mort_init[c]/c_init)
+    ages_c1 = np.linspace(0,lifetime,len(mort_c1))
+    
+    if new_cohort > 1:
+        mort_newc = []
+        #ages_newc = np.linspace(0,len(ages_c1),new_cohort)
+        #[item for sublist in regular_list for item in sublist]
+        
+        ages_newc = list(range(0,len(mort_c1),new_cohort))
+        for c in range(0,len(ages_newc)-1):
+            mort_newc.append(np.mean(mort_c1[ages_newc[c]:ages_newc[c+1]])*new_cohort)
+            #print(len(mort_newc))
+        mort_newc.append(mort_newc[-1])
+        return [ages_newc,mort_newc]
+    else:
+        return [ages_c1,mort_c1]
+    
+    
 #full_expansion
 #Main idea: this function takes two age arrays. The max age is the same in both,
 #but the number of points is not. Ages_final has age values spaced at the cohort length,
@@ -152,26 +206,28 @@ def get_curve(ages,new_ages_len,mortality,deg=12):
 
 #output:
 #final_mortality_interp: a scaled, functionalized mortality rate with number of points equal to ages_final
-def full_expansion(ages_initial,ages_final,mortality_initial,deg=12,customfactor=1,verbose=0):
-    #Initialize array to hold the reduced mortality values
+def full_expansion(ages_initial,ages_final,mortality_initial,deg=3,customfactor=1,verbose=0):
+	#Initialize array to hold the reduced mortality values
     mortality_scaled_arr = []
     #A wide version of the reduced values. This 'plateaus' the reduced values over the ages
     #represented within the original cohorts
     mortality_wide = np.zeros(len(ages_final))
+    #print(len(mortality_wide))
 
     #Let's some cohort measures
-    init_cohort_len = ages_initial[1]-ages_initial[0]
-    fin_cohort_len = ages_final[1]-ages_final[0]
+    init_cohort_len = ages_initial[1]
+    fin_cohort_len = ages_final[1]
     #This is the cohort ratio--for a desired cohort length > cohort length, mortality_final will be < mortality_initial
     #expansion_ratio = (init_cohort_len/fin_cohort_len) #np.ceil(max([cohort_length/desired_cohort_length,desired_cohort_length/cohort_length]))
-    cohort_ratio = round(init_cohort_len/fin_cohort_len)
+    cohort_ratio = fin_cohort_len/init_cohort_len
 
     #for each cohort in ages_initial,
-    for cohort_to_scale in range(0,len(ages_initial)):
+    prev_cohort = 0
+    for cohort_to_scale in range(len(ages_initial)):
         #get the scaled mortality to fit the final cohort length
         ###########################################################
         mortality_to_scale = mortality_initial[cohort_to_scale]
-        mortality_scaled = mortality_to_scale/cohort_ratio
+        mortality_scaled = mortality_to_scale*cohort_ratio
 
         if verbose:
             print("Current cohort length: ",init_cohort_len)
@@ -181,15 +237,23 @@ def full_expansion(ages_initial,ages_final,mortality_initial,deg=12,customfactor
             print("Final mortality: ",mortality_scaled)
 
         mortality_scaled_arr.append(mortality_scaled)
-        cur_cohort_start = int(cohort_to_scale*cohort_ratio)
-        mortality_wide[cur_cohort_start:int(cur_cohort_start+cohort_ratio)] = np.zeros(int(np.round(cohort_ratio)))+mortality_scaled
-
-    #Now we have an array of mortalities properly scaled to their cohort length.
-    #To finish off, we need to expand these scaled mortality rates into an array
-    #of proper length:
-    mortality_scaled_polyfit = np.interp(ages_final,ages_initial,mortality_scaled_arr)
-    #and fit a functional curve to smooth out any errors! Without this line, wacky overflows happen.
-    mortality_scaled_polyfit = get_curve(ages_final,int(len(ages_final)),mortality_scaled_polyfit,deg=deg)
+        cur_cohort_start = int(prev_cohort) #int(cohort_to_scale/cohort_ratio)
+        prev_cohort = int(cur_cohort_start+init_cohort_len)
+        #print(cur_cohort_start,init_cohort_len)
+        #mortality_wide[cur_cohort_start:int(cur_cohort_start+cohort_ratio)] = np.zeros(int(np.round(cohort_ratio)))+mortality_scaled
+        try:
+            mortality_wide[cur_cohort_start:int(cur_cohort_start+init_cohort_len)] = np.zeros(int(init_cohort_len))+mortality_scaled
+        except:
+            mortality_wide[cur_cohort_start:] = np.zeros(len(mortality_wide[cur_cohort_start:]))+mortality_scaled
+		#print(mortality_wide)
+		
+    #Use scipy's spline interpolation to preserve initial points as knots
+    spl = UnivariateSpline(ages_final,mortality_wide,k = deg, s=len(ages_final))
+    data = np.linspace(0,int(len(ages_final)),int(len(ages_final)/fin_cohort_len))
+    curve = spl(data)
+    curve = curve.clip(max=100)
+    curve = curve.clip(min=0)
+    mortality_scaled_polyfit = curve
 
     if cohort_ratio > 1:
         mortality_binsmooth = smooth_bin_interp(mortality_wide,ages_initial,ages_final,cohort_ratio,customfactor)
@@ -210,8 +274,8 @@ def full_expansion(ages_initial,ages_final,mortality_initial,deg=12,customfactor
         plt.plot(rel_cohort_mortality_bin)
         plt.plot(rel_cohort_mortality_polyfit)
 
-    #return mortality_scaled_polyfit
-    return mortality_binsmooth
+    return mortality_scaled_polyfit
+    #return mortality_binsmooth
 
 #Algorithms outlined in Rymes and Myers paper in encyclopedia resources folder
 def smooth_bin_interp(mortality_initial,ages_initial,ages_final,cohort_ratio,customfactor=1):
@@ -259,6 +323,7 @@ def get_population_distribution(mortality,ages):
     q = np.array(mortality)/100
     #get the cohort length
     cohort_length = ages[1] - ages[0]
+    #print(cohort_length)
 
     I = np.zeros(len(q)) #number of people surviving to age x
     d = np.zeros(len(q)) #number of deaths between ages x and x+1

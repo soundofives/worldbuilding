@@ -3,6 +3,8 @@ import matplotlib.pyplot as plt
 import time
 from os import system
 
+plt.style.use('ggplot')
+
 def onclick(event):
     global end_loop
     #print("event key: ",event.key)
@@ -27,8 +29,13 @@ x = []
 y = []
 
 #set up the figure
-fig = plt.figure()
+fig = plt.figure(figsize=[20,5])
 ax = fig.add_subplot(111)
+ax.grid()
+ax.set_xticks(ticks=np.linspace(0,100,21))
+#Comment this next line out if working on a human population
+ax.set_xticklabels(["%d" % x for x in np.linspace(0,1000,21)])
+
 l = ax.plot(x,y)[0]
 plt.grid()
 plt.xlim(0,100)
