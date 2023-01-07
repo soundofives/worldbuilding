@@ -41,8 +41,8 @@
      inkscape:document-units="mm"
      showgrid="false"
      inkscape:zoom="2.9088718"
-     inkscape:cx="4702.0699"
-     inkscape:cy="2793.2615"
+     inkscape:cx="4195.2189"
+     inkscape:cy="2839.579"
      inkscape:window-width="1920"
      inkscape:window-height="996"
      inkscape:window-x="0"
@@ -27359,7 +27359,7 @@
            y="765.35748">Vinaltakha tribes</tspan></text>
       <path
          style="display:inline;fill:#000000;fill-opacity:1;stroke:#b3b3b3;stroke-width:0.4;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         d="m 1096.0583,765.0174 77.8556,0"
+         d="m 1096.0583,765.0174 5.1388,0"
          id="path13538"
          sodipodi:nodetypes="cc" />
       <path
@@ -27854,6 +27854,22 @@
            style="stroke-width:0.376"
            x="1169.5886"
            y="836.74469">Eyasolian Tribes</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;line-height:1.25;font-family:Georgia;-inkscape-font-specification:'Georgia, Normal';font-variant-ligatures:normal;font-variant-caps:small-caps;font-variant-numeric:normal;font-variant-east-asian:normal;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.409946;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.490765;stop-color:#000000"
+         x="1101.494"
+         y="765.35748"
+         id="text6548"><tspan
+           sodipodi:role="line"
+           id="tspan6546"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;font-family:Georgia;-inkscape-font-specification:'Georgia, Normal';font-variant-ligatures:normal;font-variant-caps:small-caps;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.409947"
+           x="1101.494"
+           y="765.35748">&gt;Daharyu</tspan></text>
+      <path
+         style="display:inline;fill:#000000;fill-opacity:1;stroke:#b3b3b3;stroke-width:0.4;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 1108.6431,765.0174 175.7812,0"
+         id="path6550"
+         sodipodi:nodetypes="cc" />
     </g>
     <g
        inkscape:groupmode="layer"
