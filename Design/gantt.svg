@@ -1,14 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   inkscape:version="1.0.2 (e86c870, 2021-01-15)"
+   inkscape:version="1.1 (c4e8f9e, 2021-05-24)"
    width="83.333336in"
    height="62.5in"
    viewBox="0 0 2116.6666 1587.5001"
@@ -17,7 +9,15 @@
    sodipodi:docname="gantt.svg"
    inkscape:export-filename="/home/soundofives/Documents/DND/Design/gantt.png"
    inkscape:export-xdpi="800"
-   inkscape:export-ydpi="800">
+   inkscape:export-ydpi="800"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
   <metadata
      id="metadata2887">
     <rdf:RDF>
@@ -41,14 +41,14 @@
      inkscape:document-units="mm"
      showgrid="false"
      inkscape:zoom="3.2534616"
-     inkscape:cx="4593.7571"
-     inkscape:cy="4259.6442"
-     inkscape:window-width="1920"
-     inkscape:window-height="1055"
-     inkscape:window-x="3000"
-     inkscape:window-y="437"
+     inkscape:cx="3841.908"
+     inkscape:cy="3927.5091"
+     inkscape:window-width="3840"
+     inkscape:window-height="2129"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer13"
+     inkscape:current-layer="layer14"
      units="in"
      inkscape:snap-global="true"
      inkscape:document-rotation="0"
@@ -18924,6 +18924,11 @@
        inkscape:label="civs"
        style="display:inline">
       <path
+         style="display:inline;fill:none;fill-opacity:1;stroke:#904503;stroke-width:0.4;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
+         d="m 1194.5986,1067.1319 c 18.6236,-0.3973 4.001,70.7192 8.0095,70.3884"
+         id="path32937"
+         sodipodi:nodetypes="cc" />
+      <path
          style="display:inline;fill:none;fill-opacity:1;stroke:#99373c;stroke-width:0.4;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
          d="m 1194.7505,1130.1751 c 4.3662,-0.2952 3.5708,-1.5428 6.9574,-2.0515"
          id="path10805"
@@ -25285,7 +25290,7 @@
            y="1069.5321">+Nlashikir Tribes</tspan></text>
       <path
          style="display:inline;opacity:1;fill:#000000;fill-opacity:1;stroke:#b3b3b3;stroke-width:0.4;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.960433"
-         d="M 988.76096,1060.3164 H 1093.7826"
+         d="m 988.76096,1060.3164 40.40074,0"
          id="path31516"
          sodipodi:nodetypes="cc" />
       <path
@@ -26361,9 +26366,9 @@
          id="path65565"
          sodipodi:nodetypes="cc" />
       <rect
-         style="display:inline;fill:#7a5656;fill-opacity:1;stroke:none;stroke-width:0.178594;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.0999795;stop-color:#000000"
+         style="display:inline;fill:#7a5656;fill-opacity:1;stroke:none;stroke-width:0.147766;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.0999795;stop-color:#000000"
          id="rect65567"
-         width="30.611788"
+         width="20.955872"
          height="1.9697521"
          x="1164.7598"
          y="1146.9824" />
@@ -28226,9 +28231,9 @@
          id="path10835"
          sodipodi:nodetypes="cc" />
       <rect
-         style="display:inline;fill:#d85b84;fill-opacity:1;stroke:none;stroke-width:0.150526;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.0999795;stop-color:#000000"
+         style="display:inline;fill:#d85b84;fill-opacity:1;stroke:none;stroke-width:0.102585;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.0999795;stop-color:#000000"
          id="rect10793"
-         width="21.745317"
+         width="10.099681"
          height="1.9697521"
          x="1191.0853"
          y="1136.3495" />
@@ -28261,6 +28266,110 @@
            style="fill:#000000;stroke-width:0.376"
            x="1195.8185"
            y="1128.528">Gava Dynasty of Aramadiz</tspan></text>
+      <rect
+         style="display:inline;fill:#91669d;fill-opacity:1;stroke:none;stroke-width:0.147766;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.0999795;stop-color:#000000"
+         id="rect10871"
+         width="20.955872"
+         height="1.9697521"
+         x="1185.7156"
+         y="1146.9824" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;line-height:1.25;font-family:Georgia;-inkscape-font-specification:'Georgia, Normal';font-variant-ligatures:normal;font-variant-caps:small-caps;font-variant-numeric:normal;font-variant-east-asian:normal;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.375999;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.490765;stop-color:#000000"
+         x="1186.3643"
+         y="1148.4104"
+         id="text10875"><tspan
+           sodipodi:role="line"
+           id="tspan10873"
+           style="fill:#ffffff;stroke-width:0.376"
+           x="1186.3643"
+           y="1148.4104">Old Thupushk</tspan></text>
+      <rect
+         style="display:inline;fill:#7a7556;fill-opacity:1;stroke:none;stroke-width:0.147766;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.0999795;stop-color:#000000"
+         id="rect12915"
+         width="20.955872"
+         height="1.9697521"
+         x="1185.7156"
+         y="1145.0127" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;line-height:1.25;font-family:Georgia;-inkscape-font-specification:'Georgia, Normal';font-variant-ligatures:normal;font-variant-caps:small-caps;font-variant-numeric:normal;font-variant-east-asian:normal;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.375999;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.490765;stop-color:#000000"
+         x="1186.3643"
+         y="1146.4407"
+         id="text12919"><tspan
+           sodipodi:role="line"
+           id="tspan12917"
+           style="fill:#000000;stroke-width:0.376"
+           x="1186.3643"
+           y="1146.4407">Masyasha</tspan></text>
+      <rect
+         style="display:inline;fill:#e5af49;fill-opacity:1;stroke:none;stroke-width:0.147766;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.0999795;stop-color:#000000"
+         id="rect12921"
+         width="20.955872"
+         height="1.9697521"
+         x="1185.7156"
+         y="1143.043" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;line-height:1.25;font-family:Georgia;-inkscape-font-specification:'Georgia, Normal';font-variant-ligatures:normal;font-variant-caps:small-caps;font-variant-numeric:normal;font-variant-east-asian:normal;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.375999;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.490765;stop-color:#000000"
+         x="1186.3643"
+         y="1144.4709"
+         id="text12925"><tspan
+           sodipodi:role="line"
+           id="tspan12923"
+           style="fill:#000000;stroke-width:0.376"
+           x="1186.3643"
+           y="1144.4709">Hairish Dynasty</tspan></text>
+      <rect
+         style="display:inline;fill:#904503;fill-opacity:1;stroke:none;stroke-width:0.127974;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.0999795;stop-color:#000000"
+         id="rect32931"
+         width="15.717941"
+         height="1.9697521"
+         x="1201.1851"
+         y="1136.3495" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;line-height:1.25;font-family:Georgia;-inkscape-font-specification:'Georgia, Normal';font-variant-ligatures:normal;font-variant-caps:small-caps;font-variant-numeric:normal;font-variant-east-asian:normal;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.375999;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.490765;stop-color:#000000"
+         x="1201.8337"
+         y="1137.7775"
+         id="text32935"><tspan
+           sodipodi:role="line"
+           id="tspan32933"
+           style="fill:#ffffff;stroke-width:0.376"
+           x="1201.8337"
+           y="1137.7775">Kingdom of Tazetaka</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;line-height:1.25;font-family:Georgia;-inkscape-font-specification:'Georgia, Normal';font-variant-ligatures:normal;font-variant-caps:small-caps;font-variant-numeric:normal;font-variant-east-asian:normal;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.375999;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.490765;stop-color:#000000"
+         x="1029.3822"
+         y="1060.7147"
+         id="text43060"><tspan
+           sodipodi:role="line"
+           id="tspan43058"
+           style="stroke-width:0.376"
+           x="1029.3822"
+           y="1060.7147">&gt;Tiyara</tspan></text>
+      <path
+         style="display:inline;opacity:1;fill:#000000;fill-opacity:1;stroke:#b3b3b3;stroke-width:0.4;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.960433"
+         d="m 1034.7229,1060.3164 h 40.4007"
+         id="path50990"
+         sodipodi:nodetypes="cc" />
+      <path
+         style="display:inline;fill:none;fill-opacity:1;stroke:#b3b3b3;stroke-width:0.4;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
+         d="m 1007.1339,1060.3164 c 12.5789,-0.022 12.0751,-11.3586 21.7456,-11.2221"
+         id="path57621"
+         sodipodi:nodetypes="cc" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;line-height:1.25;font-family:Georgia;-inkscape-font-specification:'Georgia, Normal';font-variant-ligatures:normal;font-variant-caps:small-caps;font-variant-numeric:normal;font-variant-east-asian:normal;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.375999;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.490765;stop-color:#000000"
+         x="1029.3893"
+         y="1049.4802"
+         id="text58013"><tspan
+           sodipodi:role="line"
+           id="tspan58011"
+           style="stroke-width:0.376"
+           x="1029.3893"
+           y="1049.4802">+Tiyara</tspan></text>
     </g>
     <g
        inkscape:groupmode="layer"
@@ -30916,7 +31025,7 @@
            id="tspan17395">Okos is founded</tspan></text>
       <path
          style="display:inline;fill:#b6b6b6;fill-opacity:1;stroke:#b6b6b6;stroke-width:0.4;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
-         d="M 944.44599,1049.0943 H 1047.9392"
+         d="m 944.44599,1049.0943 h 84.43351"
          id="path27021"
          sodipodi:nodetypes="cc" />
       <path
@@ -31534,6 +31643,11 @@
          style="display:inline;fill:#b6b6b6;fill-opacity:1;stroke:#b6b6b6;stroke-width:0.4;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
          d="m 1184.0699,747.18702 h 51.9753"
          id="path10816"
+         sodipodi:nodetypes="cc" />
+      <path
+         style="display:inline;fill:#b6b6b6;fill-opacity:1;stroke:#b6b6b6;stroke-width:0.4;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
+         d="m 1035.0018,1049.0943 h 12.9374"
+         id="path58889"
          sodipodi:nodetypes="cc" />
     </g>
     <g
