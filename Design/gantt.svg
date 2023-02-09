@@ -40,15 +40,15 @@
      inkscape:pagecheckerboard="0"
      inkscape:document-units="mm"
      showgrid="false"
-     inkscape:zoom="3.2534616"
-     inkscape:cx="3841.908"
-     inkscape:cy="3927.5091"
+     inkscape:zoom="4.6010895"
+     inkscape:cx="4514.2569"
+     inkscape:cy="4229.433"
      inkscape:window-width="3840"
      inkscape:window-height="2129"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer14"
+     inkscape:current-layer="layer13"
      units="in"
      inkscape:snap-global="true"
      inkscape:document-rotation="0"
@@ -18924,6 +18924,11 @@
        inkscape:label="civs"
        style="display:inline">
       <path
+         style="display:inline;fill:#b6b6b6;fill-opacity:1;stroke:#b6b6b6;stroke-width:0.4;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
+         d="m 1074.3329,1113.9762 61.7629,0"
+         id="path10522"
+         sodipodi:nodetypes="cc" />
+      <path
          style="display:inline;fill:none;fill-opacity:1;stroke:#904503;stroke-width:0.4;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
          d="m 1194.5986,1067.1319 c 18.6236,-0.3973 4.001,70.7192 8.0095,70.3884"
          id="path32937"
@@ -19176,7 +19181,7 @@
          y="983.42395" />
       <path
          style="display:inline;fill:#b6b6b6;fill-opacity:1;stroke:#b6b6b6;stroke-width:0.4;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
-         d="m 1094.3089,1078.183 h 100.4047"
+         d="m 1108.4969,1078.183 86.2167,0"
          id="path10424"
          sodipodi:nodetypes="cc" />
       <path
@@ -25786,7 +25791,7 @@
            id="tspan10481"
            style="stroke-width:0.376"
            x="1083.9812"
-           y="1078.6331">+Rhun nomads</tspan></text>
+           y="1078.6331">+Rhun nomads, Jir-Elesin&gt;Sor'haya</tspan></text>
       <rect
          style="display:inline;fill:#66ff34;fill-opacity:1;stroke:none;stroke-width:0.291334;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.0999795;stop-color:#000000"
          id="rect10237"
@@ -26384,9 +26389,9 @@
            x="1165.4084"
            y="1148.4104">Kingdom of Thupushk</tspan></text>
       <rect
-         style="display:inline;fill:#904503;fill-opacity:1;stroke:none;stroke-width:0.177641;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.0999795;stop-color:#000000"
+         style="display:inline;fill:#904503;fill-opacity:1;stroke:none;stroke-width:0.195214;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.0999795;stop-color:#000000"
          id="rect72354"
-         width="30.285574"
+         width="36.574013"
          height="1.9697521"
          x="1178.9957"
          y="1066.1505" />
@@ -26896,9 +26901,9 @@
            x="1175.7589"
            y="1103.6051">Kingdom of Mahathor</tspan></text>
       <rect
-         style="display:inline;fill:#ffc956;fill-opacity:1;stroke:none;stroke-width:0.19417;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.0999795;stop-color:#000000"
+         style="display:inline;fill:#ffc956;fill-opacity:1;stroke:none;stroke-width:0.246592;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.0999795;stop-color:#000000"
          id="rect71026"
-         width="36.183445"
+         width="58.358238"
          height="1.9697521"
          x="1182.276"
          y="1104.1469" />
@@ -28321,22 +28326,22 @@
            x="1186.3643"
            y="1144.4709">Hairish Dynasty</tspan></text>
       <rect
-         style="display:inline;fill:#904503;fill-opacity:1;stroke:none;stroke-width:0.127974;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.0999795;stop-color:#000000"
+         style="display:inline;fill:#904503;fill-opacity:1;stroke:none;stroke-width:0.122795;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.0999795;stop-color:#000000"
          id="rect32931"
-         width="15.717941"
+         width="14.471444"
          height="1.9697521"
          x="1201.1851"
          y="1136.3495" />
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;line-height:1.25;font-family:Georgia;-inkscape-font-specification:'Georgia, Normal';font-variant-ligatures:normal;font-variant-caps:small-caps;font-variant-numeric:normal;font-variant-east-asian:normal;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.375999;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.490765;stop-color:#000000"
-         x="1201.8337"
+         x="1201.1829"
          y="1137.7775"
          id="text32935"><tspan
            sodipodi:role="line"
            id="tspan32933"
            style="fill:#ffffff;stroke-width:0.376"
-           x="1201.8337"
+           x="1201.1829"
            y="1137.7775">Kingdom of Tazetaka</tspan></text>
       <text
          xml:space="preserve"
@@ -28370,6 +28375,106 @@
            style="stroke-width:0.376"
            x="1029.3893"
            y="1049.4802">+Tiyara</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;line-height:1.25;font-family:Georgia;-inkscape-font-specification:'Georgia, Normal';font-variant-ligatures:normal;font-variant-caps:small-caps;font-variant-numeric:normal;font-variant-east-asian:normal;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;display:inline;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.375999;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.490765;stop-color:#000000"
+         x="1094.0566"
+         y="1087.5157"
+         id="text12970"><tspan
+           sodipodi:role="line"
+           id="tspan12968"
+           style="stroke-width:0.376"
+           x="1094.0566"
+           y="1087.5157">Jir-Elesin&gt;Sor'haya</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.175px;line-height:0.35;font-family:Georgia;-inkscape-font-specification:'Georgia, Bold';font-variant-ligatures:normal;font-variant-caps:small-caps;font-variant-numeric:normal;font-variant-east-asian:normal;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.176;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.0999795;stop-color:#000000"
+         x="85.481804"
+         y="1605.7146"
+         id="text20262"
+         transform="rotate(-45)"><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;font-family:Georgia;-inkscape-font-specification:'Georgia, Normal';font-variant-ligatures:normal;font-variant-caps:small-caps;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke-width:0.176"
+           x="85.481804"
+           y="1605.7146"
+           id="tspan20260">The Iron Age</tspan><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;font-family:Georgia;-inkscape-font-specification:'Georgia, Normal';font-variant-ligatures:normal;font-variant-caps:small-caps;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke-width:0.176"
+           x="85.481804"
+           y="1607.0061"
+           id="tspan20790">    begins in Akshah</tspan></text>
+      <rect
+         style="display:inline;fill:#3f2b2b;fill-opacity:1;stroke:none;stroke-width:0.216461;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.0999795;stop-color:#000000"
+         id="rect28257"
+         width="44.967903"
+         height="1.9697521"
+         x="1211.2212"
+         y="1100.2074" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;line-height:1.25;font-family:Georgia;-inkscape-font-specification:'Georgia, Normal';font-variant-ligatures:normal;font-variant-caps:small-caps;font-variant-numeric:normal;font-variant-east-asian:normal;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.375999;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.490765;stop-color:#000000"
+         x="1211.8699"
+         y="1101.6354"
+         id="text28261"><tspan
+           sodipodi:role="line"
+           id="tspan28259"
+           style="fill:#ffffff;stroke-width:0.376"
+           x="1211.8699"
+           y="1101.6354">Followers of Manitesh</tspan></text>
+      <rect
+         style="display:inline;fill:#3f2b2b;fill-opacity:1;stroke:none;stroke-width:0.217105;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.0999795;stop-color:#000000"
+         id="rect31281"
+         width="45.236248"
+         height="1.9697521"
+         x="1211.066"
+         y="1119.9395" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;line-height:1.25;font-family:Georgia;-inkscape-font-specification:'Georgia, Normal';font-variant-ligatures:normal;font-variant-caps:small-caps;font-variant-numeric:normal;font-variant-east-asian:normal;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.375999;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.490765;stop-color:#000000"
+         x="1211.7147"
+         y="1121.3674"
+         id="text31285"><tspan
+           sodipodi:role="line"
+           id="tspan31283"
+           style="fill:#ffffff;stroke-width:0.376"
+           x="1211.7147"
+           y="1121.3674">Followers of Manitesh</tspan></text>
+      <rect
+         style="display:inline;fill:#dbae5a;fill-opacity:1;stroke:none;stroke-width:0.125315;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.0999795;stop-color:#000000"
+         id="rect51798"
+         width="15.071492"
+         height="1.9697521"
+         x="1215.6565"
+         y="1136.3495" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;line-height:1.25;font-family:Georgia;-inkscape-font-specification:'Georgia, Normal';font-variant-ligatures:normal;font-variant-caps:small-caps;font-variant-numeric:normal;font-variant-east-asian:normal;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.375999;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.490765;stop-color:#000000"
+         x="1215.8837"
+         y="1137.7775"
+         id="text51802"><tspan
+           sodipodi:role="line"
+           id="tspan51800"
+           style="fill:#000000;stroke-width:0.376"
+           x="1215.8837"
+           y="1137.7775">Refuge of Udakaxsha</tspan></text>
+      <rect
+         style="display:inline;fill:#00c8c9;fill-opacity:1;stroke:none;stroke-width:0.195214;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.0999795;stop-color:#000000"
+         id="rect62726"
+         width="36.574013"
+         height="1.9697521"
+         x="1215.5697"
+         y="1066.1505" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;line-height:1.25;font-family:Georgia;-inkscape-font-specification:'Georgia, Normal';font-variant-ligatures:normal;font-variant-caps:small-caps;font-variant-numeric:normal;font-variant-east-asian:normal;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.375999;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.490765;stop-color:#000000"
+         x="1216.2184"
+         y="1067.5785"
+         id="text62730"><tspan
+           sodipodi:role="line"
+           id="tspan62728"
+           style="fill:#000000;stroke-width:0.376"
+           x="1216.2184"
+           y="1067.5785">Gairian Dynasty of Tazetaka</tspan></text>
     </g>
     <g
        inkscape:groupmode="layer"
@@ -28391,7 +28496,7 @@
        style="display:inline">
       <path
          style="display:inline;fill:#b6b6b6;fill-opacity:1;stroke:#b6b6b6;stroke-width:0.4;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
-         d="m 1081.9088,1087.2382 h 218.2988"
+         d="m 1108.0567,1087.2382 192.1509,0"
          id="path10318"
          sodipodi:nodetypes="cc" />
       <path
@@ -31442,11 +31547,6 @@
            x="53.708008"
            y="1452.2753"
            id="tspan10508">     tribes</tspan></text>
-      <path
-         style="display:inline;fill:#b6b6b6;fill-opacity:1;stroke:#b6b6b6;stroke-width:0.4;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
-         d="m 1074.3329,1113.9762 h 49.0065"
-         id="path10522"
-         sodipodi:nodetypes="cc" />
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.175px;line-height:0.35;font-family:Georgia;-inkscape-font-specification:'Georgia, Bold';font-variant-ligatures:normal;font-variant-caps:small-caps;font-variant-numeric:normal;font-variant-east-asian:normal;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.176;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.0999795;stop-color:#000000"
@@ -31648,6 +31748,11 @@
          style="display:inline;fill:#b6b6b6;fill-opacity:1;stroke:#b6b6b6;stroke-width:0.4;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
          d="m 1035.0018,1049.0943 h 12.9374"
          id="path58889"
+         sodipodi:nodetypes="cc" />
+      <path
+         style="display:inline;fill:#b6b6b6;fill-opacity:1;stroke:#b6b6b6;stroke-width:0.4;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
+         d="m 1083.6286,1087.2382 10.2713,0"
+         id="path13447"
          sodipodi:nodetypes="cc" />
     </g>
     <g
