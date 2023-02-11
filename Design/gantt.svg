@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   inkscape:version="1.1 (c4e8f9e, 2021-05-24)"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   inkscape:version="1.0.2 (e86c870, 2021-01-15)"
    width="83.333336in"
    height="62.5in"
    viewBox="0 0 2116.6666 1587.5001"
@@ -9,15 +17,7 @@
    sodipodi:docname="gantt.svg"
    inkscape:export-filename="/home/soundofives/Documents/DND/Design/gantt.png"
    inkscape:export-xdpi="800"
-   inkscape:export-ydpi="800"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:dc="http://purl.org/dc/elements/1.1/">
+   inkscape:export-ydpi="800">
   <metadata
      id="metadata2887">
     <rdf:RDF>
@@ -41,10 +41,10 @@
      inkscape:document-units="mm"
      showgrid="false"
      inkscape:zoom="4.6010895"
-     inkscape:cx="4514.2569"
-     inkscape:cy="4229.433"
-     inkscape:window-width="3840"
-     inkscape:window-height="2129"
+     inkscape:cx="4575.8775"
+     inkscape:cy="2845.0055"
+     inkscape:window-width="1920"
+     inkscape:window-height="996"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -26283,9 +26283,9 @@
            y="1126.9597"
            id="tspan6569">Dausa</tspan></text>
       <rect
-         style="display:inline;fill:#c14b76;fill-opacity:1;stroke:none;stroke-width:0.178474;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.0999795;stop-color:#000000"
+         style="display:inline;fill:#c14b76;fill-opacity:1;stroke:none;stroke-width:0.176279;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.0999795;stop-color:#000000"
          id="rect65498"
-         width="30.569994"
+         width="29.822531"
          height="1.9697521"
          x="1165.4468"
          y="734.96619" />
@@ -27996,9 +27996,9 @@
          id="path10818"
          sodipodi:nodetypes="cc" />
       <rect
-         style="display:inline;fill:#651f1f;fill-opacity:1;stroke:none;stroke-width:0.165151;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.0999795;stop-color:#000000"
+         style="display:inline;fill:#651f1f;fill-opacity:1;stroke:none;stroke-width:0.164002;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.0999795;stop-color:#000000"
          id="rect10820"
-         width="26.176147"
+         width="25.813189"
          height="1.9697521"
          x="1169.5951"
          y="743.90009" />
@@ -28014,9 +28014,9 @@
            x="1170.2438"
            y="745.32806">Relic Gate Cities</tspan></text>
       <rect
-         style="display:inline;fill:#651f1f;fill-opacity:1;stroke:none;stroke-width:0.165151;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.0999795;stop-color:#000000"
+         style="display:inline;fill:#651f1f;fill-opacity:1;stroke:none;stroke-width:0.189348;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.0999795;stop-color:#000000"
          id="rect10827"
-         width="26.176147"
+         width="34.408203"
          height="1.9697521"
          x="1172.2252"
          y="752.83636" />
@@ -28232,7 +28232,7 @@
            y="718.38672">Cities of the Anugarosh</tspan></text>
       <path
          style="display:inline;fill:#000000;fill-opacity:1;stroke:#b3b3b3;stroke-width:0.4;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         d="m 1171.2347,729.09762 h 13.0276"
+         d="m 1171.2347,729.09762 24.0231,0"
          id="path10835"
          sodipodi:nodetypes="cc" />
       <rect
@@ -28475,6 +28475,24 @@
            style="fill:#000000;stroke-width:0.376"
            x="1216.2184"
            y="1067.5785">Gairian Dynasty of Tazetaka</tspan></text>
+      <rect
+         style="display:inline;fill:#c88c00;fill-opacity:1;stroke:none;stroke-width:0.12345;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.0999795;stop-color:#000000"
+         id="rect10838"
+         width="14.625803"
+         height="1.9697521"
+         x="1195.3079"
+         y="750.86664" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;line-height:1.25;font-family:Georgia;-inkscape-font-specification:'Georgia, Normal';font-variant-ligatures:normal;font-variant-caps:small-caps;font-variant-numeric:normal;font-variant-east-asian:normal;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.375999;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.490765;stop-color:#000000"
+         x="1195.9565"
+         y="752.29462"
+         id="text10843"><tspan
+           sodipodi:role="line"
+           id="tspan10841"
+           style="fill:#ffffff;stroke-width:0.376"
+           x="1195.9565"
+           y="752.29462">Lohashath Kingdoms</tspan></text>
     </g>
     <g
        inkscape:groupmode="layer"
