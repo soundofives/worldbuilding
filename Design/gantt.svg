@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   inkscape:version="1.1 (c4e8f9e, 2021-05-24)"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   inkscape:version="1.0.2 (e86c870, 2021-01-15)"
    width="83.333336in"
    height="62.5in"
    viewBox="0 0 2116.6666 1587.5001"
@@ -9,15 +17,7 @@
    sodipodi:docname="gantt.svg"
    inkscape:export-filename="/home/soundofives/Documents/DND/Design/gantt.png"
    inkscape:export-xdpi="800"
-   inkscape:export-ydpi="800"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:dc="http://purl.org/dc/elements/1.1/">
+   inkscape:export-ydpi="800">
   <metadata
      id="metadata2887">
     <rdf:RDF>
@@ -40,15 +40,15 @@
      inkscape:pagecheckerboard="0"
      inkscape:document-units="mm"
      showgrid="false"
-     inkscape:zoom="1.1502724"
-     inkscape:cx="4299.4165"
-     inkscape:cy="4394.6113"
-     inkscape:window-width="3840"
-     inkscape:window-height="2129"
+     inkscape:zoom="1.2686716"
+     inkscape:cx="4447.0928"
+     inkscape:cy="4077.8703"
+     inkscape:window-width="1920"
+     inkscape:window-height="996"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer15"
+     inkscape:current-layer="layer13"
      units="in"
      inkscape:snap-global="true"
      inkscape:document-rotation="0"
@@ -33244,11 +33244,11 @@
          y="1289.1827"
          transform="scale(-1,1)" />
       <rect
-         style="fill:#35b535;fill-opacity:1;stroke:none;stroke-width:3.00515;stroke-opacity:0.894118;stop-color:#000000"
+         style="fill:#35b535;fill-opacity:1;stroke:none;stroke-width:2.25186;stroke-opacity:0.894118;stop-color:#000000"
          id="rect496639-2"
-         width="360.10941"
+         width="202.20212"
          height="2.6458333"
-         x="-1140.5818"
+         x="-982.6745"
          y="1289.7119"
          transform="scale(-1,1)" />
       <rect
@@ -33965,23 +33965,6 @@
       <text
          xml:space="preserve"
          style="font-size:3.52777px;line-height:0.25;font-family:Georgia;-inkscape-font-specification:'Georgia, Normal';font-variant-caps:small-caps;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#c500c5;stroke-width:0.529167;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
-         x="-167.27528"
-         y="1655.9894"
-         id="text356857"
-         transform="rotate(-45)"><tspan
-           sodipodi:role="line"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;font-family:Georgia;-inkscape-font-specification:'Georgia, Normal';font-variant-ligatures:normal;font-variant-caps:small-caps;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.529167"
-           x="-167.27528"
-           y="1655.9894"
-           id="tspan356855">Taken by Vayhati-Ceris</tspan><tspan
-           sodipodi:role="line"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;font-family:Georgia;-inkscape-font-specification:'Georgia, Normal';font-variant-ligatures:normal;font-variant-caps:small-caps;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.529167"
-           x="-167.27528"
-           y="1657.1935"
-           id="tspan357711">    to Akshah</tspan></text>
-      <text
-         xml:space="preserve"
-         style="font-size:3.52777px;line-height:0.25;font-family:Georgia;-inkscape-font-specification:'Georgia, Normal';font-variant-caps:small-caps;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#c500c5;stroke-width:0.529167;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
          x="-114.74526"
          y="1716.4475"
          id="text434397"
@@ -34184,23 +34167,21 @@
          r="0.86013991" />
       <text
          xml:space="preserve"
-         style="font-size:3.52777px;line-height:1.25;font-family:Georgia;-inkscape-font-specification:'Georgia, Normal';font-variant-caps:small-caps;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#c500c5;stroke-width:0.529167;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
-         x="1141.1548"
-         y="1291.5712"
-         id="text41249"><tspan
+         style="font-size:3.52777px;line-height:0.25;font-family:Georgia;-inkscape-font-specification:'Georgia, Normal';font-variant-caps:small-caps;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#c500c5;stroke-width:0.529167;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+         x="-216.78732"
+         y="1606.4774"
+         id="text10855"
+         transform="rotate(-45)"><tspan
            sodipodi:role="line"
-           id="tspan41247"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;font-family:Georgia;-inkscape-font-specification:'Georgia, Normal';font-variant-ligatures:normal;font-variant-caps:small-caps;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.529167"
-           x="1141.1548"
-           y="1291.5712">Forged into the Crown of Akshah</tspan></text>
-      <rect
-         style="fill:#35b535;fill-opacity:1;stroke:none;stroke-width:1.7206;stroke-opacity:0.894118;stop-color:#000000"
-         id="rect41929"
-         width="118.04866"
-         height="2.6458333"
-         x="-1282.929"
-         y="1289.7119"
-         transform="scale(-1,1)" />
+           x="-216.78732"
+           y="1606.4774"
+           id="tspan10853">Yuvis passes Taregil</tspan><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;font-family:Georgia;-inkscape-font-specification:'Georgia, Normal';font-variant-ligatures:normal;font-variant-caps:small-caps;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.529167"
+           x="-216.78732"
+           y="1607.6815"
+           id="tspan10859">    to Alaafia</tspan></text>
     </g>
     <g
        inkscape:groupmode="layer"
