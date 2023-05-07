@@ -1,0 +1,12 @@
+NEGATIVES:
+
+
+On ProtoGen:
+
+cropped zombie disfigured ugly low-res Deformed blurry mutation disease amateur childish malformed disgusting mutilated mangled hag surreal text watermark unrecognizable abstract chaotic cluttered noisy unfinished unappealing cliché bloody violent disturbing vulgar offensive repulsive, extra limbs, poorly drawn, extra fingers
+
+    -Thoughts: too smooth and polished
+
+smooth cropped zombie disfigured low-res Deformed blurry mutation disease amateur malformed disgusting mutilated mangled surreal text watermark unrecognizable abstract chaotic cluttered noisy unfinished unappealing cliché, extra limbs, poorly drawn, extra fingers
+
+    -Seems to work a bit better and leaves more space in the positives. Still a little smooth. Possibly the model tho.
