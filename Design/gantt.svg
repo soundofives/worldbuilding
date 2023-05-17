@@ -40,9 +40,9 @@
      inkscape:pagecheckerboard="0"
      inkscape:document-units="mm"
      showgrid="false"
-     inkscape:zoom="2.595032"
-     inkscape:cx="4554.4718"
-     inkscape:cy="4048.1196"
+     inkscape:zoom="7.3398589"
+     inkscape:cx="4650.3619"
+     inkscape:cy="3962.8827"
      inkscape:window-width="3840"
      inkscape:window-height="2129"
      inkscape:window-x="0"
@@ -18923,6 +18923,13 @@
        id="layer13"
        inkscape:label="civs"
        style="display:inline">
+      <rect
+         style="display:inline;opacity:1;fill:#00655c;fill-opacity:1;stroke:none;stroke-width:0.427478;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.979031;stop-color:#000000"
+         id="rect29540"
+         width="33.777534"
+         height="2.1166666"
+         x="1230.8542"
+         y="1048.1124" />
       <path
          style="display:inline;fill:none;fill-opacity:1;stroke:#b3b3b3;stroke-width:0.4;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
          d="m 1196.2994,1038.1591 c -3.1749,-0.01 -1.6676,2.3392 -4.1806,2.3747"
@@ -28982,9 +28989,9 @@
            x="1195.2272"
            y="1038.6936">Dewar City States</tspan></text>
       <rect
-         style="display:inline;opacity:1;fill:#83aa68;fill-opacity:1;stroke:none;stroke-width:0.27624;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.979031;stop-color:#000000"
+         style="display:inline;opacity:1;fill:#83aa68;fill-opacity:1;stroke:none;stroke-width:0.424415;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.979031;stop-color:#000000"
          id="rect122627"
-         width="14.104889"
+         width="33.294922"
          height="2.1166666"
          x="1233.9913"
          y="1018.8297" />
@@ -29036,27 +29043,28 @@
            x="1238.6765"
            y="1018.2834">Ejemdom of Igerin</tspan></text>
       <rect
-         style="display:inline;opacity:1;fill:#6880aa;fill-opacity:1;stroke:none;stroke-width:0.27624;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.979031;stop-color:#000000"
+         style="display:inline;opacity:1;fill:#6880aa;fill-opacity:1;stroke:none;stroke-width:0.109054;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.979031;stop-color:#000000"
          id="rect135435"
-         width="14.104889"
+         width="2.1982465"
          height="2.1166666"
          x="1241.2858"
-         y="1048.1124" />
+         y="1045.995" />
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;line-height:1.25;font-family:Georgia;-inkscape-font-specification:'Georgia, Normal';font-variant-ligatures:normal;font-variant-caps:small-caps;font-variant-numeric:normal;font-variant-east-asian:normal;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;display:inline;opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.375999;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.979031;stop-color:#000000"
-         x="1241.8379"
-         y="1049.6827"
-         id="text135439"><tspan
+         x="551.70502"
+         y="1528.0554"
+         id="text135439"
+         transform="rotate(-30)"><tspan
            sodipodi:role="line"
            id="tspan135437"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;font-family:Georgia;-inkscape-font-specification:'Georgia, Normal';font-variant-ligatures:normal;font-variant-caps:small-caps;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.376"
-           x="1241.8379"
-           y="1049.6827">Ejemdom of Dayo</tspan></text>
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.881944px;font-family:Georgia;-inkscape-font-specification:'Georgia, Normal';font-variant-ligatures:normal;font-variant-caps:small-caps;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke-width:0.376"
+           x="551.70502"
+           y="1528.0554">Ejemdom of Dayo</tspan></text>
       <rect
-         style="display:inline;opacity:1;fill:#008521;fill-opacity:1;stroke:none;stroke-width:0.27624;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.979031;stop-color:#000000"
+         style="display:inline;opacity:1;fill:#008521;fill-opacity:1;stroke:none;stroke-width:0.478264;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.979031;stop-color:#000000"
          id="rect136635"
-         width="14.104889"
+         width="42.27977"
          height="2.1166666"
          x="1243.1393"
          y="1050.2291" />
@@ -29072,27 +29080,28 @@
            x="1243.6914"
            y="1051.7994">Teniayo</tspan></text>
       <rect
-         style="display:inline;opacity:1;fill:#219e93;fill-opacity:1;stroke:none;stroke-width:0.317899;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.979031;stop-color:#000000"
+         style="display:inline;opacity:1;fill:#219e93;fill-opacity:1;stroke:none;stroke-width:0.105988;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.979031;stop-color:#000000"
          id="rect138849"
-         width="18.679951"
+         width="2.0764101"
          height="2.1166666"
-         x="1228.4235"
-         y="1045.9957" />
+         x="1228.7778"
+         y="1048.1124" />
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;line-height:1.25;font-family:Georgia;-inkscape-font-specification:'Georgia, Normal';font-variant-ligatures:normal;font-variant-caps:small-caps;font-variant-numeric:normal;font-variant-east-asian:normal;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;display:inline;opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.375999;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.979031;stop-color:#000000"
-         x="1228.9756"
-         y="1047.566"
-         id="text138853"><tspan
+         x="539.40936"
+         y="1524.0074"
+         id="text138853"
+         transform="rotate(-30)"><tspan
            sodipodi:role="line"
            id="tspan138851"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;font-family:Georgia;-inkscape-font-specification:'Georgia, Normal';font-variant-ligatures:normal;font-variant-caps:small-caps;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.376"
-           x="1228.9756"
-           y="1047.566">Ejemdom of Shathradash</tspan></text>
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.881944px;font-family:Georgia;-inkscape-font-specification:'Georgia, Normal';font-variant-ligatures:normal;font-variant-caps:small-caps;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke-width:0.376"
+           x="539.40936"
+           y="1524.0074">Ejemdom of Shathradash</tspan></text>
       <rect
-         style="display:inline;opacity:1;fill:#055c2d;fill-opacity:1;stroke:none;stroke-width:0.27624;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.979031;stop-color:#000000"
+         style="display:inline;opacity:1;fill:#055c2d;fill-opacity:1;stroke:none;stroke-width:0.438407;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.979031;stop-color:#000000"
          id="rect149731"
-         width="14.104889"
+         width="35.526558"
          height="2.1166666"
          x="1230.1364"
          y="1055.0084" />
@@ -29108,9 +29117,9 @@
            x="1230.6885"
            y="1056.5787">Ejemdom of Shikul</tspan></text>
       <rect
-         style="display:inline;opacity:1;fill:#737976;fill-opacity:1;stroke:none;stroke-width:0.283639;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.979031;stop-color:#000000"
+         style="display:inline;opacity:1;fill:#737976;fill-opacity:1;stroke:none;stroke-width:0.520133;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.979031;stop-color:#000000"
          id="rect154073"
-         width="14.870581"
+         width="50.006237"
          height="2.1166666"
          x="1235.9072"
          y="1057.1251" />
@@ -29126,9 +29135,9 @@
            x="1236.4594"
            y="1058.6954">Ejemdom of Gogranj</tspan></text>
       <rect
-         style="display:inline;opacity:1;fill:#adc200;fill-opacity:1;stroke:none;stroke-width:0.317899;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.979031;stop-color:#000000"
+         style="display:inline;opacity:1;fill:#adc200;fill-opacity:1;stroke:none;stroke-width:0.433082;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.979031;stop-color:#000000"
          id="rect162318"
-         width="18.679951"
+         width="34.668762"
          height="2.1166666"
          x="1232.6064"
          y="1041.3567" />
@@ -29161,6 +29170,17 @@
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;font-family:Georgia;-inkscape-font-specification:'Georgia, Normal';font-variant-ligatures:normal;font-variant-caps:small-caps;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke-width:0.376"
            x="1230.3673"
            y="1036.5769">River Cities of Yanrin</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;line-height:1.25;font-family:Georgia;-inkscape-font-specification:'Georgia, Normal';font-variant-ligatures:normal;font-variant-caps:small-caps;font-variant-numeric:normal;font-variant-east-asian:normal;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;display:inline;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.375999;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.979031;stop-color:#000000"
+         x="1231.491"
+         y="1049.75"
+         id="text29742"><tspan
+           sodipodi:role="line"
+           id="tspan29740"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;font-family:Georgia;-inkscape-font-specification:'Georgia, Normal';font-variant-ligatures:normal;font-variant-caps:small-caps;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke-width:0.376"
+           x="1231.491"
+           y="1049.75">Anarchy of Shathradash</tspan></text>
     </g>
     <g
        inkscape:groupmode="layer"
