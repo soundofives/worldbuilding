@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   inkscape:version="1.1 (c4e8f9e, 2021-05-24)"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   inkscape:version="1.0.2 (e86c870, 2021-01-15)"
    width="83.333336in"
    height="62.5in"
    viewBox="0 0 2116.6666 1587.5001"
@@ -9,15 +17,7 @@
    sodipodi:docname="gantt.svg"
    inkscape:export-filename="/home/soundofives/Documents/DND/Design/gantt.png"
    inkscape:export-xdpi="800"
-   inkscape:export-ydpi="800"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:dc="http://purl.org/dc/elements/1.1/">
+   inkscape:export-ydpi="800">
   <metadata
      id="metadata2887">
     <rdf:RDF>
@@ -40,11 +40,11 @@
      inkscape:pagecheckerboard="0"
      inkscape:document-units="mm"
      showgrid="false"
-     inkscape:zoom="4.0040085"
-     inkscape:cx="4630.3598"
-     inkscape:cy="4049.6917"
-     inkscape:window-width="3840"
-     inkscape:window-height="2129"
+     inkscape:zoom="2.6655622"
+     inkscape:cx="4553.7143"
+     inkscape:cy="4277.8697"
+     inkscape:window-width="1920"
+     inkscape:window-height="988"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -28017,9 +28017,9 @@
          id="path10818"
          sodipodi:nodetypes="cc" />
       <rect
-         style="display:inline;fill:#651f1f;fill-opacity:1;stroke:none;stroke-width:0.164002;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.0999795;stop-color:#000000"
+         style="display:inline;fill:#651f1f;fill-opacity:1;stroke:none;stroke-width:0.181882;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.0999795;stop-color:#000000"
          id="rect10820"
-         width="25.813189"
+         width="31.748625"
          height="1.9697521"
          x="1169.5951"
          y="743.90009" />
@@ -28441,7 +28441,7 @@
            id="tspan28259"
            style="fill:#ffffff;stroke-width:0.376"
            x="1211.8699"
-           y="1101.6354">Followers of Manitesh</tspan></text>
+           y="1101.6354">Cities of Manitesh</tspan></text>
       <rect
          style="display:inline;fill:#3f2b2b;fill-opacity:1;stroke:none;stroke-width:0.217105;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.0999795;stop-color:#000000"
          id="rect31281"
@@ -28459,7 +28459,7 @@
            id="tspan31283"
            style="fill:#ffffff;stroke-width:0.376"
            x="1211.7147"
-           y="1121.3674">Followers of Manitesh</tspan></text>
+           y="1121.3674">Cities of Manitesh</tspan></text>
       <rect
          style="display:inline;fill:#dbae5a;fill-opacity:1;stroke:none;stroke-width:0.125315;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.0999795;stop-color:#000000"
          id="rect51798"
@@ -28501,19 +28501,19 @@
          id="rect10838"
          width="14.625803"
          height="1.9697521"
-         x="1195.3079"
-         y="750.86664" />
+         x="1195.4083"
+         y="741.93036" />
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;line-height:1.25;font-family:Georgia;-inkscape-font-specification:'Georgia, Normal';font-variant-ligatures:normal;font-variant-caps:small-caps;font-variant-numeric:normal;font-variant-east-asian:normal;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.375999;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.490765;stop-color:#000000"
-         x="1195.9565"
-         y="752.29462"
+         x="1196.057"
+         y="743.35834"
          id="text10843"><tspan
            sodipodi:role="line"
            id="tspan10841"
            style="fill:#ffffff;stroke-width:0.376"
-           x="1195.9565"
-           y="752.29462">Lohashath Hegemony</tspan></text>
+           x="1196.057"
+           y="743.35834">Lohashath Hegemony</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.175px;line-height:0.35;font-family:Georgia;-inkscape-font-specification:'Georgia, Bold';font-variant-ligatures:normal;font-variant-caps:small-caps;font-variant-numeric:normal;font-variant-east-asian:normal;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.176;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.0999795;stop-color:#000000"
@@ -32593,12 +32593,12 @@
          sodipodi:nodetypes="cc" />
       <path
          style="display:inline;fill:#b6b6b6;fill-opacity:1;stroke:#b6b6b6;stroke-width:0.4;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
-         d="m 1179.9973,1141.2738 h 39.8985"
+         d="m 1179.9973,1141.2738 83.2217,0"
          id="path6575"
          sodipodi:nodetypes="cc" />
       <path
          style="display:inline;fill:#b6b6b6;fill-opacity:1;stroke:#b6b6b6;stroke-width:0.4;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
-         d="m 1179.9196,1132.0396 h 29.232"
+         d="m 1179.9196,1132.0396 82.5789,0"
          id="path6581"
          sodipodi:nodetypes="cc" />
       <path
@@ -32650,6 +32650,11 @@
            x="77.473709"
            y="1557.9541"
            id="tspan6762">    rises to prominance</tspan></text>
+      <path
+         style="display:inline;fill:#b6b6b6;fill-opacity:1;stroke:#b6b6b6;stroke-width:0.4;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
+         d="m 1191.2091,1122.894 69.6253,0"
+         id="path10994"
+         sodipodi:nodetypes="cc" />
     </g>
     <g
        inkscape:groupmode="layer"
