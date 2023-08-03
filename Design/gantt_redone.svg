@@ -1,0 +1,2286 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg7085"
+   inkscape:version="1.0.2 (e86c870, 2021-01-15)"
+   sodipodi:docname="gantt_redone.svg">
+  <defs
+     id="defs7079" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.2931537"
+     inkscape:cx="123.96513"
+     inkscape:cy="306.7856"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:window-width="960"
+     inkscape:window-height="988"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata7082">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777px;line-height:1.25;font-family:Georgia;-inkscape-font-specification:'Georgia, Normal';font-variant-ligatures:normal;font-variant-caps:small-caps;font-variant-numeric:normal;font-variant-east-asian:normal;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.476001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+       x="39.007446"
+       y="707.9491"
+       id="text28334"><tspan
+         sodipodi:role="line"
+         id="tspan28332"
+         style="stroke-width:0.476"
+         x="39.007446"
+         y="707.9491">Other Islands</tspan></text>
+    <rect
+       style="display:inline;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.601;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+       id="rect28336"
+       width="46.950573"
+       height="9.1852064"
+       x="18.082609"
+       y="702.89429" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777px;line-height:1.25;font-family:Georgia;-inkscape-font-specification:'Georgia, Normal';font-variant-ligatures:normal;font-variant-caps:small-caps;font-variant-numeric:normal;font-variant-east-asian:normal;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.476001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+       x="44.701317"
+       y="698.9646"
+       id="text28291"><tspan
+         sodipodi:role="line"
+         id="tspan28289"
+         style="stroke-width:0.476"
+         x="44.701317"
+         y="698.9646">Yaltali</tspan></text>
+    <rect
+       style="display:inline;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.601;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+       id="rect28293"
+       width="46.950573"
+       height="9.1852064"
+       x="18.082609"
+       y="693.91003" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777px;line-height:1.25;font-family:Georgia;-inkscape-font-specification:'Georgia, Normal';font-variant-ligatures:normal;font-variant-caps:small-caps;font-variant-numeric:normal;font-variant-east-asian:normal;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.476001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+       x="40.91861"
+       y="689.98157"
+       id="text28320"><tspan
+         sodipodi:role="line"
+         id="tspan28318"
+         style="stroke-width:0.476"
+         x="40.91861"
+         y="689.98157">Ushastadel</tspan></text>
+    <rect
+       style="display:inline;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.601;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+       id="rect28322"
+       width="46.950573"
+       height="9.1852064"
+       x="18.082609"
+       y="684.92688" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:Georgia;-inkscape-font-specification:'Georgia, Bold';font-variant-ligatures:normal;font-variant-caps:small-caps;font-variant-numeric:normal;font-variant-east-asian:normal;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.476001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+       x="19.140652"
+       y="625.67188"
+       id="text90831"><tspan
+         sodipodi:role="line"
+         id="tspan90829"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.52778px;font-family:Georgia;-inkscape-font-specification:'Georgia, Bold';font-variant-ligatures:normal;font-variant-caps:small-caps;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.476"
+         x="19.140652"
+         y="625.67188">Nomenes</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777px;line-height:1.25;font-family:Georgia;-inkscape-font-specification:'Georgia, Normal';font-variant-ligatures:normal;font-variant-caps:small-caps;font-variant-numeric:normal;font-variant-east-asian:normal;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.476001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+       x="41.027992"
+       y="565.29138"
+       id="text116197"><tspan
+         sodipodi:role="line"
+         id="tspan116195"
+         style="stroke-width:0.476"
+         x="41.027992"
+         y="565.29138">North-east</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777px;line-height:1.25;font-family:Georgia;-inkscape-font-specification:'Georgia, Normal';font-variant-ligatures:normal;font-variant-caps:small-caps;font-variant-numeric:normal;font-variant-east-asian:normal;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.476001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+       x="40.576687"
+       y="574.19592"
+       id="text118621"><tspan
+         sodipodi:role="line"
+         id="tspan118619"
+         style="stroke-width:0.476"
+         x="40.576687"
+         y="574.19592">North-west</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777px;line-height:1.25;font-family:Georgia;-inkscape-font-specification:'Georgia, Normal';font-variant-ligatures:normal;font-variant-caps:small-caps;font-variant-numeric:normal;font-variant-east-asian:normal;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.476001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+       x="37.907604"
+       y="583.10034"
+       id="text128441"><tspan
+         sodipodi:role="line"
+         id="tspan128439"
+         style="stroke-width:0.476"
+         x="37.907604"
+         y="583.10034">North-central</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777px;line-height:1.25;font-family:Georgia;-inkscape-font-specification:'Georgia, Normal';font-variant-ligatures:normal;font-variant-caps:small-caps;font-variant-numeric:normal;font-variant-east-asian:normal;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.476001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+       x="41.050388"
+       y="592.00488"
+       id="text139383"><tspan
+         sodipodi:role="line"
+         id="tspan139381"
+         style="stroke-width:0.476"
+         x="41.050388"
+         y="592.00488">East-north</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777px;line-height:1.25;font-family:Georgia;-inkscape-font-specification:'Georgia, Normal';font-variant-ligatures:normal;font-variant-caps:small-caps;font-variant-numeric:normal;font-variant-east-asian:normal;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.476001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+       x="39.528519"
+       y="618.74011"
+       id="text141227"><tspan
+         sodipodi:role="line"
+         id="tspan141225"
+         style="stroke-width:0.476"
+         x="39.528519"
+         y="618.74011">Central-east</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777px;line-height:1.25;font-family:Georgia;-inkscape-font-specification:'Georgia, Normal';font-variant-ligatures:normal;font-variant-caps:small-caps;font-variant-numeric:normal;font-variant-east-asian:normal;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.476001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+       x="39.077209"
+       y="627.64465"
+       id="text148063"><tspan
+         sodipodi:role="line"
+         id="tspan148061"
+         style="stroke-width:0.476"
+         x="39.077209"
+         y="627.64465">Central-west</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777px;line-height:1.25;font-family:Georgia;-inkscape-font-specification:'Georgia, Normal';font-variant-ligatures:normal;font-variant-caps:small-caps;font-variant-numeric:normal;font-variant-east-asian:normal;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.476001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+       x="40.638699"
+       y="636.52759"
+       id="text149783"><tspan
+         sodipodi:role="line"
+         id="tspan149781"
+         style="stroke-width:0.476"
+         x="40.638699"
+         y="636.52759">West-north</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777px;line-height:1.25;font-family:Georgia;-inkscape-font-specification:'Georgia, Normal';font-variant-ligatures:normal;font-variant-caps:small-caps;font-variant-numeric:normal;font-variant-east-asian:normal;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.476001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+       x="39.283054"
+       y="600.93103"
+       id="text164667"><tspan
+         sodipodi:role="line"
+         id="tspan164665"
+         style="stroke-width:0.476"
+         x="39.283054"
+         y="600.93103">East-Central</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777px;line-height:1.25;font-family:Georgia;-inkscape-font-specification:'Georgia, Normal';font-variant-ligatures:normal;font-variant-caps:small-caps;font-variant-numeric:normal;font-variant-east-asian:normal;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.476001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+       x="41.033161"
+       y="609.83984"
+       id="text165895"><tspan
+         sodipodi:role="line"
+         id="tspan165893"
+         style="stroke-width:0.476"
+         x="41.033161"
+         y="609.83984">East-South</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777px;line-height:1.25;font-family:Georgia;-inkscape-font-specification:'Georgia, Normal';font-variant-ligatures:normal;font-variant-caps:small-caps;font-variant-numeric:normal;font-variant-east-asian:normal;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.476001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+       x="38.871368"
+       y="654.35815"
+       id="text174537"><tspan
+         sodipodi:role="line"
+         id="tspan174535"
+         style="stroke-width:0.476"
+         x="38.871368"
+         y="654.35815">West-Central</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777px;line-height:1.25;font-family:Georgia;-inkscape-font-specification:'Georgia, Normal';font-variant-ligatures:normal;font-variant-caps:small-caps;font-variant-numeric:normal;font-variant-east-asian:normal;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.476001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+       x="40.621471"
+       y="645.45801"
+       id="text176697"><tspan
+         sodipodi:role="line"
+         id="tspan176695"
+         style="stroke-width:0.476"
+         x="40.621471"
+         y="645.45801">West-South</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777px;line-height:1.25;font-family:Georgia;-inkscape-font-specification:'Georgia, Normal';font-variant-ligatures:normal;font-variant-caps:small-caps;font-variant-numeric:normal;font-variant-east-asian:normal;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.476001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+       x="40.746357"
+       y="663.26709"
+       id="text179547"><tspan
+         sodipodi:role="line"
+         id="tspan179545"
+         style="stroke-width:0.476"
+         x="40.746357"
+         y="663.26709">South-west</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777px;line-height:1.25;font-family:Georgia;-inkscape-font-specification:'Georgia, Normal';font-variant-ligatures:normal;font-variant-caps:small-caps;font-variant-numeric:normal;font-variant-east-asian:normal;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.476001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+       x="38.077274"
+       y="672.17151"
+       id="text180963"><tspan
+         sodipodi:role="line"
+         id="tspan180961"
+         style="stroke-width:0.476"
+         x="38.077274"
+         y="672.17151">South-central</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777px;line-height:1.25;font-family:Georgia;-inkscape-font-specification:'Georgia, Normal';font-variant-ligatures:normal;font-variant-caps:small-caps;font-variant-numeric:normal;font-variant-east-asian:normal;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.476001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+       x="41.197662"
+       y="681.07605"
+       id="text183991"><tspan
+         sodipodi:role="line"
+         id="tspan183989"
+         style="stroke-width:0.476"
+         x="41.197662"
+         y="681.07605">South-east</tspan></text>
+    <rect
+       style="display:inline;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.600641;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+       id="rect185218"
+       width="46.709782"
+       height="125.54184"
+       x="18.203005"
+       y="559.54468" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:Georgia;-inkscape-font-specification:'Georgia, Bold';font-variant-ligatures:normal;font-variant-caps:small-caps;font-variant-numeric:normal;font-variant-east-asian:normal;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.476001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+       x="19.140652"
+       y="538.45874"
+       id="text68524"><tspan
+         sodipodi:role="line"
+         id="tspan68522"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.52778px;font-family:Georgia;-inkscape-font-specification:'Georgia, Bold';font-variant-ligatures:normal;font-variant-caps:small-caps;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.476"
+         x="19.140652"
+         y="538.45874">Huroma</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777px;line-height:1.25;font-family:Georgia;-inkscape-font-specification:'Georgia, Normal';font-variant-ligatures:normal;font-variant-caps:small-caps;font-variant-numeric:normal;font-variant-east-asian:normal;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.476001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+       x="46.839855"
+       y="528.82788"
+       id="text68528"><tspan
+         sodipodi:role="line"
+         id="tspan68526"
+         style="stroke-width:0.476"
+         x="46.839855"
+         y="528.82788">East</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777px;line-height:1.25;font-family:Georgia;-inkscape-font-specification:'Georgia, Normal';font-variant-ligatures:normal;font-variant-caps:small-caps;font-variant-numeric:normal;font-variant-east-asian:normal;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.476001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+       x="45.299042"
+       y="519.92761"
+       id="text68532"><tspan
+         sodipodi:role="line"
+         id="tspan68530"
+         style="stroke-width:0.476"
+         x="45.299042"
+         y="519.92761">North</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777px;line-height:1.25;font-family:Georgia;-inkscape-font-specification:'Georgia, Normal';font-variant-ligatures:normal;font-variant-caps:small-caps;font-variant-numeric:normal;font-variant-east-asian:normal;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.476001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+       x="45.468712"
+       y="537.73669"
+       id="text68536"><tspan
+         sodipodi:role="line"
+         id="tspan68534"
+         style="stroke-width:0.476"
+         x="45.468712"
+         y="537.73669">South</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777px;line-height:1.25;font-family:Georgia;-inkscape-font-specification:'Georgia, Normal';font-variant-ligatures:normal;font-variant-caps:small-caps;font-variant-numeric:normal;font-variant-east-asian:normal;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.476001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+       x="46.428169"
+       y="546.64124"
+       id="text68540"><tspan
+         sodipodi:role="line"
+         id="tspan68538"
+         style="stroke-width:0.476"
+         x="46.428169"
+         y="546.64124">West</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777px;line-height:1.25;font-family:Georgia;-inkscape-font-specification:'Georgia, Normal';font-variant-ligatures:normal;font-variant-caps:small-caps;font-variant-numeric:normal;font-variant-east-asian:normal;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.476001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+       x="43.732388"
+       y="555.54578"
+       id="text68544"><tspan
+         sodipodi:role="line"
+         id="tspan68542"
+         style="stroke-width:0.476"
+         x="43.732388"
+         y="555.54578">Central</tspan></text>
+    <rect
+       style="display:inline;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.601;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+       id="rect68546"
+       width="46.950573"
+       height="44.829639"
+       x="18.082609"
+       y="514.84668" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:Georgia;-inkscape-font-specification:'Georgia, Bold';font-variant-ligatures:normal;font-variant-caps:small-caps;font-variant-numeric:normal;font-variant-east-asian:normal;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.476001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+       x="19.140652"
+       y="493.76407"
+       id="text218709"><tspan
+         sodipodi:role="line"
+         id="tspan218707"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.52778px;font-family:Georgia;-inkscape-font-specification:'Georgia, Bold';font-variant-ligatures:normal;font-variant-caps:small-caps;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.476"
+         x="19.140652"
+         y="493.76407">Eyasol</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777px;line-height:1.25;font-family:Georgia;-inkscape-font-specification:'Georgia, Normal';font-variant-ligatures:normal;font-variant-caps:small-caps;font-variant-numeric:normal;font-variant-east-asian:normal;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.476001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+       x="41.23642"
+       y="484.13321"
+       id="text218713"><tspan
+         sodipodi:role="line"
+         id="tspan218711"
+         style="stroke-width:0.476"
+         x="41.23642"
+         y="484.13321">Northwest</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777px;line-height:1.25;font-family:Georgia;-inkscape-font-specification:'Georgia, Normal';font-variant-ligatures:normal;font-variant-caps:small-caps;font-variant-numeric:normal;font-variant-east-asian:normal;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.476001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+       x="41.687729"
+       y="475.23294"
+       id="text218717"><tspan
+         sodipodi:role="line"
+         id="tspan218715"
+         style="stroke-width:0.476"
+         x="41.687729"
+         y="475.23294">Northeast</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777px;line-height:1.25;font-family:Georgia;-inkscape-font-specification:'Georgia, Normal';font-variant-ligatures:normal;font-variant-caps:small-caps;font-variant-numeric:normal;font-variant-east-asian:normal;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.476001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+       x="41.857399"
+       y="493.04202"
+       id="text218721"><tspan
+         sodipodi:role="line"
+         id="tspan218719"
+         style="stroke-width:0.476"
+         x="41.857399"
+         y="493.04202">Southeast</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777px;line-height:1.25;font-family:Georgia;-inkscape-font-specification:'Georgia, Normal';font-variant-ligatures:normal;font-variant-caps:small-caps;font-variant-numeric:normal;font-variant-east-asian:normal;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.476001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+       x="41.40609"
+       y="501.94656"
+       id="text218725"><tspan
+         sodipodi:role="line"
+         id="tspan218723"
+         style="stroke-width:0.476"
+         x="41.40609"
+         y="501.94656">Southwest</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777px;line-height:1.25;font-family:Georgia;-inkscape-font-specification:'Georgia, Normal';font-variant-ligatures:normal;font-variant-caps:small-caps;font-variant-numeric:normal;font-variant-east-asian:normal;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.476001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+       x="43.732388"
+       y="510.8511"
+       id="text218729"><tspan
+         sodipodi:role="line"
+         id="tspan218727"
+         style="stroke-width:0.476"
+         x="43.732388"
+         y="510.8511">Central</tspan></text>
+    <rect
+       style="display:inline;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.601;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+       id="rect218731"
+       width="46.950573"
+       height="44.829639"
+       x="18.082609"
+       y="470.15201" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:Georgia;-inkscape-font-specification:'Georgia, Bold';font-variant-ligatures:normal;font-variant-caps:small-caps;font-variant-numeric:normal;font-variant-east-asian:normal;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.476001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+       x="19.140652"
+       y="363.83011"
+       id="text14063"><tspan
+         sodipodi:role="line"
+         id="tspan14061"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.52778px;font-family:Georgia;-inkscape-font-specification:'Georgia, Bold';font-variant-ligatures:normal;font-variant-caps:small-caps;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.476"
+         x="19.140652"
+         y="363.83011">Austera</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777px;line-height:1.25;font-family:Georgia;-inkscape-font-specification:'Georgia, Normal';font-variant-ligatures:normal;font-variant-caps:small-caps;font-variant-numeric:normal;font-variant-east-asian:normal;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.476001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+       x="32.03215"
+       y="260.76724"
+       id="text14067"><tspan
+         sodipodi:role="line"
+         id="tspan14065"
+         style="stroke-width:0.476"
+         x="32.03215"
+         y="260.76724">West Coast-north</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777px;line-height:1.25;font-family:Georgia;-inkscape-font-specification:'Georgia, Normal';font-variant-ligatures:normal;font-variant-caps:small-caps;font-variant-numeric:normal;font-variant-east-asian:normal;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.476001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+       x="30.965033"
+       y="269.67178"
+       id="text14071"><tspan
+         sodipodi:role="line"
+         id="tspan14069"
+         style="stroke-width:0.476"
+         x="30.965033"
+         y="269.67178">West Coast-central</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777px;line-height:1.25;font-family:Georgia;-inkscape-font-specification:'Georgia, Normal';font-variant-ligatures:normal;font-variant-caps:small-caps;font-variant-numeric:normal;font-variant-east-asian:normal;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.476001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+       x="32.020092"
+       y="278.57626"
+       id="text14075"><tspan
+         sodipodi:role="line"
+         id="tspan14073"
+         style="stroke-width:0.476"
+         x="32.020092"
+         y="278.57626">West Coast-south</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777px;line-height:1.25;font-family:Georgia;-inkscape-font-specification:'Georgia, Normal';font-variant-ligatures:normal;font-variant-caps:small-caps;font-variant-numeric:normal;font-variant-east-asian:normal;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.476001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+       x="33.35334"
+       y="287.4808"
+       id="text14079"><tspan
+         sodipodi:role="line"
+         id="tspan14077"
+         style="stroke-width:0.476"
+         x="33.35334"
+         y="287.4808">Southwest-west</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777px;line-height:1.25;font-family:Georgia;-inkscape-font-specification:'Georgia, Normal';font-variant-ligatures:normal;font-variant-caps:small-caps;font-variant-numeric:normal;font-variant-east-asian:normal;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.476001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+       x="31.027044"
+       y="314.21597"
+       id="text14083"><tspan
+         sodipodi:role="line"
+         id="tspan14081"
+         style="stroke-width:0.476"
+         x="31.027044"
+         y="314.21597">Western Sea-north</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777px;line-height:1.25;font-family:Georgia;-inkscape-font-specification:'Georgia, Normal';font-variant-ligatures:normal;font-variant-caps:small-caps;font-variant-numeric:normal;font-variant-east-asian:normal;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.476001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+       x="29.959929"
+       y="323.12051"
+       id="text14087"><tspan
+         sodipodi:role="line"
+         id="tspan14085"
+         style="stroke-width:0.476"
+         x="29.959929"
+         y="323.12051">Western Sea-central</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777px;line-height:1.25;font-family:Georgia;-inkscape-font-specification:'Georgia, Normal';font-variant-ligatures:normal;font-variant-caps:small-caps;font-variant-numeric:normal;font-variant-east-asian:normal;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.476001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+       x="31.014986"
+       y="332.00351"
+       id="text14091"><tspan
+         sodipodi:role="line"
+         id="tspan14089"
+         style="stroke-width:0.476"
+         x="31.014986"
+         y="332.00351">Western Sea-south</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777px;line-height:1.25;font-family:Georgia;-inkscape-font-specification:'Georgia, Normal';font-variant-ligatures:normal;font-variant-caps:small-caps;font-variant-numeric:normal;font-variant-east-asian:normal;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.476001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+       x="31.479212"
+       y="296.40689"
+       id="text14095"><tspan
+         sodipodi:role="line"
+         id="tspan14093"
+         style="stroke-width:0.476"
+         x="31.479212"
+         y="296.40689">Southwest-central</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777px;line-height:1.25;font-family:Georgia;-inkscape-font-specification:'Georgia, Normal';font-variant-ligatures:normal;font-variant-caps:small-caps;font-variant-numeric:normal;font-variant-east-asian:normal;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.476001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+       x="32.534271"
+       y="305.3157"
+       id="text14099"><tspan
+         sodipodi:role="line"
+         id="tspan14097"
+         style="stroke-width:0.476"
+         x="32.534271"
+         y="305.3157">Southwest-south</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777px;line-height:1.25;font-family:Georgia;-inkscape-font-specification:'Georgia, Normal';font-variant-ligatures:normal;font-variant-caps:small-caps;font-variant-numeric:normal;font-variant-east-asian:normal;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.476001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+       x="33.119076"
+       y="349.83408"
+       id="text14103"><tspan
+         sodipodi:role="line"
+         id="tspan14101"
+         style="stroke-width:0.476"
+         x="33.119076"
+         y="349.83408">Central-far west</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777px;line-height:1.25;font-family:Georgia;-inkscape-font-specification:'Georgia, Normal';font-variant-ligatures:normal;font-variant-caps:small-caps;font-variant-numeric:normal;font-variant-east-asian:normal;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.476001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+       x="32.245747"
+       y="340.93387"
+       id="text14107"><tspan
+         sodipodi:role="line"
+         id="tspan14105"
+         style="stroke-width:0.476"
+         x="32.245747"
+         y="340.93387">Western Sea-east</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777px;line-height:1.25;font-family:Georgia;-inkscape-font-specification:'Georgia, Normal';font-variant-ligatures:normal;font-variant-caps:small-caps;font-variant-numeric:normal;font-variant-east-asian:normal;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.476001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+       x="31.378443"
+       y="358.74295"
+       id="text14111"><tspan
+         sodipodi:role="line"
+         id="tspan14109"
+         style="stroke-width:0.476"
+         x="31.378443"
+         y="358.74295">Central-northwest</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777px;line-height:1.25;font-family:Georgia;-inkscape-font-specification:'Georgia, Normal';font-variant-ligatures:normal;font-variant-caps:small-caps;font-variant-numeric:normal;font-variant-east-asian:normal;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.476001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+       x="35.729591"
+       y="367.64731"
+       id="text14115"><tspan
+         sodipodi:role="line"
+         id="tspan14113"
+         style="stroke-width:0.476"
+         x="35.729591"
+         y="367.64731">Central-west</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777px;line-height:1.25;font-family:Georgia;-inkscape-font-specification:'Georgia, Normal';font-variant-ligatures:normal;font-variant-caps:small-caps;font-variant-numeric:normal;font-variant-east-asian:normal;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.476001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+       x="34.922577"
+       y="376.55191"
+       id="text14119"><tspan
+         sodipodi:role="line"
+         id="tspan14117"
+         style="stroke-width:0.476"
+         x="34.922577"
+         y="376.55191">Central-north</tspan></text>
+    <rect
+       style="display:inline;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.601;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+       id="rect14121"
+       width="46.969765"
+       height="215.0396"
+       x="18.082609"
+       y="255.11244" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777px;line-height:1.25;font-family:Georgia;-inkscape-font-specification:'Georgia, Normal';font-variant-ligatures:normal;font-variant-caps:small-caps;font-variant-numeric:normal;font-variant-east-asian:normal;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.476001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+       x="27.937662"
+       y="403.80899"
+       id="text25203"><tspan
+         sodipodi:role="line"
+         id="tspan25201"
+         style="stroke-width:0.476"
+         x="27.937662"
+         y="403.80899">Eastern Sea-northwest</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777px;line-height:1.25;font-family:Georgia;-inkscape-font-specification:'Georgia, Normal';font-variant-ligatures:normal;font-variant-caps:small-caps;font-variant-numeric:normal;font-variant-east-asian:normal;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.476001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+       x="31.481796"
+       y="412.71353"
+       id="text25207"><tspan
+         sodipodi:role="line"
+         id="tspan25205"
+         style="stroke-width:0.476"
+         x="31.481796"
+         y="412.71353">Eastern Sea-north</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777px;line-height:1.25;font-family:Georgia;-inkscape-font-specification:'Georgia, Normal';font-variant-ligatures:normal;font-variant-caps:small-caps;font-variant-numeric:normal;font-variant-east-asian:normal;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.476001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+       x="31.469738"
+       y="421.59647"
+       id="text25211"><tspan
+         sodipodi:role="line"
+         id="tspan25209"
+         style="stroke-width:0.476"
+         x="31.469738"
+         y="421.59647">Eastern Sea-south</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777px;line-height:1.25;font-family:Georgia;-inkscape-font-specification:'Georgia, Normal';font-variant-ligatures:normal;font-variant-caps:small-caps;font-variant-numeric:normal;font-variant-east-asian:normal;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.476001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+       x="36.141277"
+       y="385.99991"
+       id="text25215"><tspan
+         sodipodi:role="line"
+         id="tspan25213"
+         style="stroke-width:0.476"
+         x="36.141277"
+         y="385.99991">Central-east</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777px;line-height:1.25;font-family:Georgia;-inkscape-font-specification:'Georgia, Normal';font-variant-ligatures:normal;font-variant-caps:small-caps;font-variant-numeric:normal;font-variant-east-asian:normal;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.476001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+       x="33.530762"
+       y="394.9086"
+       id="text25219"><tspan
+         sodipodi:role="line"
+         id="tspan25217"
+         style="stroke-width:0.476"
+         x="33.530762"
+         y="394.9086">Central-far east</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777px;line-height:1.25;font-family:Georgia;-inkscape-font-specification:'Georgia, Normal';font-variant-ligatures:normal;font-variant-caps:small-caps;font-variant-numeric:normal;font-variant-east-asian:normal;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.476001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+       x="32.4869"
+       y="439.42703"
+       id="text25223"><tspan
+         sodipodi:role="line"
+         id="tspan25221"
+         style="stroke-width:0.476"
+         x="32.4869"
+         y="439.42703">East Coast-north</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777px;line-height:1.25;font-family:Georgia;-inkscape-font-specification:'Georgia, Normal';font-variant-ligatures:normal;font-variant-caps:small-caps;font-variant-numeric:normal;font-variant-east-asian:normal;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.476001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+       x="37.278156"
+       y="430.52689"
+       id="text25227"><tspan
+         sodipodi:role="line"
+         id="tspan25225"
+         style="stroke-width:0.476"
+         x="37.278156"
+         y="430.52689">North-east</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777px;line-height:1.25;font-family:Georgia;-inkscape-font-specification:'Georgia, Normal';font-variant-ligatures:normal;font-variant-caps:small-caps;font-variant-numeric:normal;font-variant-east-asian:normal;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.476001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+       x="32.474842"
+       y="448.33597"
+       id="text25231"><tspan
+         sodipodi:role="line"
+         id="tspan25229"
+         style="stroke-width:0.476"
+         x="32.474842"
+         y="448.33597">East Coast-south</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777px;line-height:1.25;font-family:Georgia;-inkscape-font-specification:'Georgia, Normal';font-variant-ligatures:normal;font-variant-caps:small-caps;font-variant-numeric:normal;font-variant-east-asian:normal;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.476001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+       x="29.903084"
+       y="457.24039"
+       id="text25235"><tspan
+         sodipodi:role="line"
+         id="tspan25233"
+         style="stroke-width:0.476"
+         x="29.903084"
+         y="457.24039">Southern Coast-east</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777px;line-height:1.25;font-family:Georgia;-inkscape-font-specification:'Georgia, Normal';font-variant-ligatures:normal;font-variant-caps:small-caps;font-variant-numeric:normal;font-variant-east-asian:normal;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.476001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+       x="27.617271"
+       y="466.14493"
+       id="text25239"><tspan
+         sodipodi:role="line"
+         id="tspan25237"
+         style="stroke-width:0.476"
+         x="27.617271"
+         y="466.14493">Southern Coast-central</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:Georgia;-inkscape-font-specification:'Georgia, Bold';font-variant-ligatures:normal;font-variant-caps:small-caps;font-variant-numeric:normal;font-variant-east-asian:normal;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.476001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+       x="19.140652"
+       y="16.164143"
+       id="text8341"><tspan
+         sodipodi:role="line"
+         id="tspan8339"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.52778px;font-family:Georgia;-inkscape-font-specification:'Georgia, Bold';font-variant-ligatures:normal;font-variant-caps:small-caps;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.476"
+         x="19.140652"
+         y="16.164143">Luazil</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777px;line-height:1.25;font-family:Georgia;-inkscape-font-specification:'Georgia, Normal';font-variant-ligatures:normal;font-variant-caps:small-caps;font-variant-numeric:normal;font-variant-east-asian:normal;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.476001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+       x="46.255058"
+       y="-28.603558"
+       id="text8345"><tspan
+         sodipodi:role="line"
+         id="tspan8343"
+         style="stroke-width:0.476"
+         x="46.255058"
+         y="-28.603558">North</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777px;line-height:1.25;font-family:Georgia;-inkscape-font-specification:'Georgia, Normal';font-variant-ligatures:normal;font-variant-caps:small-caps;font-variant-numeric:normal;font-variant-east-asian:normal;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.476001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+       x="45.120766"
+       y="-19.699017"
+       id="text8349"><tspan
+         sodipodi:role="line"
+         id="tspan8347"
+         style="stroke-width:0.476"
+         x="45.120766"
+         y="-19.699017">Central</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777px;line-height:1.25;font-family:Georgia;-inkscape-font-specification:'Georgia, Normal';font-variant-ligatures:normal;font-variant-caps:small-caps;font-variant-numeric:normal;font-variant-east-asian:normal;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.476001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+       x="42.440487"
+       y="-10.794537"
+       id="text8353"><tspan
+         sodipodi:role="line"
+         id="tspan8351"
+         style="stroke-width:0.476"
+         x="42.440487"
+         y="-10.794537">Central-East</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777px;line-height:1.25;font-family:Georgia;-inkscape-font-specification:'Georgia, Normal';font-variant-ligatures:normal;font-variant-caps:small-caps;font-variant-numeric:normal;font-variant-east-asian:normal;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.476001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+       x="41.373371"
+       y="-1.8899952"
+       id="text8357"><tspan
+         sodipodi:role="line"
+         id="tspan8355"
+         style="stroke-width:0.476"
+         x="41.373371"
+         y="-1.8899952">Central-South</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777px;line-height:1.25;font-family:Georgia;-inkscape-font-specification:'Georgia, Normal';font-variant-ligatures:normal;font-variant-caps:small-caps;font-variant-numeric:normal;font-variant-east-asian:normal;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.476001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+       x="42.174355"
+       y="24.845173"
+       id="text8361"><tspan
+         sodipodi:role="line"
+         id="tspan8359"
+         style="stroke-width:0.476"
+         x="42.174355"
+         y="24.845173">East-South</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777px;line-height:1.25;font-family:Georgia;-inkscape-font-specification:'Georgia, Normal';font-variant-ligatures:normal;font-variant-caps:small-caps;font-variant-numeric:normal;font-variant-east-asian:normal;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.476001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+       x="40.188259"
+       y="33.749714"
+       id="text8365"><tspan
+         sodipodi:role="line"
+         id="tspan8363"
+         style="stroke-width:0.476"
+         x="40.188259"
+         y="33.749714">Lakes-Southeast</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777px;line-height:1.25;font-family:Georgia;-inkscape-font-specification:'Georgia, Normal';font-variant-ligatures:normal;font-variant-caps:small-caps;font-variant-numeric:normal;font-variant-east-asian:normal;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.476001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+       x="41.677399"
+       y="42.63271"
+       id="text8369"><tspan
+         sodipodi:role="line"
+         id="tspan8367"
+         style="stroke-width:0.476"
+         x="41.677399"
+         y="42.63271">Lakes-Central</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777px;line-height:1.25;font-family:Georgia;-inkscape-font-specification:'Georgia, Normal';font-variant-ligatures:normal;font-variant-caps:small-caps;font-variant-numeric:normal;font-variant-east-asian:normal;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.476001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+       x="39.499252"
+       y="7.0360913"
+       id="text8373"><tspan
+         sodipodi:role="line"
+         id="tspan8371"
+         style="stroke-width:0.476"
+         x="39.499252"
+         y="7.0360913">East-Peninsula</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777px;line-height:1.25;font-family:Georgia;-inkscape-font-specification:'Georgia, Normal';font-variant-ligatures:normal;font-variant-caps:small-caps;font-variant-numeric:normal;font-variant-east-asian:normal;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.476001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+       x="39.080666"
+       y="15.944904"
+       id="text8377"><tspan
+         sodipodi:role="line"
+         id="tspan8375"
+         style="stroke-width:0.476"
+         x="39.080666"
+         y="15.944904">East-Central</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777px;line-height:1.25;font-family:Georgia;-inkscape-font-specification:'Georgia, Normal';font-variant-ligatures:normal;font-variant-caps:small-caps;font-variant-numeric:normal;font-variant-east-asian:normal;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.476001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+       x="40.587029"
+       y="60.463337"
+       id="text8381"><tspan
+         sodipodi:role="line"
+         id="tspan8379"
+         style="stroke-width:0.476"
+         x="40.587029"
+         y="60.463337">Lakes-West</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777px;line-height:1.25;font-family:Georgia;-inkscape-font-specification:'Georgia, Normal';font-variant-ligatures:normal;font-variant-caps:small-caps;font-variant-numeric:normal;font-variant-east-asian:normal;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.476001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+       x="32.822052"
+       y="51.563068"
+       id="text8385"><tspan
+         sodipodi:role="line"
+         id="tspan8383"
+         style="stroke-width:0.476"
+         x="32.822052"
+         y="51.563068">Lakes-South central</tspan></text>
+    <rect
+       style="display:inline;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.601;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+       id="rect8399"
+       width="46.834034"
+       height="107.72623"
+       x="18.061451"
+       y="-34.384071" />
+    <rect
+       style="display:inline;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.601;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+       id="rect6947"
+       width="46.834034"
+       height="80.895866"
+       x="18.061451"
+       y="73.342155" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777px;line-height:1.25;font-family:Georgia;-inkscape-font-specification:'Georgia, Normal';font-variant-ligatures:normal;font-variant-caps:small-caps;font-variant-numeric:normal;font-variant-east-asian:normal;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.476001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+       x="46.175629"
+       y="79.142876"
+       id="text7023"><tspan
+         sodipodi:role="line"
+         id="tspan7021"
+         style="stroke-width:0.476"
+         x="46.175629"
+         y="79.142876">North</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777px;line-height:1.25;font-family:Georgia;-inkscape-font-specification:'Georgia, Normal';font-variant-ligatures:normal;font-variant-caps:small-caps;font-variant-numeric:normal;font-variant-east-asian:normal;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.476001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+       x="45.041336"
+       y="88.047417"
+       id="text7027"><tspan
+         sodipodi:role="line"
+         id="tspan7025"
+         style="stroke-width:0.476"
+         x="45.041336"
+         y="88.047417">Central</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777px;line-height:1.25;font-family:Georgia;-inkscape-font-specification:'Georgia, Normal';font-variant-ligatures:normal;font-variant-caps:small-caps;font-variant-numeric:normal;font-variant-east-asian:normal;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.476001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+       x="42.361057"
+       y="96.951897"
+       id="text7031"><tspan
+         sodipodi:role="line"
+         id="tspan7029"
+         style="stroke-width:0.476"
+         x="42.361057"
+         y="96.951897">East-north</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777px;line-height:1.25;font-family:Georgia;-inkscape-font-specification:'Georgia, Normal';font-variant-ligatures:normal;font-variant-caps:small-caps;font-variant-numeric:normal;font-variant-east-asian:normal;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.476001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+       x="41.293941"
+       y="105.85644"
+       id="text7035"><tspan
+         sodipodi:role="line"
+         id="tspan7033"
+         style="stroke-width:0.476"
+         x="41.293941"
+         y="105.85644">East-central</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777px;line-height:1.25;font-family:Georgia;-inkscape-font-specification:'Georgia, Normal';font-variant-ligatures:normal;font-variant-caps:small-caps;font-variant-numeric:normal;font-variant-east-asian:normal;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.476001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+       x="42.094925"
+       y="132.5916"
+       id="text7039"><tspan
+         sodipodi:role="line"
+         id="tspan7037"
+         style="stroke-width:0.476"
+         x="42.094925"
+         y="132.5916">South-East</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777px;line-height:1.25;font-family:Georgia;-inkscape-font-specification:'Georgia, Normal';font-variant-ligatures:normal;font-variant-caps:small-caps;font-variant-numeric:normal;font-variant-east-asian:normal;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.476001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+       x="40.108829"
+       y="141.49614"
+       id="text7043"><tspan
+         sodipodi:role="line"
+         id="tspan7041"
+         style="stroke-width:0.476"
+         x="40.108829"
+         y="141.49614">South-central</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777px;line-height:1.25;font-family:Georgia;-inkscape-font-specification:'Georgia, Normal';font-variant-ligatures:normal;font-variant-caps:small-caps;font-variant-numeric:normal;font-variant-east-asian:normal;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.476001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+       x="41.597969"
+       y="150.37914"
+       id="text7047"><tspan
+         sodipodi:role="line"
+         id="tspan7045"
+         style="stroke-width:0.476"
+         x="41.597969"
+         y="150.37914">South-lakes</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777px;line-height:1.25;font-family:Georgia;-inkscape-font-specification:'Georgia, Normal';font-variant-ligatures:normal;font-variant-caps:small-caps;font-variant-numeric:normal;font-variant-east-asian:normal;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.476001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+       x="42.348999"
+       y="114.78253"
+       id="text7051"><tspan
+         sodipodi:role="line"
+         id="tspan7049"
+         style="stroke-width:0.476"
+         x="42.348999"
+         y="114.78253">East-south</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777px;line-height:1.25;font-family:Georgia;-inkscape-font-specification:'Georgia, Normal';font-variant-ligatures:normal;font-variant-caps:small-caps;font-variant-numeric:normal;font-variant-east-asian:normal;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.476001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+       x="39.001236"
+       y="123.69133"
+       id="text7055"><tspan
+         sodipodi:role="line"
+         id="tspan7053"
+         style="stroke-width:0.476"
+         x="39.001236"
+         y="123.69133">South-Far East</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:Georgia;-inkscape-font-specification:'Georgia, Bold';font-variant-ligatures:normal;font-variant-caps:small-caps;font-variant-numeric:normal;font-variant-east-asian:normal;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.476001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+       x="19.086601"
+       y="-67.014137"
+       id="text5763"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.52778px;font-family:Georgia;-inkscape-font-specification:'Georgia, Bold';font-variant-ligatures:normal;font-variant-caps:small-caps;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.476"
+         x="19.086601"
+         y="-67.014137"
+         id="tspan5761">East Luazil</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777px;line-height:1.25;font-family:Georgia;-inkscape-font-specification:'Georgia, Normal';font-variant-ligatures:normal;font-variant-caps:small-caps;font-variant-numeric:normal;font-variant-east-asian:normal;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.476001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+       x="43.078033"
+       y="-91.410744"
+       id="text5767"><tspan
+         sodipodi:role="line"
+         id="tspan5765"
+         style="stroke-width:0.476"
+         x="43.078033"
+         y="-91.410744">Far North</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777px;line-height:1.25;font-family:Georgia;-inkscape-font-specification:'Georgia, Normal';font-variant-ligatures:normal;font-variant-caps:small-caps;font-variant-numeric:normal;font-variant-east-asian:normal;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.476001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+       x="46.225121"
+       y="-82.506203"
+       id="text5771"><tspan
+         sodipodi:role="line"
+         id="tspan5769"
+         style="stroke-width:0.476"
+         x="46.225121"
+         y="-82.506203">North</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777px;line-height:1.25;font-family:Georgia;-inkscape-font-specification:'Georgia, Normal';font-variant-ligatures:normal;font-variant-caps:small-caps;font-variant-numeric:normal;font-variant-east-asian:normal;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.476001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+       x="40.464073"
+       y="-73.601723"
+       id="text5775"><tspan
+         sodipodi:role="line"
+         id="tspan5773"
+         style="stroke-width:0.476"
+         x="40.464073"
+         y="-73.601723">Central-West</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777px;line-height:1.25;font-family:Georgia;-inkscape-font-specification:'Georgia, Normal';font-variant-ligatures:normal;font-variant-caps:small-caps;font-variant-numeric:normal;font-variant-east-asian:normal;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.476001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+       x="40.996338"
+       y="-64.697182"
+       id="text5779"><tspan
+         sodipodi:role="line"
+         id="tspan5777"
+         style="stroke-width:0.476"
+         x="40.996338"
+         y="-64.697182">Central-East</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777px;line-height:1.25;font-family:Georgia;-inkscape-font-specification:'Georgia, Normal';font-variant-ligatures:normal;font-variant-caps:small-caps;font-variant-numeric:normal;font-variant-east-asian:normal;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.476001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+       x="42.016083"
+       y="-37.961956"
+       id="text5783"><tspan
+         sodipodi:role="line"
+         id="tspan5781"
+         style="stroke-width:0.476"
+         x="42.016083"
+         y="-37.961956">Foot-South</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777px;line-height:1.25;font-family:Georgia;-inkscape-font-specification:'Georgia, Normal';font-variant-ligatures:normal;font-variant-caps:small-caps;font-variant-numeric:normal;font-variant-east-asian:normal;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.476001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+       x="39.837925"
+       y="-55.771099"
+       id="text5787"><tspan
+         sodipodi:role="line"
+         id="tspan5785"
+         style="stroke-width:0.476"
+         x="39.837925"
+         y="-55.771099">Central-South</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777px;line-height:1.25;font-family:Georgia;-inkscape-font-specification:'Georgia, Normal';font-variant-ligatures:normal;font-variant-caps:small-caps;font-variant-numeric:normal;font-variant-east-asian:normal;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.476001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+       x="41.944599"
+       y="-46.862286"
+       id="text5791"><tspan
+         sodipodi:role="line"
+         id="tspan5789"
+         style="stroke-width:0.476"
+         x="41.944599"
+         y="-46.862286">Foot-North</tspan></text>
+    <rect
+       style="display:inline;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.601;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+       id="rect5793"
+       width="46.885174"
+       height="62.676491"
+       x="18.061451"
+       y="-97.060562" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777px;line-height:1.25;font-family:Georgia;-inkscape-font-specification:'Georgia, Normal';font-variant-ligatures:normal;font-variant-caps:small-caps;font-variant-numeric:normal;font-variant-east-asian:normal;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.476001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+       x="43.678337"
+       y="-101.19108"
+       id="text6197"><tspan
+         sodipodi:role="line"
+         id="tspan6195"
+         style="stroke-width:0.476"
+         x="43.678337"
+         y="-101.19108">Ghe Geros</tspan></text>
+    <rect
+       style="display:inline;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.601;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+       id="rect6199"
+       width="46.917683"
+       height="9.1851807"
+       x="18.061451"
+       y="-106.24574" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777px;line-height:1.25;font-family:Georgia;-inkscape-font-specification:'Georgia, Normal';font-variant-ligatures:normal;font-variant-caps:small-caps;font-variant-numeric:normal;font-variant-east-asian:normal;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.476001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+       x="43.678337"
+       y="-110.37632"
+       id="text6219"><tspan
+         sodipodi:role="line"
+         id="tspan6217"
+         style="stroke-width:0.476"
+         x="43.678337"
+         y="-110.37632">Ghe Cerul</tspan></text>
+    <rect
+       style="display:inline;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.601;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+       id="rect6221"
+       width="46.917683"
+       height="9.1852341"
+       x="18.061451"
+       y="-115.43098" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.175px;line-height:1.25;font-family:Georgia;-inkscape-font-specification:'Georgia, Bold';font-variant-ligatures:normal;font-variant-caps:small-caps;font-variant-numeric:normal;font-variant-east-asian:normal;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.476001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+       x="19.086601"
+       y="-136.64848"
+       id="text6793"><tspan
+         sodipodi:role="line"
+         id="tspan6791"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.175px;font-family:Georgia;-inkscape-font-specification:'Georgia, Bold';font-variant-ligatures:normal;font-variant-caps:small-caps;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.476"
+         x="19.086601"
+         y="-136.64848">Ghelond</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777px;line-height:1.25;font-family:Georgia;-inkscape-font-specification:'Georgia, Normal';font-variant-ligatures:normal;font-variant-caps:small-caps;font-variant-numeric:normal;font-variant-east-asian:normal;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.476001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+       x="39.864811"
+       y="-146.2794"
+       id="text6797"><tspan
+         sodipodi:role="line"
+         id="tspan6795"
+         style="stroke-width:0.476"
+         x="39.864811"
+         y="-146.2794">Central-East</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777px;line-height:1.25;font-family:Georgia;-inkscape-font-specification:'Georgia, Normal';font-variant-ligatures:normal;font-variant-caps:small-caps;font-variant-numeric:normal;font-variant-east-asian:normal;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.476001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+       x="45.867016"
+       y="-155.17967"
+       id="text6801"><tspan
+         sodipodi:role="line"
+         id="tspan6799"
+         style="stroke-width:0.476"
+         x="45.867016"
+         y="-155.17967">North</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777px;line-height:1.25;font-family:Georgia;-inkscape-font-specification:'Georgia, Normal';font-variant-ligatures:normal;font-variant-caps:small-caps;font-variant-numeric:normal;font-variant-east-asian:normal;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.476001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+       x="39.375607"
+       y="-137.37053"
+       id="text6805"><tspan
+         sodipodi:role="line"
+         id="tspan6803"
+         style="stroke-width:0.476"
+         x="39.375607"
+         y="-137.37053">Central-West</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777px;line-height:1.25;font-family:Georgia;-inkscape-font-specification:'Georgia, Normal';font-variant-ligatures:normal;font-variant-caps:small-caps;font-variant-numeric:normal;font-variant-east-asian:normal;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.476001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+       x="41.314331"
+       y="-128.46599"
+       id="text6809"><tspan
+         sodipodi:role="line"
+         id="tspan6807"
+         style="stroke-width:0.476"
+         x="41.314331"
+         y="-128.46599">South-East</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777px;line-height:1.25;font-family:Georgia;-inkscape-font-specification:'Georgia, Normal';font-variant-ligatures:normal;font-variant-caps:small-caps;font-variant-numeric:normal;font-variant-east-asian:normal;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.476001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+       x="41.314331"
+       y="-119.56162"
+       id="text6813"><tspan
+         sodipodi:role="line"
+         id="tspan6811"
+         style="stroke-width:0.476"
+         x="41.314331"
+         y="-119.56162">South-West</tspan></text>
+    <rect
+       style="display:inline;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.601;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+       id="rect6815"
+       width="46.917683"
+       height="44.829613"
+       x="18.061451"
+       y="-160.26059" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:Georgia;-inkscape-font-specification:'Georgia, Bold';font-variant-ligatures:normal;font-variant-caps:small-caps;font-variant-numeric:normal;font-variant-east-asian:normal;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.476001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+       x="19.119495"
+       y="-190.8755"
+       id="text7133"><tspan
+         sodipodi:role="line"
+         id="tspan7131"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.52778px;font-family:Georgia;-inkscape-font-specification:'Georgia, Bold';font-variant-ligatures:normal;font-variant-caps:small-caps;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.476"
+         x="19.119495"
+         y="-190.8755">Tepheo</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777px;line-height:1.25;font-family:Georgia;-inkscape-font-specification:'Georgia, Normal';font-variant-ligatures:normal;font-variant-caps:small-caps;font-variant-numeric:normal;font-variant-east-asian:normal;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.476001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+       x="41.993771"
+       y="-217.2809"
+       id="text7137"><tspan
+         sodipodi:role="line"
+         id="tspan7135"
+         style="stroke-width:0.476"
+         x="41.993771"
+         y="-217.2809">South-east</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777px;line-height:1.25;font-family:Georgia;-inkscape-font-specification:'Georgia, Normal';font-variant-ligatures:normal;font-variant-caps:small-caps;font-variant-numeric:normal;font-variant-east-asian:normal;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.476001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+       x="41.582081"
+       y="-208.37636"
+       id="text7141"><tspan
+         sodipodi:role="line"
+         id="tspan7139"
+         style="stroke-width:0.476"
+         x="41.582081"
+         y="-208.37636">South-west</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777px;line-height:1.25;font-family:Georgia;-inkscape-font-specification:'Georgia, Normal';font-variant-ligatures:normal;font-variant-caps:small-caps;font-variant-numeric:normal;font-variant-east-asian:normal;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.476001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+       x="40.845692"
+       y="-199.47185"
+       id="text7145"><tspan
+         sodipodi:role="line"
+         id="tspan7143"
+         style="stroke-width:0.476"
+         x="40.845692"
+         y="-199.47185">Central-east</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777px;line-height:1.25;font-family:Georgia;-inkscape-font-specification:'Georgia, Normal';font-variant-ligatures:normal;font-variant-caps:small-caps;font-variant-numeric:normal;font-variant-east-asian:normal;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.476001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+       x="44.640457"
+       y="-190.56734"
+       id="text7149"><tspan
+         sodipodi:role="line"
+         id="tspan7147"
+         style="stroke-width:0.476"
+         x="44.640457"
+         y="-190.56734">Central</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777px;line-height:1.25;font-family:Georgia;-inkscape-font-specification:'Georgia, Normal';font-variant-ligatures:normal;font-variant-caps:small-caps;font-variant-numeric:normal;font-variant-east-asian:normal;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.476001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+       x="41.570885"
+       y="-163.83217"
+       id="text7153"><tspan
+         sodipodi:role="line"
+         id="tspan7151"
+         style="stroke-width:0.476"
+         x="41.570885"
+         y="-163.83217">North-west</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777px;line-height:1.25;font-family:Georgia;-inkscape-font-specification:'Georgia, Normal';font-variant-ligatures:normal;font-variant-caps:small-caps;font-variant-numeric:normal;font-variant-east-asian:normal;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.476001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+       x="40.434006"
+       y="-181.64125"
+       id="text7165"><tspan
+         sodipodi:role="line"
+         id="tspan7163"
+         style="stroke-width:0.476"
+         x="40.434006"
+         y="-181.64125">Central-west</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777px;line-height:1.25;font-family:Georgia;-inkscape-font-specification:'Georgia, Normal';font-variant-ligatures:normal;font-variant-caps:small-caps;font-variant-numeric:normal;font-variant-east-asian:normal;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.476001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+       x="41.982574"
+       y="-172.73244"
+       id="text7169"><tspan
+         sodipodi:role="line"
+         id="tspan7167"
+         style="stroke-width:0.476"
+         x="41.982574"
+         y="-172.73244">North-east</tspan></text>
+    <rect
+       style="display:inline;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.600426;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+       id="rect7191"
+       width="46.917683"
+       height="62.670212"
+       x="18.061451"
+       y="-222.9308" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777px;line-height:1.25;font-family:Georgia;-inkscape-font-specification:'Georgia, Normal';font-variant-ligatures:normal;font-variant-caps:small-caps;font-variant-numeric:normal;font-variant-east-asian:normal;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.476001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+       x="26.248734"
+       y="-227.06139"
+       id="text6509"><tspan
+         sodipodi:role="line"
+         id="tspan6507"
+         style="stroke-width:0.476"
+         x="26.248734"
+         y="-227.06139">Perakor Northern Crag</tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.476"
+         x="26.248734"
+         y="-222.65169"
+         id="tspan6525" /></text>
+    <rect
+       style="display:inline;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.601;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+       id="rect6511"
+       width="46.950573"
+       height="9.1852064"
+       x="18.061451"
+       y="-232.11601" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.175px;line-height:1.25;font-family:Georgia;-inkscape-font-specification:'Georgia, Bold';font-variant-ligatures:normal;font-variant-caps:small-caps;font-variant-numeric:normal;font-variant-east-asian:normal;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.476001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+       x="19.119488"
+       y="-253.20436"
+       id="text333830"><tspan
+         sodipodi:role="line"
+         id="tspan333828"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.175px;font-family:Georgia;-inkscape-font-specification:'Georgia, Bold';font-variant-ligatures:normal;font-variant-caps:small-caps;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.476"
+         x="19.119488"
+         y="-253.20436">Amarth</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777px;line-height:1.25;font-family:Georgia;-inkscape-font-specification:'Georgia, Normal';font-variant-ligatures:normal;font-variant-caps:small-caps;font-variant-numeric:normal;font-variant-east-asian:normal;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.476001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+       x="44.333248"
+       y="-262.83521"
+       id="text333834"><tspan
+         sodipodi:role="line"
+         id="tspan333832"
+         style="stroke-width:0.476"
+         x="44.333248"
+         y="-262.83521">Central</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777px;line-height:1.25;font-family:Georgia;-inkscape-font-specification:'Georgia, Normal';font-variant-ligatures:normal;font-variant-caps:small-caps;font-variant-numeric:normal;font-variant-east-asian:normal;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.476001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+       x="45.899899"
+       y="-271.73547"
+       id="text333838"><tspan
+         sodipodi:role="line"
+         id="tspan333836"
+         style="stroke-width:0.476"
+         x="45.899899"
+         y="-271.73547">North</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777px;line-height:1.25;font-family:Georgia;-inkscape-font-specification:'Georgia, Normal';font-variant-ligatures:normal;font-variant-caps:small-caps;font-variant-numeric:normal;font-variant-east-asian:normal;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.476001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+       x="47.029034"
+       y="-253.92635"
+       id="text333842"><tspan
+         sodipodi:role="line"
+         id="tspan333840"
+         style="stroke-width:0.476"
+         x="47.029034"
+         y="-253.92635">West</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777px;line-height:1.25;font-family:Georgia;-inkscape-font-specification:'Georgia, Normal';font-variant-ligatures:normal;font-variant-caps:small-caps;font-variant-numeric:normal;font-variant-east-asian:normal;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.476001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+       x="41.798534"
+       y="-245.02187"
+       id="text333846"><tspan
+         sodipodi:role="line"
+         id="tspan333844"
+         style="stroke-width:0.476"
+         x="41.798534"
+         y="-245.02187">South-east</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777px;line-height:1.25;font-family:Georgia;-inkscape-font-specification:'Georgia, Normal';font-variant-ligatures:normal;font-variant-caps:small-caps;font-variant-numeric:normal;font-variant-east-asian:normal;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.476001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+       x="46.069576"
+       y="-236.11729"
+       id="text333850"><tspan
+         sodipodi:role="line"
+         id="tspan333848"
+         style="stroke-width:0.476"
+         x="46.069576"
+         y="-236.11729">South</tspan></text>
+    <rect
+       style="display:inline;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.601;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+       id="rect333852"
+       width="46.950573"
+       height="44.829639"
+       x="18.061443"
+       y="-276.81641" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777px;line-height:1.25;font-family:Georgia;-inkscape-font-specification:'Georgia, Normal';font-variant-ligatures:normal;font-variant-caps:small-caps;font-variant-numeric:normal;font-variant-east-asian:normal;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.476001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+       x="47.41539"
+       y="-280.94699"
+       id="text235045"><tspan
+         sodipodi:role="line"
+         id="tspan235043"
+         style="stroke-width:0.476"
+         x="47.41539"
+         y="-280.94699">Iniva</tspan></text>
+    <rect
+       style="display:inline;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.601;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+       id="rect235047"
+       width="46.950573"
+       height="9.1852064"
+       x="18.061443"
+       y="-286.00162" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.175px;line-height:1.25;font-family:Georgia;-inkscape-font-specification:'Georgia, Bold';font-variant-ligatures:normal;font-variant-caps:small-caps;font-variant-numeric:normal;font-variant-east-asian:normal;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.476001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+       x="19.119484"
+       y="-307.21918"
+       id="text256581"><tspan
+         sodipodi:role="line"
+         id="tspan256579"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.175px;font-family:Georgia;-inkscape-font-specification:'Georgia, Bold';font-variant-ligatures:normal;font-variant-caps:small-caps;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.476"
+         x="19.119484"
+         y="-307.21918">Wysteria</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777px;line-height:1.25;font-family:Georgia;-inkscape-font-specification:'Georgia, Normal';font-variant-ligatures:normal;font-variant-caps:small-caps;font-variant-numeric:normal;font-variant-east-asian:normal;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.476001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+       x="39.897694"
+       y="-316.8501"
+       id="text256585"><tspan
+         sodipodi:role="line"
+         id="tspan256583"
+         style="stroke-width:0.476"
+         x="39.897694"
+         y="-316.8501">Central-East</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777px;line-height:1.25;font-family:Georgia;-inkscape-font-specification:'Georgia, Normal';font-variant-ligatures:normal;font-variant-caps:small-caps;font-variant-numeric:normal;font-variant-east-asian:normal;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.476001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+       x="45.899899"
+       y="-325.75037"
+       id="text256589"><tspan
+         sodipodi:role="line"
+         id="tspan256587"
+         style="stroke-width:0.476"
+         x="45.899899"
+         y="-325.75037">North</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777px;line-height:1.25;font-family:Georgia;-inkscape-font-specification:'Georgia, Normal';font-variant-ligatures:normal;font-variant-caps:small-caps;font-variant-numeric:normal;font-variant-east-asian:normal;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.476001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+       x="39.408489"
+       y="-307.94122"
+       id="text256593"><tspan
+         sodipodi:role="line"
+         id="tspan256591"
+         style="stroke-width:0.476"
+         x="39.408489"
+         y="-307.94122">Central-West</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777px;line-height:1.25;font-family:Georgia;-inkscape-font-specification:'Georgia, Normal';font-variant-ligatures:normal;font-variant-caps:small-caps;font-variant-numeric:normal;font-variant-east-asian:normal;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.476001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+       x="41.347214"
+       y="-299.03668"
+       id="text256597"><tspan
+         sodipodi:role="line"
+         id="tspan256595"
+         style="stroke-width:0.476"
+         x="41.347214"
+         y="-299.03668">South-west</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777px;line-height:1.25;font-family:Georgia;-inkscape-font-specification:'Georgia, Normal';font-variant-ligatures:normal;font-variant-caps:small-caps;font-variant-numeric:normal;font-variant-east-asian:normal;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.476001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+       x="41.347214"
+       y="-290.13232"
+       id="text256601"><tspan
+         sodipodi:role="line"
+         id="tspan256599"
+         style="stroke-width:0.476"
+         x="41.347214"
+         y="-290.13232">South-East</tspan></text>
+    <rect
+       style="display:inline;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.601;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+       id="rect256603"
+       width="46.950573"
+       height="44.829639"
+       x="18.061443"
+       y="-330.83127" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.175px;line-height:1.25;font-family:Georgia;-inkscape-font-specification:'Georgia, Bold';font-variant-ligatures:normal;font-variant-caps:small-caps;font-variant-numeric:normal;font-variant-east-asian:normal;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.476001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+       x="19.119484"
+       y="-352.04886"
+       id="text69935"><tspan
+         sodipodi:role="line"
+         id="tspan69933"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.175px;font-family:Georgia;-inkscape-font-specification:'Georgia, Bold';font-variant-ligatures:normal;font-variant-caps:small-caps;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.476"
+         x="19.119484"
+         y="-352.04886">Adasol</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777px;line-height:1.25;font-family:Georgia;-inkscape-font-specification:'Georgia, Normal';font-variant-ligatures:normal;font-variant-caps:small-caps;font-variant-numeric:normal;font-variant-east-asian:normal;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.476001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+       x="37.824257"
+       y="-361.67972"
+       id="text69939"><tspan
+         sodipodi:role="line"
+         id="tspan69937"
+         style="stroke-width:0.476"
+         x="37.824257"
+         y="-361.67972">Central-North</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777px;line-height:1.25;font-family:Georgia;-inkscape-font-specification:'Georgia, Normal';font-variant-ligatures:normal;font-variant-caps:small-caps;font-variant-numeric:normal;font-variant-east-asian:normal;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.476001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+       x="41.149628"
+       y="-370.58002"
+       id="text69943"><tspan
+         sodipodi:role="line"
+         id="tspan69941"
+         style="stroke-width:0.476"
+         x="41.149628"
+         y="-370.58002">North-east</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777px;line-height:1.25;font-family:Georgia;-inkscape-font-specification:'Georgia, Normal';font-variant-ligatures:normal;font-variant-caps:small-caps;font-variant-numeric:normal;font-variant-east-asian:normal;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.476001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+       x="43.854023"
+       y="-352.7709"
+       id="text69947"><tspan
+         sodipodi:role="line"
+         id="tspan69945"
+         style="stroke-width:0.476"
+         x="43.854023"
+         y="-352.7709">Central</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777px;line-height:1.25;font-family:Georgia;-inkscape-font-specification:'Georgia, Normal';font-variant-ligatures:normal;font-variant-caps:small-caps;font-variant-numeric:normal;font-variant-east-asian:normal;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.476001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+       x="38.054218"
+       y="-343.86636"
+       id="text69951"><tspan
+         sodipodi:role="line"
+         id="tspan69949"
+         style="stroke-width:0.476"
+         x="38.054218"
+         y="-343.86636">Central-South</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777px;line-height:1.25;font-family:Georgia;-inkscape-font-specification:'Georgia, Normal';font-variant-ligatures:normal;font-variant-caps:small-caps;font-variant-numeric:normal;font-variant-east-asian:normal;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.476001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+       x="40.867992"
+       y="-334.96182"
+       id="text69955"><tspan
+         sodipodi:role="line"
+         id="tspan69953"
+         style="stroke-width:0.476"
+         x="40.867992"
+         y="-334.96182">South-west</tspan></text>
+    <rect
+       style="display:inline;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.601;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+       id="rect69957"
+       width="46.950573"
+       height="44.829651"
+       x="18.061443"
+       y="-375.66095" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.175px;line-height:1.25;font-family:Georgia;-inkscape-font-specification:'Georgia, Bold';font-variant-ligatures:normal;font-variant-caps:small-caps;font-variant-numeric:normal;font-variant-east-asian:normal;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.476001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+       x="19.119484"
+       y="-396.87854"
+       id="text236499"><tspan
+         sodipodi:role="line"
+         id="tspan236497"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.175px;font-family:Georgia;-inkscape-font-specification:'Georgia, Bold';font-variant-ligatures:normal;font-variant-caps:small-caps;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.476"
+         x="19.119484"
+         y="-396.87854">Rhunendor</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777px;line-height:1.25;font-family:Georgia;-inkscape-font-specification:'Georgia, Normal';font-variant-ligatures:normal;font-variant-caps:small-caps;font-variant-numeric:normal;font-variant-east-asian:normal;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.476001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+       x="42.288586"
+       y="-406.5094"
+       id="text236503"><tspan
+         sodipodi:role="line"
+         id="tspan236501"
+         style="stroke-width:0.476"
+         x="42.288586"
+         y="-406.5094">Northeast</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777px;line-height:1.25;font-family:Georgia;-inkscape-font-specification:'Georgia, Normal';font-variant-ligatures:normal;font-variant-caps:small-caps;font-variant-numeric:normal;font-variant-east-asian:normal;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.476001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+       x="45.899899"
+       y="-415.40967"
+       id="text236507"><tspan
+         sodipodi:role="line"
+         id="tspan236505"
+         style="stroke-width:0.476"
+         x="45.899899"
+         y="-415.40967">North</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777px;line-height:1.25;font-family:Georgia;-inkscape-font-specification:'Georgia, Normal';font-variant-ligatures:normal;font-variant-caps:small-caps;font-variant-numeric:normal;font-variant-east-asian:normal;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.476001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+       x="44.333244"
+       y="-397.60059"
+       id="text236511"><tspan
+         sodipodi:role="line"
+         id="tspan236509"
+         style="stroke-width:0.476"
+         x="44.333244"
+         y="-397.60059">Central</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777px;line-height:1.25;font-family:Georgia;-inkscape-font-specification:'Georgia, Normal';font-variant-ligatures:normal;font-variant-caps:small-caps;font-variant-numeric:normal;font-variant-east-asian:normal;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.476001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+       x="42.006947"
+       y="-388.69604"
+       id="text236515"><tspan
+         sodipodi:role="line"
+         id="tspan236513"
+         style="stroke-width:0.476"
+         x="42.006947"
+         y="-388.69604">Southwest</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777px;line-height:1.25;font-family:Georgia;-inkscape-font-specification:'Georgia, Normal';font-variant-ligatures:normal;font-variant-caps:small-caps;font-variant-numeric:normal;font-variant-east-asian:normal;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.476001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+       x="42.458256"
+       y="-379.79144"
+       id="text236519"><tspan
+         sodipodi:role="line"
+         id="tspan236517"
+         style="stroke-width:0.476"
+         x="42.458256"
+         y="-379.79144">Southeast</tspan></text>
+    <rect
+       style="display:inline;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.601;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+       id="rect236521"
+       width="46.950573"
+       height="44.943909"
+       x="18.061443"
+       y="-420.60486" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777px;line-height:1.25;font-family:Georgia;-inkscape-font-specification:'Georgia, Normal';font-variant-ligatures:normal;font-variant-caps:small-caps;font-variant-numeric:normal;font-variant-east-asian:normal;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.476001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+       x="19.369534"
+       y="-428.29132"
+       id="text30052"><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.476"
+         x="19.369534"
+         y="-428.29132"
+         id="tspan30080">Halcinaline</tspan></text>
+    <rect
+       style="display:inline;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.601524;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+       id="rect30054"
+       width="46.950573"
+       height="17.877655"
+       x="18.061443"
+       y="-438.48251" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777px;line-height:1.25;font-family:Georgia;-inkscape-font-specification:'Georgia, Normal';font-variant-ligatures:normal;font-variant-caps:small-caps;font-variant-numeric:normal;font-variant-east-asian:normal;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.476001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+       x="47.076397"
+       y="-424.49097"
+       id="text30088"><tspan
+         sodipodi:role="line"
+         id="tspan30086"
+         style="stroke-width:0.476"
+         x="47.076397"
+         y="-424.49097">East</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777px;line-height:1.25;font-family:Georgia;-inkscape-font-specification:'Georgia, Normal';font-variant-ligatures:normal;font-variant-caps:small-caps;font-variant-numeric:normal;font-variant-east-asian:normal;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.476001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+       x="46.621643"
+       y="-433.39124"
+       id="text30092"><tspan
+         sodipodi:role="line"
+         id="tspan30090"
+         style="stroke-width:0.476"
+         x="46.621643"
+         y="-433.39124">West</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777px;line-height:1.25;font-family:Georgia;-inkscape-font-specification:'Georgia, Normal';font-variant-ligatures:normal;font-variant-caps:small-caps;font-variant-numeric:normal;font-variant-east-asian:normal;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.476001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+       x="41.538414"
+       y="-442.6131"
+       id="text1882"><tspan
+         sodipodi:role="line"
+         id="tspan1880"
+         style="stroke-width:0.476"
+         x="41.538414"
+         y="-442.6131">The Oceans</tspan></text>
+    <rect
+       style="display:inline;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.601;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+       id="rect1884"
+       width="46.950573"
+       height="9.1852064"
+       x="18.061443"
+       y="-447.66772" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777px;line-height:1.25;font-family:Georgia;-inkscape-font-specification:'Georgia, Normal';font-variant-ligatures:normal;font-variant-caps:small-caps;font-variant-numeric:normal;font-variant-east-asian:normal;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.476001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+       x="41.538414"
+       y="-451.59875"
+       id="text104851"><tspan
+         sodipodi:role="line"
+         id="tspan104849"
+         style="stroke-width:0.476"
+         x="41.538414"
+         y="-451.59875">Morinuin</tspan></text>
+    <rect
+       style="display:inline;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.601;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+       id="rect104853"
+       width="46.950573"
+       height="9.1852064"
+       x="18.061443"
+       y="-456.65338" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777px;line-height:1.25;font-family:Georgia;-inkscape-font-specification:'Georgia, Normal';font-variant-ligatures:normal;font-variant-caps:small-caps;font-variant-numeric:normal;font-variant-east-asian:normal;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.476001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+       x="41.538414"
+       y="-460.58438"
+       id="text48452"><tspan
+         sodipodi:role="line"
+         id="tspan48450"
+         style="stroke-width:0.476"
+         x="41.538414"
+         y="-460.58438">Other Planes</tspan></text>
+    <rect
+       style="display:inline;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.601;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+       id="rect48454"
+       width="46.950573"
+       height="9.1852064"
+       x="18.061443"
+       y="-465.63904" />
+    <path
+       style="display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.466;stroke-miterlimit:4;stroke-dasharray:1.864, 1.864;stroke-dashoffset:0;stroke-opacity:0.245051;stop-color:#000000"
+       d="M 42.499683,-205.13869 H 2129.0692"
+       id="path7101" />
+    <path
+       style="display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.466;stroke-miterlimit:4;stroke-dasharray:1.864, 1.864;stroke-dashoffset:0;stroke-opacity:0.245051;stop-color:#000000"
+       d="M 42.499683,-214.13452 H 2129.0692"
+       id="path7105" />
+    <path
+       style="display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.466;stroke-miterlimit:4;stroke-dasharray:1.864, 1.864;stroke-dashoffset:0;stroke-opacity:0.245051;stop-color:#000000"
+       d="M 42.499683,-223.13035 H 2129.0692"
+       id="path6505" />
+    <path
+       style="display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.466;stroke-miterlimit:4;stroke-dasharray:1.864, 1.864;stroke-dashoffset:0;stroke-opacity:0.245051;stop-color:#000000"
+       d="M 42.499683,-268.06833 H 2129.0692"
+       id="path333818" />
+    <path
+       style="display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.466;stroke-miterlimit:4;stroke-dasharray:1.864, 1.864;stroke-dashoffset:0;stroke-opacity:0.245051;stop-color:#000000"
+       d="M 42.499683,-259.07251 H 2129.0692"
+       id="path333820" />
+    <path
+       style="display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.466;stroke-miterlimit:4;stroke-dasharray:1.864, 1.864;stroke-dashoffset:0;stroke-opacity:0.245051;stop-color:#000000"
+       d="M 42.499683,-250.07668 H 2129.0692"
+       id="path333822" />
+    <path
+       style="display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.466;stroke-miterlimit:4;stroke-dasharray:1.864, 1.864;stroke-dashoffset:0;stroke-opacity:0.245051;stop-color:#000000"
+       d="M 42.499683,-241.17217 H 2129.0692"
+       id="path333824" />
+    <path
+       style="display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.466;stroke-miterlimit:4;stroke-dasharray:1.864, 1.864;stroke-dashoffset:0;stroke-opacity:0.245051;stop-color:#000000"
+       d="M 42.499683,-232.116 H 2129.0692"
+       id="path333826" />
+    <path
+       style="display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.466;stroke-miterlimit:4;stroke-dasharray:1.864, 1.864;stroke-dashoffset:0;stroke-opacity:0.245051;stop-color:#000000"
+       d="M 42.499673,-277.01602 H 2129.0692"
+       id="path235021" />
+    <path
+       style="display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.466;stroke-miterlimit:4;stroke-dasharray:1.864, 1.864;stroke-dashoffset:0;stroke-opacity:0.245051;stop-color:#000000"
+       d="M 42.499673,-322.08297 H 2129.0692"
+       id="path256569" />
+    <path
+       style="display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.466;stroke-miterlimit:4;stroke-dasharray:1.864, 1.864;stroke-dashoffset:0;stroke-opacity:0.245051;stop-color:#000000"
+       d="M 42.499673,-313.08714 H 2129.0692"
+       id="path256571" />
+    <path
+       style="display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.466;stroke-miterlimit:4;stroke-dasharray:1.864, 1.864;stroke-dashoffset:0;stroke-opacity:0.245051;stop-color:#000000"
+       d="M 42.499673,-304.09131 H 2129.0692"
+       id="path256573" />
+    <path
+       style="display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.466;stroke-miterlimit:4;stroke-dasharray:1.864, 1.864;stroke-dashoffset:0;stroke-opacity:0.245051;stop-color:#000000"
+       d="M 42.499673,-295.18679 H 2129.0692"
+       id="path256575" />
+    <path
+       style="display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.466;stroke-miterlimit:4;stroke-dasharray:1.864, 1.864;stroke-dashoffset:0;stroke-opacity:0.245051;stop-color:#000000"
+       d="M 42.499673,-286.13124 H 2129.0692"
+       id="path256577" />
+    <path
+       style="display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.466;stroke-miterlimit:4;stroke-dasharray:1.864, 1.864;stroke-dashoffset:0;stroke-opacity:0.245051;stop-color:#000000"
+       d="M 42.499673,-366.91283 H 2129.0692"
+       id="path69923" />
+    <path
+       style="display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.466;stroke-miterlimit:4;stroke-dasharray:1.864, 1.864;stroke-dashoffset:0;stroke-opacity:0.245051;stop-color:#000000"
+       d="M 42.499673,-357.91701 H 2129.0692"
+       id="path69925" />
+    <path
+       style="display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.466;stroke-miterlimit:4;stroke-dasharray:1.864, 1.864;stroke-dashoffset:0;stroke-opacity:0.245051;stop-color:#000000"
+       d="M 42.499673,-348.92117 H 2129.0692"
+       id="path69927" />
+    <path
+       style="display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.466;stroke-miterlimit:4;stroke-dasharray:1.864, 1.864;stroke-dashoffset:0;stroke-opacity:0.245051;stop-color:#000000"
+       d="M 42.499673,-340.01666 H 2129.0692"
+       id="path69929" />
+    <path
+       style="display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.466;stroke-miterlimit:4;stroke-dasharray:1.864, 1.864;stroke-dashoffset:0;stroke-opacity:0.245051;stop-color:#000000"
+       d="M 42.499673,-330.96049 H 2129.0692"
+       id="path69931" />
+    <path
+       style="display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.466;stroke-miterlimit:4;stroke-dasharray:1.864, 1.864;stroke-dashoffset:0;stroke-opacity:0.245051;stop-color:#000000"
+       d="M 42.499673,-411.74232 H 2129.0692"
+       id="path236487" />
+    <path
+       style="display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.466;stroke-miterlimit:4;stroke-dasharray:1.864, 1.864;stroke-dashoffset:0;stroke-opacity:0.245051;stop-color:#000000"
+       d="M 42.499673,-402.74649 H 2129.0692"
+       id="path236489" />
+    <path
+       style="display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.466;stroke-miterlimit:4;stroke-dasharray:1.864, 1.864;stroke-dashoffset:0;stroke-opacity:0.245051;stop-color:#000000"
+       d="M 42.499673,-393.75067 H 2129.0692"
+       id="path236491" />
+    <path
+       style="display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.466;stroke-miterlimit:4;stroke-dasharray:1.864, 1.864;stroke-dashoffset:0;stroke-opacity:0.245051;stop-color:#000000"
+       d="M 42.499673,-384.84615 H 2129.0692"
+       id="path236493" />
+    <path
+       style="display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.466;stroke-miterlimit:4;stroke-dasharray:1.864, 1.864;stroke-dashoffset:0;stroke-opacity:0.245051;stop-color:#000000"
+       d="M 42.499673,-375.82779 H 2129.0692"
+       id="path236495" />
+    <path
+       style="display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.466;stroke-miterlimit:4;stroke-dasharray:1.864, 1.864;stroke-dashoffset:0;stroke-opacity:0.245051;stop-color:#000000"
+       d="M 42.499673,-420.69002 H 2129.0692"
+       id="path30048" />
+    <path
+       style="display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.466;stroke-miterlimit:4;stroke-dasharray:1.864, 1.864;stroke-dashoffset:0;stroke-opacity:0.245051;stop-color:#000000"
+       d="M 42.499673,-429.72383 H 2129.0692"
+       id="path30084" />
+    <path
+       style="display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.466;stroke-miterlimit:4;stroke-dasharray:1.864, 1.864;stroke-dashoffset:0;stroke-opacity:0.245051;stop-color:#000000"
+       d="M 42.499673,-438.68209 H 2129.0692"
+       id="path1878" />
+    <path
+       style="display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.466;stroke-miterlimit:4;stroke-dasharray:1.864, 1.864;stroke-dashoffset:0;stroke-opacity:0.245051;stop-color:#000000"
+       d="M 42.499673,-447.66774 H 2129.0692"
+       id="path104847" />
+    <path
+       style="display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.466;stroke-miterlimit:4;stroke-dasharray:1.864, 1.864;stroke-dashoffset:0;stroke-opacity:0.245051;stop-color:#000000"
+       d="M 42.499673,-465.63904 H 2129.0692"
+       id="path48446" />
+    <path
+       style="display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.466;stroke-miterlimit:4;stroke-dasharray:1.864, 1.864;stroke-dashoffset:0;stroke-opacity:0.245051;stop-color:#000000"
+       d="M 42.499673,-456.65339 H 2129.0692"
+       id="path48448" />
+    <path
+       style="display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.466;stroke-miterlimit:4;stroke-dasharray:1.864, 1.864;stroke-dashoffset:0;stroke-opacity:0.245051;stop-color:#000000"
+       d="M 42.499693,55.361653 H 2129.0693"
+       id="path7101-3" />
+    <path
+       style="display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.466;stroke-miterlimit:4;stroke-dasharray:1.864, 1.864;stroke-dashoffset:0;stroke-opacity:0.245051;stop-color:#000000"
+       d="M 42.499693,46.365823 H 2129.0693"
+       id="path7105-6" />
+    <path
+       style="display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.466;stroke-miterlimit:4;stroke-dasharray:1.864, 1.864;stroke-dashoffset:0;stroke-opacity:0.245051;stop-color:#000000"
+       d="M 42.499693,37.369993 H 2129.0693"
+       id="path6505-7" />
+    <path
+       style="display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.466;stroke-miterlimit:4;stroke-dasharray:1.864, 1.864;stroke-dashoffset:0;stroke-opacity:0.245051;stop-color:#000000"
+       d="M 42.499693,-7.5679871 H 2129.0693"
+       id="path333818-5" />
+    <path
+       style="display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.466;stroke-miterlimit:4;stroke-dasharray:1.864, 1.864;stroke-dashoffset:0;stroke-opacity:0.245051;stop-color:#000000"
+       d="M 42.499693,1.4278332 H 2129.0693"
+       id="path333820-3" />
+    <path
+       style="display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.466;stroke-miterlimit:4;stroke-dasharray:1.864, 1.864;stroke-dashoffset:0;stroke-opacity:0.245051;stop-color:#000000"
+       d="M 42.499693,10.423663 H 2129.0693"
+       id="path333822-5" />
+    <path
+       style="display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.466;stroke-miterlimit:4;stroke-dasharray:1.864, 1.864;stroke-dashoffset:0;stroke-opacity:0.245051;stop-color:#000000"
+       d="M 42.499693,19.328173 H 2129.0693"
+       id="path333824-6" />
+    <path
+       style="display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.466;stroke-miterlimit:4;stroke-dasharray:1.864, 1.864;stroke-dashoffset:0;stroke-opacity:0.245051;stop-color:#000000"
+       d="M 42.499693,28.384343 H 2129.0693"
+       id="path333826-2" />
+    <path
+       style="display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.466;stroke-miterlimit:4;stroke-dasharray:1.864, 1.864;stroke-dashoffset:0;stroke-opacity:0.245051;stop-color:#000000"
+       d="M 42.499683,-16.515677 H 2129.0693"
+       id="path235021-9" />
+    <path
+       style="display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.466;stroke-miterlimit:4;stroke-dasharray:1.864, 1.864;stroke-dashoffset:0;stroke-opacity:0.245051;stop-color:#000000"
+       d="M 42.499683,-61.582627 H 2129.0693"
+       id="path256569-1" />
+    <path
+       style="display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.466;stroke-miterlimit:4;stroke-dasharray:1.864, 1.864;stroke-dashoffset:0;stroke-opacity:0.245051;stop-color:#000000"
+       d="M 42.499683,-52.586797 H 2129.0693"
+       id="path256571-2" />
+    <path
+       style="display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.466;stroke-miterlimit:4;stroke-dasharray:1.864, 1.864;stroke-dashoffset:0;stroke-opacity:0.245051;stop-color:#000000"
+       d="M 42.499683,-43.590967 H 2129.0693"
+       id="path256573-7" />
+    <path
+       style="display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.466;stroke-miterlimit:4;stroke-dasharray:1.864, 1.864;stroke-dashoffset:0;stroke-opacity:0.245051;stop-color:#000000"
+       d="M 42.499683,-34.686447 H 2129.0693"
+       id="path256575-0" />
+    <path
+       style="display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.466;stroke-miterlimit:4;stroke-dasharray:1.864, 1.864;stroke-dashoffset:0;stroke-opacity:0.245051;stop-color:#000000"
+       d="M 42.499683,-25.630897 H 2129.0693"
+       id="path256577-9" />
+    <path
+       style="display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.466;stroke-miterlimit:4;stroke-dasharray:1.864, 1.864;stroke-dashoffset:0;stroke-opacity:0.245051;stop-color:#000000"
+       d="M 42.499683,-106.41249 H 2129.0693"
+       id="path69923-3" />
+    <path
+       style="display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.466;stroke-miterlimit:4;stroke-dasharray:1.864, 1.864;stroke-dashoffset:0;stroke-opacity:0.245051;stop-color:#000000"
+       d="M 42.499683,-97.416667 H 2129.0693"
+       id="path69925-6" />
+    <path
+       style="display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.466;stroke-miterlimit:4;stroke-dasharray:1.864, 1.864;stroke-dashoffset:0;stroke-opacity:0.245051;stop-color:#000000"
+       d="M 42.499683,-88.420827 H 2129.0693"
+       id="path69927-0" />
+    <path
+       style="display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.466;stroke-miterlimit:4;stroke-dasharray:1.864, 1.864;stroke-dashoffset:0;stroke-opacity:0.245051;stop-color:#000000"
+       d="M 42.499683,-79.516317 H 2129.0693"
+       id="path69929-6" />
+    <path
+       style="display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.466;stroke-miterlimit:4;stroke-dasharray:1.864, 1.864;stroke-dashoffset:0;stroke-opacity:0.245051;stop-color:#000000"
+       d="M 42.499683,-70.460147 H 2129.0693"
+       id="path69931-2" />
+    <path
+       style="display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.466;stroke-miterlimit:4;stroke-dasharray:1.864, 1.864;stroke-dashoffset:0;stroke-opacity:0.245051;stop-color:#000000"
+       d="M 42.499683,-151.24197 H 2129.0693"
+       id="path236487-6" />
+    <path
+       style="display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.466;stroke-miterlimit:4;stroke-dasharray:1.864, 1.864;stroke-dashoffset:0;stroke-opacity:0.245051;stop-color:#000000"
+       d="M 42.499683,-142.24614 H 2129.0693"
+       id="path236489-1" />
+    <path
+       style="display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.466;stroke-miterlimit:4;stroke-dasharray:1.864, 1.864;stroke-dashoffset:0;stroke-opacity:0.245051;stop-color:#000000"
+       d="M 42.499683,-133.25032 H 2129.0693"
+       id="path236491-8" />
+    <path
+       style="display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.466;stroke-miterlimit:4;stroke-dasharray:1.864, 1.864;stroke-dashoffset:0;stroke-opacity:0.245051;stop-color:#000000"
+       d="M 42.499683,-124.3458 H 2129.0693"
+       id="path236493-7" />
+    <path
+       style="display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.466;stroke-miterlimit:4;stroke-dasharray:1.864, 1.864;stroke-dashoffset:0;stroke-opacity:0.245051;stop-color:#000000"
+       d="M 42.499683,-115.32744 H 2129.0693"
+       id="path236495-9" />
+    <path
+       style="display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.466;stroke-miterlimit:4;stroke-dasharray:1.864, 1.864;stroke-dashoffset:0;stroke-opacity:0.245051;stop-color:#000000"
+       d="M 42.499683,-160.18967 H 2129.0693"
+       id="path30048-2" />
+    <path
+       style="display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.466;stroke-miterlimit:4;stroke-dasharray:1.864, 1.864;stroke-dashoffset:0;stroke-opacity:0.245051;stop-color:#000000"
+       d="M 42.499683,-169.22348 H 2129.0693"
+       id="path30084-0" />
+    <path
+       style="display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.466;stroke-miterlimit:4;stroke-dasharray:1.864, 1.864;stroke-dashoffset:0;stroke-opacity:0.245051;stop-color:#000000"
+       d="M 42.499683,-178.18174 H 2129.0693"
+       id="path1878-2" />
+    <path
+       style="display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.466;stroke-miterlimit:4;stroke-dasharray:1.864, 1.864;stroke-dashoffset:0;stroke-opacity:0.245051;stop-color:#000000"
+       d="M 42.499683,-187.16739 H 2129.0693"
+       id="path104847-3" />
+    <path
+       style="display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.466;stroke-miterlimit:4;stroke-dasharray:1.864, 1.864;stroke-dashoffset:0;stroke-opacity:0.245051;stop-color:#000000"
+       d="M 42.499683,-196.15304 H 2129.0693"
+       id="path48448-5" />
+    <path
+       style="display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.466;stroke-miterlimit:4;stroke-dasharray:1.864, 1.864;stroke-dashoffset:0;stroke-opacity:0.245051;stop-color:#000000"
+       d="M 42.499703,315.862 H 2129.0692"
+       id="path7101-9" />
+    <path
+       style="display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.466;stroke-miterlimit:4;stroke-dasharray:1.864, 1.864;stroke-dashoffset:0;stroke-opacity:0.245051;stop-color:#000000"
+       d="M 42.499703,306.86617 H 2129.0692"
+       id="path7105-2" />
+    <path
+       style="display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.466;stroke-miterlimit:4;stroke-dasharray:1.864, 1.864;stroke-dashoffset:0;stroke-opacity:0.245051;stop-color:#000000"
+       d="M 42.499703,297.87034 H 2129.0692"
+       id="path6505-2" />
+    <path
+       style="display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.466;stroke-miterlimit:4;stroke-dasharray:1.864, 1.864;stroke-dashoffset:0;stroke-opacity:0.245051;stop-color:#000000"
+       d="M 42.499703,252.93237 H 2129.0692"
+       id="path333818-8" />
+    <path
+       style="display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.466;stroke-miterlimit:4;stroke-dasharray:1.864, 1.864;stroke-dashoffset:0;stroke-opacity:0.245051;stop-color:#000000"
+       d="M 42.499703,261.92818 H 2129.0692"
+       id="path333820-9" />
+    <path
+       style="display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.466;stroke-miterlimit:4;stroke-dasharray:1.864, 1.864;stroke-dashoffset:0;stroke-opacity:0.245051;stop-color:#000000"
+       d="M 42.499703,270.92401 H 2129.0692"
+       id="path333822-7" />
+    <path
+       style="display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.466;stroke-miterlimit:4;stroke-dasharray:1.864, 1.864;stroke-dashoffset:0;stroke-opacity:0.245051;stop-color:#000000"
+       d="M 42.499703,279.82852 H 2129.0692"
+       id="path333824-3" />
+    <path
+       style="display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.466;stroke-miterlimit:4;stroke-dasharray:1.864, 1.864;stroke-dashoffset:0;stroke-opacity:0.245051;stop-color:#000000"
+       d="M 42.499703,288.88469 H 2129.0692"
+       id="path333826-6" />
+    <path
+       style="display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.466;stroke-miterlimit:4;stroke-dasharray:1.864, 1.864;stroke-dashoffset:0;stroke-opacity:0.245051;stop-color:#000000"
+       d="M 42.499693,243.98467 H 2129.0692"
+       id="path235021-1" />
+    <path
+       style="display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.466;stroke-miterlimit:4;stroke-dasharray:1.864, 1.864;stroke-dashoffset:0;stroke-opacity:0.245051;stop-color:#000000"
+       d="M 42.499693,198.91773 H 2129.0692"
+       id="path256569-2" />
+    <path
+       style="display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.466;stroke-miterlimit:4;stroke-dasharray:1.864, 1.864;stroke-dashoffset:0;stroke-opacity:0.245051;stop-color:#000000"
+       d="M 42.499693,207.91355 H 2129.0692"
+       id="path256571-9" />
+    <path
+       style="display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.466;stroke-miterlimit:4;stroke-dasharray:1.864, 1.864;stroke-dashoffset:0;stroke-opacity:0.245051;stop-color:#000000"
+       d="M 42.499693,216.90939 H 2129.0692"
+       id="path256573-3" />
+    <path
+       style="display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.466;stroke-miterlimit:4;stroke-dasharray:1.864, 1.864;stroke-dashoffset:0;stroke-opacity:0.245051;stop-color:#000000"
+       d="M 42.499693,225.8139 H 2129.0692"
+       id="path256575-1" />
+    <path
+       style="display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.466;stroke-miterlimit:4;stroke-dasharray:1.864, 1.864;stroke-dashoffset:0;stroke-opacity:0.245051;stop-color:#000000"
+       d="M 42.499693,234.86946 H 2129.0692"
+       id="path256577-94" />
+    <path
+       style="display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.466;stroke-miterlimit:4;stroke-dasharray:1.864, 1.864;stroke-dashoffset:0;stroke-opacity:0.245051;stop-color:#000000"
+       d="M 42.499693,154.08786 H 2129.0692"
+       id="path69923-7" />
+    <path
+       style="display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.466;stroke-miterlimit:4;stroke-dasharray:1.864, 1.864;stroke-dashoffset:0;stroke-opacity:0.245051;stop-color:#000000"
+       d="M 42.499693,163.08368 H 2129.0692"
+       id="path69925-8" />
+    <path
+       style="display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.466;stroke-miterlimit:4;stroke-dasharray:1.864, 1.864;stroke-dashoffset:0;stroke-opacity:0.245051;stop-color:#000000"
+       d="M 42.499693,172.07953 H 2129.0692"
+       id="path69927-4" />
+    <path
+       style="display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.466;stroke-miterlimit:4;stroke-dasharray:1.864, 1.864;stroke-dashoffset:0;stroke-opacity:0.245051;stop-color:#000000"
+       d="M 42.499693,180.98403 H 2129.0692"
+       id="path69929-5" />
+    <path
+       style="display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.466;stroke-miterlimit:4;stroke-dasharray:1.864, 1.864;stroke-dashoffset:0;stroke-opacity:0.245051;stop-color:#000000"
+       d="M 42.499693,190.04021 H 2129.0692"
+       id="path69931-0" />
+    <path
+       style="display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.466;stroke-miterlimit:4;stroke-dasharray:1.864, 1.864;stroke-dashoffset:0;stroke-opacity:0.245051;stop-color:#000000"
+       d="M 42.499693,109.25837 H 2129.0692"
+       id="path236487-3" />
+    <path
+       style="display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.466;stroke-miterlimit:4;stroke-dasharray:1.864, 1.864;stroke-dashoffset:0;stroke-opacity:0.245051;stop-color:#000000"
+       d="M 42.499693,118.2542 H 2129.0692"
+       id="path236489-6" />
+    <path
+       style="display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.466;stroke-miterlimit:4;stroke-dasharray:1.864, 1.864;stroke-dashoffset:0;stroke-opacity:0.245051;stop-color:#000000"
+       d="M 42.499693,127.25002 H 2129.0692"
+       id="path236491-1" />
+    <path
+       style="display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.466;stroke-miterlimit:4;stroke-dasharray:1.864, 1.864;stroke-dashoffset:0;stroke-opacity:0.245051;stop-color:#000000"
+       d="M 42.499693,136.15455 H 2129.0692"
+       id="path236493-0" />
+    <path
+       style="display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.466;stroke-miterlimit:4;stroke-dasharray:1.864, 1.864;stroke-dashoffset:0;stroke-opacity:0.245051;stop-color:#000000"
+       d="M 42.499693,145.17291 H 2129.0692"
+       id="path236495-6" />
+    <path
+       style="display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.466;stroke-miterlimit:4;stroke-dasharray:1.864, 1.864;stroke-dashoffset:0;stroke-opacity:0.245051;stop-color:#000000"
+       d="M 42.499693,100.31067 H 2129.0692"
+       id="path30048-3" />
+    <path
+       style="display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.466;stroke-miterlimit:4;stroke-dasharray:1.864, 1.864;stroke-dashoffset:0;stroke-opacity:0.245051;stop-color:#000000"
+       d="M 42.499693,91.276863 H 2129.0692"
+       id="path30084-2" />
+    <path
+       style="display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.466;stroke-miterlimit:4;stroke-dasharray:1.864, 1.864;stroke-dashoffset:0;stroke-opacity:0.245051;stop-color:#000000"
+       d="M 42.499693,82.318603 H 2129.0692"
+       id="path1878-0" />
+    <path
+       style="display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.466;stroke-miterlimit:4;stroke-dasharray:1.864, 1.864;stroke-dashoffset:0;stroke-opacity:0.245051;stop-color:#000000"
+       d="M 42.499693,73.332953 H 2129.0692"
+       id="path104847-6" />
+    <path
+       style="display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.466;stroke-miterlimit:4;stroke-dasharray:1.864, 1.864;stroke-dashoffset:0;stroke-opacity:0.245051;stop-color:#000000"
+       d="M 42.499693,64.347303 H 2129.0692"
+       id="path48448-55" />
+    <path
+       style="display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.466;stroke-miterlimit:4;stroke-dasharray:1.864, 1.864;stroke-dashoffset:0;stroke-opacity:0.245051;stop-color:#000000"
+       d="M 42.499703,576.36235 H 2129.0693"
+       id="path7101-4" />
+    <path
+       style="display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.466;stroke-miterlimit:4;stroke-dasharray:1.864, 1.864;stroke-dashoffset:0;stroke-opacity:0.245051;stop-color:#000000"
+       d="M 42.499703,567.36652 H 2129.0693"
+       id="path7105-7" />
+    <path
+       style="display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.466;stroke-miterlimit:4;stroke-dasharray:1.864, 1.864;stroke-dashoffset:0;stroke-opacity:0.245051;stop-color:#000000"
+       d="M 42.499703,558.37069 H 2129.0693"
+       id="path6505-6" />
+    <path
+       style="display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.466;stroke-miterlimit:4;stroke-dasharray:1.864, 1.864;stroke-dashoffset:0;stroke-opacity:0.245051;stop-color:#000000"
+       d="M 42.499703,513.43271 H 2129.0693"
+       id="path333818-56" />
+    <path
+       style="display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.466;stroke-miterlimit:4;stroke-dasharray:1.864, 1.864;stroke-dashoffset:0;stroke-opacity:0.245051;stop-color:#000000"
+       d="M 42.499703,522.42853 H 2129.0693"
+       id="path333820-93" />
+    <path
+       style="display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.466;stroke-miterlimit:4;stroke-dasharray:1.864, 1.864;stroke-dashoffset:0;stroke-opacity:0.245051;stop-color:#000000"
+       d="M 42.499703,531.42436 H 2129.0693"
+       id="path333822-74" />
+    <path
+       style="display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.466;stroke-miterlimit:4;stroke-dasharray:1.864, 1.864;stroke-dashoffset:0;stroke-opacity:0.245051;stop-color:#000000"
+       d="M 42.499703,540.32887 H 2129.0693"
+       id="path333824-5" />
+    <path
+       style="display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.466;stroke-miterlimit:4;stroke-dasharray:1.864, 1.864;stroke-dashoffset:0;stroke-opacity:0.245051;stop-color:#000000"
+       d="M 42.499703,549.38504 H 2129.0693"
+       id="path333826-25" />
+    <path
+       style="display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.466;stroke-miterlimit:4;stroke-dasharray:1.864, 1.864;stroke-dashoffset:0;stroke-opacity:0.245051;stop-color:#000000"
+       d="M 42.499703,504.48502 H 2129.0693"
+       id="path235021-4" />
+    <path
+       style="display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.466;stroke-miterlimit:4;stroke-dasharray:1.864, 1.864;stroke-dashoffset:0;stroke-opacity:0.245051;stop-color:#000000"
+       d="M 42.499703,459.41807 H 2129.0693"
+       id="path256569-7" />
+    <path
+       style="display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.466;stroke-miterlimit:4;stroke-dasharray:1.864, 1.864;stroke-dashoffset:0;stroke-opacity:0.245051;stop-color:#000000"
+       d="M 42.499703,468.4139 H 2129.0693"
+       id="path256571-4" />
+    <path
+       style="display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.466;stroke-miterlimit:4;stroke-dasharray:1.864, 1.864;stroke-dashoffset:0;stroke-opacity:0.245051;stop-color:#000000"
+       d="M 42.499703,477.40973 H 2129.0693"
+       id="path256573-4" />
+    <path
+       style="display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.466;stroke-miterlimit:4;stroke-dasharray:1.864, 1.864;stroke-dashoffset:0;stroke-opacity:0.245051;stop-color:#000000"
+       d="M 42.499703,486.31425 H 2129.0693"
+       id="path256575-3" />
+    <path
+       style="display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.466;stroke-miterlimit:4;stroke-dasharray:1.864, 1.864;stroke-dashoffset:0;stroke-opacity:0.245051;stop-color:#000000"
+       d="M 42.499703,495.3698 H 2129.0693"
+       id="path256577-0" />
+    <path
+       style="display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.466;stroke-miterlimit:4;stroke-dasharray:1.864, 1.864;stroke-dashoffset:0;stroke-opacity:0.245051;stop-color:#000000"
+       d="M 42.499703,414.58821 H 2129.0693"
+       id="path69923-78" />
+    <path
+       style="display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.466;stroke-miterlimit:4;stroke-dasharray:1.864, 1.864;stroke-dashoffset:0;stroke-opacity:0.245051;stop-color:#000000"
+       d="M 42.499703,423.58403 H 2129.0693"
+       id="path69925-68" />
+    <path
+       style="display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.466;stroke-miterlimit:4;stroke-dasharray:1.864, 1.864;stroke-dashoffset:0;stroke-opacity:0.245051;stop-color:#000000"
+       d="M 42.499703,432.57987 H 2129.0693"
+       id="path69927-8" />
+    <path
+       style="display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.466;stroke-miterlimit:4;stroke-dasharray:1.864, 1.864;stroke-dashoffset:0;stroke-opacity:0.245051;stop-color:#000000"
+       d="M 42.499703,441.48438 H 2129.0693"
+       id="path69929-4" />
+    <path
+       style="display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.466;stroke-miterlimit:4;stroke-dasharray:1.864, 1.864;stroke-dashoffset:0;stroke-opacity:0.245051;stop-color:#000000"
+       d="M 42.499703,450.54055 H 2129.0693"
+       id="path69931-3" />
+    <path
+       style="display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.466;stroke-miterlimit:4;stroke-dasharray:1.864, 1.864;stroke-dashoffset:0;stroke-opacity:0.245051;stop-color:#000000"
+       d="M 42.499703,369.75872 H 2129.0693"
+       id="path236487-1" />
+    <path
+       style="display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.466;stroke-miterlimit:4;stroke-dasharray:1.864, 1.864;stroke-dashoffset:0;stroke-opacity:0.245051;stop-color:#000000"
+       d="M 42.499703,378.75455 H 2129.0693"
+       id="path236489-4" />
+    <path
+       style="display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.466;stroke-miterlimit:4;stroke-dasharray:1.864, 1.864;stroke-dashoffset:0;stroke-opacity:0.245051;stop-color:#000000"
+       d="M 42.499703,387.75037 H 2129.0693"
+       id="path236491-9" />
+    <path
+       style="display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.466;stroke-miterlimit:4;stroke-dasharray:1.864, 1.864;stroke-dashoffset:0;stroke-opacity:0.245051;stop-color:#000000"
+       d="M 42.499703,396.65489 H 2129.0693"
+       id="path236493-2" />
+    <path
+       style="display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.466;stroke-miterlimit:4;stroke-dasharray:1.864, 1.864;stroke-dashoffset:0;stroke-opacity:0.245051;stop-color:#000000"
+       d="M 42.499703,405.67325 H 2129.0693"
+       id="path236495-0" />
+    <path
+       style="display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.466;stroke-miterlimit:4;stroke-dasharray:1.864, 1.864;stroke-dashoffset:0;stroke-opacity:0.245051;stop-color:#000000"
+       d="M 42.499703,360.81102 H 2129.0693"
+       id="path30048-6" />
+    <path
+       style="display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.466;stroke-miterlimit:4;stroke-dasharray:1.864, 1.864;stroke-dashoffset:0;stroke-opacity:0.245051;stop-color:#000000"
+       d="M 42.499703,351.77721 H 2129.0693"
+       id="path30084-8" />
+    <path
+       style="display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.466;stroke-miterlimit:4;stroke-dasharray:1.864, 1.864;stroke-dashoffset:0;stroke-opacity:0.245051;stop-color:#000000"
+       d="M 42.499703,342.81895 H 2129.0693"
+       id="path1878-9" />
+    <path
+       style="display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.466;stroke-miterlimit:4;stroke-dasharray:1.864, 1.864;stroke-dashoffset:0;stroke-opacity:0.245051;stop-color:#000000"
+       d="M 42.499703,333.8333 H 2129.0693"
+       id="path104847-2" />
+    <path
+       style="display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.466;stroke-miterlimit:4;stroke-dasharray:1.864, 1.864;stroke-dashoffset:0;stroke-opacity:0.245051;stop-color:#000000"
+       d="M 42.499703,324.84765 H 2129.0693"
+       id="path48448-6" />
+    <path
+       style="display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.466;stroke-miterlimit:4;stroke-dasharray:1.864, 1.864;stroke-dashoffset:0;stroke-opacity:0.245051;stop-color:#000000"
+       d="M 42.499713,836.8627 H 2129.0693"
+       id="path7101-49" />
+    <path
+       style="display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.466;stroke-miterlimit:4;stroke-dasharray:1.864, 1.864;stroke-dashoffset:0;stroke-opacity:0.245051;stop-color:#000000"
+       d="M 42.499713,827.86687 H 2129.0693"
+       id="path7105-5" />
+    <path
+       style="display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.466;stroke-miterlimit:4;stroke-dasharray:1.864, 1.864;stroke-dashoffset:0;stroke-opacity:0.245051;stop-color:#000000"
+       d="M 42.499713,818.87104 H 2129.0693"
+       id="path6505-0" />
+    <path
+       style="display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.466;stroke-miterlimit:4;stroke-dasharray:1.864, 1.864;stroke-dashoffset:0;stroke-opacity:0.245051;stop-color:#000000"
+       d="M 42.499713,773.93306 H 2129.0693"
+       id="path333818-4" />
+    <path
+       style="display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.466;stroke-miterlimit:4;stroke-dasharray:1.864, 1.864;stroke-dashoffset:0;stroke-opacity:0.245051;stop-color:#000000"
+       d="M 42.499713,782.92888 H 2129.0693"
+       id="path333820-8" />
+    <path
+       style="display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.466;stroke-miterlimit:4;stroke-dasharray:1.864, 1.864;stroke-dashoffset:0;stroke-opacity:0.245051;stop-color:#000000"
+       d="M 42.499713,791.92471 H 2129.0693"
+       id="path333822-71" />
+    <path
+       style="display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.466;stroke-miterlimit:4;stroke-dasharray:1.864, 1.864;stroke-dashoffset:0;stroke-opacity:0.245051;stop-color:#000000"
+       d="M 42.499713,800.82922 H 2129.0693"
+       id="path333824-7" />
+    <path
+       style="display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.466;stroke-miterlimit:4;stroke-dasharray:1.864, 1.864;stroke-dashoffset:0;stroke-opacity:0.245051;stop-color:#000000"
+       d="M 42.499713,809.88539 H 2129.0693"
+       id="path333826-27" />
+    <path
+       style="display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.466;stroke-miterlimit:4;stroke-dasharray:1.864, 1.864;stroke-dashoffset:0;stroke-opacity:0.245051;stop-color:#000000"
+       d="M 42.499703,764.98537 H 2129.0693"
+       id="path235021-2" />
+    <path
+       style="display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.466;stroke-miterlimit:4;stroke-dasharray:1.864, 1.864;stroke-dashoffset:0;stroke-opacity:0.245051;stop-color:#000000"
+       d="M 42.499703,719.91842 H 2129.0693"
+       id="path256569-26" />
+    <path
+       style="display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.466;stroke-miterlimit:4;stroke-dasharray:1.864, 1.864;stroke-dashoffset:0;stroke-opacity:0.245051;stop-color:#000000"
+       d="M 42.499703,728.91425 H 2129.0693"
+       id="path256571-1" />
+    <path
+       style="display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.466;stroke-miterlimit:4;stroke-dasharray:1.864, 1.864;stroke-dashoffset:0;stroke-opacity:0.245051;stop-color:#000000"
+       d="M 42.499703,737.91008 H 2129.0693"
+       id="path256573-0" />
+    <path
+       style="display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.466;stroke-miterlimit:4;stroke-dasharray:1.864, 1.864;stroke-dashoffset:0;stroke-opacity:0.245051;stop-color:#000000"
+       d="M 42.499703,746.8146 H 2129.0693"
+       id="path256575-6" />
+    <path
+       style="display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.466;stroke-miterlimit:4;stroke-dasharray:1.864, 1.864;stroke-dashoffset:0;stroke-opacity:0.245051;stop-color:#000000"
+       d="M 42.499703,755.87015 H 2129.0693"
+       id="path256577-1" />
+    <path
+       style="display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.466;stroke-miterlimit:4;stroke-dasharray:1.864, 1.864;stroke-dashoffset:0;stroke-opacity:0.245051;stop-color:#000000"
+       d="M 42.499703,675.08856 H 2129.0693"
+       id="path69923-5" />
+    <path
+       style="display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.466;stroke-miterlimit:4;stroke-dasharray:1.864, 1.864;stroke-dashoffset:0;stroke-opacity:0.245051;stop-color:#000000"
+       d="M 42.499703,684.08438 H 2129.0693"
+       id="path69925-9" />
+    <path
+       style="display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.466;stroke-miterlimit:4;stroke-dasharray:1.864, 1.864;stroke-dashoffset:0;stroke-opacity:0.245051;stop-color:#000000"
+       d="M 42.499703,693.08022 H 2129.0693"
+       id="path69927-49" />
+    <path
+       style="display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.466;stroke-miterlimit:4;stroke-dasharray:1.864, 1.864;stroke-dashoffset:0;stroke-opacity:0.245051;stop-color:#000000"
+       d="M 42.499703,701.98473 H 2129.0693"
+       id="path69929-0" />
+    <path
+       style="display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.466;stroke-miterlimit:4;stroke-dasharray:1.864, 1.864;stroke-dashoffset:0;stroke-opacity:0.245051;stop-color:#000000"
+       d="M 42.499703,711.0409 H 2129.0693"
+       id="path69931-9" />
+    <path
+       style="display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.466;stroke-miterlimit:4;stroke-dasharray:1.864, 1.864;stroke-dashoffset:0;stroke-opacity:0.245051;stop-color:#000000"
+       d="M 42.499703,630.25907 H 2129.0693"
+       id="path236487-17" />
+    <path
+       style="display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.466;stroke-miterlimit:4;stroke-dasharray:1.864, 1.864;stroke-dashoffset:0;stroke-opacity:0.245051;stop-color:#000000"
+       d="M 42.499703,639.2549 H 2129.0693"
+       id="path236489-7" />
+    <path
+       style="display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.466;stroke-miterlimit:4;stroke-dasharray:1.864, 1.864;stroke-dashoffset:0;stroke-opacity:0.245051;stop-color:#000000"
+       d="M 42.499703,648.25072 H 2129.0693"
+       id="path236491-11" />
+    <path
+       style="display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.466;stroke-miterlimit:4;stroke-dasharray:1.864, 1.864;stroke-dashoffset:0;stroke-opacity:0.245051;stop-color:#000000"
+       d="M 42.499703,657.15524 H 2129.0693"
+       id="path236493-5" />
+    <path
+       style="display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.466;stroke-miterlimit:4;stroke-dasharray:1.864, 1.864;stroke-dashoffset:0;stroke-opacity:0.245051;stop-color:#000000"
+       d="M 42.499703,666.1736 H 2129.0693"
+       id="path236495-97" />
+    <path
+       style="display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.466;stroke-miterlimit:4;stroke-dasharray:1.864, 1.864;stroke-dashoffset:0;stroke-opacity:0.245051;stop-color:#000000"
+       d="M 42.499703,621.31137 H 2129.0693"
+       id="path30048-7" />
+    <path
+       style="display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.466;stroke-miterlimit:4;stroke-dasharray:1.864, 1.864;stroke-dashoffset:0;stroke-opacity:0.245051;stop-color:#000000"
+       d="M 42.499703,612.27756 H 2129.0693"
+       id="path30084-6" />
+    <path
+       style="display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.466;stroke-miterlimit:4;stroke-dasharray:1.864, 1.864;stroke-dashoffset:0;stroke-opacity:0.245051;stop-color:#000000"
+       d="M 42.499703,603.3193 H 2129.0693"
+       id="path1878-7" />
+    <path
+       style="display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.466;stroke-miterlimit:4;stroke-dasharray:1.864, 1.864;stroke-dashoffset:0;stroke-opacity:0.245051;stop-color:#000000"
+       d="M 42.499703,594.33365 H 2129.0693"
+       id="path104847-36" />
+    <path
+       style="display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.466;stroke-miterlimit:4;stroke-dasharray:1.864, 1.864;stroke-dashoffset:0;stroke-opacity:0.245051;stop-color:#000000"
+       d="M 42.499703,585.348 H 2129.0693"
+       id="path48448-63" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777px;line-height:1.25;font-family:Georgia;-inkscape-font-specification:'Georgia, Normal';font-variant-ligatures:normal;font-variant-caps:small-caps;font-variant-numeric:normal;font-variant-east-asian:normal;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.476001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+       x="40.587029"
+       y="69.912003"
+       id="text9830"><tspan
+         sodipodi:role="line"
+         id="tspan9828"
+         style="stroke-width:0.476"
+         x="40.587029"
+         y="69.912003">Lakes-North</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:Georgia;-inkscape-font-specification:'Georgia, Bold';font-variant-ligatures:normal;font-variant-caps:small-caps;font-variant-numeric:normal;font-variant-east-asian:normal;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.476001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+       x="19.140652"
+       y="113.65465"
+       id="text9854"><tspan
+         sodipodi:role="line"
+         id="tspan9852"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.52778px;font-family:Georgia;-inkscape-font-specification:'Georgia, Bold';font-variant-ligatures:normal;font-variant-caps:small-caps;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.476"
+         x="19.140652"
+         y="113.65465">Bea</tspan></text>
+  </g>
+</svg>
