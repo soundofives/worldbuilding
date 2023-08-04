@@ -40,15 +40,15 @@
      inkscape:pagecheckerboard="0"
      inkscape:document-units="mm"
      showgrid="false"
-     inkscape:zoom="2.3229883"
-     inkscape:cx="4278.9712"
-     inkscape:cy="2377.541"
-     inkscape:window-width="3840"
-     inkscape:window-height="2129"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:zoom="0.58074708"
+     inkscape:cx="4564.8099"
+     inkscape:cy="4067.175"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     inkscape:window-x="3840"
+     inkscape:window-y="438"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer13"
+     inkscape:current-layer="layer17"
      units="in"
      inkscape:snap-global="true"
      inkscape:document-rotation="0"
@@ -8092,8 +8092,7 @@
   <g
      inkscape:groupmode="layer"
      id="layer17"
-     inkscape:label="bg"
-     sodipodi:insensitive="true">
+     inkscape:label="bg">
     <rect
        style="fill:#ffffff;fill-opacity:1;stroke:#409189;stroke-width:0.4;stroke-opacity:1;stop-color:#000000"
        id="rect359853"
@@ -8106,8 +8105,7 @@
      inkscape:groupmode="layer"
      id="layer7"
      inkscape:label="x graticule"
-     style="display:inline"
-     sodipodi:insensitive="true">
+     style="display:inline">
     <path
        style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.176;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.0999795;marker-start:url(#marker3230);stop-color:#000000"
        d="M 2108.6254,1465.6155 V 170.01124"
@@ -8521,8 +8519,7 @@
      inkscape:label="axis"
      inkscape:groupmode="layer"
      id="layer1"
-     style="display:inline"
-     sodipodi:insensitive="true">
+     style="display:inline">
     <path
        style="display:inline;fill:none;stroke:#000000;stroke-width:0.474299;stop-color:#000000"
        d="M 52.163492,1176.5688 H 2116.0253"
@@ -9378,8 +9375,7 @@
      inkscape:groupmode="layer"
      id="layer3"
      inkscape:label="axis text"
-     style="display:inline"
-     sodipodi:insensitive="true">
+     style="display:inline">
     <text
        xml:space="preserve"
        style="font-size:3.52777px;line-height:1.25;font-family:Georgia;-inkscape-font-specification:'Georgia, Normal';font-variant-caps:small-caps;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.176389;stop-color:#000000"
@@ -11877,8 +11873,7 @@
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="regions"
-     style="display:inline"
-     sodipodi:insensitive="true">
+     style="display:inline">
     <g
        inkscape:groupmode="layer"
        id="g28340"
@@ -35716,8 +35711,7 @@
        inkscape:groupmode="layer"
        id="layer8"
        inkscape:label="global events"
-       style="display:inline"
-       sodipodi:insensitive="true">
+       style="display:inline">
       <path
          style="fill:#ffb316;fill-opacity:1;stroke:#a80f00;stroke-width:1.264;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.490765;stop-color:#000000"
          d="M 403.80989,1175.5493 V 171.31568"
@@ -35960,8 +35954,7 @@
   <g
      inkscape:groupmode="layer"
      id="layer6"
-     inkscape:label="Flavor Text"
-     sodipodi:insensitive="true">
+     inkscape:label="Flavor Text">
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111px;line-height:1.25;font-family:Georgia;-inkscape-font-specification:'Georgia, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#ffd700;fill-opacity:1;stroke-width:0.264583"
@@ -38052,8 +38045,7 @@
   <g
      inkscape:groupmode="layer"
      id="layer16"
-     inkscape:label="climatic timeline"
-     sodipodi:insensitive="true">
+     inkscape:label="climatic timeline">
     <image
        width="351.67545"
        height="81.822296"
