@@ -1,0 +1,298 @@
+{
+  "main": {
+    "id": "fc54e07032c34ff6",
+    "type": "split",
+    "children": [
+      {
+        "id": "7dfa54c18ebc3054",
+        "type": "split",
+        "children": [
+          {
+            "id": "faff9801a5cd849f",
+            "type": "split",
+            "dimension": 76.49823736780259,
+            "children": [
+              {
+                "id": "ddb06a024083c959",
+                "type": "tabs",
+                "children": [
+                  {
+                    "id": "c8b8b41b658dd14a",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "Locations/Shadaean Empire/Shadaean Empire.md",
+                        "mode": "source",
+                        "source": false
+                      }
+                    }
+                  }
+                ]
+              },
+              {
+                "id": "a9fa97830ecc2e86",
+                "type": "tabs",
+                "children": [
+                  {
+                    "id": "635e405b3c0d2776",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "Personalities/Name Bank.md",
+                        "mode": "source",
+                        "source": false
+                      }
+                    }
+                  }
+                ]
+              },
+              {
+                "id": "8a3745e69c85e632",
+                "type": "tabs",
+                "children": [
+                  {
+                    "id": "043623987b903782",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "Locations/Shadaean Empire/The Last and First City/The Bureaucracy.md",
+                        "mode": "source",
+                        "source": false
+                      }
+                    }
+                  }
+                ]
+              }
+            ],
+            "direction": "vertical"
+          },
+          {
+            "id": "5e514638fc78dee5",
+            "type": "tabs",
+            "dimension": 23.501762632197416,
+            "children": [
+              {
+                "id": "2e56eed36a19e18a",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Locations/Shadaean Empire/The Tower/The Tower.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal"
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8ddce6464fd9e3ae",
+    "type": "split",
+    "children": [
+      {
+        "id": "107a2befb23dca41",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2183c14ff4b9ae22",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a582880e5f9c2001",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "81ed594212d8fb6d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "4a251524a0265939",
+    "type": "split",
+    "children": [
+      {
+        "id": "d48c21865e94b4ca",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e28ca046d8bbcb33",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Locations/Shadaean Empire/Shadaean Empire.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6959b678a6232b9d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Locations/Shadaean Empire/Shadaean Empire.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e3316a779545ba3b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "d9a1dc79a297f64c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Locations/Shadaean Empire/Shadaean Empire.md"
+              }
+            }
+          },
+          {
+            "id": "6e2f90c3e9c849a2",
+            "type": "leaf",
+            "state": {
+              "type": "BC-matrix",
+              "state": {}
+            }
+          },
+          {
+            "id": "cd5d1db88a1604ee",
+            "type": "leaf",
+            "state": {
+              "type": "BC-tree",
+              "state": {}
+            }
+          },
+          {
+            "id": "4835b9f02d0c4518",
+            "type": "leaf",
+            "state": {
+              "type": "FANTASY_CALENDAR",
+              "state": {}
+            }
+          },
+          {
+            "id": "fb046b9cbef4dd16",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 7
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "fantasy-calendar:Open Large Fantasy Calendar": false,
+      "obsidian-5e-statblocks:Open Creature Pane": false,
+      "obsidian-leaflet-plugin:Open Leaflet Map": false,
+      "breadcrumbs:Breadcrumbs Visualisation": false
+    }
+  },
+  "active": "c8b8b41b658dd14a",
+  "lastOpenFiles": [
+    "Locations/Shadaean Empire/The Last and First City/The Last and First City.md",
+    "Locations/Shadaean Empire/The Last and First City/Encounters.md",
+    "Ethnography/Religion.md",
+    "Personalities/The Tower/Milo.md",
+    "Personalities/Name Bank.md",
+    "Locations/Shadaean Empire/The Last and First City/The Bureaucracy.md",
+    "Essays/Tuition at a magical university in the LFC.md",
+    "Locations/Shadaean Empire/The Last and First City/Notes on the Last and First City.md",
+    "Locations/Shadaean Empire/Shadaean Empire.md",
+    "Locations/Shadaean Empire/Untitled.md",
+    "To-do/To-Do Boards.md",
+    "Adventures/Adventure 1/Dungeon - the Tower Crypt.md",
+    "Adventures/Adventure 1/After analysis.md",
+    "Adventures/Adventure 1/Advenutre 1 Narrative.md",
+    "Adventures/Adventure 1/Adventure 1.md",
+    "Personalities/The Tower/The Tower.md",
+    "Locations/Shadaean Empire/The Tower/The Tower.md",
+    "Injuries.pdf",
+    "Quotes.md",
+    "Markdown Bits.md",
+    "Injuries.md",
+    "rpg.json",
+    "History/History.md",
+    "Personalities/The Tower/Breeze.md",
+    "Hooks/Adventure Hooks.md",
+    "Adventures/Adventure 1/Drawing 2023-10-01 18.36.22.excalidraw.md",
+    "Personalities/The Tower/Zoran Drakewolf.md",
+    "Personalities/The Tower/Zoran Silvergleam.md",
+    "Locations/Shadaean Empire/The Tower/The Wizard's Knobbly Knob",
+    "Adventures/Adventure 1",
+    "Adventures",
+    "Locations/Shadaean Empire/The Tower/The Atrium",
+    "Excalidraw",
+    "Hooks",
+    "To-do",
+    "Locations/Planar",
+    "Untitled.canvas"
+  ]
+}

@@ -1,0 +1,39 @@
+Milo el'Milica-Nagin-Gorm-Nagin-Bozidir-Milica-Milo
+Milo 
+(she goes by Milo Holystar) is a young drow with a lineage steeped in ambition and intrigue. Despite being as the heir to the Mistrun family, rising aristocrats eager to ascend the treacherous ladder of political power, Milo has embarked on a journey to Zagyg's Tower. She escaped from her family and is trying to hide her identity while she gains the magical knowledge and influence necessary to secure her freedom from her aristocratic destiny. Here's more about her:
+
+**Family of Ambition:**
+
+- The Mistrun family is a prominent house within the drow society, known for their cunning and ambition. They have a storied history of both legitimate and covert dealings, all aimed at climbing the social and political hierarchy of the City.
+
+**Strategic and Intelligent:**
+
+- Milo possesses a keen intellect and a natural talent for strategy, making her a promising diplomat and future politician. She understands the importance of alliances and the need to navigate the intricacies of power with a calculating mind.
+
+**Disillusionment with the Mistrun Family:**
+
+- Despite her family's success, Milo became disillusioned with the oppressive and cutthroat nature of their politics. She yearned for a world beyond the walls of the aristocracy, where her talents and ambitions could be pursued without the constraints of her dark heritage.
+
+**Magical Aspirations:**
+
+- Milo believes that knowledge and power are the keys to success in the world. She is determined to master the arcane arts, seeking spells and magical secrets that might allow her some sense of independence from her controlling family.
+
+**Adaptation to her New Life:**
+
+- As heir to a dangerous clan, Milo faces unique challenges. She has adapted by concealing her dark heritage and wearing enchanted disguises when away from the Tower, all while honing her magical skills.
+
+**Charismatic and Persuasive:**
+
+- Milo possesses a natural charm that makes her an adept negotiator and diplomat. Her ability to win people over with her charisma has proven invaluable in the world of politics.
+
+**Secretive and Calculating:**
+
+- Beneath her charming exterior, Milo is calculating and secretive, always weighing the risks and rewards of her actions. She has learned the art of manipulation and subtlety, skills she believes are essential in the political arena.
+
+**Ambitious Goals:**
+
+- Milo's ultimate goal is to fully separate herself from her family: or secretly work against them. She envisions the Mistrun name becoming synonymous with power, wealth, and influence, but she hates the idea of the cost.
+
+**A Complex Journey:**
+
+- Milo's journey to Zagyg's Tower is just one step in her complex plan for her family's future. She seeks to forge alliances, gather knowledge, and uncover magical secrets that will help set her family straight--or cut ties entirely.
