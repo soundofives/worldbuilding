@@ -14,9 +14,10 @@
   
 6. The Tower is hosting a festival and needs artists. Acquire them by any means necessary.  
   
-7. Zagyg's pursuit of apotheosis: he seeks the Thief Blade, partially for the Vampire Lord Khas, but partially for himself...  
+7. Zagyg's pursuit of apotheosis: he seeks the Thief Blade, partially for the Vampire Lord Khas, but partially for himself...
   
 8. Fraz saga.
+8.0. Find Fraz. You have to get past the Forbidance ward set up by Vezel, and make your way through the Guards and Wards maze guarded by a monster.
 8.1. You find Fraz--he has a request for you. He wishes to undermine Zagyg and use the party to betray the warlock. This begins by gaining trust. "I was captured here because I know things. Things I am forced to share with Zagyg. Things I will share with you, if you help me."
 8.x. Tasha goes missing! Does Fraz have something to do with this?
 

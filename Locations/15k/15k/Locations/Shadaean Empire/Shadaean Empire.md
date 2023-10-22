@@ -15,6 +15,10 @@ The Shadaean Empire at its height around 14k BBT covers around 60 megameters of 
 6. **Dragon's Rook**. An ancient pilgrimage site for dragons coming to the Material Plane, Dragon's Rook is situated near a magical anomaly that imbues the landscape with inscrutable qualities. The city is built on a series of interconnected floating islands ripped away from the earth in a magical storm millennia ago. Despite the unpredictable weather and even more unpredictable effects of spells in the Pale, Dragon's Rook has become the favored roost of the aristocrats of the Last and First City. This is the hub of the rich--bankers, administrators, guild lords, generals, and members of the highest bureaucratic councils. Dragon's Rook is also nearby the largest inter-planar injunction point of the Last and First City, the "Wildring", a huge fairy-ring through which all inter-planar travelers must pass through.
 7. **Bonz**.  A radiant tapestry of art, color, cultural, and festivals where creativity knows no bounds, the cobbled streets of Bonz echo with the voices of performers, poets, and romantic swashbucklers. Known as the Flower of the Empire, the Pale is suffused with the smell of exotic spices, incense, and the perfume, salve, balm, and tincture workshops that serve the undead bureaucrats of the Last and First City. The city sits on a warm bay of blue-green water in a Mediterranean landscape, and the cool sea breezes whistle through the halls of the Grand Amphitheater, the jewel of Bonz and an architectural marvel. Bonz is always humming with energy and festivals, from grand masquerade balls to eccentric street parades.
 
+Other Pales that are more minor than these seven:
+Aukiai, on Solnaza. From Ancient Zviri for Bird's Nest.
+Sjor, in the Kuhorik region.
+
 ##### Common Languages:
 common Sinisar
 ##### Mystic Languages:

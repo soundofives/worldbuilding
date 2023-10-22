@@ -1,3 +1,7 @@
+Summary: Milo is estranged from her family. They are rising aristocrats and secretly extremist Cycladenes. Many of her clan are Shynedar-Kai. She is ambitious, strategic, and calculating. She is smooth-talking and flirtatious, but plays hard-to-get. She believes power through magic will allow her to become truly independent of her family.
+
+---
+
 Milo el'Milica-Nagin-Gorm-Nagin-Bozidir-Milica-Milo
 Milo 
 (she goes by Milo Holystar) is a young drow with a lineage steeped in ambition and intrigue. Despite being as the heir to the Mistrun family, rising aristocrats eager to ascend the treacherous ladder of political power, Milo has embarked on a journey to Zagyg's Tower. She escaped from her family and is trying to hide her identity while she gains the magical knowledge and influence necessary to secure her freedom from her aristocratic destiny. Here's more about her:
@@ -37,3 +41,46 @@ Milo
 **A Complex Journey:**
 
 - Milo's journey to Zagyg's Tower is just one step in her complex plan for her family's future. She seeks to forge alliances, gather knowledge, and uncover magical secrets that will help set her family straight--or cut ties entirely.
+
+```statblock
+name: Milo
+size: Medium
+type: humanoid
+subtype: dark High Elf
+alignment: True Neutral
+ac: 12
+hp: 10
+hit_dice: 2d6 + 0
+speed: 30 ft.
+stats:
+  - 8
+  - 14
+  - 11
+  - 17
+  - 12
+  - 14
+saves:
+  - intelligence: 5
+  - wisdom: 3
+skillsaves:
+  - arcana: 5
+  - history: 5
+damage_vulnerabilities: ""
+damage_resistances: ""
+damage_immunities: ""
+condition_immunities: ""
+senses: passive Perception 11
+languages: Sinisar Common, Cryptic Tanorian, Heavenly Sinisar, Old Sinisar
+cr: "2"
+traits: []
+actions:
+  - name: Dagger
+    desc: "Melee or Ranged Weapon Attack: +4 to hit, reach 5 ft. or range 20/60 ft., one target. Hit: 4 (1d4 + 2) piercing damage."
+    attack_bonus: 4
+    damage_dice: 1d4
+    damage_bonus: 2
+spells:
+  - "Milo is a 2nd-level spellcaster. Her spellcasting ability is Intelligence (spell save DC 13, +5 to hit with spell attacks). She has the following wizard spells prepared:"
+  - Cantrips (at will): message, ray of frost, friends
+  - 1st level (3 slots): disguise self, sleep, shield
+```

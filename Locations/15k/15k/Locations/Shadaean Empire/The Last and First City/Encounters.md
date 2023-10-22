@@ -35,26 +35,29 @@ Separate tables for each of these factions:
 | Criminal Factions |
 | ----------------- |
 | Shynedar-kai      |
-|                   |
+| Thieves Guild                  |
 
 | Religious Factions      |
 | ----------------------- |
 | Cycle of Twins          |
 | Myriad                  |
-| Cult of Sashas          |
-| Cult of the Raven Queen |
+| Sashism          |
+| Druid Circles |
 | Cult of Decay                        |
 
-| Social Factions      |
+| Education Factions      |
 | -------------------- |
-| Witherblooms         |
-| Mercenary Company 1  |
-| Mercenary Company 2  |
-| Mundane University   |
-| Magical University 3 |
-| The Tower                     |
+| Prismeer        |
+| University of New Tanore |
+| Circle of Eight |
+| The Tower     |
 
 | Financial Factions |
 | ------------------ |
 | Silvergleam Bank   |
-|                    |
+| Bank of Miros      |
+| Incantators Guild  |
+| Hauling Guild      |
+| Brothers Company   |
+| Red Company                   |
+

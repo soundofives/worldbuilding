@@ -15,11 +15,11 @@ The Last and First City has a lot of wealthy people who are pressured to show of
 
 | Social Status               | Min Income /mo | Lifestyle /mo | Taxes | Profit |
 | --------------------------- | -------------- | ------------- | ----- | ------ |
-| Poor, unskilled             | 6 gp           | 3             | 6 sp  | 4 sp   |
-| Modest laborer, mercenary              | 30 gp          | 15            | 3 gp  | 2 gp   |
-| Skilled tradesman, merchant | 60 gp          | 30            | 6 gp  | 4 gp   |
-| Wealthy                     | 120 gp         | 60            | 12 gp | 8 gp   |
-| Aristocrat                  | 300 gp         | 150           | 30 gp | 20 gp  |
+| Poor, unskilled             | 6 gp           | 5             | --  | 100 cp   |
+| Modest laborer, mercenary              | 30 gp          | 28     | --  | 2 gp   |
+| Skilled tradesman, merchant | 60 gp          | 55            | --  | 5 gp   |
+| Wealthy                     | 120 gp         | 110            | -- | 10 gp   |
+| Aristocrat                  | 600 gp         | 550           | -- | 50 gp  |
 
 This is an estimate of minimum income to qualify for a certain lifestyle. This minimum income would strain some of the wealthier classes, which have practically no income cap. Some aristocrats will easily earn thousands of gold per month.
 

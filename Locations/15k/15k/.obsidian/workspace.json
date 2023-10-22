@@ -4,92 +4,78 @@
     "type": "split",
     "children": [
       {
-        "id": "7dfa54c18ebc3054",
-        "type": "split",
+        "id": "a9fa97830ecc2e86",
+        "type": "tabs",
         "children": [
           {
-            "id": "faff9801a5cd849f",
-            "type": "split",
-            "dimension": 76.49823736780259,
-            "children": [
-              {
-                "id": "ddb06a024083c959",
-                "type": "tabs",
-                "children": [
-                  {
-                    "id": "c8b8b41b658dd14a",
-                    "type": "leaf",
-                    "state": {
-                      "type": "markdown",
-                      "state": {
-                        "file": "Locations/Shadaean Empire/Shadaean Empire.md",
-                        "mode": "source",
-                        "source": false
-                      }
-                    }
-                  }
-                ]
-              },
-              {
-                "id": "a9fa97830ecc2e86",
-                "type": "tabs",
-                "children": [
-                  {
-                    "id": "635e405b3c0d2776",
-                    "type": "leaf",
-                    "state": {
-                      "type": "markdown",
-                      "state": {
-                        "file": "Personalities/Name Bank.md",
-                        "mode": "source",
-                        "source": false
-                      }
-                    }
-                  }
-                ]
-              },
-              {
-                "id": "8a3745e69c85e632",
-                "type": "tabs",
-                "children": [
-                  {
-                    "id": "043623987b903782",
-                    "type": "leaf",
-                    "state": {
-                      "type": "markdown",
-                      "state": {
-                        "file": "Locations/Shadaean Empire/The Last and First City/The Bureaucracy.md",
-                        "mode": "source",
-                        "source": false
-                      }
-                    }
-                  }
-                ]
+            "id": "ed5a49a4d289a75e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Essays/On the Shadaean Society.md",
+                "mode": "source",
+                "source": false
               }
-            ],
-            "direction": "vertical"
+            }
           },
           {
-            "id": "5e514638fc78dee5",
-            "type": "tabs",
-            "dimension": 23.501762632197416,
-            "children": [
-              {
-                "id": "2e56eed36a19e18a",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Locations/Shadaean Empire/The Tower/The Tower.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
+            "id": "e55d36c622ff8d24",
+            "type": "leaf",
+            "state": {
+              "type": "FANTASY_CALENDAR",
+              "state": {}
+            }
+          },
+          {
+            "id": "d5463d55141c815f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mechanics/Downtime.md",
+                "mode": "source",
+                "source": false
               }
-            ]
+            }
+          },
+          {
+            "id": "33613cbe09927df0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ethnography/Language prompts.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3398b61392ea2789",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ethnography/Imperial Calendar.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bdef619529c02202",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Quotes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ],
-        "direction": "horizontal"
+        ]
       }
     ],
     "direction": "vertical"
@@ -139,7 +125,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 239.50260543823242
   },
   "right": {
     "id": "4a251524a0265939",
@@ -155,7 +141,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Shadaean Empire/Shadaean Empire.md",
+                "file": "Essays/On the Shadaean Society.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,7 +158,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Locations/Shadaean Empire/Shadaean Empire.md",
+                "file": "Essays/On the Shadaean Society.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -195,7 +181,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/Shadaean Empire/Shadaean Empire.md"
+                "file": "Essays/On the Shadaean Society.md"
               }
             }
           },
@@ -232,11 +218,11 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 200,
+    "width": 389.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -255,44 +241,50 @@
       "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
-  "active": "c8b8b41b658dd14a",
+  "active": "ed5a49a4d289a75e",
   "lastOpenFiles": [
-    "Locations/Shadaean Empire/The Last and First City/The Last and First City.md",
-    "Locations/Shadaean Empire/The Last and First City/Encounters.md",
-    "Ethnography/Religion.md",
-    "Personalities/The Tower/Milo.md",
-    "Personalities/Name Bank.md",
-    "Locations/Shadaean Empire/The Last and First City/The Bureaucracy.md",
-    "Essays/Tuition at a magical university in the LFC.md",
-    "Locations/Shadaean Empire/The Last and First City/Notes on the Last and First City.md",
-    "Locations/Shadaean Empire/Shadaean Empire.md",
-    "Locations/Shadaean Empire/Untitled.md",
-    "To-do/To-Do Boards.md",
-    "Adventures/Adventure 1/Dungeon - the Tower Crypt.md",
-    "Adventures/Adventure 1/After analysis.md",
-    "Adventures/Adventure 1/Advenutre 1 Narrative.md",
-    "Adventures/Adventure 1/Adventure 1.md",
-    "Personalities/The Tower/The Tower.md",
-    "Locations/Shadaean Empire/The Tower/The Tower.md",
-    "Injuries.pdf",
+    "Adventures/Adventure 3/Adventure 3 Narrative.md",
+    "Mechanics/Downtime.md",
+    "Adventures/Adventure 2/Adventure 2 Narrative.md",
     "Quotes.md",
-    "Markdown Bits.md",
-    "Injuries.md",
-    "rpg.json",
+    "Locations/Shadaean Empire/The Last and First City/Factions/Religious/The Myriad.md",
+    "Locations/Shadaean Empire/Shadaean Empire.md",
     "History/History.md",
-    "Personalities/The Tower/Breeze.md",
-    "Hooks/Adventure Hooks.md",
-    "Adventures/Adventure 1/Drawing 2023-10-01 18.36.22.excalidraw.md",
-    "Personalities/The Tower/Zoran Drakewolf.md",
-    "Personalities/The Tower/Zoran Silvergleam.md",
-    "Locations/Shadaean Empire/The Tower/The Wizard's Knobbly Knob",
-    "Adventures/Adventure 1",
-    "Adventures",
-    "Locations/Shadaean Empire/The Tower/The Atrium",
-    "Excalidraw",
-    "Hooks",
-    "To-do",
-    "Locations/Planar",
+    "Mechanics/Mechanics Expanded.md",
+    "Ethnography/Language prompts.md",
+    "Ethnography/Imperial Calendar.md",
+    "Essays/On the Shadaean Society.md",
+    "Welcome.md",
+    "Locations/Shadaean Empire/The Last and First City/The Last and First City.md",
+    "Locations/Shadaean Empire/The Last and First City/Notes on the Last and First City.md",
+    "Ethnography/Religion.md",
+    "Locations/Shadaean Empire/The Last and First City/Factions/Religious/Druid Circles.md",
+    "Locations/Shadaean Empire/The Last and First City/Factions/Financial/Red Company.md",
+    "Locations/Shadaean Empire/The Last and First City/Factions/Financial/Brothers Company.md",
+    "Locations/Shadaean Empire/The Last and First City/Factions/Financial/Banking Guild.md",
+    "Adventures/Adventure 3/Adventure 3 after thoughts.md",
+    "Adventures/Adventure 2/Scene 3 - Rescue of Hasur Highfallow.md",
+    "Adventures/Adventure 3/Statblocks.md",
+    "Mechanics/Scribing Spell Scrolls.png",
+    "Locations/Shadaean Empire/The Last and First City/Factions/Social/The Fire Watch.md",
+    "Attachments/Pasted image 20231013090758.png",
+    "Locations/Shadaean Empire/The Last and First City/Factions/Social/The Guard.md",
+    "Locations/Shadaean Empire/The Last and First City/Factions/Social",
+    "Attachments/Pasted image 20231019094028.png",
+    "Markdown Bits.md",
+    "Mechanics",
+    "Attachments/Pasted image 20231018214559.png",
+    "Attachments",
+    "Adventures/Adventure 2/Statblocks.md",
+    "Adventures/Adventure 3",
+    "Personalities/The Last and First City/House of Duskivaine",
+    "Personalities/The Last and First City",
+    "Locations/Shadaean Empire/The Last and First City/Factions/Other",
+    "Locations/Shadaean Empire/The Last and First City/Factions/Criminal",
+    "Locations/Shadaean Empire/The Last and First City/Factions/Financial",
+    "Locations/Shadaean Empire/The Last and First City/Factions/Learned",
+    "Adventures/Adventure 2/abandoned_plaza.png",
+    "hay_band.png",
     "Untitled.canvas"
   ]
 }

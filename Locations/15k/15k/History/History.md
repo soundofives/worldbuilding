@@ -73,7 +73,7 @@ Hykhe conquered the most powerful states of Rhunendor, initiating the early Shad
 
 ---
 ***16.9k - 16.5k BBT - Expansion***
-Hykhe and his undead army crossed over the sea floor, pulling vast rafts of supplies behind them. They reached the shores of the former Sinisar Empire, which, by this time, had crumbled in this region in all but name. The Sinisar state was fractious to begin with, and around this time the Empire was losing control over some of its core regions. Cohesion was minimal, and internal power struggles were tearing the empire apart. The conquest of the Kuhorik was brutal and swift, though Hykhe lacked a way to meaningfully tie his two territories together. Taking inspiration from the ancient Gates o the Sinisar, Hykhe studied Gate magic and began the construction of a Gate system between Kuhorik and Rhunendor.
+Hykhe and his undead army crossed over the sea floor, pulling vast rafts of supplies behind them. They reached the shores of the former Sinisar Empire, which, by this time, had crumbled in this region in all but name. The Sinisar state was fractious to begin with, and around this time the Empire was losing control over some of its core regions. Cohesion was minimal, and internal power struggles were tearing the empire apart. The conquest of the Kuhorik was brutal and swift, though Hykhe lacked a way to meaningfully tie his two territories together. Taking inspiration from the ancient Gates of the Sinisar, Hykhe studied Gate magic and began the construction of a Gate system between Kuhorik and Rhunendor.
 
 Around 16.6k BBT, several decades after the completion of the first two Gates, the Shadaean Empire reached a logistical chokepoint. The single, isolated Gate pair was an administrative nightmare. In an ingenious and massively expensive technological, engineering, and magical feat, Hykhe ordered the construction of a multi-city Gate system that would connect the major cities of his conquered lands to his capitol at Shada. The first Gate system was expensive to the point of draining the riches secured during the mighty conquests of Hykhe during his life, and it required the attention of thousands of laborers and mages--notably Hykhe himself to instantiate many of the Gates themselves. Five cities were connected to Shada during this phase.
 
@@ -103,45 +103,74 @@ Innovations / changes over the course of Empire:
 -military betrayal?
 -Planar unification
 
-
-
 Thus, the great Last and First City was born, the name coined over time by visitors knowledgable in ancient human mythology. The Gates were huge archway portals in all the major cities. The Gates made the once-separate cities essentially mono-urban. With this development, every major city became Kalma's capitol. No border was too far to be defended, though all were perhaps too close...
-
 
 So, in the early times, before it simply became The Empire or The City, Hykhe's Empire was the Shadaean Empire.
 
+**16.5k - 15k BBT** (36th - 51st centuries)
+Through this system, Kalma conquered kingdom after kingdom. He toppled empires and folded small cities and states into his realm. Not all were forceful, many came willingling into his control. He grew his great City slowly. Frontier kingdoms often adopted Kalmatic culture as they lived in proximity to the Last and First City. The massive hub was attractive culturally, linguistically, etc. Many states wished to become like the city--until, eventually, the most loyal were added to it. During this period of growth, the Last and First city evolved in many ways. Its culture was syncretic, its language a patchwork of tongues from around the world held together by a slowly evolving "common" language. Growing cultural tensions during this time threatened the cohesion of the city. After Kalma conquered the old crumbling Guzarwayd dynasty of the New Tanorian Empire (*~15.8k*) and the lands of Oz-Leshah (~*15.5k*), the exotic and attractive culture and some of the governing practices spread throughout the City.
 
+The Imperial Cult was established, pushing a new philosophy of unity, self-actualization, life meaning, afterlife, and theology, and the administration was turned into an examination-based meritocracy.
+**Dissolution of old aristocracy?**
 
-Through this system, Kalma conquered kingdom after kingdom. He toppled empires and folded small cities and states into his realm. Not all were forceful, many came willingling into his control. He grew his great City slowly. Frontier kingdoms often adopted Kalmatic culture as they lived in proximity to the Last and First City. The massive hub was attractive culturally, linguistically, etc. Many states wished to become like the city--until, eventually, the most loyal were added to it. During this period of growth, the Last and First city evolved in many ways. Its culture was syncretic, its language a patchwork of tongues from around the world held together by a slowly evolving "common" language. Growing cultural tensions during this time threatened the cohesion of the city. After Kalma conquered an old crumbling empire ala Byzantium, the exotic and attractive culture and some of the governing practices spread throughout the City. The Imperial Cult was established, pushing a new philosophy of unity, self-actualization, life meaning, afterlife, and theology, and the administration was turned into an examination-based meritocracy.
+This also ushered in a new time of magic and learning. The earliest universities were established through the Cycladene Church and the Imperial Cult.
 
-A mature City-Empire emerged from this early crisis. The meritocracy allowed for upward movement and negated the growing corruption of the old aristocracy. It played well into the new philosophy of life and death pushed by the Imperial Cult. Kalma became a god-emperor, a divine Judge and ruler. Personal action and virtuous nature raised ones status in the eyes of the god-emperor, and after death your body would be venerated through undead service to the Empire and City. The more virtuous your life was judged, the higher rank you would be given in death. Kalma's empire, the City, was revered. Low taxes and prosperity offered by the City gave people a generally happy life. They *wanted* to continue serving the Empire, and they often had an idealized vision of how that service would play out. This was the core cohesive nature of the Imperial Cult. It served both to provide hope, upward movement, and soldiers for the Imperial Machine. 
+Further, this introduced the Myriad directly into the Last and First City.
+
+A mature City-Empire emerged from this crisis. The meritocracy allowed for upward movement and negated the growing corruption of the old aristocracy. It played well into the new philosophy of life and death pushed by the Imperial Cult. Kalma became a god-emperor, a divine Judge and ruler. Personal action and virtuous nature raised ones status in the eyes of the god-emperor, and after death your body would be venerated through undead service to the Empire and City. The more virtuous your life was judged, the higher rank you would be given in death. Kalma's empire, the City, was revered. Low taxes and prosperity offered by the City gave people a generally happy life. They *wanted* to continue serving the Empire, and they often had an idealized vision of how that service would play out. This was the core cohesive nature of the Imperial Cult. It served both to provide hope, upward movement, and soldiers for the Imperial Machine. 
     During the establishment of the meritocracy, a standardized language of government was established. This was different from the common language. Administrators are well honored, and were often considered to serve in high ranks after death.
     -interesting market: embalming salts, fluids, oils, etc. Fresh smelling chemicals and alchemical concoctions to help the dead look alive. Especially high-ranking dead.
 
 As the Empire and City aged, things continued to evolve and change. The city grew enormous, and it became a myth unto itself. Those within the city often held a simple view of the world: there was the City and the Wilderness. Outside the city the location didn't much matter--the city was everywhere, all at once. Further, the City itself had new life. The Imperial Cult and the idea of the Empire in general became synonymous with the City. The City was the Empire and the City was the God. The City was Kalma, and Kalma was the city. Many people believe that the city is simplify endless. Its size and shape are believed to be controlled by the Emperor-God-City, and the City is often personified in speech, etc.
 
-
-===
-As LFC grew, sewage became a problem. Empire instated sewage infrastructure reforms, reconstructing many gates to have underground sections to help funnel waste into central location.  
+---
+As LFC grew, sewage became a problem. Empire instated sewage infrastructure reforms (*~15.2 - 15.1k*), reconstructing many gates to have underground sections to help funnel waste into central location - Touchstone.
 Otyughs and oozes process waste in underdark, though lake contamination angers aboleths.  
   
-Gate reconstructions were absurdly expensive for this early Empire, and they came at a time of increasing war. While the Empire's soldiers didn't really need to be payed, the supplies needed to outfit some of the legions, along with the coins needed for bribes and gifts, contributed to the onset of coinage debasement and an economic crisis for the government. Riots and rebellions rose up, and numerous usurpers made attempts at Kalma's throne.  
+Gate reconstructions were absurdly expensive for the Empire, and they came at a time of increasing war (expansion of agricultural zones across Austera). While the Empire's soldiers didn't really need to be payed, the supplies needed to outfit some of the legions, along with the coins needed for bribes and gifts, contributed to the onset of coinage debasement and an economic crisis for the government (*~15k - 14.8k*). Riots and rebellions rose up, and numerous usurpers made attempts at Kalma's throne.
   
-Kalma came out victorious, and the crisis led to the minting of a new coinage base, some military reforms, administration reforms, and notably the instatement of the Imperial
+Kalma came out victorious, and the crisis led to the minting of a new coinage base, some military reforms, administration reforms, and religious reforms. It was from this middle crisis that the Late Empire emerged more powerful than ever.
+
+(53rd - 55th centuries)
+*~14.8k - 14.6k* - Cycladene Church is on top of the Empire. Early Bank of Miros is created under the government and monetary reforms. Construction of Touchstone revolutionizes economy, allowing for a major exchange market and birth of many modern factions. Guilds are organized. Universities are expanded.
+
+55th century
+*~14.6k* - Banks mature.
 
 ===
 
 Advancements during Hykhe's time:
 
+First crusade 16040
+Compass first utilized 15920
+Crossbows common 15920
+Oil paint 15800
+Trebuchet 15680
+Chivalric code 15680
+Notre Dame constructed 15680
+Windmills 15680
+Paper 15320
+Early cannons 15200
+First double-entry bookkeeping ledger 15080
+Longswords frequently used in combat 15080
+Hundred Years War 14960
+Hourglass 14960
+
 Join-stock companies 14840
+Black Death 14840
 Exchange markets 14840
 Rennaisance 14600
 Banking 14600
 Printing press 14480
+Golden age of the Medici Bank 14480
 War of the Roses 14360
 Museums 14360
 Astrolabe 14240
+Italian Wars, closing of the Italian Rennaisance 14240
+Life of Da Vinci 14240
 Beginning of the Scientific Revolution 14000
+Muskets 14000
+Metallurgy 13880
 Telescopes 13640
 Acoustics 13520
 Founding of the Royal Society 13520
@@ -164,6 +193,40 @@ Kalma's Empire collapses in 14th millennium BBT, leads to practically global dar
 Leads to rise of advanced thought -- Rennaisance drama, Enlightenment writing, Magical / Alchemical revolution, economic modernization, etc. 13th millenium BBT.
 
 
+Timeline of the Cycladene Church:
+
+(35th century)
+16.6k - Early Gates are built, Cycladene Church suffuses the Empire.
+
+(43rd - 46th centuries)
+15.8k - 15.5k Conquests of East Nomenes bring in new magic and ideals of learning. Cycladene Church. Introduction of the Meritocracy allowed Cycladenes to become powerhouse of the Empire. Early patronage to universities started.
+
+(51st century)
+15k, construction of Touchstone, reconstruction of Gates, and middle crisis.
+
+(53rd - 55th centuries)
+14.8k - 14.6k After the crisis, Cycladenes are at their height: learning, money, and law are controlled by the Church.
+
+(55th century)
+14.6k Bank of Miros matures, Renaissance of Sashism grows. Cycladene power in Bureaucracy wanes through Cycladene-Sashist schism.
+
+(57th century)
+14.4k Bank of Miros, at its height, begins to secretly fund the Myriad and instigate the religious war.
+
+current: tail end of 59th century
+
+Three generations of high elves back: 14722
+Dragana Duskivaine is born in 14682 BBT to Nezana Duskivaine, born in 14932, died in 14280. Nezana's parents carried the Cycladenes into their height in 14.7k and passed off power to Nezana when they died around 14.6k. Nezana's older brother, Kasra (15,050 - 14,500), founds the Bank of Miros in 14,750 ish. 
+Current year: 14122
 
 
 
+
+
+
+
+Year naming in the LFC:
+
+0 | 20000, mythical beginning of the Empire and the City
+17521, with Hykhe's ascendancy to power in Shada
+5878 | 14122, current year. Currently the 59th century.
