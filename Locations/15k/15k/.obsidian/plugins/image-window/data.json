@@ -1,0 +1,17 @@
+{
+  "saveWindowLocations": true,
+  "windows": {
+    "DEFAULT": {
+      "hosts": {
+        "morty": {
+          "x": 749,
+          "y": 215,
+          "width": 800,
+          "height": 600,
+          "fullscreen": false,
+          "maximized": false
+        }
+      }
+    }
+  }
+}

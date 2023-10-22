@@ -1,0 +1,68 @@
+The Bank of Miros is an immensely powerful and influential financial institution in the Empire, with its reach extending far beyond banking and finance. Its role in shaping the Empire's economy and politics is unparalleled, and its secretive operations make it an enigmatic and formidable presence.
+
+## History
+The final conquests of Oz'Leshah and the Second Tanorian Empire alongside the construction of Touchstone brought on the ***middle crisis*** of the Empire in the 150th century. From the instability rose the golden age of the Church of the Cycladenes, the [[Cycle of Twins]]. The Church was controlled by the ***[[House of Duskivaine]]***, in which the young [[Kasra Duskivaine | Kasra, Fifth on the Spire of Miros, Duskivaine]] grew up.
+*Kasra established the financial power of the Duskivaines in the 148th century.*
+Kasra married into the ***[[House of Ishur]]***, and thus the Bank of Miros passed to them and a tight alliance was tied between the House of Ishur and the House of Duskivaine.
+
+As the Bank matured into the 146th century, the power of the Cycladenes was beginning to wane. The Bank stepped in, replacing the Cycladenes as the most powerful organization by the 144th century, under the new administration of Kasra's daughter, ***[[Ljiljana Ishur]]***. Ljiljana pushed the Bank beyond its role as a financial institution: it became entwined into the fabric of the Last and First City and its government. Ljiljana realized the profitability in the mercenary industry, and she grew a quiet alliance between the large mercenary groups and the Bank. In an underhanded move in the 143rd century, the Bank of Miros began to use secretive operations and manipulations to orchestrate a ***war*** between the ***[[Church of the Myriad]]*** and the Cycladenes.
+
+About two centuries ago, Ljiljana passed on her leadership to her eldest daughter, ***[[Soza Ishur]]***. Ljiljana still lives, acting as a powerful figurehead and dowager of the House of Ishur.
+## Structure and Leadership
+
+**Bankmaster** - [[Soza Ishur]], the enigmatic leader of the Bank of Miros. She is known for her shrewdness, strategic thinking, and her ability to navigate the complex web of political and economic influence.
+
+**Manager - Perfume Guild** - 
+
+**Manager - Spice Industry** -
+
+**Manager - Hauling Guild** -
+
+**Chief Financier** - [[Dariush Graybough]] is charged with overseeing the issuance of major loans and investments. He is a master of financial manipulation and plays a key role in controlling the ongoing religious conflict.
+
+**Master of Intelligence** - [[Cirus Slatespire]] heads the Bank's espionage network. He ensures that the bank is always well-informed and capable of manipulating individuals and factions to its advantage.
+## Activities
+
+The main business of the Bank of Miros is to offer various financial services and loans to factions and individuals. The Bank also plays a large role in investing in Guilds and industries, most importantly the perfume and spice industries and the hauling and logistics syndicates. These groups are tightly entwined with the interests of the Bank. More secretly, the Bank of Miros also has significant interest in the mercenary guilds and their activities.
+
+The Bank maintains and grows its position by leveraging its extensive connections throughout the Last and First City, from the Bureaucracy to many of the Guilds, Churches, and Mercenary groups. Beyond dealing in money, the Bank of Miros deals in *politics*, of course with a careful and secretive hand.
+
+**Dealings with the Bureaucracy**
+The Bank uses its Bureaucratic connections to push its influence over financial law and any government policies that would affects its wide array of interests.
+
+**Dealings with Guilds**
+The Bank exercises control over various guilds and industries, providing them with capital and support while significantly influencing their direction and decisions.
+
+**Dealings with the Churches**
+The Bank's association with the Cycle of Twins and the Church of the Myriad are much more secretive. Publically, the Bank of Miros is aligned with the Cycle of Twins through the tight alliance between the House of Ishur and the House of Duskivaine. The Bank uses this connection to threaten excommunication from the powerful Cycladenes should large loans not be repaid. In reality, the Bank of Miros deals with both religious factions, acting as both a double agent between them and a force against them. The Bank is the conductor of the ongoing conflict between the Churches, revolving around the Myriad's motion to engulf the deities of the Cycle of Twins into their all-encompassing God. Both Churches increasingly rely on mercenaries to carry out their fights for them, taking out loans from the Bank of Miros to fund their contracts. The Bank profits from a sly deal with the mercenary groups while also profiting from interest on the loans to the Churches. The Bank uses its political influence and espionage network to escalate the war.
+
+**Dealings with the Banking Guild**
+The Bank of Miros is in constant conflict and competition with the smaller banks organized into the [[Banking Guild]]. The Bank of Miros actively attempts to undermine them at every turn.
+
+**Dealings with Spice Cartels**
+Association with cartels
+
+The Bank of Miros tends to have many hidden agendas. When it might publicly appear neutral, it actively seeks to manipulate events in its favor through whatever means necessary. The Bank's spies have incriminating information and evidence against several powerful individuals in the City.
+
+## Ongoing Conflicts and Tensions
+
+1. War of the Churches, as discussed.
+2. The 
+
+---
+From other pages:
+2. **Countess Isolde Silverthorn**:
+    
+    - Countess Isolde is a high-ranking member of the Malku and a well-known figure within the Bank of Miros. Her financial acumen and strategic thinking make her a key liaison between the Malku and the bank. She uses her wealth and influence to support the Malku's endeavors.
+
+3. **Lord Cedric Ironcloak**:
+    
+    - Lord Cedric is a prominent member of the Malku and a respected figure in the financial world. He serves as the Bank of Miros' primary negotiator with the empire's Trade Guilds, allowing him to influence economic policy and political maneuvering.
+
+7. **Lady Seraphina Whisperwind**:
+    
+    - Lady Seraphina is a skilled diplomat and a prominent member of the Bank of Miros. She uses her influence to maintain strategic relationships with foreign powers, enabling the Malku to engage in international intrigue and espionage.
+
+
+
+The Bank of Miros stands as a shadowy and influential force in the empire, manipulating events and profiting from its clandestine operations. Its role in the religious war is just one example of its intricate and secretive machinations, making it a powerful and enigmatic institution in your world.

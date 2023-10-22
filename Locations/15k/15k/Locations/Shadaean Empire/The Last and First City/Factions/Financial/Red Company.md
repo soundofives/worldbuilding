@@ -1,0 +1,3 @@
+of the Blooded Skull
+
+The Red Company of the Blooded Skull is known for its brutal pragmatism and a stark absence of moral principles. They prioritize profit above all else and are willing to work with any faction or organization that can meet their price. The company has little loyalty to any cause or ideology, and its mercenaries are notorious for their ruthlessness on the battlefield. The Red Company has a brutally competitive hierarchy, and its not uncommon for subordinates to assassinate or duel their superiors for a chance at advancement. For a band from the Red Company on contract, everyone else is the enemy. 
