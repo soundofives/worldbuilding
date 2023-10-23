@@ -1,75 +1,19 @@
 {
   "main": {
-    "id": "fc54e07032c34ff6",
+    "id": "92242ed34396620a",
     "type": "split",
     "children": [
       {
-        "id": "a9fa97830ecc2e86",
+        "id": "116b93ed546c0bcb",
         "type": "tabs",
         "children": [
           {
-            "id": "ed5a49a4d289a75e",
+            "id": "ac8b2c805b24ac3f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Essays/On the Shadaean Society.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e55d36c622ff8d24",
-            "type": "leaf",
-            "state": {
-              "type": "FANTASY_CALENDAR",
-              "state": {}
-            }
-          },
-          {
-            "id": "d5463d55141c815f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mechanics/Downtime.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "33613cbe09927df0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ethnography/Language prompts.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3398b61392ea2789",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ethnography/Imperial Calendar.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bdef619529c02202",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Quotes.md",
+                "file": "Locations/Shadaean Empire/The Last and First City/Factions/Character Renown Tracker.md",
                 "mode": "source",
                 "source": false
               }
@@ -81,15 +25,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "8ddce6464fd9e3ae",
+    "id": "f3acbaec4a6ff752",
     "type": "split",
     "children": [
       {
-        "id": "107a2befb23dca41",
+        "id": "6da3567ec54a615c",
         "type": "tabs",
         "children": [
           {
-            "id": "2183c14ff4b9ae22",
+            "id": "62634523dea2d881",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -99,7 +43,7 @@
             }
           },
           {
-            "id": "a582880e5f9c2001",
+            "id": "8593d95ddee6ab06",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -114,7 +58,7 @@
             }
           },
           {
-            "id": "81ed594212d8fb6d",
+            "id": "7c4988a51ee53d1f",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -125,23 +69,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 239.50260543823242
+    "width": 300
   },
   "right": {
-    "id": "4a251524a0265939",
+    "id": "93c7754cbab730ee",
     "type": "split",
     "children": [
       {
-        "id": "d48c21865e94b4ca",
+        "id": "c4516e6f4bbc0404",
         "type": "tabs",
         "children": [
           {
-            "id": "e28ca046d8bbcb33",
+            "id": "b8909b64fecf092c",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Essays/On the Shadaean Society.md",
+                "file": "Locations/Shadaean Empire/The Last and First City/Factions/Character Renown Tracker.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,19 +97,19 @@
             }
           },
           {
-            "id": "6959b678a6232b9d",
+            "id": "1f49a135cc491fbb",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Essays/On the Shadaean Society.md",
+                "file": "Locations/Shadaean Empire/The Last and First City/Factions/Character Renown Tracker.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "e3316a779545ba3b",
+            "id": "fb8a1347f3ca7ee8",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -176,33 +120,17 @@
             }
           },
           {
-            "id": "d9a1dc79a297f64c",
+            "id": "6b36078b65f1b46d",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Essays/On the Shadaean Society.md"
+                "file": "Locations/Shadaean Empire/The Last and First City/Factions/Character Renown Tracker.md"
               }
             }
           },
           {
-            "id": "6e2f90c3e9c849a2",
-            "type": "leaf",
-            "state": {
-              "type": "BC-matrix",
-              "state": {}
-            }
-          },
-          {
-            "id": "cd5d1db88a1604ee",
-            "type": "leaf",
-            "state": {
-              "type": "BC-tree",
-              "state": {}
-            }
-          },
-          {
-            "id": "4835b9f02d0c4518",
+            "id": "5561e8dbfc44a92e",
             "type": "leaf",
             "state": {
               "type": "FANTASY_CALENDAR",
@@ -210,10 +138,18 @@
             }
           },
           {
-            "id": "fb046b9cbef4dd16",
+            "id": "03a670d5fced9e5d",
             "type": "leaf",
             "state": {
-              "type": "advanced-tables-toolbar",
+              "type": "BC-matrix",
+              "state": {}
+            }
+          },
+          {
+            "id": "a379d9bc3fe32499",
+            "type": "leaf",
+            "state": {
+              "type": "BC-tree",
               "state": {}
             }
           }
@@ -222,69 +158,27 @@
       }
     ],
     "direction": "horizontal",
-    "width": 389.5,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "fantasy-calendar:Open Large Fantasy Calendar": false,
+      "obsidian-5e-statblocks:Open Creature Pane": false,
+      "obsidian-leaflet-plugin:Open Leaflet Map": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "fantasy-calendar:Open Large Fantasy Calendar": false,
-      "obsidian-5e-statblocks:Open Creature Pane": false,
-      "obsidian-leaflet-plugin:Open Leaflet Map": false,
       "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
-  "active": "ed5a49a4d289a75e",
+  "active": "ac8b2c805b24ac3f",
   "lastOpenFiles": [
-    "Adventures/Adventure 3/Adventure 3 Narrative.md",
-    "Mechanics/Downtime.md",
-    "Adventures/Adventure 2/Adventure 2 Narrative.md",
-    "Quotes.md",
-    "Locations/Shadaean Empire/The Last and First City/Factions/Religious/The Myriad.md",
-    "Locations/Shadaean Empire/Shadaean Empire.md",
-    "History/History.md",
-    "Mechanics/Mechanics Expanded.md",
-    "Ethnography/Language prompts.md",
-    "Ethnography/Imperial Calendar.md",
     "Essays/On the Shadaean Society.md",
-    "Welcome.md",
-    "Locations/Shadaean Empire/The Last and First City/The Last and First City.md",
-    "Locations/Shadaean Empire/The Last and First City/Notes on the Last and First City.md",
-    "Ethnography/Religion.md",
-    "Locations/Shadaean Empire/The Last and First City/Factions/Religious/Druid Circles.md",
-    "Locations/Shadaean Empire/The Last and First City/Factions/Financial/Red Company.md",
-    "Locations/Shadaean Empire/The Last and First City/Factions/Financial/Brothers Company.md",
-    "Locations/Shadaean Empire/The Last and First City/Factions/Financial/Banking Guild.md",
-    "Adventures/Adventure 3/Adventure 3 after thoughts.md",
-    "Adventures/Adventure 2/Scene 3 - Rescue of Hasur Highfallow.md",
-    "Adventures/Adventure 3/Statblocks.md",
-    "Mechanics/Scribing Spell Scrolls.png",
-    "Locations/Shadaean Empire/The Last and First City/Factions/Social/The Fire Watch.md",
-    "Attachments/Pasted image 20231013090758.png",
-    "Locations/Shadaean Empire/The Last and First City/Factions/Social/The Guard.md",
-    "Locations/Shadaean Empire/The Last and First City/Factions/Social",
-    "Attachments/Pasted image 20231019094028.png",
-    "Markdown Bits.md",
-    "Mechanics",
-    "Attachments/Pasted image 20231018214559.png",
-    "Attachments",
-    "Adventures/Adventure 2/Statblocks.md",
-    "Adventures/Adventure 3",
-    "Personalities/The Last and First City/House of Duskivaine",
-    "Personalities/The Last and First City",
-    "Locations/Shadaean Empire/The Last and First City/Factions/Other",
-    "Locations/Shadaean Empire/The Last and First City/Factions/Criminal",
-    "Locations/Shadaean Empire/The Last and First City/Factions/Financial",
-    "Locations/Shadaean Empire/The Last and First City/Factions/Learned",
-    "Adventures/Adventure 2/abandoned_plaza.png",
-    "hay_band.png",
-    "Untitled.canvas"
+    "Locations/Shadaean Empire/The Last and First City/Factions/Character Renown Tracker.md"
   ]
 }
