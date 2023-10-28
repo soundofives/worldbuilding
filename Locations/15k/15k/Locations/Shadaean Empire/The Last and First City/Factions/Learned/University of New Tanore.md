@@ -1,0 +1,1 @@
+The University of New Tanore is the most famous mundane university, educating its scholars in history, grammar, illumination, mathematics, philosophy, law, and beyond. The University boasts the largest collection of non-magical texts in the Empire, and even jealously guards several ancient magical tomes and grimoires in its many restricted chambers.

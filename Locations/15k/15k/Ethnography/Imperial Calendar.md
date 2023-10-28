@@ -9,24 +9,11 @@
 9, Tesh
 Emperor's Day, Kolmati
 
-Kolma
-Shadary
-Aukairin
-Bonzin
-Ithalary
-Sjor
-Sinisary
-Uramun
-Tanoren
-Leshary
-Touchstone
-Hara
-
-Months:
+Months and Intercalaries:
 
 	1. New Years Day
 1. Hara
-	1. Day of City
+	1. Day of City (2 days long every 4 years)
 2. Shadary
 3. Aukairin
 4. Bonzin
@@ -38,11 +25,13 @@ Months:
 9. Tanoren
 10. Leshary
 11. Touchstone
-	1. Day of Empire, Founding Festival
+	1. Day of Empire, Founding Festival (2 days long every 4 years)
 12. Kolma
 
+2,4,5,6,7,810,11,12,13,14,16
+
 Hemisphere days:
-Midwinter Festival, end of Month 1/6
+Midwinter Festival
 Spring Equinox, 20th Month 3/9
 Fertility Festival / Spring Festival
 Summer Solstice
@@ -51,3 +40,16 @@ Autumn Equinox
 Harvest Festival
 Feast of the Moon
 Winter Solstice, 20th Month 12/6
+
+
+Religious Festivals:
+
+Myriad Gods Days
+
+Cycladene festivals of Thesmata and Shynedar
+
+Sashas Festivals
+
+Druid Festivals
+
+1,3,9,15

@@ -1,3 +1,5 @@
+The Circle of Eight is the largest and most prolific educator of witches and wizards in the Last and First City. Under the instruction of eight "mostly equal" archmages (though many agree that Mordenkainen is the one who has the final say), pupils learn to wield magic for any circumstance or scenario. Graduates from the Circle of Eight often go on to pursue high-impact careers in the Incantator's Guild or become necromancers for the Bureaucracy.
+
 
 1. Mordenkainen
 2. Bigby, servant of Mordenkainen

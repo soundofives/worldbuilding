@@ -10,3 +10,5 @@
 "Here's the plan. We get in, get out, and burn it down with the kids in there." - Rabbitouille.
 "It's not a pyramid scheme, it's more of a ponzi scheme." - Carric
 "I might need a big strong man to ship my books" - Rabittouille
+"Give me a vibe check" - Rabbittouille to DM
+"I open my eyes and draw a dick on his forehead" - Carric

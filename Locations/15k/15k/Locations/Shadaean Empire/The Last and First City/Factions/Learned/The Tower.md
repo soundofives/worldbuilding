@@ -1,0 +1,1 @@
+The Tower is the magical institution headed by the singular Zagyg the Mad. The eccentric university focuses on uncovering lost secrets of magic hidden within the history of the world and the Planes. The Tower is one of the great drivers of the magical Renaissance and attracts some of the most ambitious students around.

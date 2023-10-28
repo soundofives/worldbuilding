@@ -1,0 +1,405 @@
+
+{
+    "name": "The Sailor's Tribute",
+    "description": "In honor of Agbafin, the Protector of sailors and fishermen, this annual event brings together coastal communities. Fishermen and sailors decorate their boats with vibrant colors and embark on a grand sea parade, offering thanks for bountiful catches and safe journeys.",
+    "date": {
+        "month": 7,
+        "day": 5,
+        "year": null
+    },
+    "id": "ID_1",
+    "note": null,
+    "category": "ID_6a0ae9aac9ba"
+}
+
+
+{
+    "name": "Stormbringers' Day",
+    "description": "Stormbringers, brave seafarers who navigate tumultuous seas, are celebrated on this day. Offerings are made to Agbafin to seek protection from fierce storms. Coastal towns organize feasts, storytelling sessions, and ceremonies to honor the resilience of these sailors.",
+    "date": {
+        "month": 8,
+        "day": 1,
+        "year": null
+    },
+    "id": "ID_6a0ae9aac9ba",
+    "note": null,
+    "category": "ID_6a0ae9aac9ba"
+}
+
+{
+    "name": "Day of Virtue",
+    "description": "The Day of Virtue, dedicated to Arinas, focuses on acts of kindness and selflessness. People perform good deeds, make charitable donations, and engage in virtuous sacrifices to emulate the goddess's unwavering commitment to personal virtue.",
+    "date": {
+        "month": 4,
+        "day": 10,
+        "year": null
+    },
+    "id": "ID_6a0ae9aac9ba",
+    "note": null,
+    "category": "ID_6a0ae9aac9ba"
+}
+
+
+{
+    "name": "Festival of Radiance",
+    "description": "The Festival of Radiance is a grand celebration of light, music, and solemn expression in honor of Arinas. Cities and towns come alive with sacred performances, parades, and intricate light displays, showcasing the beauty and respect inspired by the Lady of the Sun and Dawn.",
+    "date": {
+        "month": 5,
+        "day": 21,
+        "year": null
+    },
+    "id": "ID_6a0ae9aac9ba",
+    "note": null,
+    "category": "ID_6a0ae9aac9ba"
+}
+
+
+{
+    "name": "Protector's Vigil",
+    "description": "The Protector's Vigil is dedicated to Bahamut, the deity of protection. This event calls for acts of valor and kindness. Communities gather to honor protectors, knights, and guardians who exemplify Bahamut's virtues, ensuring the safety of their people.",
+    "date": {
+        "month": 13,
+        "day": 3,
+        "year": null
+    },
+    "id": "ID_6a0ae9aac9ba",
+    "note": null,
+    "category": "ID_6a0ae9aac9ba"
+}
+
+
+
+{
+    "name": "Dragon's Blessing",
+    "description": "The Dragon's Blessing is a sacred ceremony honoring Bahamut and dragons. Devotees seek protection and guidance from the dragon deities. People participate in dragon-themed parades, offer dragon-shaped offerings, and listen to stories of dragons' noble deeds.",
+    "date": {
+        "month": 13,
+        "day": 18,
+        "year": null
+    },
+    "id": "ID_6a0ae9aac9ba",
+    "note": null,
+    "category": "ID_6a0ae9aac9ba"
+}
+
+
+{
+    "name": "Erythnul's' Festival",
+    "description": "Erythnul's festival offers mock chaos and brutality in attempts to satisfy the god of bloodshed. Revelers engage in wild, chaotic rituals, mock battles, and contests of strength. It's a day where chaos reigns and the rules of decency in lower-class society are temporarily cast aside.",
+    "date": {
+        "month": 2,
+        "day": 6,
+        "year": null
+    },
+    "id": "ID_6a0ae9aac9ba",
+    "note": null,
+    "category": "ID_6a0ae9aac9ba"
+}
+
+
+{
+    "name": "Weaver's Festival",
+    "description": "During the Weaver's Festival, followers of Cathorin come together to weave, then unravel, hundreds of simple flags and tapestries that are hung around the city in honor of the weaving of the threads of destiny.",
+    "date": {
+        "month": 16,
+        "day": 15,
+        "year": null
+    },
+    "id": "ID_6a0ae9aac9ba",
+    "note": null,
+    "category": "ID_6a0ae9aac9ba"
+}
+
+
+{
+    "name": "Gura's Enigma",
+    "description": "Gura's Enigma is a gathering of scholars and spellcasters to celebrate Gura's contributions to the world of magic and the mysteries of the two Enigmas, Oreus and Adliciam. Mages display their magical prowess and share spells.",
+    "date": {
+        "month": 5,
+        "day": 8,
+        "year": null
+    },
+    "id": "ID_6a0ae9aac9ba",
+    "note": null,
+    "category": "ID_6a0ae9aac9ba"
+}
+
+
+{
+    "name": "Pilgrim's Passage",
+    "description": "Pilgrim's Passage is a day dedicated to the travelers and pilgrims under Haere's protection. Communities open their doors to travelers, offering food and shelter. People embark on symbolic pilgrimages to seek safe journeys and adventures.",
+    "date": {
+        "month": 11,
+        "day": 1,
+        "year": null
+    },
+    "id": "ID_6a0ae9aac9ba",
+    "note": null,
+    "category": "ID_6a0ae9aac9ba"
+}
+
+
+{
+    "name": "Day of Valor",
+    "description": "The Day of Valor is a martial celebration honoring Heironeous's values of valor, justice, and good deeds. Knights and warriors participate in grand tournaments, chivalrous duels, and reenactments of legendary battles.",
+    "date": {
+        "month": 11,
+        "day": 14,
+        "year": null
+    },
+    "id": "ID_6a0ae9aac9ba",
+    "note": null,
+    "category": "ID_6a0ae9aac9ba"
+}
+
+
+{
+    "name": "Festival of Transformation",
+    "description": "This festival, dedicated to Helagrym, celebrates the ever-changing nature of life and death. Participants wear masks and costumes to symbolize transformation. It's a time for reflection on personal growth and embracing the cycles of existence.",
+    "date": {
+        "month": 16,
+        "day": 7,
+        "year": null
+    },
+    "id": "ID_6a0ae9aac9ba",
+    "note": null,
+    "category": "ID_6a0ae9aac9ba"
+}
+
+
+{
+    "name": "Rite of Balance",
+    "description": "The Rite of Balance is a solemn ceremony that emphasizes the importance of law, order, and the balance of power. It involves intricate rituals, trials, and the renewal of oaths, reminding followers of Kalrul to maintain equilibrium in all things.",
+    "date": {
+        "month": 14,
+        "day": 27,
+        "year": null
+    },
+    "id": "ID_6a0ae9aac9ba",
+    "note": null,
+    "category": "ID_6a0ae9aac9ba"
+}
+
+
+{
+    "name": "Feast of Prowess",
+    "description": "The Feast of Prowess is a day of competition and camaraderie. Followers of Kord gather for athletic contests, strength challenges, and games of skill. The festival highlights the importance of physical prowess and friendly competition.",
+    "date": {
+        "month": 4,
+        "day": 12,
+        "year": null
+    },
+    "id": "ID_6a0ae9aac9ba",
+    "note": null,
+    "category": "ID_6a0ae9aac9ba"
+}
+
+
+{
+    "name": "Festival of Prosperity",
+    "description": "The Festival of Prosperity is a time of commerce, trade, and revelry. Markets thrive, and people engage in shopping sprees, haggling, and business deals. Leshamor's blessing is sought for a prosperous year of commerce.",
+    "date": {
+        "month": 6,
+        "day": 5,
+        "year": null
+    },
+    "id": "ID_6a0ae9aac9ba",
+    "note": null,
+    "category": "ID_6a0ae9aac9ba"
+}
+
+
+{
+    "name": "Forgefest",
+    "description": "Forgefest is dedicated to Moradin, the deity of craftsmanship. Smiths, artisans, and creators exhibit their masterpieces, and communities gather to celebrate their local artisans. It's a day to honor the art of crafting and ingenuity.",
+    "date": {
+        "month": 7,
+        "day": 3,
+        "year": null
+    },
+    "id": "ID_6a0ae9aac9ba",
+    "note": null,
+    "category": "ID_6a0ae9aac9ba"
+}
+
+
+{
+    "name": "Huntmaster's Challenge",
+    "description": "Huntmaster's Challenge is a day for hunters and survivalists to showcase their skills. Competitions revolve around tracking, hunting, and wilderness survival. It's an event dedicated to Nalareth, the Eternal Huntress.",
+    "date": {
+        "month": 8,
+        "day": 9,
+        "year": null
+    },
+    "id": "ID_6a0ae9aac9ba",
+    "note": null,
+    "category": "ID_6a0ae9aac9ba"
+}
+
+
+{
+    "name": "Nature's Reverie",
+    "description": "Nature's Reverie is a day to connect with the natural world and honor Obad-Hai's guidance. People engage in activities like gardening, forest walks, and eco-friendly practices. It's a day of harmony with the environment.",
+    "date": {
+        "month": 10,
+        "day": 21,
+        "year": null
+    },
+    "id": "ID_6a0ae9aac9ba",
+    "note": null,
+    "category": "ID_6a0ae9aac9ba"
+}
+
+
+{
+    "name": "Reveler's Carnival",
+    "description": "Reveler's Carnival is a day of merry-making, with street performances, music, and jesters. It's a time to embrace chaos and revel in luck, celebrating the tricks and capers of Olidammara's followers.",
+    "date": {
+        "month": 12,
+        "day": 11,
+        "year": null
+    },
+    "id": "ID_6a0ae9aac9ba",
+    "note": null,
+    "category": "ID_6a0ae9aac9ba"
+}
+
+
+{
+    "name": "Lorekeeper's Night",
+    "description": "Lorekeeper's Night is an evening of storytelling, riddles, and wisdom-sharing. Followers of Ranordal gather to preserve knowledge, inspire inquisitiveness, and celebrate the never-ending quest for understanding.",
+    "date": {
+        "month": 14,
+        "day": 1,
+        "year": null
+    },
+    "id": "ID_6a0ae9aac9ba",
+    "note": null,
+    "category": "ID_6a0ae9aac9ba"
+}
+
+
+{
+    "name": "Elemental Confluence",
+    "description": "Elemental Confluence is a festival that pays homage to Ruatangi, the deity of elemental balance. It involves rituals with offerings to each element, promoting harmony and balance in the world.",
+    "date": {
+        "month": 7,
+        "day": 20,
+        "year": null
+    },
+    "id": "ID_6a0ae9aac9ba",
+    "note": null,
+    "category": "ID_6a0ae9aac9ba"
+}
+
+
+{
+    "name": "Watersong Festival",
+    "description": "Watersong Festival is dedicated to Simele, the Waterspeaker. It features water-themed activities like boat races, water purification rituals, and communal gatherings by rivers and streams.",
+    "date": {
+        "month": 2,
+        "day": 10,
+        "year": null
+    },
+    "id": "ID_6a0ae9aac9ba",
+    "note": null,
+    "category": "ID_6a0ae9aac9ba"
+}
+
+
+{
+    "name": "Night of Shadows",
+    "description": "Night of Shadows is a solemn night of prayer and introspection, as people remember their ancestors and those who have moved on to the afterlife. It's a time to seek guidance from Talavron, the deity of undeath.",
+    "date": {
+        "month": 5,
+        "day": 3,
+        "year": null
+    },
+    "id": "ID_6a0ae9aac9ba",
+    "note": null,
+    "category": "ID_6a0ae9aac9ba"
+}
+
+
+{
+    "name": "The Grand Revelry",
+    "description": "The Grand Revelry is a joyous festival of music and dance, celebrating the artistic expressions of Thalindra's followers. It's a time for revelers to showcase their talents and inspire others.",
+    "date": {
+        "month": 6,
+        "day": 17,
+        "year": null
+    },
+    "id": "ID_6a0ae9aac9ba",
+    "note": null,
+    "category": "ID_6a0ae9aac9ba"
+}
+
+
+{
+    "name": "Triumviration",
+    "description": "Triumviration is a grand festival that celebrates the three aspects of Thrimarka. It features contests of strength, cunning, and strategy, where champions compete in the spirit of triumvirate unity.",
+    "date": {
+        "month": 8,
+        "day": 5,
+        "year": null
+    },
+    "id": "ID_6a0ae9aac9ba",
+    "note": null,
+    "category": "ID_6a0ae9aac9ba"
+}
+
+{
+    "name": "Dragon's Descent",
+    "description": "Dragon's Descent is a day of rituals dedicated to Tiamat, attempting to subdue her in her eternal battle with Bahumat. Followers seek her favor for power and subterfuge or engage in rituals bent towards her weakening, invoking the essence of dragons for their pursuits.",
+    "date": {
+        "month": 10,
+        "day": 27,
+        "year": null
+    },
+    "id": "ID_6a0ae9aac9ba",
+    "note": null,
+    "category": "ID_6a0ae9aac9ba"
+}
+
+
+{
+    "name": "Dawnbringer's Ceremony",
+    "description": "Dawnbringer's Ceremony marks the emergence of Valthor, the God of Sun and Sky. It's a time for sunrise rituals and purification, symbolizing the rebirth of light, clarity, and hope.",
+    "date": {
+        "month": 10,
+        "day": 1,
+        "year": null
+    },
+    "id": "ID_6a0ae9aac9ba",
+    "note": null,
+    "category": "ID_6a0ae9aac9ba"
+}
+
+
+{
+    "name": "Serpent's Festival",
+    "description": "Serpent's Festival is a day of devotion to Visha, the goddess of poison, such that her touch may not be felt by the world. Worshipers partake in rituals of cleansing and purging, invoking the venomous powers of snakes.",
+    "date": {
+        "month": 11,
+        "day": 14,
+        "year": null
+    },
+    "id": "ID_6a0ae9aac9ba",
+    "note": null,
+    "category": "ID_6a0ae9aac9ba"
+}
+
+
+{
+    "name": "Ancestral Reunion",
+    "description": "Ancestral Reunion is a day of remembrance and connection to one's heritage. Followers of Vridrusa honor their ancestors, tell family stories, and seek guidance from the spirits of the past.",
+    "date": {
+        "month": 12,
+        "day": 3,
+        "year": null
+    },
+    "id": "ID_6a0ae9aac9ba",
+    "note": null,
+    "category": "ID_6a0ae9aac9ba"
+}
+
