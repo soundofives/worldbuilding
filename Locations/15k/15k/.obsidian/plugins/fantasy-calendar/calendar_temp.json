@@ -361,6 +361,20 @@
                         "day": 4
                     }
                 },
+
+                {
+                    "name": "The Sailor's Tribute",
+                    "description": "In honor of Agbafin, the Protector of sailors and fishermen, this annual event brings together coastal communities. Fishermen and sailors decorate their boats with vibrant colors and embark on a grand sea parade, offering thanks for bountiful catches and safe journeys.",
+                    "date": {
+                        "month": 7,
+                        "day": 5,
+                        "year": null
+                    },
+                    "id": "ID_1",
+                    "note": null,
+                    "category": "ID_6a0ae9aac9ba"
+                },
+
                 {
                     "name": "Oreal Midwinter Festival",
                     "description": "Midwinter in the southern hemisphere",

@@ -157,4 +157,12 @@ Several stalagtites hang on the ceiling in the main chamber, and they can be kno
 **Ulbrazarf** himself is protected by:
 Guards and Wards
 Magic Circle (cannot leave circle through nonmagical means)
-Forcecage
+Forcecage (no matter can enter, can only be destroyed by )
+Antimagic field
+
+
+Strategies: use simulacrum to make a copy of Ulbrazarf outside of the prison, but this requires a high level wizard to fall for Ulbrazarf's deceptions
+-tell someone outside how to find a scroll of simulacrum and hope they can cast it (need a 1500 gp ruby too) to create a copy of Ulbrazarf
+
+How could he help Rabbitouille create a permanent teleportation circle?
+-Find teleportation circles

@@ -3,6 +3,7 @@ Sinisar common
 
 
 Old Sinisar
+I want to remind you of the language called "old Sinisar", which is based on words and phrases from the following languages: reconstructed Proto-Croatian and reconstructed Proto-Semitic. When coming up with terms and phrases for old Sinisar, the reconstructions don't have to be perfect, but I want you to double check all of your terms to make sure they are correct.
 
 
 Shadaean
