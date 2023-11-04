@@ -12,3 +12,7 @@
 "I might need a big strong man to ship my books" - Rabittouille
 "Give me a vibe check" - Rabbittouille to DM
 "I open my eyes and draw a dick on his forehead" - Carric
+"Are you describing the opioid crisis in your country?" - Rory "Yes, but we would be targeting wealthy neighborhoods" - Erik
+"I kiss him" - Rabbitouille
+"Roll for gasslighting" - Rory
+"You made my friend's hair fall out man" - Drunk kid "He was ugly anyways" - Carric

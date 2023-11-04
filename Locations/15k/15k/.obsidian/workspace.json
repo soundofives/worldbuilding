@@ -25,7 +25,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Quotes.md",
+                "file": "Adventures/Adventure 4/statblocks.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c1f4a84b71677197",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Personalities/The Tower/Yrag.md",
                 "mode": "source",
                 "source": false
               }
@@ -56,42 +68,55 @@
             }
           },
           {
-            "id": "c1f4a84b71677197",
+            "id": "1885320800e640b5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Locations/Shadaean Empire/The Last and First City/Factions/Renown and Patronage.md",
+                "file": "Personalities/Name Bank.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "fc9ba9da76ed71f3",
+            "id": "6d087ecd842ddc18",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ethnography/Language prompts.md",
+                "file": "Quotes.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "b8660e0cd29d96ae",
+            "id": "6373173b476e0ee8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Adventures/Chronicles.md",
+                "file": "Ethnography/Untitled.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "57a83b10835b8d87",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Personalities/The Last and First City/Adnan Alisi.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -157,7 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Adventures/Adventure 4/Adventure 4 Narrative.md",
+                "file": "Ethnography/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,7 +199,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Adventures/Adventure 4/Adventure 4 Narrative.md",
+                "file": "Ethnography/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -229,7 +254,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Adventures/Adventure 4/Adventure 4 Narrative.md"
+                "file": "Ethnography/Untitled.md"
               }
             }
           }
@@ -238,7 +263,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 386.5
+    "width": 228.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -256,82 +282,37 @@
       "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
-  "floating": {
-    "id": "7241cd9e1f3aafd1",
-    "type": "floating",
-    "children": [
-      {
-        "id": "1fe1d66784be2cb7",
-        "type": "window",
-        "children": [
-          {
-            "id": "a0e54158d9a14c3c",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "a5896b30a1cedb7a",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Locations/Shadaean Empire/The Last and First City/Factions/Religious/The Myriad.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "439c59ed68f782aa",
-                "type": "leaf",
-                "state": {
-                  "type": "FANTASY_CALENDAR",
-                  "state": {}
-                }
-              }
-            ],
-            "currentTab": 1
-          }
-        ],
-        "direction": "vertical",
-        "x": 4800,
-        "y": 438,
-        "width": 960,
-        "height": 1040,
-        "maximize": true,
-        "zoom": 1.5
-      }
-    ]
-  },
-  "active": "66ba95159f6fe9c1",
+  "active": "6373173b476e0ee8",
   "lastOpenFiles": [
-    "Adventures/Adventure 4/statblocks.md",
-    "Adventures/Chronicles.md",
-    "Adventures/Adventure 3/Adventure 3 Narrative.md",
-    "Locations/Shadaean Empire/The Last and First City/Factions/Religious/Cycle of Twins.md",
-    "Locations/Shadaean Empire/The Last and First City/Factions/Religious/The Myriad.md",
-    "Personalities/Name Bank.md",
-    "Ethnography/Imperial Calendar.md",
-    "Ethnography/Language prompts.md",
-    "Locations/Shadaean Empire/The Last and First City/Factions/Renown and Patronage.md",
-    "Untitled 1.md",
-    "Adventures/Adventure 4/Adventure 4 Narrative.md",
-    "Adventures/Adventure 5",
-    "Untitled",
-    "Quotes.md",
-    "Mechanics/Downtime.md",
-    "Personalities/The Tower/The Tower.md",
-    "Locations/Shadaean Empire/The Tower/The Tower.md",
+    "Locations/Shadaean Empire/Shadaean Empire.md",
+    "Ethnography/Untitled.md",
+    "Locations/Planar/Planar.md",
+    "Factions/Bureaucratic/Bureaucratic.md",
+    "Locations/Shadaean Empire/The Last and First City/The Bureaucracy.md",
+    "Factions",
+    "Locations/Shadaean Empire/The Last and First City/Notes on the Last and First City.md",
+    "Locations/Shadaean Empire/The Last and First City/The Last and First City.md",
     "Locations/Shadaean Empire/The Last and First City/Encounters.md",
-    "Mechanics/Mechanics Expanded.md",
-    "Adventures/Adventure 2/Statblocks.md",
-    "Essays/Tuition at a magical university in the LFC.md",
-    "Adventures/Adventure 4",
+    "Personalities/The Last and First City/Adnan Alisi.md",
+    "To-do/To-Do Boards.md",
+    "Markdown Bits.md",
+    "Game notes.md",
+    "Quotes.md",
     "Untitled.md",
-    "Locations/Shadaean Empire/The Last and First City/Factions/Social/The Guard.md",
-    "Locations/Shadaean Empire/The Last and First City/Factions/Learned/University of New Tanore.md",
-    "Locations/Shadaean Empire/The Last and First City/Factions/Learned/Circle of Eight.md",
-    "Locations/Shadaean Empire/The Last and First City/Factions/Learned/Prismeer.md",
-    "Locations/Shadaean Empire/The Last and First City/Factions/Learned/The Tower.md",
-    "Locations/Shadaean Empire/The Last and First City/Factions/Religious/Sashism.md"
+    "Factions/Renown and Patronage.md",
+    "Untitled 1.md",
+    "Personalities/Name Bank.md",
+    "Adventures/Adventure 4/Adventure 4 Narrative.md",
+    "Adventures/Adventure 4/statblocks.md",
+    "Locations/Shadaean Empire/The Tower/The Tower.md",
+    "Personalities/The Tower/Yrag.md",
+    "Hooks/Adventure Hooks.md",
+    "Mechanics/Downtime.md",
+    "Essays/On Building an Alchemical Business.md",
+    "Factions/Religious/Grove of Obad-Hai.md",
+    "Factions/Financial/Guilds - General.md",
+    "Locations/Planar/Prismeer",
+    "Adventures/Adventure 5",
+    "Adventures/Adventure 4"
   ]
 }

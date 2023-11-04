@@ -50,3 +50,28 @@ The Incantator's Guild is a prestigious organization of mages who specialize in 
     - Elara is a seasoned project manager who oversees complex construction projects. Her ability to coordinate the efforts of guild members and mundane workers is unmatched.
 
 The Incantator's Guild is a vital and respected institution in the empire, shaping its growth and prosperity through the construction of grand architectural marvels and the efficient development of infrastructure. Their combination of magical expertise and engineering knowledge makes them indispensable in the empire's continued expansion and development.
+
+
+
+Incantator hiring cost:
+Cantrip 20gp
+1st 50gp
+2rd 300gp
+3rd 700gp
+4th 3200gp
+5th 7,300gp
+6th 22,000gp
+7th 44,000gp
+8th 100,000gp
+9th 350,000gp
+
+(scribing a scroll)
+1st 1 day 25 gp  
+2nd 3 days 250 gp  
+3rd 1 week 500gp  
+4th 2 weeks 2500gp  
+5th 4 weeks 5000gp
+6th 8 work weeks 15,000gp  
+7th 16 weeks 25,000gp  
+8th 32 weeks 50,000gp  
+9th 48 weeks 250,000gp

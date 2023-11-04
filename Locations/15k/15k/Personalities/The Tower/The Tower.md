@@ -33,7 +33,7 @@ Nyaphuustinuar Ariyries
 
 ###### Apprentices (levels 3 and 4)
 
-1. Saamy Nightscribe, a young human girl specializing in Divination. Her life's goal is to decipher the temporal tomes in the Library.
+1. Saamy Simic, a young human girl specializing in Divination. Her life's goal is to decipher the temporal tomes in the Library.
 	1. Her Spirit: Volania, from the early kingdom of Krinica after the Plane Race.
 2. Zoran Drakewolf, an young elf boy intensely curious in the mysteries of the Tower. Roguish in his demeanor, he specializes in uncovering hidden secrets within the tower--and he'll pay for tips. Often going by Drakewolf, Zoran specializes in transmutation and alchemy. Drakewolf does not have a Spirit yet.
 3. Lei of the Flaming Realms, a halfling fire mage known for her volatile temper and mastery over destructive spells. She can offer training in fire magic and may have quests involving containing dangerous magical accidents. She does not have a Spirit yet, but she wants a spirit from the Unravelling.
@@ -58,7 +58,7 @@ This is the class from which Ned came from.
 
 1. Lirael Stormcaller, human Witchead. A respected instructor at the school of magic, Professor Lirael specializes in elemental magic. She can offer the PCs guidance on honing their magical abilities and may provide quests related to uncovering elemental mysteries within the tower.
 	1. Her spirit: Maehalesh, a wizard of Oz-Leshah.
-2. Arik Starwatcher, a venerable half-elf. Arik is the resident astronomer who studies the tower's celestial surroundings. He can provide insight into the tower's connection to other planes and offer quests related to astronomical phenomena.
+2. Mirol the Starwatcher, a venerable half-elf. Mirol is starry-eyed, marking his age. Mirol is the resident astronomer who studies the tower's celestial surroundings. He can provide insight into the tower's connection to other planes and offer quests related to astronomical phenomena.
 	1. His spirit: Desenik, a Yedral astronomer from the Red Sun.
 3. Dusan Stonegrove, an elderly historian dwarf who has dedicated his life to unraveling the tower's history. He can provide valuable information about the tower's past and may send the PCs on quests to recover lost records.
 	1. His spirit: Kosla Stonegrove, Dusan's father and historian before him.
@@ -78,6 +78,7 @@ This is the class from which Ned came from.
 ---
 
 ##### Tower Crew
+Pay: 1st - 4th level, 30 gp / month. 5th - 9th level, 60 gp / month. 10th - 15th level, 120 gp / month.
 ###### Old members
 1. Two Hands, a pale-skinned elf shadow monk, extreme worshipper of the Sashas.
 2. Saida the Bloody, a young girl barbarian. Bloodthirsty bitch.

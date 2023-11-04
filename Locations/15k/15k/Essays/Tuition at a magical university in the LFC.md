@@ -13,13 +13,7 @@ Students' fixed costs would be room and board, which would vary depending on whe
 
 The Last and First City has a lot of wealthy people who are pressured to show off.
 
-| Social Status               | Min Income /mo | Lifestyle /mo | Taxes | Profit |
-| --------------------------- | -------------- | ------------- | ----- | ------ |
-| Poor, unskilled             | 6 gp           | 5             | --  | 100 cp   |
-| Modest laborer, mercenary              | 30 gp          | 28     | --  | 2 gp   |
-| Skilled tradesman, merchant | 60 gp          | 55            | --  | 5 gp   |
-| Wealthy                     | 120 gp         | 110            | -- | 10 gp   |
-| Aristocrat                  | 600 gp         | 550           | -- | 50 gp  |
+
 
 This is an estimate of minimum income to qualify for a certain lifestyle. This minimum income would strain some of the wealthier classes, which have practically no income cap. Some aristocrats will easily earn thousands of gold per month.
 

@@ -1,0 +1,71 @@
+For portrait scene:
+
+colorful portrait, a young Landsknecht Renaissance mercenary man, fancy goatee, (leaning on a large sword), (detailed sword), detailed (smug) face, an active full body portrait, posing inside a Renaissance Byzantine x Ottoman ((hall)), masterpiece, dark scene, detailed face, fantasy art, featured on artstation, epic fantasy art, digital art, (Charlie Bowatar)
+
+easynegative, negative_hand-neg, headless, disfigured low-res Deformed blurry amateur surreal text watermark unrecognizable abstract chaotic cluttered noisy unfinished , extra limbs, poorly drawn, extra fingers
+
+
+Process:
+
+1. -- 
+From initial image, cropped and thresholded.
+
+Uploaded to im2im.
+Deliberate v2 model, SDE Karras w/ 30 steps, canny enabled, reference enabled with REF1, denoise 0.86
+
+2. --
+
+colorful portrait, a young Landsknecht Renaissance mercenary man, fancy goatee, (leaning on a large sword), (detailed sword), detailed (smug) face, an active full body portrait, posing inside a Renaissance Byzantine x Ottoman ((hall)), masterpiece, dark scene, detailed face, fantasy art, featured on artstation, epic fantasy art, digital art, (Charlie Bowatar)
+
+easynegative, negative_hand-neg, headless, disfigured low-res Deformed blurry amateur surreal text watermark unrecognizable abstract chaotic cluttered noisy unfinished , extra limbs, poorly drawn, extra fingers
+
+Took product 5 and sent to im2im, left reference on but took off canny. Used same model + sampler, this time with denoise 0.43. Acquired product 6
+
+3. --
+
+Sent to inpainting, reference still on
+
+Focused on sleeves first to get poofier look
+(((poofy Renaissance sleeves))), a young Landsknecht Renaissance mercenary man, fancy goatee, (leaning on a large sword), (detailed sword), detailed (smug) face, an active full body portrait, posing inside a Renaissance Byzantine x Ottoman ((hall)), masterpiece, dark scene, detailed face, fantasy art, featured on artstation, epic fantasy art, digital art, (Charlie Bowatar)
+
+Denoising 0.8
+
+Got product 7, sent to inpainting and cleared inpainting stencil
+
+Focused on face, denoising 0.8, reference still on
+
+(((detailed face with goatee))), a young Landsknecht Renaissance mercenary man, fancy goatee, (leaning on a large sword), (detailed sword), detailed (smug) face, an active full body portrait, posing inside a Renaissance Byzantine x Ottoman ((hall)), masterpiece, dark scene, detailed face, fantasy art, featured on artstation, epic fantasy art, digital art, (Charlie Bowatar)
+
+Got products 8 and 9, moving forward with 9.
+
+
+Focusing on lower half to get rid of fog, no specific prompt, but have 0.75 denoising still on reference still on
+
+a young Landsknecht Renaissance mercenary man, fancy goatee, (leaning on a large sword), (detailed sword), detailed (smug) face, an active full body portrait, posing inside a Renaissance Byzantine x Ottoman ((hall)), masterpiece, dark scene, detailed face, fantasy art, featured on artstation, epic fantasy art, digital art, (Charlie Bowatar)
+
+Got product 10 and 11, moving forward with 11,
+
+FOcusing on getting rid of weird top sword thing, denoising 0.95
+
+((wall in background)), ((small pommel)), a young Landsknecht Renaissance mercenary man, fancy goatee, (leaning on a large sword), (detailed sword), detailed (smug) face, an active full body portrait, posing inside a Renaissance Byzantine x Ottoman ((hall)), masterpiece, dark scene, detailed face, fantasy art, featured on artstation, epic fantasy art, digital art, (Charlie Bowatar)
+
+Got product 12
+
+
+--
+Wasn't quite getting the feel I wanted, so I fed REF1 in as main im 2 im and did openpose on Product 14. Kept REF1 as reference too, and added Product 14 as new reference.
+Got product 15
+
+Focused in on fixing the sword quick,so I went into GIMP (photo editing program) and took the sword from Product 14 and put it over the "sword" from Product 16. Then sent that into inpainting and went over the sword to meld it into the picture. For this, I put on canny using Product 17:
+
+ changed up controlnets. Took off everything, then added back in Product 14 as a Canny to get the sword shape, then inpainted most of the left side of the img to fit the sword in:
+(((detailed Montante sword))), Landsknecht Renaissance mercenary man, fancy goatee, (leaning on a Montante sword), ((poofy feathered Renaissance hat)), (poofy Renaissance sleeves), detailed (smug) face, active full body portrait, posing in Renaissance Byzantine x Ottoman ((hall)), masterpiece, dark scene, detailed face, fantasy art, featured on artstation, epic fantasy art, digital art, (Charlie Bowatar)
+
+
+--
+Next up was to fix his face,
+inpainted with canny off but openpose on based on Product 17.
+Got Product 19, which is a little closer. I'll stick with that for a bit.
+
+
+

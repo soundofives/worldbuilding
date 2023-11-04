@@ -39,3 +39,10 @@ The Hauling Guild is not as unified as it once was, and internal factions have e
     - Isolde Redshore is a respected elder within the guild and a skilled mediator. She has the ability to maintain an equilibrium between the different factions, seeking compromises and preventing the Hauling Guild from descending into chaos.
 
 The Hauling Guild plays a pivotal role in the empire's economic success. While they must work closely with the bureaucracy due to taxes and regulations, their internal divisions are becoming more pronounced, and the guild's future direction remains uncertain, which adds a layer of complexity to the empire's political landscape.
+
+
+Boons of ascending in the Hauling Guild:
+
+*At major levels of renown within a faction, (3,9,20,28,48), you gain boons.*
+
+Renown 3: You are initiated into the lower ranks of the faction. When spending downtime to increase your renown with the Hauling Guild, ....

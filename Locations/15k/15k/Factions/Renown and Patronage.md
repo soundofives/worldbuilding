@@ -16,12 +16,12 @@ Carrying out a mission directed by the faction increases you score by 2 points.
 | Renown Tracker | Financial Factions |               |                   |             |                  |             |
 | -------------- | ------------------ | ------------- | ----------------- | ----------- | ---------------- | ----------- |
 |                | Bank of Miros      | Banking Guild | Brothers' Company | Red Company | Logistics Guilds | Incantators |
-| Carric         | 3                  | 1             | 3                 | 0           | 8                | 0           | 
-| Maximo         | 0                  | 0             | 9                 | 0           | 0                | 0           |
-| Muck           | 0                  | 0             | 3                 | 0           | 0                | 0           |
-| Mysto          | 0                  | 0             | 3                 | 0           | 0                | 0           |
-| Rabbitouille   | 0                  | 0             | 3                 | 0           | 0                | 0           |
-| Koshi          | 0                  | 0             | 3                 | 0           | 0                | 0           |
+| Carric         | 4                  | 1             | 3                 | 0           | 8                | 0           | 
+| Maximo         | 1                  | 0             | 10 (20 days)                 | 0           | 0                | 0           |
+| Muck           | 1                  | 0             | 3                 | 0           | 0                | 0           |
+| Mysto          | 1                  | 0             | 3                 | 0           | 0                | 0           |
+| Rabbitouille   | 1                  | 0             | 3                 | 0           | 0                | 0           |
+| Koshi          | 1                  | 0             | 3                 | 0           | 0                | 0           |
 
 | Renown Tracker | Universities |                 |          |                          | Social Factions |            |
 | -------------- | ------------ | --------------- | -------- | ------------------------ | --------------- | ---------- |
@@ -39,10 +39,12 @@ Carrying out a mission directed by the faction increases you score by 2 points.
 | Carric         | 0                  | 0              | 0        | 0                    | 0                 |
 | Maximo         | 0                  | 0              | 0        | 0                    | 0                 |
 | Muck           | 0                  | 0              | 0        | 0                    | 0                 |
-| Mysto          | 0                  | 0              | 0        | 0                    | 1                 |
+| Mysto          | 0                  | 0              | 0        | 0                    | 2 (10 days)       |
 | Rabbitouille   | 0                  | 0              | 0        | 0                    | 0                 |
-| Cleric         | 0                  | 0              | 0        | 0                    | 0                 |
+| Koshi          | 8                  | 0              | 0        | 0                    | 0                 |
 
+
+Maximo has 6 renown with Adnan
 
 **Levels of Renown**
 Renown is a measure of your influence, rank, fame, or otherwise standing within *or to* a group, faction, or person. There are two main ways to use renown: **within** an organization or **outside** of it.
@@ -65,6 +67,9 @@ Being within an organization grants more benefits to those with renown and contr
 | loyal              | journeyman   | 20            | 5 years              |
 | devoted              | master       | 28            | 10 years             |
 |               | high master  | 48            | 30 years             |
+
+At major levels of renown within a faction, (3,9,20,28,48), you gain boons.
+
 
 **Patronage**
 The cycle of support, largess, and patronage in universal through many of the Factions in the Last and First City. The wealthy members of society are pressured to identify and auspice rising members, and the success of their protege is a large factor in their social credibility. Patronage is not just a financial transaction; it often involves providing opportunities, connections, and resources to help the protege develop their skills and talents. The exact amount of money offered to the protege would depend on the patron's wealth, generosity, and the specific needs of the protege. Further, patronage is not a one-way affair. The auspice of a patron might come with expectations of provided services (artwork, artisan works, jobs or duties, tutelage), shared income (company shares or a cut of a business's future profits), dedication and loyalty, a positive public image, promotion and networking on the patron's behalf, etc.

@@ -154,15 +154,33 @@ Several stalagtites hang on the ceiling in the main chamber, and they can be kno
 
 
 
-**Ulbrazarf** himself is protected by:
+**Yrag** himself is protected by:
 Guards and Wards
 Magic Circle (cannot leave circle through nonmagical means)
-Forcecage (no matter can enter, can only be destroyed by )
-Antimagic field
+Forcecage (no matter can enter, can only be destroyed by disintigration)?
+Antimagic field?
 
+Forbiddance denies magical teleportation
+Magic circle prevents leaving (Cha save)
+forcecage is truly unbeatable physical restraint
 
-Strategies: use simulacrum to make a copy of Ulbrazarf outside of the prison, but this requires a high level wizard to fall for Ulbrazarf's deceptions
--tell someone outside how to find a scroll of simulacrum and hope they can cast it (need a 1500 gp ruby too) to create a copy of Ulbrazarf
+Forcecage + Forbiddance is all you need!
+Magic circle is extra precaution (cast by Tasha, exiting is a DC 22 CHA that Fraz has disadvantage against)
 
-How could he help Rabbitouille create a permanent teleportation circle?
--Find teleportation circles
+Strategies: use simulacrum to make a copy of Yrag outside of the prison, but this requires a high level wizard to fall for Yrag's deceptions
+-tell someone outside how to find a scroll of simulacrum and hope they can cast it (need a 1500 gp ruby too) to create a copy of Yrag
+
+How could he help Rabbitouille?
+-create a permanent teleportation circle?
+-arcane eye spells? - find a hag coven? to learn how to create hag's eyes. (uncommon magic item, 200gp cost or so?)
+-simply teach him how to create magic items?
+-teach him spells for free!
+
+Now, with the party discovering him, he wants to "prove his usefullness" and gain their trust--and, in doing so, degrade the party's trust in Zagyg.
+>[!quote] Yra
+>**"I like your ideas, and I want to help--as much as I can, that is. Zagyg put me down here because I'm possibly the only person on this plane smarter than him. While I can't escape to help you personally, I can use what's up here to help you.**
+>**"Now--you want money. Freedom. Glory. I know things that can give you opportunities."**
+
+>[!quote] Yra
+>
+>**"If you want proof of my knowledge and usefullness--await the eclipse next week, on 24 Ithalary. A prophecy will be revealed in the stars."

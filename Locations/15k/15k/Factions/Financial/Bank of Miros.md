@@ -66,3 +66,46 @@ From other pages:
 
 
 The Bank of Miros stands as a shadowy and influential force in the empire, manipulating events and profiting from its clandestine operations. Its role in the religious war is just one example of its intricate and secretive machinations, making it a powerful and enigmatic institution in your world.
+
+
+
+
+Boons of ascending in the Bank of Miros:
+
+*At major levels of renown within a faction, (3,9,20,28,48), you gain boons.*
+
+Renown 3: You are initiated into the lower ranks of the Bank. You are allowed a line of credit with a modest monthly limit of 150 gp.
+
+**Rank 1 (3 months of working with the Bank)**:
+
+- **Access to Financial Resources**: Characters at Rank 1 gain access to the Bank's financial resources, allowing them to secure loans, invest in ventures, and manage their wealth more effectively. They receive a line of credit with a modest limit.
+
+**Rank 2 (1 year working with the Bank)**:
+
+- **Improved Credit**: Characters at Rank 2 have their credit limit significantly expanded, making larger investments or business endeavors more accessible.
+    
+- **Network Connections**: They establish valuable connections within the Bank, potentially leading to partnerships with other influential clients or businesses.
+    
+
+**Rank 3 (5 years working with the Bank)**:
+
+- **Advanced Financial Planning**: Bank clients at Rank 3 gain access to advanced financial planning services, allowing them to make investments, manage assets, and minimize taxation more effectively.
+    
+- **Executive Banking Services**: Characters receive preferential treatment and expedited services, reducing wait times and bureaucracy when dealing with the Bank.
+    
+
+**Rank 4 (20 years working with the Bank)**:
+
+- **Exclusive Investment Opportunities**: The Bank offers exclusive investment opportunities that provide significant financial rewards, including shares in profitable ventures, rare acquisitions, and insider trading knowledge.
+    
+- **Wealth Management**: The Bank provides personalized wealth management services, ensuring the character's assets are optimized for maximum growth and protection.
+    
+
+**Rank 5 (30 years working with the Bank)**:
+
+- **Bank's Influence**: Characters at Rank 5 can call upon the Bank's considerable influence to resolve legal and political matters, helping them navigate complex situations with ease.
+    
+- **Lifetime Annuity**: They receive a substantial lifetime annuity or pension from the Bank, guaranteeing a comfortable financial situation in their retirement.
+    
+
+These boons reflect both the character's rising status within the Bank and the increased financial advantages they gain by aligning themselves closely with this powerful institution.

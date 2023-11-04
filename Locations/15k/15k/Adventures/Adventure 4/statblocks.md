@@ -80,3 +80,6 @@ spells:
 ```
 
 
+```statblock
+creature: Dire Wolf
+```
