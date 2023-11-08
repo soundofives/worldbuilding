@@ -68,3 +68,6 @@ creature: Stone Golem
 
 
 ![[Pasted image 20231107174500.png]]
+
+![[Pasted image 20231107203611.png]]
+

@@ -36,9 +36,12 @@ Several centuries back, when Fraz first started corrupting this town, he radical
 ##### Node A. Around the Town
 The PCs arrive in the local town where the archive is rumored to be located. It becomes quickly evident that something isn't right in this town: the people are sick and hungry, the atmosphere is dismal. Anyone in the town will tell the adventurers that they've been forced to give up livestock to a troll that's taken the nearby forest as its home. They've been slowly going hungry ever since.
 - Clue 1: A local mentions the existence of the Stardale Ruins and suggests asking the town's elders (leads to **Node B**).
-- Clue 2: A cryptic symbol drawn on a tavern's wall hints at a  hidden entrance to the archive (leads to the secret passage into **Node F** through the **Secret Passageway**).
-- Clue 3: Overhearing a conversation in the town square, the party learns about cultist activity in the area; "Desper wants to have a meeting tonight. We'll gather behind the Town Hall at dusk." (leads to **Node C**).
+- Clue 2: A cryptic symbol drawn on an elder's house wall hints at a  hidden entrance to the archive (leads to the secret passage into **Node F** through the **Secret Passageway**).
+- Clue 3: Overhearing a conversation near the bridge, the party learns about cultist activity in the area; "Desper wants to have a meeting tonight. We'll gather behind the Meeting Hall at dusk." (leads to **Node C**).
 - Clue 4: One woman, in hushed tones, can be convined to reveal that she believes the Troll is a curse placed on Stardale by Kalrul for their heretical worship. (leads to **Node C**)
+
+One woman, who goes by Olga, seems out of place. She is gruff but lean, seemingly a forester armed with a bow. She explains that she's been in town for some time and offers advice about how to stave off the Troll's hunger.
+Olga offers to show the Crew to the archives. 
 
 ![[stardale.png]]
 
@@ -51,7 +54,7 @@ If the Crew heavily interrogates (probably magically) the Elders, they can find 
 
 Clues to adjacent nodes:
 - Clue 1: An elder tells of an old guardian construct rumored to protect the archive (leads to **Node E**).
-- Clue 2: One elder recommends the Crew stay at the local tavern. They're stay, if they agree to help, will be free. (leads to **Node A**).
+- Clue 2: One elder recommends the Crew stay with them in their house for the night, as there is no tavern (leads to **Node A**).
 - Clue 3: If any elder is violently interrogated, charmed, or deceived, they will tell the Crew about the cult gathering "festival" (leads to **Node D**).
 
 ##### Node C. Torringfell Forest
@@ -79,42 +82,61 @@ The Troll's lair is in a foggy cave (lightly obscured, disadvantage on perceptio
 The Troll is eating livestock in its lair, and will attack on sight if approached.
 
 If the Crew is led to the lair by **Olga the Wicked**, she calls to the Troll and attack the players out in the open. She begins by using her Stagnant Miasma to force a lot of saving throws and scatter the Crew. Her Troll seeks one at a time while she builds up TP with weaker actions until using Hurl to Earth and spending her TP.
+If she falls to 10 HP she tries to bargain with the PCs--spilling all the details about her past and the demon worship of the town. She says that she's doing *good* and that the Crew should help her. She'll offer to lead them into the Archives.
 
 Up to 5 minion peasants can be convinced to join the Crew on the Troll Hunt. They focus on the Troll, but will probably be killed by the Miasma.
 
+##### Aside: the Secret Passageway
+
+On the side of the Atrium, hidden among a facade of leaves (**DC 15 to spot**), a mysterious symbol is hatched into the stone. The same symbol is hatched into the wood of the Elder's house.
+
+**DC 12 Arcana, Religion**: This is a symbol reminiscent of that used by some demon cults you've heard of.
+**DC 15 Arcana, Religion**: The symbol is that of Orcus, Demon Lord of Undeath
+
+The Symbol marks the Secret Passageway, a former escape route of the ancient celestial scholars. It is a mechanical entrance, not truly meant to be opened from the outside. Evidence of forcing can be seen, clueing you in on how to open it. A few loose bricks can be pulled from the wall, and with them out of the way a stone door can be swung open.
+
 ##### Node D. The Bloodlord's Cult
 
+The cult gathers outside the meeting hall, then does a promenade up to the Ruins. They enter through the Secret Passage and perform a ritual on a corpse. They drain its blood into bowls, light candles, recite liturgy, feast on its flesh, recite more liturgy, enter estatic prayer, perform ritual dances/movements, drink the blood, recite liturgy, etc. This is dedicated to Orcus, the Bloodlord, Demon Lord / God of the Undead.
 
+If interrupted, they try to take the Crew hostage and ritually sacrifice them.
+
+If the Crew goes to fight the Troll before discovering the truth of the cult, the Crew are kidnapped in their beds in a skill challenge and taken to the ritual. The Elders had no intention of paying the Crew--but they did intent to give their god Orcus new sacrifices.
+
+Cult encounter: 2 CR 2 cult leaders, 8 cult minions. Hard encounter.
 
 ##### Node E. The Ruin Guardians
 
+The Archive Ruins are overgrown. The architecture is ancient, though close inspection shows that it may be even more ancient than it seems--layers have been rebuilt several times, with varying degrees of stone decay and dilapidation present on the outside of the ruins. The building has a decently sized rectangular atrium that leads to a large semicircular hall at the back. There are no windows, though the top of the Celestial Observatory is open.
+
+The front doorway is a large stonework door guarded by a massive statue of a woman dressed in ancient armor. She stands off to the side of the door, opposite her a similar statue once stood, but is nowhere to be found.
+
+When approaching the door, the Guardian proclaims in a powerful voice in *Archaic Heavenly Sinisar*:
+>[!quote] Guardian
+>**"Step away from the door. Enter, and face the penalty of annihilation."**
+
+The door is magically locked, but Saamy knows Knock and can unlock it. Doing so will begin a Hard skill challenge to get in and out of the archives and get all the rubbings necessary while distracting or evading the Stone Golem. The chase can include the Atrium and the entryway to the several rooms in the lower level of the Celestial Observatory that rises into the Tower section. Entering the Tower section will allow the Crew to close off the Stone Golem through a magically locked door, though they'll have to find another way out. If they enter and leave without going into the Tower (they find the secret passage), then they'll realize they don't have the full story. They're missing some key data and need to go back in.
+
+Some skill challenge events:
+
+Part 1:
+*On failure, they take damage from the Golem*
+**The Golem stomps around, they have to dodge the attacks.
+The Golem slams the pillar, beginning a collapse!**
+Part 2:
+Blocks threaten to crush the players on failure.
+
 ##### Node F. The Archives
 
-Chokepoint Node 2. Revelation Chamber
-
-Node 2.1 Celestial Calendar
-
-Node 2.2 Observatory
-
-Node 2.3 
-
-**Layer 1: Initial Investigation**
 
 
+##### Node G. The Celestial Observatory
 
-**Node 1.1: Seeking Guidance - Town Elders**
+Phase spider encounter!
+
+1 phase spider 3 mini spiders. Hard encounter.
 
 
-
-**Node 1.2: The Cultist's Threat - Investigating Cult Activity**
-
-Intrigued by the mention of cultists, the party investigates their activities in the town and discovers a potential connection to the archive.
-
-Clues to adjacent nodes:
-
-- Clue 1: The PCs find a scrap of parchment with a symbol matching the one in the town (leads to Node 1.3).
-- Clue 2: The cultists seem to be interested in celestial events (leads to Node 1.1).
-- Clue 3: An informant hints at a secret cultist entrance said to be close to the archive (leads to Node 3.1).
 
 **Node 1.3: The Hidden Secrets - Secret Entrance**
 
@@ -136,12 +158,6 @@ Clues to adjacent nodes:
 - Clue 2: A hidden message in the floor tiles mentions a celestial calendar that must be deciphered (leads to Node 3.2).
 - Clue 3: The echoes of the chamber lead the party to a sealed door, indicating a continuation of the archive (leads to Node 3.3).
 
-**Layer 3: Deepening the Mystery**
-
-Nodes 3.1, 3.2, and 3.3 should each provide additional layers of the prophecy, leading to another chokepoint that serves as the grand finale of the adventure.
-
-
-**Layer 3: Deepening the Mystery**
 
 **Node 3.1: Celestial Calendar**
 
@@ -163,112 +179,3 @@ Clues to adjacent nodes:
 - Clue 2: An old map shows a route to a hidden cave near the observatory (leads to Node 4.2).
 - Clue 3: The observatory's chief astronomer suggests consulting an ancient seer for further interpretation (leads to Node 4.3).
 
-**Node 3.3: Scholar's Gathering**
-
-The PCs uncover references to a gathering of scholars at the time of the eclipse. They must find out more about this gathering.
-
-Clues to adjacent nodes:
-
-- Clue 1: A scholar's journal reveals the location of the eclipse gathering (leads to Node 4.2).
-- Clue 2: The records speak of a relic connected to the prophecy and suggest a place to find it (leads to Node 4.1).
-- Clue 3: A letter from a renowned scholar hints at an impending crisis tied to the prophecy (leads to Node 4.3).
-
-**Node 4.1: The Relic's Trail**
-
-The PCs follow the clues to locate a relic connected to the prophecy. They must recover it to unveil the prophecy's secrets.
-
-Clues to adjacent nodes:
-
-- Clue 1: The relic's trail leads to an ancient forest where it is believed to be hidden (leads to Node 4.2).
-- Clue 2: The relic is said to have the power to reveal the true meaning of the prophecy (leads to Node 5.1).
-- Clue 3: An inscription hints at the relic's role in a long-forgotten ritual (leads to Node 5.2).
-
-**Node 4.2: The Hidden Cave**
-
-The party reaches a hidden cave near the observatory, where they hope to find further clues about the prophecy.
-
-Clues to adjacent nodes:
-
-- Clue 1: Inside the cave, the PCs find a cryptic map leading to an ancient shrine (leads to Node 5.1).
-- Clue 2: The cave's walls bear ancient carvings hinting at a prophecy's connection to a mystical artifact (leads to Node 5.2).
-- Clue 3: An inscription in the cave mentions a potential ally, a reclusive sage who knows more about the prophecy (leads to Node 5.3).
-
-**Node 4.3: Seeking the Seer**
-
-The party seeks out the ancient seer for insights into the prophecy's true meaning.
-
-Clues to adjacent nodes:
-
-- Clue 1: The seer mentions a vision of a powerful relic linked to the prophecy (leads to Node 5.1).
-- Clue 2: The seer speaks of a celestial event that will herald a major change in the world (leads to Node 5.2).
-- Clue 3: The seer provides a riddle hinting at the prophecy's core message (leads to Node 5.3).
-
-**Chokepoint: Gathering of the Eclipse**
-
-At this chokepoint, the PCs gather at the eclipse event location, where scholars, seers, and various factions converge to witness the celestial alignment. This event reveals the prophecy's climax and sets the stage for the grand finale of the adventure.
-
-Clues to adjacent nodes:
-
-- Clue 1: A mysterious figure approaches the party, offering to help them unlock the prophecy's full meaning (leads to Node 6.1).
-- Clue 2: As the eclipse occurs, visions and omens appear, guiding the party toward the prophecy's ultimate revelation (leads to Node 6.2).
-
-**Layer 4: Grand Finale**
-
-Layer 4 will feature Nodes 6.1 and 6.2, leading to a grand finale. The final nodes will unravel the full prophecy and challenge the PCs to act on their newfound knowledge.
-
-
-**Layer 4: Grand Finale**
-
-**Node 6.1: The Hidden Knowledge**
-
-The mysterious figure who offered to help the party leads them to a secluded chamber where the prophecy's ultimate secrets are said to be hidden.
-
-Clues to adjacent nodes:
-
-- Clue 1: The mysterious figure, now revealed as an ancient guardian, discloses the prophecy's hidden purpose (leads to Node 6.2).
-- Clue 2: The party learns of a powerful ritual that must be performed during the eclipse (leads to Node 6.2).
-- Clue 3: The guardian explains that the relic, when activated during the eclipse, will reveal the prophecy's true meaning (leads to Node 6.2).
-
-**Node 6.2: Eclipse Ritual**
-
-The party must now perform the powerful ritual during the eclipse, using the relic and the knowledge gained from the celestial event.
-
-Clues to adjacent nodes:
-
-- Clue 1: As the ritual begins, the PCs have visions, showing them the impending catastrophe and what they must do to prevent it (leads to Node 7.1).
-- Clue 2: The eclipse's alignment triggers a surge of magical energy, enhancing the relic's power and revealing the prophecy's final piece (leads to Node 7.2).
-- Clue 3: The party senses that their actions have drawn the attention of an extraplanar entity, possibly tied to the prophecy (leads to Node 7.3).
-
-**Node 7.1: Preventing the Catastrophe**
-
-The visions received during the ritual suggest that an impending catastrophe is tied to the prophecy. The party must now take immediate action to prevent it.
-
-Clues to adjacent nodes:
-
-- Clue 1: The party follows a trail of omens and symbols that lead to the source of the catastrophe (leads to Node 7.2).
-- Clue 2: A powerful artifact must be used to neutralize the threat, but it's hidden in a perilous location (leads to Node 7.3).
-- Clue 3: The party learns of an ancient prophecy that foretells a group of heroes stopping this catastrophe (leads to Node 8).
-
-**Node 7.2: Unleashing the Relic's Power**
-
-The enhanced relic now provides the party with the means to confront the impending catastrophe head-on.
-
-Clues to adjacent nodes:
-
-- Clue 1: The relic radiates with newfound power, which guides the party toward the source of the impending disaster (leads to Node 7.1).
-- Clue 2: The party discovers that they can channel the relic's energy to alter the course of the catastrophe (leads to Node 7.3).
-
-**Node 7.3: Confronting the Extraterrestrial Entity**
-
-The extraplanar entity, drawn by the ritual's power, poses a significant threat. The party must confront it to secure the realm's safety.
-
-Clues to adjacent nodes:
-
-- Clue 1: The entity's motives become clear, and the party learns of a negotiation opportunity to prevent further calamity (leads to Node 8).
-- Clue 2: The entity's weaknesses are revealed, and the party devises a strategy to confront and banish it (leads to Node 8).
-
-**Node 8: Final Confrontation**
-
-In the final showdown, the party confronts the source of the prophecy's danger, be it a malevolent entity or a cataclysmic event. They must apply the knowledge gained throughout the scenario to resolve the crisis and ensure the prophecy's true meaning prevails.
-
-The conclusion of the scenario is shaped by the PCs' actions in Nodes 7.1 to 7.3. They can negotiate, prevent a catastrophe, confront extraplanar entities, and banish threats based on their choices. The final confrontation marks the culmination of their journey, bringing closure to the ancient archive quest and the prophecy's ultimate significance.
