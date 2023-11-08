@@ -15,25 +15,80 @@ He grabs Zagyg in the middle of the night and drags him to the quarters of all t
 >
  
 >[!note] The Quest
->In order to confirm the divination, Mirol needs ancient prophetic records, celestial readings from eons past. If the divination he just interpreted was true, the ancient diviners might have seen it first. Mirol needs the records of the many lives of Iyana and Atena, the greatest diviners of myth and the twins who carried the legacy of Krinica through the Red Sun, to confirm the truth behind the prophecy. He has a clue where such records could be found: in some ruins nearby, outside the small town of Stardale.
+>In order to confirm the divination, Mirol needs ancient prophetic records, celestial readings from eons past. If the divination he just interpreted was true, the ancient diviners might have seen it first and had enough time to predict a trend. Mirol needs the records of the many lives of Iyana and Atena, the greatest diviners of myth and the twins who carried the legacy of Krinica through the Red Sun, to confirm the truth behind the prophecy. He has a clue where such records could be found: in some ruins nearby, outside the small town of Stardale.
 >
 >**Instructions:** take the south road to the edge of the Torringfell Forest, then head east for three days into the hills.
 
-The journey is peaceful and warm, but after you turn towards the hills you pass over a ridge that looks down into a seemingly mystical swamp.
+#### Stardale is in trouble.
 
-This is a Night Swamp, similar to the Night Forest on the Tower grounds. At the center is a small Feywild astral injunction, through which a smiling cat passed through and made his home. Recently, a troll has wandered through and made a mess of everything. The smiling cat hangs around the road nearby in case anyone passing by can help. It offers 1d4 whiskers for the PCs help.
+***What they know:***
+A Troll has moved into a forest nearby. A traveler moved to the town around the same time, a young girl, and was able to help them stave off its anger. They sacrifice livestock to keep it fed, but the troll's influence in the surroundings seems to be growing stronger. The forest is warping and turning to swamp, and it is growing darker and foggier.
+
+***What's actually happening:***
+A Hag, Olga the Wicked, has been watching the town of Stardale for some time. Long ago, she was cast out as a witch and forced through the secluded fairy ring into the Feywild--but not a nice side of the Feywild. She was corrupted by a powerful Night Hag and has returned for her revenge. She moved to Stardale some years ago, slowly biding her time and earning the trust of those around her. Recently, she pulled a troll through the fairy ring and set it upon the town, forcing their reliance as she suggested feeding it livestock. Soon enough, she'll suggest they feed it children.
+
+***More details of the situation:***
+The town elders of Stardale are demon worshipers at the head of a (mostly) town-wide cabal to Orcus (actually Fraz, but they don't know that). They have been studying the archives of the Stardale Ruins and passing their information back off to their patron. This is how Yrah knew about the prophecy and eclipse. The cabal performs many of their unholy rituals in the Ruins as well, using a secret entrance rather than the front, which is protected by ancient guardians.
+Several centuries back, when Fraz first started corrupting this town, he radicalized them to the worship of Orcus. They underwent a witch hunt in which Olga was exiled.
+
+#### Layer 1. The Town
+
+##### Node A. Around the Town
+The PCs arrive in the local town where the archive is rumored to be located. It becomes quickly evident that something isn't right in this town: the people are sick and hungry, the atmosphere is dismal. Anyone in the town will tell the adventurers that they've been forced to give up livestock to a troll that's taken the nearby forest as its home. They've been slowly going hungry ever since.
+- Clue 1: A local mentions the existence of the Stardale Ruins and suggests asking the town's elders (leads to **Node B**).
+- Clue 2: A cryptic symbol drawn on a tavern's wall hints at a  hidden entrance to the archive (leads to the secret passage into **Node F** through the **Secret Passageway**).
+- Clue 3: Overhearing a conversation in the town square, the party learns about cultist activity in the area; "Desper wants to have a meeting tonight. We'll gather behind the Town Hall at dusk." (leads to **Node C**).
+- Clue 4: One woman, in hushed tones, can be convined to reveal that she believes the Troll is a curse placed on Stardale by Kalrul for their heretical worship. (leads to **Node C**)
+
+![[stardale.png]]
+
+##### Node B. The Elders
+The town elders are suspicious of travelers, but they'll welcome any help they can get to deal with the Troll. They'll get everyone in the village to chip in and can offer 250 gold as a reward.
+
+The Elders are the heads of the cult of Orcus, but they keep their involvement quiet. They warn the adventurers to keep away from the Ruins, as they are haunted.
+
+If the Crew heavily interrogates (probably magically) the Elders, they can find the truth about the Cult.
+
+Clues to adjacent nodes:
+- Clue 1: An elder tells of an old guardian construct rumored to protect the archive (leads to **Node E**).
+- Clue 2: One elder recommends the Crew stay at the local tavern. They're stay, if they agree to help, will be free. (leads to **Node A**).
+- Clue 3: If any elder is violently interrogated, charmed, or deceived, they will tell the Crew about the cult gathering "festival" (leads to **Node D**).
+
+##### Node C. Torringfell Forest
+
+Upon approaching the forest, a **Grinning Cat** named [[Barney Bigglesworth]] appears to them.
+>[!quote] Voice prompt:
+>Cheshire cat, deep flamboyant
+
+He explains that a Troll has taken up resident in his forest. He'd like help getting it removed, and will reward the Crew with 1d4 whiskers, which have magical powers: *ability to cast Misty Step* once.
+
+The forest seems corrupted, swampy, desolate, and smells of sulfur and blood.
+
+As you venture deeper, these features grow stronger--and the more fey-like properties of the Night Forest also grow.
+
+The Troll's lair is in a foggy cave (lightly obscured, disadvantage on perception) and deep in the Night Forest (dark), which gives players without Darkvision *blindness*. They need some sort of light. There is a ruined house, **Olga the Wicked**'s lair, next to it. It is set up in a haggy sort of way, with a bubbling cauldron in its center. Other stuff:
+>[!example]- Olga's House
+>1. Ankheg Ichor (Potion): After drinking this bitter potion, your appearance changes to become slightly more insect-like, and you gain the ability to use an action to spit acid in a line 30 feet long and 5 feet wide. Each creature in that line must make a DC 13 Dexterity saving throw, taking 3d6 acid damage on a failed save, or half as much damage on a successful one. After using this ability, roll a d6. If you roll a 6, you regain the use of the ability. Otherwise, the effect ends.
+>2. Bagpipes of Invisibility (Wondrous Item): While playing this musical instrument, you can use an action to turn invisible for 1 round. You become visible if you stop playing, make an attack, or cast a spell.
+>3. Assassin's Bracer (Wondrous Item, requires attunement): While wearing this fell bracer, you can use an action to speak its command word. The bracer severs your hand, dealing 1d4 damage to you, and animates it as an undead crawling claw (MM 44). The creature acts on its own initiative count and follows your mental commands. You can return your hand by holding it to your arm and using an action to speak the command word again.
+>4.  Scroll of Nightmare Terrain (Scroll): You can use an action to read this scroll and make natural terrain within a 150-foot cube centered on you look, sound, and smell like a field of gallows filled with hanging corpses. Manufactured structures, equipment, and creatures within the area aren't changed in appearance. The illusion lasts until the next dawn.
+>5. Tangle Bug (Potion): This potion flask contains a single small, beetle-like insect altered by alchemy. After it is released from the flask, the bug exists for exactly 1 minute. The bug moves 10 feet per round to a point you specify, then explodes into a 20 foot square of grasping tendrils. If the bug takes any damage, it explodes immediately. For the remainder of the duration, these tendrils turn the ground in the area into difficult terrain.
+>6. Scroll of Rage (Scroll): This hide parchment is inscribed with oaths and invocations of primal ferocity. You can use an action to read it and enter a barbarian rage (phb 48).
+>7. The Hellish Articles of Throri: This compendium is bound in leather. It is sealed by fell wards, and cannot be opened by a good person. This spellbook contains the spells Blindness/Deafness, Cloud of Daggers, Flaming Sphere, Phantasmal Force, Shatter, and Suggestion.
+
+The Troll is eating livestock in its lair, and will attack on sight if approached.
+
+If the Crew is led to the lair by **Olga the Wicked**, she calls to the Troll and attack the players out in the open. She begins by using her Stagnant Miasma to force a lot of saving throws and scatter the Crew. Her Troll seeks one at a time while she builds up TP with weaker actions until using Hurl to Earth and spending her TP.
+
+Up to 5 minion peasants can be convinced to join the Crew on the Troll Hunt. They focus on the Troll, but will probably be killed by the Miasma.
+
+##### Node D. The Bloodlord's Cult
 
 
 
-Node 1. The Town
+##### Node E. The Ruin Guardians
 
-Node 1.1 Elders
-
-Node 1.2 Cultists
-
-Node 1.3 Guardians
-
-Node 1.4 Secret Entrance
+##### Node F. The Archives
 
 Chokepoint Node 2. Revelation Chamber
 
@@ -45,25 +100,11 @@ Node 2.3
 
 **Layer 1: Initial Investigation**
 
-**Node 0: Starting Point - Local Town**
 
-The PCs arrive in the local town where the archive is rumored to be located. They gather information about the ancient prophecies they need to investigate.
-
-Clues to adjacent nodes:
-
-- Clue 1: A local historian mentions the existence of an archive and suggests asking the town's elders (leads to Node 1.1).
-- Clue 2: A cryptic symbol drawn on a tavern's wall hints at a hidden entrance to the archive (leads to Node 1.3).
-- Clue 3: Overhearing a conversation at a marketplace, the party learns about a recent surge in cultist activity in the area (leads to Node 1.2).
 
 **Node 1.1: Seeking Guidance - Town Elders**
 
-The party visits the town's elders, hoping to gain insights into the archive and the prophecies.
 
-Clues to adjacent nodes:
-
-- Clue 1: An elder tells of an old guardian construct rumored to protect the archive (leads to Node 1.2).
-- Clue 2: Another elder mentions a cryptic inscription on the archive's entrance (leads to Node 1.3).
-- Clue 3: The third elder recalls a riddle spoken by an archive researcher long ago (leads to Node 2).
 
 **Node 1.2: The Cultist's Threat - Investigating Cult Activity**
 

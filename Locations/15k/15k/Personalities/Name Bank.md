@@ -168,3 +168,14 @@
 | 80-86     | Fey |
 | 87-100     | Goblinoid       |
 
+| Astral Races |            |
+| ------------ | ---------- |
+| 1-40         | Genasi     |
+| 41-50        | Gith       |
+| 51-70        | Dragonborn |
+| 71-75        | Dragon     |
+| 76-80        | Myconid    |
+| 81-85        | Slaad      |
+| 86-90        | Tabaxi     |
+| 91-95        | Kenku      |
+| 96-100       | Aarakocra           |

@@ -2,5 +2,8 @@
   "accentColor": "",
   "theme": "moonstone",
   "cssTheme": "Everforest",
-  "baseFontSize": 25
+  "baseFontSize": 25,
+  "enabledCssSnippets": [
+    "bold_folders"
+  ]
 }

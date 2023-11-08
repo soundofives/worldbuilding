@@ -72,8 +72,8 @@ This is the class from which Ned came from.
 	1. His spirit: Bahula, a Tanorian witch
 
 ##### High Wizardead (level >15)
-1. Zagyg, the Mad Mage. A real cooky guy, Zagyg never wears shoes and always has huge mismatched socks. He giggles all the time. A master conjurer and Abyssal scholar.
-	1. His spirit: Taforayesh, a Tanorian administrator.
+1. Zagyg, the Mad Mage. A real cooky guy, Zagyg never wears shoes and always has huge mismatched socks. He giggles all the time. A master conjurer and Abyssal scholar. (As Halaster Blackcloak + abyssal conjurer)
+	1. His spirit: Taforayesh, a ghostly polymorphed  dragon (as Ghost Dragon, Death Denied)
 
 ---
 

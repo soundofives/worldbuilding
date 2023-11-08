@@ -19,7 +19,7 @@ Later Angthetic
 I want to remind you of the fantasy language called "Later Angthetic", which is based on a blend of terms from the Old Norse language and reconstructed terms from Proto-West Germanic.
 
 Oz-Leshai
-I am creating a new fantasy language called "Oz-Leshai", which is based on terms from reconstructed Old Persian, modern Yoruba, and modern Pashayi.
+I want to remind you of the language called "Oz-Leshai", which is based on terms from reconstructed Old Persian, modern Yoruba, and modern Pashayi.
 
 Ithali
 I am making a new fantasy language called Ithali, which is based on reconstructed terms from Vedic Sanskrit, terms from modern Kati, reconstructed terms from ancient Gaulish, and terms from modern Estonian.
