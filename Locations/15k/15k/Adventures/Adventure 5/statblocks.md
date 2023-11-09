@@ -9,6 +9,7 @@ Olga has a Potion of Greater Healing too, (2d8+6)
 
 
 ![[Pasted image 20231107170545.png]]
+![[Pasted image 20231109000127.png]]
 
 
 ```statblock

@@ -1,12 +1,12 @@
-1st level: Gift of Alacrity (Dunamancy)
+1st level: Lyzandred's Gift of Alacrity (Dunamancy)
 
-2nd level: Deja Vu (homebrewed)
+2nd level: Lyzandred's Deja Vu
 Reaction
 Range: 30 ft
-Components: V,S,M
+Components: V,S,M (a copper piece with two of the same side)
 Duration: Instantaneous
 
-You twist the time around an enemy to make it experience a painful event twice. The target must succeed on a Wisdom saving throw or take the same amount and kind of damage it just took, up to 20 points of damage.
+You twist the time around an enemy to make it experience a painful event twice. The target must succeed on a Wisdom saving throw or take the same amount and kind of damage it just took, up to 30 points of damage.
 
 At higher levels: When you cast this spell using a spell slot of 3rd level or higher, its maximum damage increases in 10 for each level above 2nd.
 

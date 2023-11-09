@@ -24,3 +24,8 @@ Yrah knows that celestial scholars will be alerted soon - imminently, on the nex
 
 1. Importance of the Demonomicon (that it will play a role)
 2. Importance of the Emperor (that someone will attempt to kill him with a great black blade)
+
+
+
+
+"I don't know much about my distant past. I know only what Tasha and Zagyg told me of it. You see, my life didn't go as planned...I'll start with what I've been told. I grew up learning magic from my parents, and eventually I joined my own group of adventurers headed by Mordenkainen. We called ourselves the Citadel of Eight. At some time, I left the circle and sought to enter the Abyss. What for, I cannot say. I have no memory of it. My memory begins with the face of my captor--then and still. Ahmon-Ibor the Sibilant Beast. The Deep Father. The Demogorgon. He...he can control me. Not all the time, only when he sees me. He used me as a tool, but I had enough freedom to continue learning the magic of the Prime Material. I learned things no other mortal knows. I used my power to understand the Planescape and its history. To understand and watch the Prime Material grow. I watched the City and its people grow and change while I remained trapped in Abysm. I became powerful enough to escape Demogorgon and come here, but Zagyg and Tasha saw my return as a threat. They saw the Demogorgon's control over me as a threat. It was enough. They imprisoned me here two hundred years ago."

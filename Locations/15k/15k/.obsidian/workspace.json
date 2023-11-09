@@ -1,76 +1,39 @@
 {
   "main": {
-    "id": "92242ed34396620a",
+    "id": "09e40183f55e9b89",
     "type": "split",
     "children": [
       {
-        "id": "116b93ed546c0bcb",
+        "id": "d904b6eb13526d07",
         "type": "tabs",
         "children": [
           {
-            "id": "9f68be4f9d0dbe21",
+            "id": "899235ba9a7f96d5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Personalities/The Tower/The Tower.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1885320800e640b5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Personalities/Name Bank.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6d087ecd842ddc18",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Adventures/Adventure 5/statblocks.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "55e6fb297d459669",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Adventures/Adventure 5/Adventure 5 Narrative.md",
+                "file": "Personalities/The Tower/Yrah.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "f3acbaec4a6ff752",
+    "id": "4217ac9fb5a9870e",
     "type": "split",
     "children": [
       {
-        "id": "6da3567ec54a615c",
+        "id": "d821cc226d2eb6c4",
         "type": "tabs",
         "children": [
           {
-            "id": "62634523dea2d881",
+            "id": "ddd8fa4c19467ddc",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -80,7 +43,7 @@
             }
           },
           {
-            "id": "8593d95ddee6ab06",
+            "id": "bac631b1104c7921",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -95,7 +58,7 @@
             }
           },
           {
-            "id": "7c4988a51ee53d1f",
+            "id": "fac75d8ed05fc3ff",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -106,23 +69,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 236.50260543823242
+    "width": 300
   },
   "right": {
-    "id": "93c7754cbab730ee",
+    "id": "696b382cb53f2c4d",
     "type": "split",
     "children": [
       {
-        "id": "c4516e6f4bbc0404",
+        "id": "f0044f3ca845d3be",
         "type": "tabs",
         "children": [
           {
-            "id": "b8909b64fecf092c",
+            "id": "c5c03c3e6c8ab261",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Adventures/Adventure 5/Adventure 5 Narrative.md",
+                "file": "Personalities/The Tower/Yrah.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,19 +97,19 @@
             }
           },
           {
-            "id": "1f49a135cc491fbb",
+            "id": "d07295f7d4cb5654",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Adventures/Adventure 5/Adventure 5 Narrative.md",
+                "file": "Personalities/The Tower/Yrah.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "fb8a1347f3ca7ee8",
+            "id": "3968250de82323d9",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -157,29 +120,21 @@
             }
           },
           {
-            "id": "5561e8dbfc44a92e",
-            "type": "leaf",
-            "state": {
-              "type": "FANTASY_CALENDAR",
-              "state": {}
-            }
-          },
-          {
-            "id": "c764df5a38619d2e",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {}
-            }
-          },
-          {
-            "id": "bd641363d7991229",
+            "id": "238aff5a57ac875e",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Adventures/Adventure 5/Adventure 5 Narrative.md"
+                "file": "Personalities/The Tower/Yrah.md"
               }
+            }
+          },
+          {
+            "id": "00277d61b600a4b6",
+            "type": "leaf",
+            "state": {
+              "type": "FANTASY_CALENDAR",
+              "state": {}
             }
           }
         ],
@@ -187,7 +142,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 453.5
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -203,52 +158,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "55e6fb297d459669",
+  "active": "899235ba9a7f96d5",
   "lastOpenFiles": [
-    "Adventures/Adventure 5/statblocks.md",
-    "Adventures/Adventure 5/Adventure 5 Narrative.md",
-    "Attachments/Pasted image 20231107203611.png",
-    "Adventures/Adventure 1/Dungeon - the Tower Crypt.md",
-    "Adventures/Adventure 1/Adventure 1.md",
-    "Adventures/Adventure 2/Scene 3 - Rescue of Hasur Highfallow.md",
-    "Adventures/Adventure 2/Adventure 2 Narrative.md",
-    "Personalities/The Tower/The Tower.md",
-    "Personalities/Name Bank.md",
-    "Attachments/Pasted image 20231107174500.png",
-    "Adventures/Adventure 2/Statblocks.md",
-    "Attachments/Pasted image 20231107173206.png",
-    "Essays/On the Shadaean Economy.md",
-    "Factions/Religious/The Myriad.md",
-    "Adventures/Adventure 4/statblocks.md",
-    "Attachments/Pasted image 20231107170545.png",
-    "Attachments/Pasted image 20231107170333.png",
-    "Attachments/Pasted image 20231107170158.png",
-    "Attachments/Pasted image 20231107170124.png",
-    "Attachments/stardale.png",
-    "Locations/Shadaean Empire/The Tower/The Tower.md",
     "Personalities/PCs/Muck.md",
-    "Chronurgy Magic.md",
-    "Locations/Shadaean Empire/The Last and First City/Sinisa/Hexmap Key.md",
-    "Locations/Shadaean Empire/The Last and First City/Sinisa/Roads.md",
-    "Locations/Shadaean Empire/The Last and First City/Touchstone/Hexmap Key.md",
-    "Personalities/PCs",
-    "Locations/Shadaean Empire/The Last and First City/The Last and First City.md",
-    "Quotes.md",
-    "Personalities/The Last and First City/House of Duskivaine/House of Duskivaine.md",
-    "Attachments/Pasted image 20231105170923.png",
-    "Untitled.md",
-    "Factions/Bureaucratic/Malku.md",
-    "Factions/Bureaucratic/Neshirim.md",
-    "Factions/Bureaucratic/Qadashim.md",
-    "Attachments/Pasted image 20231104203215.png",
-    "Locations/Shadaean Empire/The Last and First City/New Tanore",
-    "Locations/Shadaean Empire/The Last and First City/Dragons Rook",
-    "Locations/Shadaean Empire/The Last and First City/Ithalas",
-    "Locations/Shadaean Empire/The Last and First City/Bonz",
-    "Locations/Shadaean Empire/The Last and First City/Touchstone",
-    "Locations/Shadaean Empire/The Last and First City/Shada",
-    "Locations/Shadaean Empire/The Last and First City/Sinisa",
-    "Locations/Planar/Feywild Courts",
-    "Factions"
+    "Adventures/Adventure 5/statblocks.md",
+    "Adventures/Adventure 5/Adventure 5 Narrative.md"
   ]
 }
