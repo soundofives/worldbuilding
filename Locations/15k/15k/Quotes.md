@@ -16,3 +16,12 @@
 "I kiss him" - Rabbitouille
 "Roll for gasslighting" - Rory
 "You made my friend's hair fall out man" - Drunk kid "He was ugly anyways" - Carric
+"There a bar around here? No? That's why you're so sick." -Carric
+"Eat shit" - Carric "You first" - Olga "Only if its yours" - Carric
+"Have you fought a troll, Maximo?" -Olga "I'm about to lookin at you" - Carric
+"Saamy, go rub one out" - Carric
+"It devoured my dear wife..." - Hem "If not the troll it would have been me" - Carric
+"Bad mojo? Like how bad?" - Muck "Like, quote-un-quote, "holy fuck"" - Maximo
+"By the black of my skin, all hail Orcus!" - Carric "I don't think we're the right group to be saying this" - Evan "I swear, we have dark elf friends" - Erik
+"By the white of my skin, I slander Orcus!" - Rabbitouille
+

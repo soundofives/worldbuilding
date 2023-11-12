@@ -20,8 +20,6 @@ Brief list of people in the Tower.
 10. Whiff, father to Breeze, an air-genasi bartender at the Wizard's Knobbly Knob.
 11. Hasur Highfallow, a red-skinned elf and accounts manager of the Tower, studying for the Imperial Exam.
 
-
-Nyaphuustinuar Ariyries
 ##### Students
 
 ###### New scholars (levels 1 and 2)

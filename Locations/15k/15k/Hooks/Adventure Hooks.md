@@ -14,22 +14,22 @@
 
 6. The Tower is hosting a festival and needs artists. Acquire them by any means necessary.  
  
-7. Zagyg's pursuit of apotheosis: he seeks the Thief Blade, partially for the Vampire Lord Khas, but partially for himself...
+7. Zagyg's pursuit of apotheosis: he seeks the Thief Blade, partially for the Vampire Lord Kas, but partially for himself...
   
 8. Fraz saga.
 8.0. ~~Find Fraz. You have to get past the Forbidance ward set up by Vezel, and make your way through the Guards and Wards maze guarded by a monster.~~
-8.1. You find Fraz--he has a request for you. He wishes to undermine Zagyg and use the party to betray the warlock. This begins by gaining trust. "I was captured here because I know things. Things I am forced to share with Zagyg. Things I will share with you, if you help me."
+~~8.1. Fraz warns of a coming eclipse and prophecy. When it comes to pass, Mirol asks the party's help to confirm the divination with ancient evidence from the town of Stardale.~~
 8.x. Tasha goes missing! Does Fraz have something to do with this?
 
 9. The captain of your mercenary crew has gotten himself in debt with a powerful loan shark. Rectify the situation.
   
-10. Witherbloom adventurers have stumbled across an ancient ruin and have found an unusual magical artifact. Work with them to uncover it's secrets or take them out and figure out for yourself.
+10. Prismeer adventurers have stumbled across an ancient ruin and have found an unusual magical artifact. Work with them to uncover it's secrets or take them out and figure out for yourself.
   
 11. A romantic aristocrat longs for the love of a woman. "I asked the wizard to help her fall in love with me... He sent you!"
 
 ~~12. Students have gone missing in the crypts! Find them~~
 
-13. An apprentice needs help finding a focus for their ghostly advisor.
+13. It's time for Milo to pass her Apprentice Exam and find an artifact to conjure a ghostly advisor. She, wishing for power and protection, will seek a Warrior.
 
 14. The Prismeer carnival appears, as Tasha wants to talk to / needs help from the PCs, leading to a Feywild adventure!
 

@@ -1,10 +1,12 @@
-Deep in the night, on 24 Ithalary, [[Mirol the Starwatcher]] rushes back to the Tower after observing a lunar eclipse from a tower in Bonz. He has seen, divined in the stars, a horrible prophecy sent by the goddess Cathorin. 
+Deep in the night, on 24 Ithalary, [[Mirol the Starwatcher]] rushes back to the Tower after observing a lunar eclipse from a tower in Bonz. He has seen, divined in the stars, a horrible prophecy sent by the goddess Cathorin.
 >[!warning] The Vision
 >*A scene of the Candle Crown hewn by a shadowy greatsword,*
 >**In the grasp of the Deepness Gloam, the Candle King a Black Blade mourns,**
 >*A flashing scene of a tome, hands reaching toward it as it flips open, the vision spiraling into it.*
 >**Blade Black as the Unhallowed Tome, Six by six by six its pages shorn, fate unwound to the hollow bone.**
 
+**Blade Black as the Unhallowed Tome, Six by six by six its pages shorn, fate unwound to the hollowed bone.**
+**In the grasp of the Deepness Gloam, the Candle King a Black Blade mourns,**
 He grabs Zagyg in the middle of the night and drags him to the quarters of all the mercenaries. He awakes everyone and gathers them.
 
 >[!quote] Mirol the Starwatcher
@@ -35,6 +37,16 @@ Several centuries back, when Fraz first started corrupting this town, he radical
 
 ##### Node A. Around the Town
 The PCs arrive in the local town where the archive is rumored to be located. It becomes quickly evident that something isn't right in this town: the people are sick and hungry, the atmosphere is dismal. Anyone in the town will tell the adventurers that they've been forced to give up livestock to a troll that's taken the nearby forest as its home. They've been slowly going hungry ever since.
+>[!tip] Names
+>F. Nada Mehmedi
+>M. Hem Bakal
+>M. Luvomor Jovan
+>M/F. Saam Stravkor
+>F. Vesilya Debilas
+>F. Nada Mitrey
+>M. Borlaw Aslan
+>F. Tess Adulay
+
 - Clue 1: A local mentions the existence of the Stardale Ruins and suggests asking the town's elders (leads to **Node B**).
 - Clue 2: A cryptic symbol drawn on an elder's house wall hints at a  hidden entrance to the archive (leads to the secret passage into **Node F** through the **Secret Passageway**).
 - Clue 3: Overhearing a conversation near the bridge, the party learns about cultist activity in the area; "Desper wants to have a meeting tonight. We'll gather behind the Meeting Hall at dusk." (leads to **Node C**).
@@ -77,7 +89,7 @@ The Troll's lair is in a foggy cave (lightly obscured, disadvantage on perceptio
 >4.  Scroll of Nightmare Terrain (Scroll): You can use an action to read this scroll and make natural terrain within a 150-foot cube centered on you look, sound, and smell like a field of gallows filled with hanging corpses. Manufactured structures, equipment, and creatures within the area aren't changed in appearance. The illusion lasts until the next dawn.
 >5. Tangle Bug (Potion): This potion flask contains a single small, beetle-like insect altered by alchemy. After it is released from the flask, the bug exists for exactly 1 minute. The bug moves 10 feet per round to a point you specify, then explodes into a 20 foot square of grasping tendrils. If the bug takes any damage, it explodes immediately. For the remainder of the duration, these tendrils turn the ground in the area into difficult terrain.
 >6. Scroll of Rage (Scroll): This hide parchment is inscribed with oaths and invocations of primal ferocity. You can use an action to read it and enter a barbarian rage (phb 48).
->7. The Hellish Articles of Throri: This compendium is bound in leather. It is sealed by fell wards, and cannot be opened by a good person. This spellbook contains the spells Blindness/Deafness, Cloud of Daggers, Flaming Sphere, Phantasmal Force, Shatter, and Suggestion.
+>7. The Hellish Articles of Throri: This compendium is bound in leather. It is sealed by fell wards, and cannot be opened by a good person. This spellbook contains the spells Comprehend Languages, False Life, Ice Knife, Phantasmal Force, Shatter, and Suggestion.
 
 The Troll is eating livestock in its lair, and will attack on sight if approached.
 
@@ -107,9 +119,11 @@ Cult encounter: 2 CR 2 cult leaders, 8 cult minions. Hard encounter.
 
 ##### Node E. The Ruin Guardians
 
+Haunting sounds, like chimes or strings subtly vibrating in the wind, echoes throughout the area. The noise is discordant and uneasy.
+
 The Archive Ruins are overgrown. The architecture is ancient, though close inspection shows that it may be even more ancient than it seems--layers have been rebuilt several times, with varying degrees of stone decay and dilapidation present on the outside of the ruins. The building has a decently sized rectangular atrium that leads to a large semicircular hall at the back. There are no windows, though the top of the Celestial Observatory is open.
 
-The front doorway is a large stonework door guarded by a massive statue of a woman dressed in ancient armor. She stands off to the side of the door, opposite her a similar statue once stood, but is nowhere to be found.
+The front doorway is a large stonework door guarded by a massive statue of a woman dressed in ancient armor. She stands off to the side of the door, opposite her a similar statue once stood, but is nowhere to be found. (She, many years ago, had tried to chase down Heward the Bard, one of the Company of Seven. He made his way inside to investigate the Star Lyre. He dropped his Handy Haversack in a rush to escape, sending the Guardian toppling off the top of the tower.)
 
 When approaching the door, the Guardian proclaims in a powerful voice in *Archaic Heavenly Sinisar*:
 >[!quote] Guardian
@@ -128,7 +142,30 @@ Blocks threaten to crush the players on failure.
 
 ##### Node F. The Archives
 
+A haunting sound echoes throughout the Archives, caused by the Star Lyres in the Tower.
 
+The Archives have three parts: the main hall, the vault, and the tower. Each location has clues and carvings to get rubbings of.
+
+**The Main Hall**:
+1. Entrance chamber. Dusty, decrepit, dark. The square room has two of its corners dedicated to scroll storage, now all disintegrated, and the other full wall dedicated to an elaborate carving. The carving is not the original one created by Iyana and Atena--this one was created when the Observatory was occupied millennia later during the Plane Race. Despite this time difference, the Krinican ideals of reincarnation allows the carving to roughly outline the history of the world as viewed by Iyana and Atena:
+	1. The Red Sun disaster, the current state of the world in which the first carvings were made
+	2. The arrival of the first Men and Fey
+	3. Classical kingdoms
+	4. Plane Race
+	5. (Prophesized Great Collapse, Black Sword Motif)
+	6. (Prophesized coming of the Four Gates of the sinisar empire and rise of Heavenly Sinisar Empire)
+	7. (Prophesized "Expansion" (the conquest of sinisa by Dead King))
+	8. (Distant, quiet, prophesied Second Disaster, Black Sword Motif)
+
+If in a rush, the Crew can find 3 Clues in this room.
+
+2. Ruined living quarters, long since looted and ruined. Old, rickety wooden tablet shelves still laden with broken clay tablets stand on either side of the door--it looks like a strong shove could collapse them. A few piles of rubble from the ceiling litter the floor.
+The tablets, if searched, can offer 2 Clues: one stack, seemingly by a single obsessed observer, repeatedly mentions divinations of the "coming Darkness, Infinite, slowly approaching". The writings seem to be confused, often mentioning a "collection of bound tablets"
+
+A sealed doorway blocks the next chamber and the entrance to the tower. The door can be lockpicked with Slight of Hand and Thieves Tools (Muck, if he attempts this, gets advantage for secret recall of rogueish abilities). It can be broken down with **DC 18** Strength or Athletics.
+
+3. The High Master's quarters. The ancient residence of the two master Astronomers. The room is a living space that doubles as a study, mostly filled with rubble and overgrown plants. One wall is set with clay, though parts of it have fallen off revealing several laminations and layers, each carved completely with inscriptions and drawings.
+This wall, if each layer is studied, can offer 3 Clues, each pointing to a minor divination, a small signal that kept repeating about the threat / danger, a King of Light, and the number six.
 
 ##### Node G. The Celestial Observatory
 
@@ -136,46 +173,39 @@ Phase spider encounter!
 
 1 phase spider 3 mini spiders. Hard encounter.
 
+The phase spiders stick to the Tower, mainly catching rats, birds, and other animals. The cultists have learned to avoid this area, and if it comes to it, they'll try to lure the Crew into that area and barricade the door.
+
+The top of the celestial observatory has two Star Lyres used by the original astronomers to conduct their divinations. The Lyres attune to the celestial sphere, resonating and harmonizing in specific ways to astral phenomena. The Lyres, often perturbed by the wind, echo a haunting tune about the ruins. This tune, which resonates into the nearby Feywild, attracted the Phase Spiders.
+
+**DC 15 History**: "The Astronomers would play to the stars, and the stars would sing back, singing to them of the path that they see far ahead."
+
+**DC 15 Arcana**: An arcane energy floats from the strings of the Lyres--it seems that the music from them is not bound to this plane. It may have attracted the extraplanar Spiders.
+
+The Lyres can be played (**DC 12 Performance**, each)to calm the spiders temporarily, as if charmed, but both Lyres need to be played. The Lyres can also charm the Stone Guardian.
+
+>[!example] Loot
+>Heward's Handy Haversack sits against one of the Star Lyres, old and covered in dust. A few notes inside hint at its ownership and Heward's goals here.
+>Other things in the Haversack: 1000 gold pieces, a rabbitskin timmed coat, dusty red liquid potion flecked with metal (Potion of Greater Healing), a bottle of valuable dry white wine from "Cairn of Lyzandred, from your good Pal Zagyg",  a pipe of the Pied Piper (Pipe of the Sewers), a modified Quiver of Elhonna (normal quiver that also allows you to use 1 +2 ammunition per short rest), rope of mending
+
+Maximo - sword, wine
+Rabbit - tome
+Carric - money and potion
+Koshi - rope of mending?
+Muck - quiver
+Mysto - pipe of the sewers
+##### Node H. The Basement
+
+Two **Horde Ghouls** roam the basement.
+
+The secret entrance leads to an underground basement chamber. It seems to be mostly looted. Piles of rubble have been moved off to the side here.
+A chamber off to the side has a ladder that leads up, but a sign is hung on its rungs saying "Do not climb"
+
+A room across the stairwell is an ancient temple chamber repurposed to be a temple of Orcus. Its walls are covered in blood and the room is scattered with the bones of the recently, and not so recently, dead. Bones are cracked and the marrow is sucked out.
+
+The cultists come here to perform their ritual.
+
+The tablet storage area, now flooded with dirty groundwater, has several tablets you can find that mention things relevant, possibly, to the prophecy. ie. Eclipse records and prophetic estimations. Eclipse counts show that the current eclipse that just happened should align with a prophetic reveal.
 
 
-**Node 1.3: The Hidden Secrets - Secret Entrance**
-
-The party discovers a secret entrance to the archive, marked by the cryptic symbol from the tavern. They must explore its depths to uncover the prophecies.
-
-Clues to adjacent nodes:
-
-- Clue 1: Inside the secret passage, the party encounters guardian constructs (leads to Node 1.1).
-- Clue 2: They find an old map with a path leading deeper into the archive (leads to Node 2).
-- Clue 3: A note on a hidden shelf suggests that the archive contains clues to celestial events (leads to Node 2).
-
-**Node 2: Chokepoint - Revelation Chamber**
-
-The PCs enter the revelation chamber, which contains critical clues about the prophecy, hinting at a major event tied to it. This is a minor conclusion that leads to the next layer.
-
-Clues to adjacent nodes:
-
-- Clue 1: An intricately detailed mural in the revelation chamber portrays an eclipse and references an important date in the prophecy (leads to Node 3.1).
-- Clue 2: A hidden message in the floor tiles mentions a celestial calendar that must be deciphered (leads to Node 3.2).
-- Clue 3: The echoes of the chamber lead the party to a sealed door, indicating a continuation of the archive (leads to Node 3.3).
-
-
-**Node 3.1: Celestial Calendar**
-
-Inside this chamber, the PCs discover an elaborate celestial calendar. They must decipher it to understand the prophecy.
-
-Clues to adjacent nodes:
-
-- Clue 1: The calendar references an upcoming celestial event, an eclipse (leads to Node 3.2).
-- Clue 2: A faded illustration depicts a gathering of scholars at an observatory (leads to Node 3.3).
-- Clue 3: Hidden writings on the walls suggest that the eclipse is a key date in the prophecy (leads to Node 4.1).
-
-**Node 3.2: The Observatory**
-
-The PCs learn of an observatory where the celestial event mentioned in the calendar can be observed. They must visit it to gain more insights.
-
-Clues to adjacent nodes:
-
-- Clue 1: The observatory's records hint at a significant celestial alignment during the eclipse (leads to Node 3.3).
-- Clue 2: An old map shows a route to a hidden cave near the observatory (leads to Node 4.2).
-- Clue 3: The observatory's chief astronomer suggests consulting an ancient seer for further interpretation (leads to Node 4.3).
-
+---
+XP after this mission: each player has total 3500. (6500 to lvl 5)
