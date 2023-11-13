@@ -209,3 +209,25 @@ The tablet storage area, now flooded with dirty groundwater, has several tablets
 
 ---
 XP after this mission: each player has total 3500. (6500 to lvl 5)
+
+
+
+Extended content:
+Koshi wants to research the possible connection between Orcus' cult, the prophecy, and the black blade.
+Orcus' cults spiked in power and frequency after Fraz was ousted--so about 212 years ago.
+
+
+
+Muck's timeline:
+
+True timeline: He's been cursed for slightly over 200 years. For those two centuries he was passed around from master to master, eventually spending quite a lot of time under the yoke of the Thief.
+What Yrah wants him to believe: Muck has been cursed for 
+
+Fraz's timeline as Yrah: been in prison for 192 years, so spent maybe 10-20 years in Abysm learning stuff and getting powerful.
+Yrah's timeline: went to Abyss just over 200 years ago, was cursed, then was taken by Demogorgon and imprisoned in Abysm. He's still there.
+
+
+Yrah and Muck left for the Abyss 215 years ago.
+Hollow Heart got sacked 212 years ago (Fraz has actually been in prison 212 years)
+Fraz-Yrah says he spent 20 years in Abysm
+Fraz-Yrah says he's been in prison for 192 years

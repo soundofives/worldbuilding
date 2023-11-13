@@ -9,7 +9,8 @@
 	2. Downtime: 30 days
 4. **Session 4:** The Dance of Patronage / Beyond the Door You begin the process of acquiring patronage / Drakewolf promises endless riches if you help him figure out what's behind the mysterious door in the Tower crypt. You infiltrate the Wizardead Vezel Mossvale's chambers, get the novice Kliatloth blackout drunk so he would translate the Forbidance password from draconic, and begin the dangerous journey through the Door.
 	1. Date: 15 Ithalary
-5. **Session 5:** Stardale. The prophecy predicted by Yrah was revealed by Mirol the Starwatcher. He sent you to the small, fucked up town of Stardale to confirm or refute his predictions, but little did you know you were heading right for a cult of Orcus worshipers, Fey spiders, a troll, and a beguiling hag.
+5. **Session 5**: Beyond the Door, Part 2. You killed the medusa and met Yrah, who is imprisoned beneath the Tower.
+6. **Session 6:** Stardale. The prophecy predicted by Yrah was revealed by Mirol the Starwatcher. He sent you to the small, fucked up town of Stardale to confirm or refute his predictions, but little did you know you were heading right for a cult of Orcus worshipers, Fey spiders, a troll, and a beguiling hag.
 	1. Date: 24 Ithalary - 30 Ithalary
-6. **Session 6:**
+7. **Session 7:**
 	1. Date: 1 

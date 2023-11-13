@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Adventures/Chronicles.md",
+                "file": "Adventures/Adventure 6/statblocks.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Personalities/The Tower/The Tower.md",
+                "file": "Personalities/Name Bank.md",
                 "mode": "source",
                 "source": false
               }
@@ -53,14 +53,6 @@
                 "mode": "source",
                 "source": false
               }
-            }
-          },
-          {
-            "id": "1af505fec379922d",
-            "type": "leaf",
-            "state": {
-              "type": "FANTASY_CALENDAR",
-              "state": {}
             }
           }
         ]
@@ -205,25 +197,30 @@
   },
   "active": "e16fd93b44dc19ec",
   "lastOpenFiles": [
-    "Adventures/Chronicles.md",
-    "Adventures/Adventure 5/Adventure 5 Narrative.md",
-    "Personalities/The Tower/The Tower.md",
+    "Personalities/Name Bank.md",
     "Adventures/Adventure 6/Adventure 6 Narrative.md",
+    "Personalities/The Last and First City/House of Duskivaine/House of Duskivaine.md",
+    "Adventures/Adventure 6/statblocks.md",
     "History/History.md",
+    "Adventures/Adventure 2/Statblocks.md",
+    "Adventures/Adventure 5/Adventure 5 Narrative.md",
+    "Personalities/PCs/Carric.md",
+    "Personalities/The Tower/The Tower.md",
+    "Adventures/Chronicles.md",
+    "Personalities/The Tower/Yrah.md",
+    "Personalities/PCs/Muck.md",
+    "Personalities/Personalities.md",
     "Adventures/Adventure 5/statblocks.md",
     "Mechanics/Tools.md",
     "Hooks/Adventure Hooks.md",
     "Adventures/Adventure 6",
     "Mechanics/Mechanics Expanded.md",
     "Mechanics/Injuries.pdf",
-    "Personalities/PCs/Muck.md",
     "Quotes.md",
-    "Personalities/The Tower/Yrah.md",
     "Locations/Shadaean Empire/The Last and First City/Sinisa/Roads.md",
     "Chronurgy Magic.md",
     "Locations/Shadaean Empire/The Tower/The Tower.md",
     "Untitled.md",
-    "History/Company of Seven.md",
-    "Personalities/Name Bank.md"
+    "History/Company of Seven.md"
   ]
 }
