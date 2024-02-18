@@ -1,0 +1,52 @@
+
+[FTBBanner]
+
+"languageName","Lithuanian"
+"languageCode","LT"
+"tools_options_toggle","Rodyti MyHeritage reklamas"
+
+[FTBSync]
+
+"languageName","Lithuanian"
+"languageCode","LT"
+"SYNC_status_on_different_tree_size F","Jûsø ðeimos medþio internetinëje versijoje yra daugiau asmenø nei jûsø Family Tree Builder programos versijoje.\nSinchronizavimas nutrauktas, kad nebûtø prarasti duomenys."
+"SYNC_status_on_different_tree_size M","Jûsø ðeimos medþio internetinëje versijoje yra daugiau asmenø nei jûsø Family Tree Builder programos versijoje.\nSinchronizavimas nutrauktas, kad nebûtø prarasti duomenys."
+"SYNC_status_short_on_different_tree_size F","Internetiniame medyje yra þymiai daugiau asmenø nei FTB versijoje."
+"SYNC_status_short_on_different_tree_size M","Internetiniame medyje yra þymiai daugiau asmenø nei FTB versijoje."
+"SYNC_title_on_different_tree_size","Áspëjimas apie galimà duomenø praradimà"
+"SYNC_warn_on_different_tree_size F","Sinchronizavimas, kurá ketinate atlikti, ið jûsø medþio iðtrins %d asmenis.\nTaip yra todël, kad dabartinëje jûsø Family Tree Builder programinës árangos medþio versijoje yra %d asmenø, o jûsø internetiniame medyje yra %d asmenø.\nJei tæsite veiksmus, %d asmenys bus prarasti.\n\nAr tikrai norite tæsti ir sinchronizuoti?\nTai nerekomenduojama, nebent esate tikri, kad norite sumaþinti savo medþio dydá."
+"SYNC_warn_on_different_tree_size M","Sinchronizavimas, kurá ketinate atlikti, ið jûsø medþio iðtrins %d asmenis.\nTaip yra todël, kad dabartinëje jûsø Family Tree Builder programinës árangos medþio versijoje yra %d asmenø, o jûsø internetiniame medyje yra %d asmenø.\nJei tæsite veiksmus, %d asmenys bus prarasti.\n\nAr tikrai norite tæsti ir sinchronizuoti?\nTai nerekomenduojama, nebent esate tikri, kad norite sumaþinti savo medþio dydá."
+
+[FTBInColor]
+
+"languageName","Lithuanian"
+"languageCode","LT"
+"IntroScreen_Body","DO NOT TRANSLATE"
+"IntroScreen_ColorizeButtonCaption","Spalvinti"
+"IntroScreen_Footer","DO NOT TRANSLATE"
+"IntroScreen_GotitButtonCaption","DO NOT TRANSLATE"
+"IntroScreen_Title","DO NOT TRANSLATE"
+
+[Subscription]
+
+"UpgradeDlgInColorBullet","DO NOT TRANSLATE"
+
+[FTBGedcomWizard]
+
+"languageName","Lithuanian"
+"languageCode","LT"
+
+[CheckerItemTypes]
+
+"CheckerItemTypes_DuplicatedIndGuid","Nesutapimai tarp asmenø"
+
+[FamilyConnections]
+
+"FamilyConnections_DuplicatedIndividual","Asmuo: %PERSON1% nëra teisingai iðsaugotas ir nesutampa su asmeniu: %PERSON2%."
+"FamilyConnections_DuplicatedIndividualTip","Ðie du asmenys persidengia jûsø projekte. Kad iðsprëstumëte nesutapimus, pagalvokite, kad galbût vienà asmená reikia iðtrinti."
+
+[GWExportGedcomFinish]
+
+"GWExportGedcomFinish_FailedOnDuplication","Jûsø projektas susideda ir ðeimos ar asmenø kurie nëra teisingai iðsaugoti. Ðie þmonës pasikartoja jûsø projekte. Asmenø pasikartojimas gali bûti dël duomenø netikslumo ir negalima jø perkelti á GEDCOM. Dël tolimesnës pagalbos praðome apsilankyti mûsø %help_center%"
+"GWExportGedcomFinish_HelpCenterLinkTitle","Pagalbos Centras"
+"GWExportGedcomFinish_WarnOnExport","Jûsø projektas susideda ir ðeimos ar asmenø kurie nëra teisingai iðsaugoti. Ðie þmonës pasikartoja jûsø projekte. Asmenø pasikartojimas gali bûti dël duomenø netikslumo ir negalima jø perkelti á GEDCOM. Dël tolimesnës pagalbos praðome apsilankyti mûsø %help_center%"

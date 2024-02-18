@@ -1,0 +1,52 @@
+
+[FTBBanner]
+
+"languageName","Latvian"
+"languageCode","LV"
+"tools_options_toggle","Râdît MyHeritage paziòojumus"
+
+[FTBSync]
+
+"languageName","Latvian"
+"languageCode","LV"
+"SYNC_status_on_different_tree_size F","Tava ciltskoka tieðsaistes versijâ ir vairâk personu nekâ programmatûras Family Tree Builder versijâ.\nSinhronizâcija tiek pârtraukta, lai izvairîtos no datu zaudçðanas."
+"SYNC_status_on_different_tree_size M","Tava ciltskoka tieðsaistes versijâ ir vairâk personu nekâ programmatûras Family Tree Builder versijâ.\nSinhronizâcija tiek pârtraukta, lai izvairîtos no datu zaudçðanas."
+"SYNC_status_short_on_different_tree_size F","Tieðsaistes kokâ ir vairâk personu nekâ FTB."
+"SYNC_status_short_on_different_tree_size M","Tieðsaistes kokâ ir vairâk personu nekâ FTB."
+"SYNC_title_on_different_tree_size","Brîdinâjums par iespçjamu datu zaudçðanu"
+"SYNC_warn_on_different_tree_size F","Sinhronizâcija, kuru gatavojies veikt, no tava koka izdzçsîs %d personas.\nTas tâpçc, ka paðreizçjâ programmatûras Family Family Builder versijâ ir %d personas, bet tavâ tieðsaistes kokâ ir %d personas.\nJa turpinâsi, tiks zaudçti dati par %d personâm.\n\nVai tieðâm vçlies turpinât un veikt sinhronizçðanu?\nTo nav ieteicams darît, ja vien neesi pârliecinâta, ka vçlies samazinât sava koka lielumu."
+"SYNC_warn_on_different_tree_size M","Sinhronizâcija, kuru gatavojies veikt, no tava koka izdzçsîs %d personas.\nTas tâpçc, ka paðreizçjâ programmatûras Family Family Builder versijâ ir %d personas, bet tavâ tieðsaistes kokâ ir %d personas.\nJa turpinâsi, tiks zaudçti dati par %d personâm.\n\nVai tieðâm vçlies turpinât un veikt sinhronizçðanu?\nTo nav ieteicams darît, ja vien neesi pârliecinâts, ka vçlies samazinât sava koka lielumu."
+
+[FTBInColor]
+
+"languageName","Latvian"
+"languageCode","LV"
+"IntroScreen_Body","DO NOT TRANSLATE"
+"IntroScreen_ColorizeButtonCaption","Izkrâso"
+"IntroScreen_Footer","DO NOT TRANSLATE"
+"IntroScreen_GotitButtonCaption","DO NOT TRANSLATE"
+"IntroScreen_Title","DO NOT TRANSLATE"
+
+[Subscription]
+
+"UpgradeDlgInColorBullet","DO NOT TRANSLATE"
+
+[FTBGedcomWizard]
+
+"languageName","Latvian"
+"languageCode","LV"
+
+[CheckerItemTypes]
+
+"CheckerItemTypes_DuplicatedIndGuid","Conflict between individuals"
+
+[FamilyConnections]
+
+"FamilyConnections_DuplicatedIndividual","Person: %PERSON1% is not stored properly and conflicts with Person: %PERSON2%."
+"FamilyConnections_DuplicatedIndividualTip","These two individuals overlap in your project. To resolve the conflict, consider deleting one of the individuals."
+
+[GWExportGedcomFinish]
+
+"GWExportGedcomFinish_FailedOnDuplication","Your project contains some families or individuals that are not stored properly. These entities overlap in your project. The conflicts might have been caused due to a temporary data error and are preventing the export to GEDCOM. For further assistance please visit our %help_center%"
+"GWExportGedcomFinish_HelpCenterLinkTitle","Palîdzîbas dienests"
+"GWExportGedcomFinish_WarnOnExport","Your project contains some families or individuals that are not stored properly. These entities overlap in your project. The conflicts might have been caused due to a temporary data error. The output GEDCOM is not valid and might reflect improper relationships. For further assistance please visit our %help_center%"

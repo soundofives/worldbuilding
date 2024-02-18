@@ -1,0 +1,100 @@
+//
+// This file generates names in homage to Black Adder:
+//  "Surely you're not talking about Mad Jack McMad, ..."
+//
+
+NAME => TYPE Jack SURNAME, DESCRIPTION
+
+TYPE => Mad[ Bully Boy]
+     => Insane
+     => Giant
+     => Little
+     => Killer
+     => Captain
+     => Old
+     => Crazy
+     => Legendary
+     => Murderous
+     => Leperous
+     => Drooling
+     => Wailing
+     => Bald
+     => Crazed Animal
+     => Unspeakably Evil
+     => Unspeakably Violent
+     => Sane
+     => Canon
+
+SURNAME => McMad
+        => O'Hoolihan
+        => Wence
+        => Hapence
+        => Sprat
+        => Larson
+        => Tarry
+        => Mayall
+        => Barrie
+        => Smollett
+
+DESCRIPTION => the ACTIVITY[, ACTIVITY] PERSON of PLACE
+
+ACTIVITY => Sheep-Stealing
+         => Baby-Eating
+         => Cow-Torturing
+         => Grave-Digging
+         => One-Legged
+         => One-Eyed
+         => Lizard-Burning
+         => Three-Fingered
+         => Black-Marketing
+         => Widow-Marrying
+         => Virgin-Chasing
+         => Donkey-Worrying
+         => Church-Defiling
+         => Garbage-Eating
+         => Lock-Picking
+         => Grave-Robbing
+         => Field-Stripping
+         => Sharp-Shooting
+         => Man-Hating
+         => Cattle-Rustling
+         => Entrail-Eating
+         => Bull-Buggering
+         => Priest-Killing
+
+PERSON => Shoemaker
+       => Cannibal
+       => Midget
+       => Leper
+       => Wizard
+       => Torturer
+       => Executioner
+       => Monk
+       => Bard
+       => Priest
+       => Thief
+       => Killer
+       => Murderer
+       => Spy
+       => Assassin
+       => Farmhand
+       => Bastard
+       => Soldier
+       => Deacon
+       => Heretic
+       => Goat-Murderer
+
+PLACE => Dingal Bay
+      => No Fixed Abode
+      => Sussex County
+      => London
+      => Bath and Wells
+      => Greater Norwich
+      => Peebles
+      => the Underground
+      => the York Asylum
+      => Sheffield
+      => North Wales
+      => Conwy Castle
+      => Sutton Coldfield
+      => Aldwych

@@ -1,0 +1,52 @@
+
+[FTBBanner]
+
+"languageName","Finnish"
+"languageCode","FI"
+"tools_options_toggle","Näytä MyHeritage-ilmoitukset"
+
+[FTBSync]
+
+"languageName","Finnish"
+"languageCode","FI"
+"SYNC_status_on_different_tree_size F","Sukupuusi online-versiossa on enemmän yksilöitä kuin versiossa, joka sijaitsee Family Tree Builder -ohjelmistossa.\nSynkronointi keskeytetään tietojen menetyksen välttämiseksi."
+"SYNC_status_on_different_tree_size M","Sukupuusi online-versiossa on enemmän yksilöitä kuin versiossa, joka sijaitsee Family Tree Builder -ohjelmistossa.\nSynkronointi keskeytetään tietojen menetyksen välttämiseksi."
+"SYNC_status_short_on_different_tree_size F","Online sukupuu sisältää enemmän henkilöitä kuin FTB."
+"SYNC_status_short_on_different_tree_size M","Online sukupuu sisältää enemmän henkilöitä kuin FTB."
+"SYNC_title_on_different_tree_size","Varoitus merkittävästä tietokadosta"
+"SYNC_warn_on_different_tree_size F","Aikomasi synkronointi tulee poistamaan %d henkilöä online sukupuustasi.\nTämä johtuu siitä, että nykyinen sukupuuversiosi Family Tree Builder-ohjelmassa sisältää %d henkilöä ja online sukupuussasi on %d henkilöä.\nMikäli jatkat, menetät %d henkilöä.\n\nHaluatko varmasti jatkaa ja synkronoida?\nTätä ei suositella, ellet ole varma, että haluat pienentää sukupuusi kokoa."
+"SYNC_warn_on_different_tree_size M","Aikomasi synkronointi tulee poistamaan %d henkilöä online sukupuustasi.\nTämä johtuu siitä, että nykyinen sukupuuversiosi Family Tree Builder-ohjelmassa sisältää %d henkilöä ja online sukupuussasi on %d henkilöä.\nMikäli jatkat, menetät %d henkilöä.\n\nHaluatko varmasti jatkaa ja synkronoida?\nTätä ei suositella, ellet ole varma, että haluat pienentää sukupuusi kokoa."
+
+[FTBInColor]
+
+"languageName","Finnish"
+"languageCode","FI"
+"IntroScreen_Body","DO NOT TRANSLATE"
+"IntroScreen_ColorizeButtonCaption","Väritä"
+"IntroScreen_Footer","DO NOT TRANSLATE"
+"IntroScreen_GotitButtonCaption","DO NOT TRANSLATE"
+"IntroScreen_Title","DO NOT TRANSLATE"
+
+[Subscription]
+
+"UpgradeDlgInColorBullet","DO NOT TRANSLATE"
+
+[FTBGedcomWizard]
+
+"languageName","Finnish"
+"languageCode","FI"
+
+[CheckerItemTypes]
+
+"CheckerItemTypes_DuplicatedIndGuid","Ristiriita henkilöiden välillä"
+
+[FamilyConnections]
+
+"FamilyConnections_DuplicatedIndividual","Henkilö: %PERSON1% ei ole taltioitunut kunnolla ja aiheuttaa ristiriidan henkilön: %PERSON2% kanssa."
+"FamilyConnections_DuplicatedIndividualTip","Nämä kaksi henkilöä limittävät toisensa projektissasi. Ongelman ratkaisemiseksi suositellaan toisen henkilön poistamista."
+
+[GWExportGedcomFinish]
+
+"GWExportGedcomFinish_FailedOnDuplication","Projektissasi on joitain henkilöitä tai perheitä, joita ei ole talletettu kunnolla. Nämä tiedot limittyvät projektissasi. Virheet ovat ehkä syntyneet paikallisesta tietovirheestä ja estävät vientiä GEDCOMiin. Lisäapua saat käymälla linkissä %help_center%"
+"GWExportGedcomFinish_HelpCenterLinkTitle","Tukikeskus"
+"GWExportGedcomFinish_WarnOnExport","Projektisi sisältää joitakin perheitä tai henkilöitä, jotka eivät ole taltioituneet kunnolla. Nämä tiedot limittyvät projektissasi. Virheet ovat ehkä syntyneet paikallisesta tietovirheestä. Vienti GEDCOMiin ei ole kunnollista ja saattaa heijastua epäkelpoina sukulaissuhteina. Lisäapua saat käymälla linkissä %help_center%"

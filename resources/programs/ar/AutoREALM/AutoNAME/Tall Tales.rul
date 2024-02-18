@@ -1,0 +1,123 @@
+// 
+// Create some random historical references
+//
+
+STORY   =>JOINER EVENT, [TIMESPACE,] LEADOUT.
+        =>JOINER LEADIN EVENT, [TIMESPACE,] LEADOUT.
+
+JOINER  =>And lo,
+        =>Thus,
+        =>And so,
+        =>Hence 
+        =>But 
+        =>And
+        =>Furthermore 
+
+LEADIN	=>when it was made known that
+        =>until the time of 
+        =>soon it came to be that
+        =>many times over,
+        =>it was told that
+        =>although unjust,
+        =>as often has been told,
+        =>because of
+
+LEADOUT =>which ended the siege of PLACE
+        =>was good, despite EVENT
+        =>yet EVENT came to pass
+        =>yet EVENT did not come to pass
+        =>was held in high regard until EVENT
+        =>was known TIME
+        =>was unknown TIME
+        =>and thus began the WARADJ Battle
+        =>and thus began the War of PLACE
+        =>which ended the friendship of PERSON
+         
+TIMESPACE =>TIME
+          =>SPACE
+
+TIME =>in the time of PERSON
+     =>during the reign of PERSON
+     =>[long]after EVENT
+     =>during EVENT
+     =>[long]before EVENT
+     =>just before EVENT
+     =>soon after EVENT
+     =>until the present time
+
+SPACE =>in the land of PLACE
+      =>in PLACE
+      =>near PLACE
+      =>very far from PLACE
+
+EVENT   =>the WARADJ War of PLACE
+        =>the WARADJ Battle
+        =>the JOINADJ Union of FEMALENAME and MALENAME
+        =>the JOINADJ Marriage of MALENAME and FEMALENAME
+        =>the Defeat of the Kingdom of PERSON
+        =>the Wizardry of PERSON
+        =>the WEATHER of PLACE
+	=>PERSON was lost discovering
+	=>PERSON was banished[ by[ the council of] PERSON]
+	=>PERSON died
+        =>CHILDBIRTH
+        =>PERSON discovered TERRIBLEPLACE
+
+CHILDBIRTH=>FEMALENAME bore a child, PERSON
+        =>PERSON produced a child, PERSON
+        =>MALENAME had a bastard child, PERSON
+        =>PERSON had a child out of wedlock, PERSON
+
+WARADJ  =>Great
+        =>Red
+        =>Bloody
+        =>Black
+        =>Unholy
+        =>Long
+        =>Torturous
+        =>Treacherous
+
+JOINADJ =>awaited
+        =>blissful
+        =>short-lived
+        =>enduring
+        =>happy
+        =>deceitful
+        =>timely
+        =>joyous
+
+PLACE =>the Valley of PLACENAME
+      =>the City of PLACENAME
+      =>in the Streets of PLACENAME
+      =>in the Hills around PLACENAME
+      =>the River RIVER
+      PLACENAME
+      =>STRANGENAME
+
+STRANGENAME=>Keroun
+      =>Tobian
+      =>Alamas
+      =>Mith Minol
+      =>Yon Palab
+      =>Geraldi
+      =>Borlomon
+      =>Kalamere 
+      =>Bihni
+
+WEATHER =>Storm
+        =>Hurricane
+        =>Hailstorm
+        =>Flood
+        =>Avalanche
+        =>Sandstorm
+        =>Earthquake
+        =>Tidalwave
+
+//
+// Fix my laziness: get rid of double spaces.
+//
+"  "==" "
+
+#include English.rul
+#include Western Names.rul
+#include Terrible Places.rul

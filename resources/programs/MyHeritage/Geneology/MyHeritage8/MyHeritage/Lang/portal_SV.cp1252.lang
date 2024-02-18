@@ -1,0 +1,52 @@
+
+[FTBBanner]
+
+"languageName","Swedish"
+"languageCode","SV"
+"tools_options_toggle","Visa MyHeritage meddelanden"
+
+[FTBSync]
+
+"languageName","Swedish"
+"languageCode","SV"
+"SYNC_status_on_different_tree_size F","Onlineversionen av ditt släktträd har fler individer än versionen på din Family Tree Builder-programvara.\nSynkroniseringen avbryts för att undvika dataförlust."
+"SYNC_status_on_different_tree_size M","Onlineversionen av ditt släktträd har fler individer än versionen på din Family Tree Builder-programvara.\nSynkroniseringen avbryts för att undvika dataförlust."
+"SYNC_status_short_on_different_tree_size F","Online-trädet har fler individer än FTB."
+"SYNC_status_short_on_different_tree_size M","Online-trädet har fler individer än FTB."
+"SYNC_title_on_different_tree_size","Varning om potentiell dataförlust"
+"SYNC_warn_on_different_tree_size F","Synkroniseringen du försöker göra kommer att ta bort %d individer från ditt online-träd.\nDet beror på att den aktuella trädversionen på din Family Tree Builder-programvara har %d individer och ditt onlineträd har %d individer.\nOm du fortsätter kommer %d individer att gå förlorade.\n\nÄr du säker på att du vill fortsätta synkroniseringen?\nDetta rekommenderas inte om du inte är säker på att du vill minska storleken på ditt träd."
+"SYNC_warn_on_different_tree_size M","Synkroniseringen du försöker göra kommer att ta bort %d individer från ditt online-träd.\nDet beror på att den aktuella trädversionen på din Family Tree Builder-programvara har %d individer och ditt onlineträd har %d individer.\nOm du fortsätter kommer %d individer att gå förlorade.\n\nÄr du säker på att du vill fortsätta synkroniseringen?\nDetta rekommenderas inte om du inte är säker på att du vill minska storleken på ditt träd."
+
+[FTBInColor]
+
+"languageName","Swedish"
+"languageCode","SV"
+"IntroScreen_Body","DO NOT TRANSLATE"
+"IntroScreen_ColorizeButtonCaption","Färglägg"
+"IntroScreen_Footer","DO NOT TRANSLATE"
+"IntroScreen_GotitButtonCaption","DO NOT TRANSLATE"
+"IntroScreen_Title","DO NOT TRANSLATE"
+
+[Subscription]
+
+"UpgradeDlgInColorBullet","DO NOT TRANSLATE"
+
+[FTBGedcomWizard]
+
+"languageName","Swedish"
+"languageCode","SV"
+
+[CheckerItemTypes]
+
+"CheckerItemTypes_DuplicatedIndGuid","Motsättning av individuppgifter"
+
+[FamilyConnections]
+
+"FamilyConnections_DuplicatedIndividual","Person: %PERSON1% är inte sparad på korrekt sätt och skapar konflikt med person: %PERSON2%."
+"FamilyConnections_DuplicatedIndividualTip","Dessa två individer överlappar varandra i ditt projekt. För att lösa problemet bör du ta bort en av individerna."
+
+[GWExportGedcomFinish]
+
+"GWExportGedcomFinish_FailedOnDuplication","Ditt projekt innehåller några släkter eller individer som inte är sparade på korrekt sätt. Dessa enheter överlappar varandra i ditt projekt. Problemen kan ha skapats på grund av ett tillfälligt datafel och förhindrar exporten till GEDCOM. Om du behöver mer hjälp, kontakta %help_center%"
+"GWExportGedcomFinish_HelpCenterLinkTitle","Hjälpcenter"
+"GWExportGedcomFinish_WarnOnExport","Ditt projekt innehåller några släkter eller individer som inte är sparade på korrekt sätt. Dessa enheter överlappar varandra i ditt projekt. Problemen kan ha skapats på grund av ett tillfälligt datafel. GEDCOM-filen är inte korrekt och kan visa felaktiga förhållanden. Om du behöver mer hjälp, kontakta %help_center%"

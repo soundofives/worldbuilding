@@ -1,0 +1,52 @@
+
+[FTBBanner]
+
+"languageName","Catalan"
+"languageCode","CA"
+"tools_options_toggle","Mostra els anuncis de MyHeritage"
+
+[FTBSync]
+
+"languageName","Catalan"
+"languageCode","CA"
+"SYNC_status_on_different_tree_size F","La versió en línia del vostre arbre genealògic té més persones que la versió del vostre programari Family Tree Builder.\nSync està avortat per evitar la pèrdua de dades."
+"SYNC_status_on_different_tree_size M","La versió en línia del vostre arbre genealògic té més persones que la versió del vostre programari Family Tree Builder.\nSync està avortat per evitar la pèrdua de dades."
+"SYNC_status_short_on_different_tree_size F","L'arbre en línia té més individus que FTB."
+"SYNC_status_short_on_different_tree_size M","L'arbre en línia té més individus que FTB."
+"SYNC_title_on_different_tree_size","Avís de pèrdua de dades potencials"
+"SYNC_warn_on_different_tree_size F","La sincronització que esteu a punt de fer esborrarà % d individus del vostre arbre en línia.\nAixò passa perquè la versió actual del software de l'arbre del vostre programari Family Tree Builder té %d individus i el vostre arbre en línia té %d individus.\nSi continueu, es perdran %d individus.\n\nEsteu segur que voleu continuar i fer la sincronització?\nAixò no és recomanable tret que estigueu segurs de que voleu reduir la mida del vostre arbre."
+"SYNC_warn_on_different_tree_size M","La sincronització que esteu a punt de fer esborrarà % d individus del vostre arbre en línia.\nAixò passa perquè la versió actual del software de l'arbre del vostre programari Family Tree Builder té %d individus i el vostre arbre en línia té %d individus.\nSi continueu, es perdran %d individus.\n\nEsteu segur que voleu continuar i fer la sincronització?\nAixò no és recomanable tret que estigueu segurs de que voleu reduir la mida del vostre arbre."
+
+[FTBInColor]
+
+"languageName","Catalan"
+"languageCode","CA"
+"IntroScreen_Body","DO NOT TRANSLATE"
+"IntroScreen_ColorizeButtonCaption","Acolorir"
+"IntroScreen_Footer","DO NOT TRANSLATE"
+"IntroScreen_GotitButtonCaption","DO NOT TRANSLATE"
+"IntroScreen_Title","DO NOT TRANSLATE"
+
+[Subscription]
+
+"UpgradeDlgInColorBullet","DO NOT TRANSLATE"
+
+[FTBGedcomWizard]
+
+"languageName","Catalan"
+"languageCode","CA"
+
+[CheckerItemTypes]
+
+"CheckerItemTypes_DuplicatedIndGuid","Conflicte entre individus"
+
+[FamilyConnections]
+
+"FamilyConnections_DuplicatedIndividual","Persona: %PERSON1% no s’emmagatzema correctament i entra en conflicte amb la persona: %PERSON2%."
+"FamilyConnections_DuplicatedIndividualTip","Aquestes dues persones se superposen en el seu projecte. Per resoldre el conflicte, considereu suprimir un dels individus."
+
+[GWExportGedcomFinish]
+
+"GWExportGedcomFinish_FailedOnDuplication","El vostre projecte conté algunes famílies o individus que no s’emmagatzemen correctament. Aquestes entitats se superposen al vostre projecte. És possible que els conflictes s’hagin pogut produir a causa d’un error de dades temporal i estan impedint l’exportació a GEDCOM. Per obtenir més ajuda, visiteu el nostre %help_center%"
+"GWExportGedcomFinish_HelpCenterLinkTitle","Centre d'Assistència"
+"GWExportGedcomFinish_WarnOnExport","El vostre projecte conté algunes famílies o individus que no s’emmagatzemen correctament. Aquestes entitats se superposen al vostre projecte. Els conflictes podrien haver estat causats per un error de dades temporal. La sortida GEDCOM no és vàlida i pot reflectir relacions incorrectes. Per obtenir més ajuda, visiteu el nostre %help_center%"

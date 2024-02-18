@@ -1,0 +1,718 @@
+﻿!SECTION NAMES
+!-------------
+COMPLETE_GENEALOGY_REPORT:En Genealogirapport For
+CREATED_ON:Opprettet
+FRONT_PAGE_SECT:Startside
+CONTENTS:Innhold
+INTRODUCTION_SECT:Introduksjon
+PATERNAL_ANCESTRY_SECT:Fars slekt
+MATERNAL_ANCESTRY_SECT:Mors slekt
+DESCENDANTS_SECT:Etterkommere
+DIRECT_RELATIONS_SECT:Direkte relasjoner
+INDIRECTLY_RELATED_SECT:Indirekte slektskap
+UNCONNECTED_SECTION_SECT:Ikke koblede
+ASSOCIATED_SECTION_SECT:Tilknyttede seksjon
+UNCONNECTED_INDIVIDUALS_SECT:Ukoblede personer
+ASSOCIATED_INDIVIDUALS_SECT:Tilknyttede personer
+ASSOCIATED_WITH:Tilknyttet med
+ASSOCIATED_AS:som
+NAME_DERIVATIONS_SECT:Navnets opprinnelse
+FAMILY_TREES_SECT:Familietrær
+MEDIA_SECT:Media
+PHOTOGRAPHS_SECT:Bilder
+PLACES_OF_REST_SECT:Gravsted
+DOCUMENTS_SECT:Dokumenter
+NOTES_SECT:Notater
+SOURCES_SECT:Kilder
+INDEX_OF_OCCUPATIONS_SECT:Indeks av Yrker
+INDEX_OF_PLACES_SECT:Indeks av Steder
+MAPS_SECT:Atlas
+MAP_INCLUDED_1:[Et
+MAP_INCLUDED_2:kart
+MAP_INCLUDED_3:er inkludert i atlasseksjonen.]
+INDEX_OF_DATES_SECT:Indeks av Datoer
+INDEX_OF_ANNIVERSARIES_SECT:Indeks av Merkedager
+CAUSES_OF_DEATH_SECT:Dødsårsaker
+RELATIONSHIP_PATHS_SECT:Slektskap
+REL_PATH_PREAMBLE_1:Denne seksjonen viser detaljene om slektskap mellom hvert individ og <name>.
+REL_PATH_PREAMBLE_2:For å bruke kryssreferanser, referansenummer i denne seksjonen er vist med slektskap mellom andre seksjoner.
+INDEX_OF_INDIVIDUALS_SECT:Innholdsliste
+INDEX_SECT:Indeks
+PREFACE_SECT:Forord
+APPENDIX_SECT:Tillegg
+VOLUME:Volum
+INDIVIDUAL_DETAILS:PERSONDETALJER
+
+!HEADINGS
+---------
+GENERAL_PAGE:Side
+CONTINUED:(fortsatt)
+GENERATION:Generasjon
+INDIRECT_VIA:via
+PEER_GENERATION:Første generasjon
+PEER_GENERATION_OF:<name>s Generasjons tre
+ANCESTORS:forfedre
+DESCENDANTS:etterkommere
+GEN_PEERS:Tre
+GEN_PARENTS:foreldre
+GEN_GRANDPARENTS:besteforeldre
+GEN_CHILDREN:barn
+GEN_GRANDCHILDREN:barnebarn
+IMMEDIATE_FAMILY:NÆRMESTE FAMILIE
+ONE_STEP_REMOVED:1 GENERASJONS AVSTAND
+STEPS_REMOVED:<n> GENERASJONERS AVSTAND
+TITLE_REF:Ref.
+TITLE_TREE:Tre
+TITLE_NAME:Navn
+TITLE_RELATIONSHIP:Slektskap
+
+!SUBJECT INDIVIDUAL
+!------------------
+SUBJECT_REPORT:Denne rapportens hovedperson
+SUBJECT_SECTION:Hovedpersonen for dette emnet
+SUBJECT_UNC_SECT:Hovedpersonen for en urelatert seksjon
+
+!PERSONAL EVENTS/FACTS
+!---------------------
+MOVE_HESHE_AFTER_DATE:Y
+LIVING_PERSON_FIRST:Levende
+LIVING_PERSON_LAST:Person
+WAS_BORN:ble født <type> <date><place>
+BORN_AS_MALE_TO:som sønn av
+BORN_AS_FEMALE_TO:som datter av
+BORN_TO:av
+BORN_TO_AND:og
+WAS_BORN_END_VERB:
+ASSUMED_PARENTHOOD_OF_M:tok foreldreansvar for
+ASSUMED_PARENTHOOD_OF_F:antatt foreldrestand av
+ASSUMED_PARENTHOOD_OF_P:antatt foreldrestand av
+FATHERED:ble far til
+GAVE_BIRTH_TO:fødte
+GAVE_BIRTH_TO_END:
+FATHERED_AND:har farskap til <children>
+GAVE_BIRTH_TO_AND:fødte <children>
+AND_ASSUMED_PARENTHOOD_OF_S_S:, og antatt foreldrestand av <num> andre
+AND_ASSUMED_PARENTHOOD_OF_P_S:, og antatt foreldrestand av <num> andre
+AND_ASSUMED_PARENTHOOD_OF_S_P:, og antatt foreldrestand av <num> andre
+AND_ASSUMED_PARENTHOOD_OF_P_P:, og antatt foreldrestand av <num> andre
+WAS_CHRISTENED:<heshe> ble døpt <type> <date>, <place>.
+WAS_BAPTIZED:<heshe> ble døpt <type> <date>, <place>.
+WAS_BLESSED:<heshe> ble velsignet <type> <date>, <place>.
+WAS_NOT_CHRISTENED:<heshe> ble ikke døpt <type> <place>.
+WAS_NOT_BAPTIZED:<heshe> ble ikke døpt <type> <place>.
+WAS_NOT_BLESSED:<heshe> ble ikke velsignet <type> <place>.
+EVENT_CUSTOM:<customevent> <date>, <place>
+WAS_IN_CENSUS:<heshe> ble skrevet inn i manntallet (<censusdesc>) <type> <date>, <place>.
+FAMILY_WAS_IN_CENSUS:Finnes i manntallet (<censusdesc>) <type> <date>, <place>.
+WAS_ADOPTED:ble <heshe?> adoptert <type> <parents>
+ADOPTED_BY:av
+ADOPTED_AND_BY:og
+BECAME_EMPLOYED_AS:utdannet <heshe?> seg til <ana>
+WAS_EMPLOYED_AS:var <heshe?> <ana>
+INDEFINITE_A_M:en
+INDEFINITE_AN_M:en
+INDEFINITE_A_F:ei
+INDEFINITE_AN_F:ei
+WAS_EMPLOYED:var <heshe?> ansatt
+EMPLOYED_AS:som
+EMPLOYED_WITH:med
+RESIDED:var <heshe?> bosatt <type>
+BECAME_B_MITZVAH:hadde <heshe?>
+DID_NOT_BECOME_B_MITZVAH:hadde <heshe?> ikke
+WAS_EDUCATED:var <heshe?> utdannet <type> ved <xplace>
+GRADUATED:tok <heshe?> eksamen <type> ved <xplace>
+RETIRED:pensjonerte <type> <heshe?> seg <place>
+WAS_NOT_EDUCATED:var <heshe?> ikke utdannet <type> ved <xplace>
+DID_NOT_GRADUATE:tok <heshe?> ikke eksamen <type> ved <xplace>
+DID_NOT_RETIRE:ble <heshe?> ikke pensjonert <type> <place>
+EMIGRATED:utvandret <type> <heshe?> <place>
+EMIGRATED_FROM:fra
+IMMIGRATED:innvandret <type> <heshe?> <place>
+IMMIGRATED_TO:til
+WAS_NATURALIZED:ble <heshe?> statsborger <type> av <xplace>
+WAS_NOT_NATURALIZED:ble <heshe?> ikke statsborger <type> av <xplace>
+DIED:døde <type>
+DIED_OF:av
+IS_STILL_ALIVE:lever fortsatt.
+IS_NO_LONGER_LIVING:lever ikke lengre.
+WAS_BURIED:ble gravlagt <type> <date><place>
+WAS_NOT_BURIED:ble ikke gravlagt <type> <date><place>
+WAS_LAID_TO_REST:ble stedt til hvile <type> <date><place>
+WAS_CREMATED:ble kremert <type> <date><place>
+WAS_NOT_CREMATED:ble ikke kremert <type> <date><place>
+ALSO_RECORDED_FOR:Følgende informasjon er også registrert for <name>
+GENERAL_BORN:født
+GENERAL_DIED:døde
+WAS_GENERALLY_KNOWN_AS:<name1> fikk også navnet «<name2>».
+ALSO_RECORDED_AS:også definert som
+ASSOCIATION_WITH:Assosiert med
+ATTR_CAST:Kaste
+ATTR_DSCR:Beskrivelse
+ATTR_IDNO:Nasjonalt ID Nummer
+ATTR_NATI:Nasjonalitet
+ATTR_PROP:Eiendommer
+ATTR_RELI:Religion
+ATTR_SSN:Sosial Sikkerhets Nummer
+ATTR_TITL:Tittel
+
+!DATES
+------
+DATE_ON:den
+DATE_ON_SUFF:
+DATE_IN_M:i
+DATE_IN_Y:i
+DATE_UNTIL:til
+DATE_FROM:fra
+DATE_TO:til
+DATE_YEAR_UNKNOWN:ukjent årstall
+DATE_ESTIMATED:(estimert)
+DATE_WFT_ESTIMATE:(estimert av World Family Tree)
+DATE_BEFORE:før
+DATE_AFTER:etter
+DATE_BETWEEN:mellom
+DATE_AND:og
+DATE_ABOUT:ca.
+UNSPECIFIED_YEARS:uspesifiserte år
+CAL_FRENCH:Fransk-Republikansk
+CAL_HEBREW:Hebraisk
+CAL_JULIAN:Juliansk
+ERA_BC:f.kr.
+ERA_AD:e.kr.
+ERA_BCE:f.v.t.
+ERA_CE:e.v.t.
+
+!AGES
+-----
+AGED:<age> gammel
+AGED_ABOUT:ca. <age> gammel
+AGED_WHEN_OLDER_THAN:eldre enn <age>
+AGED_WHEN_YOUNGER_THAN:yngre enn <age>
+AGED_FROM_INFANCY:fra spedbarnsalder
+AGED_FROM_AGE:fra <age> gammel
+AGED_FROM_AGE_ABOUT:fra <age> aldrern
+AGE_MORE_THAN:mer enn
+AGE_LESS_THAN:mindre enn
+AGE_DAYS:dager
+AGE_MONTHS:måneder
+AGE_YEARS:år
+AGE_YEARS_ONLY:år
+AGE_AS_A_CHILD:som barn
+AGE_AS_AN_INFANT:som spedbarn
+AGE_STILLBORN:dødfødt
+WHEN_AGED_PERSON:når <person> var <age> gammel
+WHEN_AGED_COUPLE:når <hisname> var <hisage> gammel og <hername> var <herage> gammel
+WHEN_AGED_COUPLE_RESP:når han henholdsvis var <hisage> og hun henholdsvis var <herage>
+AGE_AFTER_VERB:N
+
+!PLACES
+-------
+PLACE_AT:på
+PLACE_IN:i
+PLACE_FROM:fra
+PLACE_TO:til
+
+!FAMILY INFORMATION
+-------------------
+THEY_BECAME_ENGAGED:<he> ble forlovet med <her>
+PERSON_BECAME_ENGAGED:<person> ble forlovet
+HAVING_BECOME_ENGAGED:Ble forlovet
+BECAME_PARTNERS:ble partnere
+HAD_PARTNERS_M:hadde <num> partnere
+HAD_PARTNERS_F:hadde <num> partnere
+HAD_PARTNERSHIPS:hadde <num> forhold
+WAS_MARRIED_TO:ble gift med
+WAS_MARRIED_AND_TO:
+WAS_MARRIED_END_VERB:
+WAS_ALSO_PARTNER_OF_M:var også partner med
+WAS_PARTNER_OF_M:var partneren til
+WAS_ALSO_PARTNER_OF_F:var også partneren til
+WAS_PARTNER_OF_F:var partneren til
+
+MARRIED:giftet seg med
+MARRIED_TIMES:giftet seg
+WAS_NOT_MARRIED_TO:<he> ble ikke gift <her>
+WERE_NOT_MARRIED:var ikke gift
+PERSON_WAS_NOT_MARRIED:<person> var ikke gift
+PERSON_WAS_MARRIED:<person> var gift
+NO_RECORDED_FAMILY_DETAILS:(ingen familiedetaljer).
+HESHE_DIVORCED:<heshe> inngikk skillsmisse
+THEY_DIVORCED:De inngikk skillsmisse
+HESHE_LATER_DIVORCED:<heshe> ble senere skilt
+THEY_LATER_DIVORCED:De ble senere skilt
+MARRIAGE_WAS_ANNULLED:Eksteskapet ble annulert
+WAS_DIVORCED:var skilt
+WERE_DIVORCED:var skilt
+HESHE_WAS_DIVORCED:<heshe> ble skilt
+THEY_WERE_DIVORCED:de var skilt
+VIA_UNMARRIED:via et utenomekteskapelig forhold
+VIA_X_MARRIAGES:via <n> giftemål
+VIA_X_MARRIAGES_RELATIONSHIPS:via <n> giftemål og/eller forhold
+VIA_A_RELATIONSHIP:via et forhold
+VIA_N_RELATIONSHIPS:via <n> forhold
+VIA_AN_ADOPTION:via en adopsjon
+VIA_N_ADOPTIONS:via <n> adopsjoner
+REL_UNDETERMINED:Slektskap (uvisst)
+ALSO_FOLLOWING_INFO_FAMILY:Følgende informasjon er også skrevet for denne familien
+
+!FAMILY INFORMATION - CHILDREN
+------------------------------
+BIRTH_HAD_SINGLE:fikk
+BIRTH_HAD_COUPLE:fikk
+BIRTH_SON:sønn
+BIRTH_DAUGHTER:datter
+BIRTH_SONS:sønner
+BIRTH_DAUGHTERS:døtre
+BIRTH_CHILD:barn
+BIRTH_CHILDREN:barn
+NATURAL_CHILD:barn
+NATURAL_CHILDREN:barn
+BY_ADOPTION:via adopsjon
+BY_FOSTERING:via fostring
+BY_SEALED_ADOPTION:via adopsjon
+
+!RELATIONSHIPS
+--------------
+LOWERCASE_RELATION:Y
+GREAT_GREAT_LIMIT:3
+REMOVED_COUSINS:BYREL
+
+STEP_PREFIX_M:Ste-
+STEP_PREFIX_F:Ste-
+IN_LAW_PREFIX_M:
+IN_LAW_PREFIX_F:
+IN_LAW_SUFFIX:sviger
+
+REL_HUSBAND:Ektemann
+REL_WIFE:Hustru
+REL_PARTNER:Partner
+REL_SON:Sønn
+REL_DAUGHTER:Datter
+REL_CHILD:Barn
+REL_CHILDREN:Barn
+REL_SIBLING:Søsken
+REL_MOTHER:Mor
+REL_FATHER:Far
+REL_BROTHER:Bror
+REL_SISTER:Søster
+REL_UNCLE:Onkel
+REL_AUNT:Tante
+REL_GRANDMOTHER:Bestemor
+REL_GRANDFATHER:Bestefar
+REL_GRANDSON:Barnebarn
+REL_GRANDDAUGHTER:Barnebarn
+REL_GREAT_UP:Tipp-
+REL_GREAT_DOWN:Tipp-
+REL_NEPHEW:Nevø
+REL_NIECE:Niese
+REL_NEPHEW_NIECE:Nevø/Niese
+REL_COUSIN_M:Søskenbarn
+REL_COUSIN_F:Søskenbarn
+REL_GREAT_UNCLE:Grandonkel
+REL_GREAT_AUNT:Grandtante
+REL_GREAT_NEPHEW:Grand-Nevø
+REL_GREAT_NIECE:Grand-Niese
+REL_SPOUSE:Ektefelle
+REL_HALF_SIBLING:Halv-søsken
+REL_GRANDCHILD:Barnebarn
+REL_GREAT_NEPHEW_NIECE:Grand-Nevø/Niese
+REL_PARENT:Forelder
+REL_UNCLE_AUNT:Onkel/Tante
+REL_GRANDPARENT:Besteforeldre
+REL_GREAT_UNCLE_AUNT:Grandonkel/tante
+REL_HALF_BROTHER:Halvbror
+REL_HALF_SISTER:Halvsøster
+REL_EX_WIFE:Tidligere hustru
+REL_STEP_MOTHER:Stemor
+REL_DAUGHTER_IN_LAW:Svigerdatter
+REL_SISTER_IN_LAW:Svigerinne
+REL EX_HUSBAND:Tidligere ektemann
+REL_STEP_FATHER:Stefar
+REL_SON_IN_LAW:Svigersønn
+REL_BROTHER_IN_LAW:Svoger
+REL_STEP_GRANDFATHER:Ste-bestefar
+REL_STEP_GRANDMOTHER:Ste-bestemor
+
+ADOPTIVE_FATHER:adoptivfar
+ADOPTIVE_MOTHER:adoptivmor
+ADOPTED_CHILD:adoptert barn
+ADOPTED_SON:adoptert sønn
+ADOPTED_DAUGHTER:adoptert datter
+
+REL_BY_MARRIAGE:via giftemål
+REL_INDIRECT:indirekte relasjon
+
+COUSIN_REMOVED_UP_M:
+COUSIN_REMOVED_UP_F:
+COUSIN_REMOVED_DOWN_M:
+COUSIN_REMOVED_DOWN_F:
+COUSIN_DISTANCE:
+
+COUSIN_REMOVED_ONCE:
+COUSIN_REMOVED_X_TIMES:
+
+MORE_THAN:mer enn
+ONCE:en gang
+TWICE:to ganger
+N_TIMES:<n> ganger
+N_TIMES_GREAT_UP:<n>-ganger-Tipp-
+N_TIMES_GREAT_DOWN:<n>-ganger-Tipp-
+
+'POSSESSIVE RELATIONSHIPS
+'------------------------
+POSSESSIVE_NAME_FIRST:Y
+NAME_POSSESSIVE_PREF:s
+NAME_POSSESSIVE_PREF_ALT:<null>
+NAME_POSSESSIVE_SUFF:av
+REVERSE_POSSESSIVE:N
+REVERSE_POSSESSIVE_DEFAULT:av
+
+!FAMILY TREES
+!------------
+SHOWN_IN_TREE:vist i <tree>
+SHOWN_WITHIN_TREE:vist i <tree>
+FAMILY_TREE:slektstre
+NO_RECORDED_PARENTS_FAMILY:Ingen registrerte foreldre (<person> Familie)
+THIS_FAMILY_SHOWN_AS_TREE:Denne familien er vist i <tree>.
+THIS_FAMILY_SHOWN_WITHIN_TREE:Denne familien er vist i <tree>.
+EXCESS_CHILDREN_1:Pluss
+EXCESS_CHILDREN_2:Ytterligere
+EXCESS_CHILDREN_3:<n> Barn
+
+!MEDIA
+!-----
+IMAGE:Et bilde
+THIS_IMAGE:Dette bildet
+ANOTHER_IMAGE:Et annet bilde
+IMAGE_OTHER:andre
+IMAGES:bilder
+RELATES_TO:relatert til
+RELATE_TO:relatere til
+PICTURE_SINGULAR:Bilde
+PHOTOGRAPH_SINGULAR:Foto
+DOCUMENT_SINGULAR:Dokument
+PLACE_OF_REST_SINGULAR:Ligger
+IMAGE_FROM:fra
+IMAGE_CROPPED_FROM:beskjært fra
+
+!NOTES AND SOURCES
+!-----------------
+GENERAL_NOTE:Notat
+GENERAL_NOTES:Notater
+GENERAL_SOURCE:Kilde
+GENERAL_SOURCES:Kilder
+THIS_NOTE:dette notat
+THIS_SOURCE:denne kilden
+CITED_BY:Omtalt av
+APPLIES_TO:Passer til
+APPLIES:passer
+GENERAL_BY:Av
+GENERAL_IN:i
+PUBLISHED_IN:Publisert i
+REPOSITORY:Oppbevaringssted
+UNDETERMINED:ubestemt
+SOURCE_LEVEL_0:usikker eller estimert
+SOURCE_LEVEL_1:Tvilsom
+SOURCE_LEVEL_2:Rimelig pålitelig
+SOURCE_LEVEL_3:Veldig pålitelig
+SOURCE_LEVEL_X:Pålitelighet
+SOURCE_LEVEL_QUAL:Kvalitet
+SOURCE_PAGE:side
+GENERAL_SEE:Se
+GENERAL_SEE_ALSO:Se også
+ALL_NOTES_INCORPORATED:Alle notater er registrert i teksten.
+
+!EVENT TYPES
+!-----------
+EVENT_MARRIAGE:Ekteskap
+EVENT_ENGAGEMENT:Forlovelse
+EVENT_DIVORCE:Skillsmisse
+EVENT_ANNULMENT:Annulering
+EVENT_NAME:Navn
+EVENT_BIRTH:Fødsel
+EVENT_CHRISTENING:Dåp
+EVENT_BAPTISM:Baptisme
+EVENT_BLESSING:Velsigning
+EVENT_ADOPTION:Adopsjon
+EVENT_EDUCATION:Utdannelse
+EVENT_GRADUATION:Eksamen
+EVENT_RETIREMENT:Pensjonering
+EVENT_OCCUPATION:Yrke
+EVENT_RESIDENCE:Bolig
+EVENT_EMIGRATION:Utvandring
+EVENT_IMMIGRATION:Innvandring
+EVENT_NATURALIZATION:Naturalisering 
+EVENT_BAR_MITZVAH:Bar Mitzvah
+EVENT_BAS_MITZVAH:Bas Mitzvah
+EVENT_BAT_MITZVAH:Bat Mitzvah
+EVENT_DEATH:Død
+EVENT_CREMATION:Kremering
+EVENT_BURIAL:Begravelse
+EVENT_CENSUS:Folketelling
+EVENT_ASSOCIATION:Tilknytning
+EVENT_WILL:Testamente
+EVENT_PROBATE:Testamentstadfestelse
+
+!GENERAL
+!-------
+GENERAL_AND:og
+GENERAL_VIA:via
+GENERAL_OF_DESCRIBE:av
+GENERAL_OF_POSSESS:av
+GENERAL_AS:som
+GENERAL_ANOTHER:annen
+
+GENERAL_HIS_M:sitt
+GENERAL_HER_M:sitt
+GENERAL_HIS_F:sitt
+GENERAL_HER_F:sitt
+
+GENERAL_HE:Han
+GENERAL_SHE:Hun
+GENERAL_THEY:De
+
+VERB_WAS:var
+VERB_WERE:var
+
+UNK_MR:Hr.
+UNK_MS:Fru.
+UNK_MR_MS:Hr./Fru.
+UNK_UNKNOWN:Ukjent
+UNK_DATED:datert
+
+!MONTH NAMES
+!-----------
+JANUARY:Januar
+FEBRUARY:Februar
+MARCH:Mars
+APRIL:April
+MAY:Mai
+JUNE:Juni
+JULY:Juli
+AUGUST:August
+SEPTEMBER:September
+OCTOBER:Oktober
+NOVEMBER:November
+DECEMBER:Desember
+
+!NUMBERS
+!-------
+ONE_M:En
+ONE_F:En
+ONE_N:Ett
+1:En
+2:To
+3:Tre
+4:Fire
+5:Fem
+6:Seks
+7:Syv
+8:Åtte
+9:Ni
+10:Ti
+11:Elleve
+12:Tolv
+13:Tretten
+14:Fjorten
+15:Femten
+16:Seksten
+17:Sytten
+18:Atten
+19:Nitten
+20:Tjue
+21:Tjueen
+22:Tjueto
+23:Tjuetre
+24:Tjuefire
+25:Tjuefem
+26:Tjueseks
+27:Tjuesyv
+28:Tjueåtte
+29:Tjueni
+30:Tretti
+31:Trettien
+32:Trettito
+33:Trettitre
+34:Trettifire
+35:Trettifem
+36:Trettiseks
+37:Trettisyv
+38:Trettiåtte
+39:Trettini
+40:Førti
+41:Førtien
+42:Førtito
+43:Førtitre
+44:Førtifire
+45:Førtifem
+46:Førtiseks
+47:Førtisyv
+48:Førtiåtte
+49:Førtini
+50:Femti
+51:Femtien
+52:Femtito
+53:Femtitre
+54:Femtifire
+55:Femtifem
+56:Femtiseks
+57:Femtisyv
+58:Femtiåtte
+59:Femtini
+60:Seksti
+61:Sekstien
+62:Sekstito
+63:Sekstitre
+64:Sekstifire
+65:Sekstifem
+66:Sekstiseks
+67:Sekstisyv
+68:Sekstiåtte
+69:Sekstini
+70:Sytti
+71:Syttien
+72:Syttito
+73:Syttitre
+74:Syttifire
+75:Syttifem
+76:Syttiseks
+77:Syttisyv
+78:Syttiåtte
+79:Syttini
+80:Åtti
+81:Åttien
+82:Åttito
+83:Åttitre
+84:Åttifire
+85:Åttifem
+86:Åttiseks
+87:Åttisyv
+88:Åttiåtte
+89:Åttini
+90:Nitti
+91:Nittien
+92:Nittito
+93:Nittitre
+94:Nittifire
+95:Nittifem
+96:Nittiseks
+97:Nittisyv
+98:Nittiåtte
+99:Nittini
+
+Ordinal0:Fjernt
+Ordinal1:
+Ordinal2:Andre
+Ordinal3:Tredje
+Ordinal4:Fjerde
+Ordinal5:Femte
+Ordinal6:Sjette
+Ordinal7:Syvende
+Ordinal8:Åttende
+Ordinal9:Niende
+Ordinal10:Tiende
+Ordinal11:Ellevte
+Ordinal12:Tolvte
+Ordinal13:Trettende
+Ordinal14:Fjortende
+Ordinal15:Femtende
+Ordinal16:Sekstende
+Ordinal17:Syttende
+Ordinal18:Attende
+Ordinal19:Nittende
+Ordinal20:Tjuende
+
+Nth1:<num>ste
+Nth2:<num>dre
+Nth3:<num>dje
+Nth4:<num>de
+Nth5:<num>te
+Nth6:<num>te
+Nth7:<num>de
+Nth8:<num>de
+Nth9:<num>de
+Nth10:<num>de
+Nth11:<num>te
+Nth12:<num>te
+
+
+'RECENT ADDITIONS (TCGR 2009)
+-----------------------------
+MH_PARTNERS: Partnere
+MH_FRIENDS: Venner
+MH_REL_OTHER: Uspesifisert forhold
+MH_REL_UNKNOWN:Ukjent forhold
+
+EVENT_UNKNOWN:Uspesifisert hendelse
+EVENT_CONF:Konfirmasjon
+EVENT_FCOM:Første forbindelse
+EVENT_ORDN:Ordinasjon
+EVENT_BAPL:Dåp (LDS)
+EVENT_CONL:Konfirmasjon (LDS)
+EVENT_ENDL:Stiftelse (LDS)
+EVENT_SLGC:Forsegling (LDS)
+EVENT_DIVF:Skillsmissepapirer
+EVENT_MARB:Ekteskap
+EVENT_MARC:Ekteskapskontrakt
+EVENT_MARL:Ekteskapskontrakt
+EVENT_MARS:Ekteskapsavtale
+EVENT_SLGS:Forsegling (LDS)
+
+GENERAL_CITATION: Referanse
+GENERAL_CITATIONS:Referanser
+
+WAS_FOSTERED:ble fostret <parents>
+FOSTERED_BY:av
+FOSTERED_AND_BY:og
+VIA_FOSTERING:gjennom oppfostring
+FOSTER_FATHER:Fosterfar
+FOSTER_MOTHER:Fostermor
+FOSTER_CHILD:Fosterbarn
+FOSTER_DAUGHTER:Fosterdatter
+FOSTER_SON:Fostersønn
+VIA_AN_ADOPTION:gjennom adopsjon
+VIA_N_ADOPTIONS:gjennom <n> adoptivforhold
+
+GENERAL_INCLUDING:inkluderer
+
+SUNDAY:søndag
+MONDAY:mandag
+TUESDAY:tirsdag
+WEDNESDAY:onsdag
+THURSDAY:torsdag
+FRIDAY:fredag
+SATURDAY:lørdag
+
+SUBJECT_ASSOC_SECT:Hovedpersonen for en tilknyttede seksjon
+
+ADDR_TELEPHONE:Telefon
+ADDR_FAX:Telefax
+ADDR_INTERNET:Internet
+ADDR_EMAIL:Email
+
+DSCR_HAIR:Hårfarge
+DSCR_EYES:Øyenfarge
+DSCR_HEIGHT:Høyde
+DSCR_WEIGHT:Vekt
+DSCR_DESC:Beskrivelse
+DSCR_MEDICAL:Medisinsk Info
+DSCR_PHYSICAL:Fysisk
+
+'RECENT ADDITIONS (TCGR 2010)
+-----------------------------
+DATEABB_BEFORE:f
+DATEABB_ABOUT:c
+DATEABB_AFTER:e
+DATEABB_ESTIMATED:est
+
+ATTR_MARRIAGES:Giftemål
+QUOTEMARKS:«»
+
+'RECENT ADDITIONS (TCGR 2011)
+-----------------------------
+NAME_LAST_FIRST:N
+
+'RECENT ADDITIONS (TCGR 2012)
+-----------------------------
+INDIRECT_TREE:Indirekte Relasjoner
+UNCONNECTED_TREE:Ukoblede
+ASSOCIATES_TREE:Tilknyttede

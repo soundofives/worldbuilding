@@ -1,0 +1,3644 @@
+<dna>
+  <markers>
+    <marker>
+      <name>393</name>
+      <labels>
+        <label>393</label>
+        <label>D393</label>
+        <label>DYS 393</label>
+      </labels>
+      <values>
+        <min>6</min>
+        <max>20</max>
+      </values>
+    </marker>
+    <marker>
+      <name>390</name>
+      <labels>
+        <label>D390</label>
+        <label>390</label>
+        <label>DYS 390</label>
+      </labels>
+      <values>
+        <min>14</min>
+        <max>30</max>
+      </values>
+    </marker>
+    <marker>
+      <name>19/394</name>
+      <labels>
+        <label>DYS 19/394</label>
+        <label>D19/394</label>
+        <label>19/394</label>
+        <label>DYS 19</label>      
+        <label>D19</label>
+        <label>19</label>
+        <label>DYS 394</label>      
+        <label>D394</label>
+        <label>394</label>
+      </labels>
+      <values>
+        <min>7</min>
+        <max>22</max>
+      </values>
+    </marker>
+    <marker>
+      <name>19a/394a</name>
+      <labels>
+        <label>DYS 19a/394a</label>
+        <label>DYS 19/394a</label>
+        <label>D19a/394a</label>
+        <label>19a/394a</label>
+        <label>DYS 19a</label>
+        <label>D19a</label>
+        <label>19a</label>
+        <label>DYS 394a</label>
+        <label>D394a</label>
+        <label>394a</label>
+      </labels>
+      <values>
+        <min>7</min>
+        <max>21</max>
+      </values>
+    </marker>
+    <marker>
+      <name>19b/394b</name>
+      <labels>
+        <label>DYS 19b/394b</label>
+        <label>DYS 19/394b</label>
+        <label>D19b/394b</label>
+        <label>19b/394b</label>
+        <label>DYS 19b</label>
+        <label>D19b</label>
+        <label>19b</label>
+        <label>DYS 394b</label>
+        <label>D394b</label>
+        <label>394b</label>
+      </labels>
+      <values>
+        <min>7</min>
+        <max>21</max>
+      </values>
+    </marker>
+    <marker>
+      <name>391</name>
+      <labels>
+        <label>DYS 391</label>
+        <label>D391</label>
+        <label>391</label>
+      </labels>
+      <values>
+        <min>4</min>
+        <max>16</max>
+      </values>
+    </marker>
+    <marker>
+      <name>385a</name>
+      <labels>
+        <label>DYS 385a</label>
+        <label>D385a</label>
+        <label>385a</label>
+      </labels>
+      <values>
+        <min>5</min>
+        <max>27</max>
+      </values>
+    </marker>
+    <marker>
+      <name>385b</name>
+      <labels>
+        <label>DYS 385b</label>
+        <label>D385b</label>
+        <label>385b</label>
+      </labels>
+      <values>
+        <min>6</min>
+        <max>26</max>
+      </values>
+    </marker>
+    <marker>
+      <name>426</name>
+      <labels>
+        <label>DYS 426</label>
+        <label>D426</label>
+        <label>426</label>
+      </labels>
+      <values>
+        <min>7</min>
+        <max>18</max>
+      </values>
+    </marker>
+    <marker>
+      <name>388</name>
+      <labels>
+        <label>DYS 388</label>
+        <label>D388</label>
+        <label>388</label>
+      </labels>
+      <values>
+        <min>4</min>
+        <max>21</max>
+      </values>
+    </marker>
+    <marker>
+      <name>439</name>
+      <labels>
+        <label>DYS 439</label>
+        <label>D439</label>
+        <label>439</label>
+      </labels>
+      <values>
+        <min>4</min>
+        <max>19</max>
+      </values>
+    </marker>
+    <marker>
+      <name>389-1</name>
+      <labels>
+        <label>DYS 389-1</label>
+        <label>DYS 389-i</label>
+        <label>DYS 389i</label>
+        <label>DYS 389I</label>
+        <label>D389-1</label>
+        <label>D389-i</label>
+        <label>389-1</label>
+        <label>389-i</label>
+        <label>389i</label>
+        <label>389I</label>
+      </labels>
+      <values>
+        <min>9</min>
+        <max>19</max>
+      </values>
+    </marker>
+    <marker>
+      <name>389-2</name>
+      <labels>
+        <label>DYS 389-2</label>
+        <label>DYS 389-ii</label>
+        <label>DYS 389ii</label>
+        <label>DYS 389II</label>
+        <label>D389-2</label>
+        <label>D389-ii</label>
+        <label>389-2</label>
+        <label>389-ii</label>
+        <label>389ii</label>
+        <label>389II</label>
+      </labels>
+      <values>
+        <min>24</min>
+        <max>35</max>
+      </values>
+    </marker>
+    <marker>
+      <name>392</name>
+      <labels>
+        <label>DYS 392</label>
+        <label>D392</label>
+        <label>392</label>
+      </labels>
+      <values>
+        <min>4</min>
+        <max>22</max>
+      </values>
+    </marker>
+    <marker>
+      <name>458</name>
+      <labels>
+        <label>DYS 458</label>
+        <label>D458</label>
+        <label>458</label>
+      </labels>
+      <values>
+        <min>12</min>
+        <max>23</max>
+      </values>
+    </marker>
+    <marker>
+      <name>459</name>
+      <labels>
+        <label>DYS 459</label>
+        <label>D459</label>
+        <label>459</label>
+      </labels>
+      <values>
+        <min>2</min>
+        <max>14</max>
+      </values>
+    </marker>
+    <marker>
+      <name>459a</name>
+      <labels>
+        <label>DYS 459a</label>
+        <label>D459a</label>
+        <label>459a</label>
+      </labels>
+      <values>
+        <min>3</min>
+        <max>14</max>
+      </values>
+    </marker>
+    <marker>
+      <name>459b</name>
+      <labels>
+        <label>DYS 459b</label>
+        <label>D459b</label>
+        <label>459b</label>
+      </labels>
+      <values>
+        <min>2</min>
+        <max>13</max>
+      </values>
+    </marker>
+    <marker>
+      <name>455</name>
+      <labels>
+        <label>DYS 455</label>
+        <label>D455</label>
+        <label>455</label>
+      </labels>
+      <values>
+        <min>4</min>
+        <max>16</max>
+      </values>
+    </marker>
+    <marker>
+      <name>454</name>
+      <labels>
+        <label>DYS 454</label>
+        <label>D454</label>
+        <label>454</label>
+      </labels>
+      <values>
+        <min>3</min>
+        <max>26</max>
+      </values>
+    </marker>
+    <marker>
+      <name>447</name>
+      <labels>
+        <label>DYS 447</label>
+        <label>D447</label>
+        <label>447</label>
+      </labels>
+      <values>
+        <min>13</min>
+        <max>35</max>
+      </values>
+    </marker>
+    <marker>
+      <name>437</name>
+      <labels>
+        <label>DYS 437</label>
+        <label>D437</label>
+        <label>437</label>
+      </labels>
+      <values>
+        <min>12</min>
+        <max>27</max>
+      </values>
+    </marker>
+    <marker>
+      <name>448</name>
+      <labels>
+        <label>DYS 448</label>
+        <label>D448</label>
+        <label>448</label>
+      </labels>
+      <values>
+        <min>11</min>
+        <max>25</max>
+      </values>
+    </marker>
+    <marker>
+      <name>449</name>
+      <labels>
+        <label>DYS 449</label>
+        <label>D449</label>
+        <label>449</label>
+      </labels>
+      <values>
+        <min>20</min>
+        <max>41</max>
+      </values>
+    </marker>
+    <marker>
+      <name>464a</name>
+      <labels>
+        <label>DYS 464a</label>
+        <label>D464a</label>
+        <label>464a</label>
+      </labels>
+      <values>
+        <min>7</min>
+        <max>22</max>
+      </values>
+    </marker>
+    <marker>
+      <name>464b</name>
+      <labels>
+        <label>DYS 464b</label>
+        <label>D464b</label>
+        <label>464b</label>
+      </labels>
+      <values>
+        <min>7</min>
+        <max>22</max>
+      </values>
+    </marker>
+    <marker>
+      <name>464c</name>
+      <labels>
+        <label>DYS 464c</label>
+        <label>D464c</label>
+        <label>464c</label>
+      </labels>
+      <values>
+        <min>7</min>
+        <max>22</max>
+      </values>
+    </marker>
+    <marker>
+      <name>464d</name>
+      <labels>
+        <label>DYS 464d</label>
+        <label>D464d</label>
+        <label>464d</label>
+      </labels>
+      <values>
+        <min>7</min>
+        <max>22</max>
+      </values>
+    </marker>
+    <marker>
+      <name>464e</name>
+      <labels>
+        <label>DYS 464e</label>
+        <label>D464e</label>
+        <label>464e</label>
+      </labels>
+      <values>
+        <min>7</min>
+        <max>22</max>
+      </values>
+    </marker>
+    <marker>
+      <name>464f</name>
+      <labels>
+        <label>DYS 464f</label>
+        <label>D464f</label>
+        <label>464f</label>
+      </labels>
+      <values>
+        <min>7</min>
+        <max>22</max>
+      </values>
+    </marker>
+    <marker>
+      <name>464g</name>
+      <labels>
+        <label>DYS 464g</label>
+        <label>D464g</label>
+        <label>464g</label>
+      </labels>
+      <values>
+        <min>7</min>
+        <max>22</max>
+      </values>
+    </marker>
+    <marker>
+      <name>460</name>
+      <labels>
+        <label>DYS 460</label>
+        <label>D460</label>
+        <label>460</label>
+      </labels>
+      <values>
+        <min>7</min>
+        <max>13</max>
+      </values>
+    </marker>
+    <marker>
+      <name>GATA H4</name>
+      <labels>
+        <label>GATA H4</label>
+        <label>Y-GATA-H4</label>
+        <label>YGATAH4</label>
+        <label>YGATA H4</label>
+        <label>TAGAH4</label>
+      </labels>
+      <values>
+        <min>7</min>
+        <max>14</max>
+      </values>
+    </marker>
+    <marker>
+      <name>YCA IIa</name>
+      <labels>
+        <label>YCA IIa</label>
+      </labels>
+      <values>
+        <min>11</min>
+        <max>25</max>
+      </values>
+    </marker>
+    <marker>
+      <name>YCA IIb</name>
+      <labels>
+        <label>YCA IIb</label>
+      </labels>
+      <values>
+        <min>17</min>
+        <max>26</max>
+      </values>
+    </marker>
+    <marker>
+      <name>456</name>
+      <labels>
+        <label>DYS 456</label>
+        <label>D456</label>
+        <label>456</label>
+      </labels>
+      <values>
+        <min>1</min>
+        <max>40</max>
+      </values>
+    </marker>
+    <marker>
+      <name>607</name>
+      <labels>
+        <label>DYS 607</label>
+        <label>D607</label>
+        <label>607</label>
+      </labels>
+      <values>
+        <min>1</min>
+        <max>40</max>
+      </values>
+    </marker>
+    <marker>
+      <name>576</name>
+      <labels>
+        <label>DYS 576</label>
+        <label>D576</label>
+        <label>576</label>
+      </labels>
+      <values>
+        <min>1</min>
+        <max>40</max>
+      </values>
+    </marker>
+    <marker>
+      <name>570</name>
+      <labels>
+        <label>DYS 570</label>
+        <label>D570</label>
+        <label>570</label>
+      </labels>
+      <values>
+        <min>1</min>
+        <max>40</max>
+      </values>
+    </marker>
+    <marker>
+      <name>CDY a</name>
+      <labels>
+        <label>CDY a</label>
+      </labels>
+      <values>
+        <min>1</min>
+        <max>44</max>
+      </values>
+    </marker>
+    <marker>
+      <name>CDY b</name>
+      <labels>
+        <label>CDY b</label>
+      </labels>
+      <values>
+        <min>15</min>
+        <max>50</max>
+      </values>
+    </marker>
+    <marker>
+      <name>442</name>
+      <labels>
+        <label>DYS 442</label>
+        <label>D442</label>
+        <label>442</label>
+      </labels>
+      <values>
+        <min>1</min>
+        <max>40</max>
+      </values>
+    </marker>
+    <marker>
+      <name>438</name>
+      <labels>
+        <label>DYS 438</label>
+        <label>D438</label>
+        <label>438</label>
+      </labels>
+      <values>
+        <min>6</min>
+        <max>25</max>
+      </values>
+    </marker>
+    <marker>
+      <name>531</name>
+      <labels>
+        <label>DYS 531</label>
+        <label>D531</label>
+        <label>531</label>
+      </labels>
+      <values>
+        <min>7</min>
+        <max>14</max>
+      </values>
+    </marker>
+    <marker>
+      <name>578</name>
+      <labels>
+        <label>DYS 578</label>
+        <label>D578</label>
+        <label>578</label>
+      </labels>
+      <values>
+        <min>5</min>
+        <max>11</max>
+      </values>
+    </marker>
+    <marker>
+      <name>395S1a</name>
+      <labels>
+        <label>DYS 395S1a</label>
+        <label>D395S1a</label>
+        <label>395S1a</label>
+      </labels>
+      <values>
+        <min>12</min>
+        <max>18</max>
+      </values>
+    </marker>
+    <marker>
+      <name>395S1b</name>
+      <labels>
+        <label>DYS 395S1b</label>
+        <label>D395S1b</label>
+        <label>395S1b</label>
+      </labels>
+      <values>
+        <min>12</min>
+        <max>19</max>
+      </values>
+    </marker>
+    <marker>
+      <name>590</name>
+      <labels>
+        <label>DYS 590</label>
+        <label>D590</label>
+        <label>590</label>
+      </labels>
+      <values>
+        <min>6</min>
+        <max>9</max>
+      </values>
+    </marker>
+    <marker>
+      <name>537</name>
+      <labels>
+        <label>DYS 537</label>
+        <label>D537</label>
+        <label>537</label>
+      </labels>
+      <values>
+        <min>8</min>
+        <max>13</max>
+      </values>
+    </marker>
+    <marker>
+      <name>641</name>
+      <labels>
+        <label>DYS 641</label>
+        <label>D641</label>
+        <label>641</label>
+      </labels>
+      <values>
+        <min>6</min>
+        <max>12</max>
+      </values>
+    </marker>
+    <marker>
+      <name>472</name>
+      <labels>
+        <label>DYS 472</label>
+        <label>D472</label>
+        <label>472</label>
+      </labels>
+      <values>
+        <min>5</min>
+        <max>9</max>
+      </values>
+    </marker>
+    <marker>
+      <name>406S1</name>
+      <labels>
+        <label>DYS 406S1</label>
+        <label>D406S1</label>
+        <label>406S1</label>
+      </labels>
+      <values>
+        <min>7</min>
+        <max>14</max>
+      </values>
+    </marker>
+    <marker>
+      <name>511</name>
+      <labels>
+        <label>DYS 511</label>
+        <label>D511</label>
+        <label>511</label>
+      </labels>
+      <values>
+        <min>7</min>
+        <max>13</max>
+      </values>
+    </marker>
+    <marker>
+      <name>425</name>
+      <labels>
+        <label>DYS 425</label>
+        <label>D425</label>
+        <label>425</label>
+      </labels>
+      <values>
+        <min>8</min>
+        <max>15</max>
+      </values>
+    </marker>
+    <marker>
+      <name>413a</name>
+      <labels>
+        <label>DYS 413a</label>
+        <label>D413a</label>
+        <label>413a</label>
+      </labels>
+      <values>
+        <min>14</min>
+        <max>25</max>
+      </values>
+    </marker>
+    <marker>
+      <name>413b</name>
+      <labels>
+        <label>DYS 413b</label>
+        <label>D413b</label>
+        <label>413b</label>
+      </labels>
+      <values>
+        <min>14</min>
+        <max>27</max>
+      </values>
+    </marker>
+    <marker>
+      <name>557</name>
+      <labels>
+        <label>DYS 557</label>
+        <label>D557</label>
+        <label>557</label>
+      </labels>
+      <values>
+        <min>0</min>
+        <max>22</max>
+      </values>
+    </marker>
+    <marker>
+      <name>594</name>
+      <labels>
+        <label>DYS 594</label>
+        <label>D594</label>
+        <label>594</label>
+      </labels>
+      <values>
+        <min>8</min>
+        <max>13</max>
+      </values>
+    </marker>
+    <marker>
+      <name>436</name>
+      <labels>
+        <label>DYS 436</label>
+        <label>D436</label>
+        <label>436</label>
+      </labels>
+      <values>
+        <min>8</min>
+        <max>16</max>
+      </values>
+    </marker>
+    <marker>
+      <name>490</name>
+      <labels>
+        <label>DYS 490</label>
+        <label>D490</label>
+        <label>490</label>
+      </labels>
+      <values>
+        <min>8</min>
+        <max>16</max>
+      </values>
+    </marker>
+    <marker>
+      <name>534</name>
+      <labels>
+        <label>DYS 534</label>
+        <label>D534</label>
+        <label>534</label>
+      </labels>
+      <values>
+        <min>11</min>
+        <max>20</max>
+      </values>
+    </marker>
+    <marker>
+      <name>450</name>
+      <labels>
+        <label>DYS 450</label>
+        <label>D450</label>
+        <label>450</label>
+      </labels>
+      <values>
+        <min>6</min>
+        <max>10</max>
+      </values>
+    </marker>
+    <marker>
+      <name>444</name>
+      <labels>
+        <label>DYS 444</label>
+        <label>D444</label>
+        <label>444</label>
+      </labels>
+      <values>
+        <min>8</min>
+        <max>24</max>
+      </values>
+    </marker>
+    <marker>
+      <name>481</name>
+      <labels>
+        <label>DYS 481</label>
+        <label>D481</label>
+        <label>481</label>
+      </labels>
+      <values>
+        <min>14</min>
+        <max>32</max>
+      </values>
+    </marker>
+    <marker>
+      <name>520</name>
+      <labels>
+        <label>DYS 520</label>
+        <label>D520</label>
+        <label>520</label>
+      </labels>
+      <values>
+        <min>16</min>
+        <max>27</max>
+      </values>
+    </marker>
+    <marker>
+      <name>446</name>
+      <labels>
+        <label>DYS 446</label>
+        <label>D446</label>
+        <label>446</label>
+      </labels>
+      <values>
+        <min>8</min>
+        <max>24</max>
+      </values>
+    </marker>
+    <marker>
+      <name>617</name>
+      <labels>
+        <label>DYS 617</label>
+        <label>D617</label>
+        <label>617</label>
+      </labels>
+      <values>
+        <min>9</min>
+        <max>16</max>
+      </values>
+    </marker>
+    <marker>
+      <name>568</name>
+      <labels>
+        <label>DYS 568</label>
+        <label>D568</label>
+        <label>568</label>
+      </labels>
+      <values>
+        <min>7</min>
+        <max>14</max>
+      </values>
+    </marker>
+    <marker>
+      <name>487</name>
+      <labels>
+        <label>DYS 487</label>
+        <label>D487</label>
+        <label>487</label>
+      </labels>
+      <values>
+        <min>10</min>
+        <max>17</max>
+      </values>
+    </marker>
+    <marker>
+      <name>572</name>
+      <labels>
+        <label>DYS 572</label>
+        <label>D572</label>
+        <label>572</label>
+      </labels>
+      <values>
+        <min>8</min>
+        <max>13</max>
+      </values>
+    </marker>
+    <marker>
+      <name>640</name>
+      <labels>
+        <label>DYS 640</label>
+        <label>D640</label>
+        <label>640</label>
+      </labels>
+      <values>
+        <min>8</min>
+        <max>14</max>
+      </values>
+    </marker>
+    <marker>
+      <name>492</name>
+      <labels>
+        <label>DYS 492</label>
+        <label>D492</label>
+        <label>492</label>
+      </labels>
+      <values>
+        <min>9</min>
+        <max>15</max>
+      </values>
+    </marker>
+    <marker>
+      <name>565</name>
+      <labels>
+        <label>DYS 565</label>
+        <label>D565</label>
+        <label>565</label>
+      </labels>
+      <values>
+        <min>9</min>
+        <max>14</max>
+      </values>
+    </marker>
+    <marker>
+      <name>461</name>
+      <labels>
+        <label>DYS 461</label>
+        <label>D461</label>
+        <label>461</label>
+      </labels>
+      <values>
+        <min>9</min>
+        <max>14</max>
+      </values>
+    </marker>
+    <marker>
+      <name>462</name>
+      <labels>
+        <label>DYS 462</label>
+        <label>D462</label>
+        <label>462</label>
+      </labels>
+      <values>
+        <min>8</min>
+        <max>14</max>
+      </values>
+    </marker>
+    <marker>
+      <name>GATA A10</name>
+      <labels>
+        <label>GATA A10</label>
+        <label>Y-GATA-A10</label>
+        <label>YGATAA10</label>
+      </labels>
+      <values>
+        <min>10</min>
+        <max>17</max>
+      </values>
+    </marker>
+    <marker>
+      <name>635</name>
+      <labels>
+        <label>DYS 635</label>
+        <label>D635</label>
+        <label>635</label>
+        <label>GATAC4/DYS635</label>
+        <label>Y-GATA-C4/DYS 635</label>
+        <label>Y-GATA-C4/DYS635</label>
+        <label>YGATA C4</label>
+      </labels>
+      <values>
+        <min>18</min>
+        <max>28</max>
+      </values>
+    </marker>
+    <marker>
+      <name>GAAT1B07</name>
+      <labels>
+        <label>GAAT1B07</label>
+        <label>GAAT-1B07</label>
+        <label>Y-GAAT1B07</label>
+        <label>Y-GAAT-1B07</label>
+      </labels>
+      <values>
+        <min>7</min>
+        <max>13</max>
+      </values>
+    </marker>
+    <marker>
+      <name>441</name>
+      <labels>
+        <label>DYS 441</label>
+        <label>D441</label>
+        <label>441</label>
+      </labels>
+      <values>
+        <min>8</min>
+        <max>24</max>
+      </values>
+    </marker>
+    <marker>
+      <name>445</name>
+      <labels>
+        <label>DYS 445</label>
+        <label>D445</label>
+        <label>445</label>
+      </labels>
+      <values>
+        <min>6</min>
+        <max>24</max>
+      </values>
+    </marker>
+    <marker>
+      <name>452</name>
+      <labels>
+        <label>DYS 452</label>
+        <label>D452</label>
+        <label>452</label>
+      </labels>
+      <values>
+        <min>20</min>
+        <max>38</max>
+      </values>
+    </marker>
+    <marker>
+      <name>463</name>
+      <labels>
+        <label>DYS 463</label>
+        <label>D463</label>
+        <label>463</label>
+      </labels>
+      <values>
+        <min>15</min>
+        <max>30</max>
+      </values>
+    </marker>
+    <marker>
+      <name>434</name>
+      <labels>
+        <label>DYS 434</label>
+        <label>D434</label>
+        <label>434</label>
+      </labels>
+      <values>
+        <min>8</min>
+        <max>11</max>
+      </values>
+    </marker>
+    <marker>
+      <name>435</name>
+      <labels>
+        <label>DYS 435</label>
+        <label>D435</label>
+        <label>435</label>
+      </labels>
+      <values>
+        <min>11</min>
+        <max>12</max>
+      </values>
+    </marker>
+    <marker>
+      <name>485</name>
+      <labels>
+        <label>DYS 485</label>
+        <label>D485</label>
+        <label>485</label>
+      </labels>
+      <values>
+        <min>12</min>
+        <max>18</max>
+      </values>
+    </marker>
+    <marker>
+      <name>494</name>
+      <labels>
+        <label>DYS 494</label>
+        <label>D494</label>
+        <label>494</label>
+      </labels>
+      <values>
+        <min>8</min>
+        <max>11</max>
+      </values>
+    </marker>
+    <marker>
+      <name>495</name>
+      <labels>
+        <label>DYS 495</label>
+        <label>D495</label>
+        <label>495</label>
+      </labels>
+      <values>
+        <min>12</min>
+        <max>18</max>
+      </values>
+    </marker>
+    <marker>
+      <name>505</name>
+      <labels>
+        <label>DYS 505</label>
+        <label>D505</label>
+        <label>505</label>
+      </labels>
+      <values>
+        <min>10</min>
+        <max>14</max>
+      </values>
+    </marker>
+    <marker>
+      <name>522</name>
+      <labels>
+        <label>DYS 522</label>
+        <label>D522</label>
+        <label>522</label>
+      </labels>
+      <values>
+        <min>9</min>
+        <max>13</max>
+      </values>
+    </marker>
+    <marker>
+      <name>533</name>
+      <labels>
+        <label>DYS 533</label>
+        <label>D533</label>
+        <label>533</label>
+      </labels>
+      <values>
+        <min>10</min>
+        <max>14</max>
+      </values>
+    </marker>
+    <marker>
+      <name>549</name>
+      <labels>
+        <label>DYS 549</label>
+        <label>D549</label>
+        <label>549</label>
+      </labels>
+      <values>
+        <min>10</min>
+        <max>14</max>
+      </values>
+    </marker>
+    <marker>
+      <name>556</name>
+      <labels>
+        <label>DYS 556</label>
+        <label>D556</label>
+        <label>556</label>
+      </labels>
+      <values>
+        <min>9</min>
+        <max>14</max>
+      </values>
+    </marker>
+    <marker>
+      <name>575</name>
+      <labels>
+        <label>DYS 575</label>
+        <label>D575</label>
+        <label>575</label>
+      </labels>
+      <values>
+        <min>8</min>
+        <max>11</max>
+      </values>
+    </marker>
+    <marker>
+      <name>589</name>
+      <labels>
+        <label>DYS 589</label>
+        <label>D589</label>
+        <label>589</label>
+      </labels>
+      <values>
+        <min>6</min>
+        <max>15</max>
+      </values>
+    </marker>
+    <marker>
+      <name>636</name>
+      <labels>
+        <label>DYS 636</label>
+        <label>D636</label>
+        <label>636</label>
+      </labels>
+      <values>
+        <min>10</min>
+        <max>13</max>
+      </values>
+    </marker>
+    <marker>
+      <name>638</name>
+      <labels>
+        <label>DYS 638</label>
+        <label>D638</label>
+        <label>638</label>
+      </labels>
+      <values>
+        <min>9</min>
+        <max>12</max>
+      </values>
+    </marker>
+    <marker>
+      <name>643</name>
+      <labels>
+        <label>DYS 643</label>
+        <label>D643</label>
+        <label>643</label>
+      </labels>
+      <values>
+        <min>8</min>
+        <max>14</max>
+      </values>
+    </marker>
+    <marker>
+      <name>714</name>
+      <labels>
+        <label>DYS 714</label>
+        <label>D714</label>
+        <label>714</label>
+      </labels>
+      <values>
+        <min>21</min>
+        <max>29</max>
+      </values>
+    </marker>
+    <marker>
+      <name>716</name>
+      <labels>
+        <label>DYS 716</label>
+        <label>D716</label>
+        <label>716</label>
+      </labels>
+      <values>
+        <min>24</min>
+        <max>29</max>
+      </values>
+    </marker>
+    <marker>
+      <name>717</name>
+      <labels>
+        <label>DYS 717</label>
+        <label>D717</label>
+        <label>717</label>
+      </labels>
+      <values>
+        <min>17</min>
+        <max>22</max>
+      </values>
+    </marker>
+    <marker>
+      <name>726</name>
+      <labels>
+        <label>DYS 726</label>
+        <label>D726</label>
+        <label>726</label>
+      </labels>
+      <values>
+        <min>11</min>
+        <max>16</max>
+      </values>
+    </marker>
+    <marker>
+      <name>DXYS156-Y</name>
+      <labels>
+        <label>DXYS156-Y</label>
+      </labels>
+      <values>
+        <min>6</min>
+        <max>13</max>
+      </values>
+    </marker>
+    <marker>
+      <name>D3S1358</name>
+      <labels>
+        <label>D3S1358</label>
+      </labels>
+      <values>
+        <min>12</min>
+        <max>20</max>
+      </values>
+    </marker>
+    <marker>
+      <name>TH01</name>
+      <labels>
+        <label>TH01</label>
+      </labels>
+      <values>
+        <min>4</min>
+        <max>14</max>
+      </values>
+    </marker>
+    <marker>
+      <name>D21S11</name>
+      <labels>
+        <label>D21S11</label>
+      </labels>
+      <values>
+        <min>24</min>
+        <max>38</max>
+      </values>
+    </marker>
+    <marker>
+      <name>D18S51</name>
+      <labels>
+        <label>D18S51</label>
+      </labels>
+      <values>
+        <min>8</min>
+        <max>27</max>
+      </values>
+    </marker>
+    <marker>
+      <name>Penta E</name>
+      <labels>
+        <label>Penta E</label>
+      </labels>
+      <values>
+        <min>5</min>
+        <max>24</max>
+      </values>
+    </marker>
+    <marker>
+      <name>D5S818</name>
+      <labels>
+        <label>D5S818</label>
+      </labels>
+      <values>
+        <min>7</min>
+        <max>16</max>
+      </values>
+    </marker>
+    <marker>
+      <name>D13S317</name>
+      <labels>
+        <label>D13S317</label>
+      </labels>
+      <values>
+        <min>7</min>
+        <max>15</max>
+      </values>
+    </marker>
+    <marker>
+      <name>D7S820</name>
+      <labels>
+        <label>D7S820</label>
+      </labels>
+      <values>
+        <min>6</min>
+        <max>14</max>
+      </values>
+    </marker>
+    <marker>
+      <name>D16S539</name>
+      <labels>
+        <label>D16S539</label>
+      </labels>
+      <values>
+        <min>5</min>
+        <max>15</max>
+      </values>
+    </marker>
+    <marker>
+      <name>CSF1PO</name>
+      <labels>
+        <label>CSF1PO</label>
+      </labels>
+      <values>
+        <min>6</min>
+        <max>15</max>
+      </values>
+    </marker>
+    <marker>
+      <name>Penta D</name>
+      <labels>
+        <label>Penta D</label>
+      </labels>
+      <values>
+        <min>2</min>
+        <max>17</max>
+      </values>
+    </marker>
+    <marker>
+      <name>vWA</name>
+      <labels>
+        <label>vWA</label>
+      </labels>
+      <values>
+        <min>10</min>
+        <max>22</max>
+      </values>
+    </marker>
+    <marker>
+      <name>D8S1179</name>
+      <labels>
+        <label>D8S1179</label>
+      </labels>
+      <values>
+        <min>7</min>
+        <max>18</max>
+      </values>
+    </marker>
+    <marker>
+      <name>TPOX</name>
+      <labels>
+        <label>TPOX</label>
+      </labels>
+      <values>
+        <min>6</min>
+        <max>13</max>
+      </values>
+    </marker>
+    <marker>
+      <name>FGA</name>
+      <labels>
+        <label>FGA</label>
+      </labels>
+      <values>
+        <min>16</min>
+        <max>47</max>
+      </values>
+    </marker>
+    <marker>
+      <name>497</name>
+      <labels>
+        <label>497</label>
+      </labels>
+      <values>
+        <min>1</min>
+        <max>47</max>
+      </values>
+    </marker>    
+    <marker>
+      <name>504</name>
+      <labels>
+        <label>504</label>
+      </labels>
+      <values>
+        <min>1</min>
+        <max>47</max>
+      </values>
+    </marker>    
+    <marker>
+      <name>510</name>
+      <labels>
+        <label>510</label>
+      </labels>
+      <values>
+        <min>1</min>
+        <max>47</max>
+      </values>
+    </marker>    
+    <marker>
+      <name>513</name>
+      <labels>
+        <label>513</label>
+      </labels>
+      <values>
+        <min>1</min>
+        <max>47</max>
+      </values>
+    </marker>    
+    <marker>
+      <name>525</name>
+      <labels>
+        <label>525</label>
+      </labels>
+      <values>
+        <min>1</min>
+        <max>47</max>
+      </values>
+    </marker>    
+    <marker>
+      <name>532</name>
+      <labels>
+        <label>532</label>
+      </labels>
+      <values>
+        <min>1</min>
+        <max>47</max>
+      </values>
+    </marker>    
+    <marker>
+      <name>540</name>
+      <labels>
+        <label>540</label>
+      </labels>
+      <values>
+        <min>1</min>
+        <max>47</max>
+      </values>
+    </marker>    
+    <marker>
+      <name>552</name>
+      <labels>
+        <label>552</label>
+      </labels>
+      <values>
+        <min>1</min>
+        <max>47</max>
+      </values>
+    </marker>    
+    <marker>
+      <name>561</name>
+      <labels>
+        <label>561</label>
+      </labels>
+      <values>
+        <min>1</min>
+        <max>47</max>
+      </values>
+    </marker>    
+    <marker>
+      <name>587</name>
+      <labels>
+        <label>587</label>
+      </labels>
+      <values>
+        <min>1</min>
+        <max>47</max>
+      </values>
+    </marker>    
+    <marker>
+      <name>593</name>
+      <labels>
+        <label>593</label>
+      </labels>
+      <values>
+        <min>1</min>
+        <max>47</max>
+      </values>
+    </marker>    
+    <marker>
+      <name>632</name>
+      <labels>
+        <label>632</label>
+      </labels>
+      <values>
+        <min>1</min>
+        <max>47</max>
+      </values>
+    </marker>    
+    <marker>
+      <name>650</name>
+      <labels>
+        <label>650</label>
+      </labels>
+      <values>
+        <min>1</min>
+        <max>47</max>
+      </values>
+    </marker>    
+    <marker>
+      <name>710</name>
+      <labels>
+        <label>710</label>
+      </labels>
+      <values>
+        <min>1</min>
+        <max>47</max>
+      </values>
+    </marker>    
+    <marker>
+      <name>712</name>
+      <labels>
+        <label>712</label>
+      </labels>
+      <values>
+        <min>1</min>
+        <max>47</max>
+      </values>
+    </marker>    
+    <marker>
+      <name>715</name>
+      <labels>
+        <label>715</label>
+      </labels>
+      <values>
+        <min>1</min>
+        <max>47</max>
+      </values>
+    </marker>    
+  </markers>
+
+  <haplogroups>
+    <g>A</g>
+    <g>A1</g>
+    <g>A1a</g>
+    <g>A1b</g>
+    <g>A2</g>
+    <g>A2a</g>
+    <g>A2b</g>
+    <g>A2c</g>
+    <g>A3</g>
+    <g>A3a</g>
+    <g>A3b</g>
+    <g>A3b1</g>
+    <g>A3b1a</g>
+    <g>A3b2</g>
+    <g>A3b2a</g>
+    <g>A3b2b</g>
+    <g>B</g>
+    <g>B1</g>
+    <g>B1a</g>
+    <g>B2</g>
+    <g>B2a</g>
+    <g>B2a1</g>
+    <g>B2a1a</g>
+    <g>B2a2</g>
+    <g>B2a2a</g>
+    <g>B2b</g>
+    <g>B2b1</g>
+    <g>B2b2</g>
+    <g>B2b3</g>
+    <g>B2b3a</g>
+    <g>B2b4</g>
+    <g>B2b4a</g>
+    <g>B2b4b</g>
+    <g>B2c</g>
+    <g>C</g>
+    <g>C1</g>
+    <g>C1a</g>
+    <g>C1b</g>
+    <g>C1b2</g>
+    <g>C1b2a</g>
+    <g>C2</g>
+    <g>C2a</g>
+    <g>C2a1</g>
+    <g>C2a2</g>
+    <g>C3</g>
+    <g>C3a</g>
+    <g>C3b</g>
+    <g>C3c</g>
+    <g>C3d</g>
+    <g>C3e</g>
+    <g>C3f</g>
+    <g>C4</g>
+    <g>C4a</g>
+    <g>C5</g>
+    <g>C5a</g>
+    <g>C6</g>
+    <g>D</g>
+    <g>D1</g>
+    <g>D1a</g>
+    <g>D1a1</g>
+    <g>D2</g>
+    <g>D2a</g>
+    <g>D2a1</g>
+    <g>D2a1a</g>
+    <g>D2a1a1</g>
+    <g>D2a1b</g>
+    <g>D2a1b1</g>
+    <g>D2a2</g>
+    <g>D2a3</g>
+    <g>D3</g>
+    <g>D3a</g>
+    <g>D4a1</g>
+    <g>E</g>
+    <g>E1</g>
+    <g>E1a</g>
+    <g>E1a1</g>
+    <g>E1a2</g>
+    <g>E1a3</g>
+    <g>E1a4</g>
+    <g>E1b</g>
+    <g>E1b1</g>
+    <g>E1b1a</g>
+    <g>E1b1a1</g>
+    <g>E1b1a2</g>
+    <g>E1b1a3</g>
+    <g>E1b1a4</g>
+    <g>E1b1a5</g>
+    <g>E1b1a6</g>
+    <g>E1b1a7</g>
+    <g>E1b1a7a</g>
+    <g>E1b1a7a1</g>
+    <g>E1b1a7a2</g>
+    <g>E1b1a7a3</g>
+    <g>E1b1a7a3a</g>
+    <g>E1b1a8</g>
+    <g>E1b1a8a</g>
+    <g>E1b1a8a1</g>
+    <g>E1b1a8a1a</g>
+    <g>E1b1a8a2</g>
+    <g>E1b1a9</g>
+    <g>E1b1b</g>
+    <g>E1b1b1</g>
+    <g>E1b1b1a</g>
+    <g>E1b1b1a1</g>
+    <g>E1b1b1a1a</g>
+    <g>E1b1b1a1b</g>
+    <g>E1b1b1a2</g>
+    <g>E1b1b1a2a</g>
+    <g>E1b1b1a2b</g>
+    <g>E1b1b1a2c</g>
+    <g>E1b1b1a3</g>
+    <g>E1b1b1a3a</g>
+    <g>E1b1b1a3b</g>
+    <g>E1b1b1a4</g>
+    <g>E1b1b1a5</g>
+    <g>E1b1b1b</g>
+    <g>E1b1b1b1</g>
+    <g>E1b1b1b2</g>
+    <g>E1b1b1b2a</g>
+    <g>E1b1b1c</g>
+    <g>E1b1b1c1</g>
+    <g>E1b1b1c1a</g>
+    <g>E1b1b1c1a1</g>
+    <g>E1b1b1c1b</g>
+    <g>E1b1b1d</g>
+    <g>E1b1b1e</g>
+    <g>E1b1b1f</g>
+    <g>E1b1b1g</g>
+    <g>E1b1c</g>
+    <g>E1b2</g>
+    <g>E2</g>
+    <g>E2a</g>
+    <g>E2b</g>
+    <g>E2b1</g>
+    <g>E2b1a</g>
+    <g>E2b1a1</g>
+    <g>E2b1a2</g>
+    <g>F</g>
+    <g>F1</g>
+    <g>F2</g>
+    <g>F3</g>
+    <g>G</g>
+    <g>G1</g>
+    <g>G1a</g>
+    <g>G1a1</g>
+    <g>G1a1a</g>
+    <g>G1b</g>
+    <g>G2</g>
+    <g>G2a</g>
+    <g>G2a1</g>
+    <g>G2a1a</g>
+    <g>G2a2</g>
+    <g>G2a3</g>
+    <g>G2a3a</g>
+    <g>G2a3a1</g>
+    <g>G2a3a2</g>
+    <g>G2a3b</g>
+    <g>G2a3b1</g>
+    <g>G2a3b1a</g>
+    <g>G2a3b1a1</g>
+    <g>G2a3b1a1a</g>
+    <g>G2a3b1a2</g>
+    <g>G2a3b1a2a</g>
+    <g>G2a3b1a3</g>
+    <g>G2a3b2</g>
+    <g>G2a4</g>
+    <g>G2b</g>
+    <g>G2c</g>
+    <g>G2c1</g>
+    <g>G3</g>
+    <g>G4</g>
+    <g>H</g>
+    <g>H1</g>
+    <g>H1a</g>
+    <g>H1a1</g>
+    <g>H1a2</g>
+    <g>H1a3</g>
+    <g>H1b</g>
+    <g>H1c</g>
+    <g>H1c1</g>
+    <g>H1c2</g>
+    <g>H1c3</g>
+    <g>H1e</g>
+    <g>H1f</g>
+    <g>H1g</g>
+    <g>H2</g>
+    <g>H2a</g>
+    <g>H2a1</g>
+    <g>H2a2</g>
+    <g>H2a2a</g>
+    <g>H2b</g>
+    <g>H3</g>
+    <g>H4</g>
+    <g>H4a</g>
+    <g>H4a1</g>
+    <g>H5</g>
+    <g>H5a</g>
+    <g>H5a1</g>
+    <g>H6</g>
+    <g>H6a</g>
+    <g>H6a1</g>
+    <g>H6b</g>
+    <g>H6c</g>
+    <g>H7</g>
+    <g>H7a</g>
+    <g>H8</g>
+    <g>H9</g>
+    <g>H10</g>
+    <g>H11</g>
+    <g>H11a</g>
+    <g>H13</g>
+    <g>H13a</g>
+    <g>H13a1</g>
+    <g>H13a1a</g>
+    <g>H15</g>
+    <g>H16</g>
+    <g>HV</g>
+    <g>HV1</g>
+    <g>HV2</g>
+    <g>I</g>
+    <g>I1</g>
+    <g>I1a</g>
+    <g>I1b</g>
+    <g>I1b1</g>
+    <g>I1c</g>
+    <g>I1d</g>
+    <g>I1d1</g>
+    <g>I1e</g>
+    <g>I2</g>
+    <g>I2a</g>
+    <g>I2a1</g>
+    <g>I2a1a</g>
+    <g>I2a1a1</g>
+    <g>I2a2</g>
+    <g>I2a2a</g>
+    <g>I2a2a1</g>
+    <g>I2a2b</g>
+    <g>I2a3</g>
+    <g>I2b</g>
+    <g>I2b1</g>
+    <g>I2b1a</g>
+    <g>I2b1a1</g>
+    <g>I2b1b</g>
+    <g>I2b1c</g>
+    <g>I2b1d</g>
+    <g>I2b2</g>
+    <g>I3</g>
+    <g>I4</g>
+    <g>J</g>
+    <g>J1</g>
+    <g>J1a</g>
+    <g>J1b</g>
+    <g>J1b1</g>
+    <g>J1b1a</g>
+    <g>J1c</g>
+    <g>J1c1</g>
+    <g>J1c2</g>
+    <g>J1c3</g>
+    <g>J1c3a</g>
+    <g>J1c3b</g>
+    <g>J1c3c</g>
+    <g>J1c3d</g>
+    <g>J1c3d1</g>
+    <g>J1c3d1a</g>
+    <g>J1d</g>
+    <g>J2</g>
+    <g>J2a</g>
+    <g>J2a1</g>
+    <g>J2a1a</g>
+    <g>J2a2</g>
+    <g>J2a3</g>
+    <g>J2a4</g>
+    <g>J2a4a</g>
+    <g>J2a4b</g>
+    <g>J2a4b1</g>
+    <g>J2a4b1a</g>
+    <g>J2a4b2</g>
+    <g>J2a4b3</g>
+    <g>J2a4c</g>
+    <g>J2a4d</g>
+    <g>J2a4e</g>
+    <g>J2a4f</g>
+    <g>J2a4g</g>
+    <g>J2a4h</g>
+    <g>J2a4h1</g>
+    <g>J2a4h1a</g>
+    <g>J2a4h1a1</g>
+    <g>J2a4h1a1</g>
+    <g>J2a4h1a1a</g>
+    <g>J2a4h1a1b</g>
+    <g>J2a4h1a1c</g>
+    <g>J2a4h1b</g>
+    <g>J2a4h1b1</g>
+    <g>J2a4h1c</g>
+    <g>J2a4h1d</g>
+    <g>J2a4h2</g>
+    <g>J2a4i</g>
+    <g>J2b</g>
+    <g>J2b1</g>
+    <g>J2b1a</g>
+    <g>J2b1b</g>
+    <g>J2b1b1</g>
+    <g>J2b1b2</g>
+    <g>J2b2</g>
+    <g>J2b2a</g>
+    <g>J2b2b</g>
+    <g>J2b2c</g>
+    <g>J2b2d</g>
+    <g>J2b2e</g>
+    <g>K</g>
+    <g>K1</g>
+    <g>K1a</g>
+    <g>K1a1</g>
+    <g>K1a1b</g>
+    <g>K1a1b1</g>
+    <g>K1a1b1a</g>
+    <g>K1a3</g>
+    <g>K1a3a</g>
+    <g>K1a3a1</g>
+    <g>K1a3a1b</g>
+    <g>K1a4</g>
+    <g>K1a10</g>
+    <g>K1b1a</g>
+    <g>K1c</g>
+    <g>K1c1</g>
+    <g>K1c2</g>
+    <g>K1c1b</g>
+    <g>K2</g>
+    <g>K3</g>
+    <g>K4</g>
+    <g>L</g>
+    <g>L0</g>
+    <g>L0a1</g>
+    <g>L1</g>
+    <g>L1a</g>
+    <g>L1b</g>
+    <g>L1c</g>
+    <g>L1c1</g>
+    <g>L1c2</g>
+    <g>L1c3</g>
+    <g>L1e</g>
+    <g>L2</g>
+    <g>L2a</g>
+    <g>L2a1</g>
+    <g>L2b</g>
+    <g>L2c</g>
+    <g>L2c2</g>
+    <g>L2d</g>
+    <g>L2d1</g>
+    <g>L2f</g>
+    <g>L3</g>
+    <g>L3a</g>
+    <g>L3b</g>
+    <g>L3d</g>
+    <g>L3d1</g>
+    <g>L3e</g>
+    <g>L3e1</g>
+    <g>L3e2</g>
+    <g>L3e2b</g>
+    <g>L3e3</g>
+    <g>L3f</g>
+    <g>M</g>
+    <g>M1</g>
+    <g>M1a</g>
+    <g>M1a1</g>
+    <g>M1a2</g>
+    <g>M1b</g>
+    <g>M1b1</g>
+    <g>M1b1a</g>
+    <g>M1b1b</g>
+    <g>M2</g>
+    <g>M2a</g>
+    <g>M3</g>
+    <g>N</g>
+    <g>N1</g>
+    <g>N1a</g>
+    <g>N1b</g>
+    <g>N1b1</g>
+    <g>N1c</g>
+    <g>N1c1</g>
+    <g>N1c1a</g>
+    <g>N1c1b</g>
+    <g>N1c1c</g>
+    <g>N9a</g>
+    <g>O</g>
+    <g>O1</g>
+    <g>O1a</g>
+    <g>O1a1</g>
+    <g>O1a1a</g>
+    <g>O1a2</g>
+    <g>O2</g>
+    <g>O2a</g>
+    <g>O2a1</g>
+    <g>O2a1a</g>
+    <g>O2a2</g>
+    <g>O2b</g>
+    <g>O2b1</g>
+    <g>O3</g>
+    <g>O3a</g>
+    <g>O3a1</g>
+    <g>O3a2</g>
+    <g>O3a3</g>
+    <g>O3a3a</g>
+    <g>O3a3b</g>
+    <g>O3a3b1</g>
+    <g>O3a3b1a</g>
+    <g>O3a3b1b</g>
+    <g>O3a3b2</g>
+    <g>O3a3c</g>
+    <g>O3a3c1</g>
+    <g>O3a3c1a</g>
+    <g>O3a3c2</g>
+    <g>O3a4</g>
+    <g>O3a4a</g>
+    <g>O3a5</g>
+    <g>O3a6</g>
+    <g>Pre HV</g>
+    <g>Pre HV1</g>
+    <g>Pre HV2</g>
+    <g>Q</g>
+    <g>Q1</g>
+    <g>Q1a</g>
+    <g>Q1a1</g>
+    <g>Q1a2</g>
+    <g>Q1a3</g>
+    <g>Q1a3a</g>
+    <g>Q1a3a1</g>
+    <g>Q1a3a1a</g>
+    <g>Q1a3a1b</g>
+    <g>Q1a3a1c</g>
+    <g>Q1a3b</g>
+    <g>Q1b</g>
+    <g>Q1b1</g>    
+    <g>R</g>
+    <g>R0</g>
+    <g>R0a</g>
+    <g>R1</g>
+    <g>R1a</g>
+    <g>R1a1</g>
+    <g>R1a1a</g>
+    <g>R1a1a1</g>
+    <g>R1a1a1a</g>
+    <g>R1a1a1b</g>
+    <g>R1a1a1c</g>
+    <g>R1a1a1d</g>
+    <g>R1a1a1e</g>
+    <g>R1a1a1f</g>
+    <g>R1a1a1g</g>
+    <g>R1a1a1g1</g>
+    <g>R1a1a1g2</g>
+    <g>R1b</g>
+    <g>R1b1</g>
+    <g>R1b1a</g>
+    <g>R1b1a1</g>
+    <g>R1b1a2</g>
+    <g>R1b1a3</g>
+    <g>R1b1a3a</g>
+    <g>R1b1a4</g>
+    <g>R1b1b</g>
+    <g>R1b1b1</g>
+    <g>R1b1b2</g>
+    <g>R1b1b2a</g>
+    <g>R1b1b2a1</g>
+    <g>R1b1b2a1a</g>
+    <g>R1b1b2a1a1</g>
+    <g>R1b1b2a1a1a</g>
+    <g>R1b1b2a1a1b</g>
+    <g>R1b1b2a1a1c</g>
+    <g>R1b1b2a1a1d</g>
+    <g>R1b1b2a1a1d1</g>
+    <g>R1b1b2a1a1d1a</g>
+    <g>R1b1b2a1a1d1a1</g>
+    <g>R1b1b2a1a1d2</g>
+    <g>R1b1b2a1a1e</g>
+    <g>R1b1b2a1a2</g>
+    <g>R1b1b2a1a2a</g>
+    <g>R1b1b2a1a2b</g>
+    <g>R1b1b2a1a2c</g>
+    <g>R1b1b2a1a2d</g>
+    <g>R1b1b2a1a2d1</g>
+    <g>R1b1b2a1a2d2</g>
+    <g>R1b1b2a1a2d3</g>
+    <g>R1b1b2a1a2d3a</g>
+    <g>R1b1b2a1a2d4</g>
+    <g>R1b1b2a1a2e</g>
+    <g>R1b1b2a1a2f</g>
+    <g>R1b1b2a1a2f1</g>
+    <g>R1b1b2a1a2f2</g>
+    <g>R1b1b2a1a2f3</g>
+    <g>R1b1b2a1a2f4</g>
+    <g>R1b1b2a1a2f5</g>
+    <g>R1b1b2a1a2f6</g>
+    <g>R1b1c</g>
+    <g>R2</g>
+    <g>R2a</g>    
+    <g>S</g>
+    <g>S1</g>
+    <g>S1a</g>
+    <g>S1b</g>
+    <g>S1c</g>
+    <g>S1d</g>
+    <g>T</g>
+    <g>T1</g>
+    <g>T2</g>
+    <g>T2a</g>
+    <g>T2a1</g>
+    <g>T2b</g>
+    <g>T3</g>
+    <g>T4</g>
+    <g>T5</g>
+    <g>U</g>
+    <g>U1</g>
+    <g>U1a</g>
+    <g>U1b</g>
+    <g>U2</g>
+    <g>U2e</g>
+    <g>U3</g>
+    <g>U3a</g>
+    <g>U3b</g>
+    <g>U4</g>
+    <g>U5</g>
+    <g>U5a</g>
+    <g>U5a1</g>
+    <g>U5a1a</g>
+    <g>U5b</g>
+    <g>U5b1</g>
+    <g>U5b1b</g>
+    <g>U5b2</g>
+    <g>U6</g>
+    <g>U6a</g>
+    <g>U6a1</g>
+    <g>U6b</g>
+    <g>U7</g>
+    <g>U8</g>
+    <g>U8a</g>
+    <g>V</g>
+    <g>W</g>
+    <g>X</g>
+    <g>X2</g>
+    <g>X2b</g>
+    <g>Y</g>
+    <g>Z</g>
+  </haplogroups>
+
+
+  <providers>
+    <provider>
+      <name>Ancestry</name>
+      <image>Ancestry.jpg</image>
+      <url>http://bit.ly/FTB5DNA01</url>
+      <test>
+        <name>Ancestry's Advanced Paternal Lineage test (Y-Chromosome 33)</name>
+        <description>Paternal Lineage Test (Y-Chromosome 33) helps you connect with living relatives and possibly add them to your family tree.</description>
+        <m>DYS 19a/394a</m>
+        <m>DYS 19b/394b</m>
+        <m>DYS 385a</m>
+        <m>DYS 385b</m>
+        <m>DYS 388</m>
+        <m>DYS 389-1</m>
+        <m>DYS 389-2</m>
+        <m>DYS 390</m>
+        <m>DYS 391</m>
+        <m>DYS 392</m>
+        <m>DYS 393</m>
+        <m>DYS 426</m>
+        <m>DYS 438</m>
+        <m>DYS 439</m>
+        <m>DYS 441</m>
+        <m>DYS 447</m>
+        <m>DYS 448</m>
+        <m>DYS 449</m>
+        <m>DYS 454</m>
+        <m>DYS 455</m>
+        <m>DYS 458</m>
+        <m>DYS 460</m>
+        <m>DYS 461</m>
+        <m>DYS 463</m>
+        <m>DYS 464a</m>
+        <m>DYS 464b</m>
+        <m>DYS 464c</m>
+        <m>DYS 464d</m>
+        <m>DYS 464e</m>
+        <m>DYS 464f</m>
+        <m>DYS 464g</m>
+        <m>YCA IIa</m>
+        <m>YCA IIb</m>
+        <m>Y-GATA-H4</m>
+      </test>
+
+      <test>
+        <name>Ancestry's Advanced Paternal Lineage test (Y-Chromosome 46)</name>
+        <description>The Advanced Paternal Test (Y-Chromosome 46) helps you connect with living relatives and possibly add them to your family tree.</description>
+        <m>DYS 19a/394a</m>
+        <m>DYS 19b/394b</m>
+        <m>DYS 385a</m>
+        <m>DYS 385b</m>
+        <m>DYS 388</m>
+        <m>DYS 389-1</m>
+        <m>DYS 389-2</m>
+        <m>DYS 390</m>
+        <m>DYS 391</m>
+        <m>DYS 392</m>
+        <m>DYS 393</m>
+        <m>DYS 426</m>
+        <m>DYS 438</m>
+        <m>DYS 439</m>
+        <m>DYS 441</m>
+        <m>DYS 447</m>
+        <m>DYS 448</m>
+        <m>DYS 449</m>
+        <m>DYS 454</m>
+        <m>DYS 455</m>
+        <m>DYS 458</m>
+        <m>DYS 460</m>
+        <m>DYS 461</m>
+        <m>DYS 463</m>
+        <m>DYS 464a</m>
+        <m>DYS 464b</m>
+        <m>DYS 464c</m>
+        <m>DYS 464d</m>
+        <m>DYS 464e</m>
+        <m>DYS 464f</m>
+        <m>DYS 464g</m>
+        <m>YCA IIa</m>
+        <m>YCA IIb</m>
+        <m>Y-GATA-H4</m>
+        <m>DYS 437</m>
+        <m>DYS 442</m>
+        <m>DYS 444</m>
+        <m>DYS 445</m>
+        <m>DYS 446</m>
+        <m>DYS 452</m>
+        <m>DYS 456</m>
+        <m>DYS 459a</m>
+        <m>DYS 459b</m>
+        <m>DYS 462</m>
+        <m>GGAAT1B07</m>
+        <m>DYS 635</m>
+        <m>Y-GATA-A10</m>
+        </test>
+        
+        <test>
+        <name>Maternal Lineage DNA Test (mtDNA)</name>
+        <description>Maternal Lineage tests are derived from mitochondrial DNA (mtDNA) which is passed from a mother to her male and female children. Thus mtDNA is a powerful investigative tool for researching the maternal line and identifying one's maternal ancient ancestry.</description>
+        <group>
+          <name>HVR1</name>
+          <m>R1</m>
+          <m>R2</m>
+          <m>R3</m>
+          <m>R4</m>
+          <m>R5</m>
+          <m>R6</m>
+          <m>R7</m>
+          <m>R8</m>
+          <m>R9</m>
+          <m>R10</m>
+        </group>
+        <group>
+          <name>HVR2</name>
+          <m>R1</m>
+          <m>R2</m>
+          <m>R3</m>
+          <m>R4</m>
+          <m>R5</m>
+          <m>R6</m>
+          <m>R7</m>
+          <m>R8</m>
+          <m>R9</m>
+          <m>R10</m>
+        </group>
+        <group>
+          <name>HVR3</name>
+          <m>R1</m>
+          <m>R2</m>
+          <m>R3</m>
+          <m>R4</m>
+          <m>R5</m>
+          <m>R6</m>
+          <m>R7</m>
+          <m>R8</m>
+          <m>R9</m>
+          <m>R10</m>
+        </group>
+      </test>              
+    </provider>
+
+    <provider>
+      <name>Ancestry by DNA</name>
+      <image>Ancestrybydna.jpg</image>
+      <url>http://bit.ly/FTB5DNA02</url>
+      <test>
+        <name>Ancestry by DNA DNAPrint STR Map</name>
+        <description>The paternal lineage test is based on the fact that the Y chromosome is passed down from father to child relatively unchanged.</description>
+        <m>D8S1179</m>
+        <m>D21S11</m>
+        <m>D7S820</m>
+        <m>CSF1PO</m>
+        <m>D3S1358</m>
+        <m>TH01</m>
+        <m>D13S317</m>
+        <m>D16S539</m>
+        <m>D2S1338</m>
+        <m>D19S433</m>
+        <m>vWA</m>
+        <m>TPOX</m>
+        <m>D18S51</m>
+        <m>AMEL</m>
+        <m>D5S818</m>
+        <m>FGA</m>
+      </test>
+      
+      <test>
+        <name>Maternal Lineage (mtDNA) Testing</name>
+        <description>The maternal lineage test is based on the fact that mitochondrial DNA is passed down from mother to child relatively unchanged through several generations. This mitochondrial DNA test contains markers that can be traced to early ancestors and where they settled thousands of years ago.</description>
+        <group>
+          <name>HVR1</name>
+          <m>R1</m>
+          <m>R2</m>
+          <m>R3</m>
+          <m>R4</m>
+          <m>R5</m>
+          <m>R6</m>
+          <m>R7</m>
+          <m>R8</m>
+          <m>R9</m>
+          <m>R10</m>
+        </group>
+        <group>
+          <name>HVR2</name>
+          <m>R1</m>
+          <m>R2</m>
+          <m>R3</m>
+          <m>R4</m>
+          <m>R5</m>
+          <m>R6</m>
+          <m>R7</m>
+          <m>R8</m>
+          <m>R9</m>
+          <m>R10</m>
+        </group>
+        <group>
+          <name>HVR3</name>
+          <m>R1</m>
+          <m>R2</m>
+          <m>R3</m>
+          <m>R4</m>
+          <m>R5</m>
+          <m>R6</m>
+          <m>R7</m>
+          <m>R8</m>
+          <m>R9</m>
+          <m>R10</m>
+        </group>
+      </test>      
+    </provider>
+
+    <provider>
+      <name>DNAconsultants</name>
+      <image>dnaconsultants.jpg</image>
+      <url>http://bit.ly/FTB5DNA04</url>
+      <test>
+        <name>Fingerprint Test</name>
+        <description>The DNA Fingerprint autosomal Test computes the likelihood of its matches on the basis of contemporary populations, to tell you which countries and ethnic groups your ancestors came from. Your DNA Fingerprint can also help explain the origin of physical traits that you or your relatives may possess.</description>
+        <m>D8S1179</m>
+        <m>D21S11</m>
+        <m>D7S820</m>
+        <m>CSFIPO</m>
+        <m>D3S1358</m>
+        <m>THO1</m>
+        <m>D13S317</m>
+        <m>D16S539</m>
+        <m>D2S1338</m>
+        <m>D19S433</m>
+        <m>VWA</m>
+        <m>TPOX</m>
+        <m>D18S51</m>
+        <m>D5S818</m>
+        <m>FGA</m>
+      </test>
+    </provider>
+
+    <provider>
+      <name>DNA Heritage</name>
+      <image>DNAHeritage.jpg</image>
+      <url>http://bit.ly/FTB5DNA05</url>
+      <test>
+        <name>DNA Heritage Y-DNA 23 Marker Test</name>
+        <description>Y-chromosome SNP tests in a hierarchical manner testing from the very root of the Y-Chromosome Tree. The test will define which Y-chromosome haplogroup you are in.</description>
+        <m>DYS 389-1</m>
+        <m>DYS 389-2</m>
+        <m>DYS 390</m>
+        <m>DYS 391</m>
+        <m>DYS 392</m>
+        <m>DYS 437</m>
+        <m>DYS 438</m>
+        <m>DYS 439</m>
+        <m>DYS 441</m>
+        <m>DYS 444</m>
+        <m>DYS 446</m>
+        <m>DYS 447</m>
+        <m>DYS 448</m>
+        <m>DYS 449</m>
+        <m>DYS 452</m>
+        <m>DYS 456</m>
+        <m>DYS 458</m>
+        <m>DYS 460</m>
+        <m>DYS 463</m>
+        <m>GATA A10</m>
+        <m>GATAC4/DYS635</m>
+        <m>TAGAH4</m>
+        <m>GGAAT1BO7</m>
+      </test>
+
+      <test>
+        <name>DNA Heritage Y-DNA 43 Marker Test</name>
+        <description>Y-chromosome SNP tests in a hierarchical manner testing from the very root of the Y-Chromosome Tree. The test will define which Y-chromosome haplogroup you are in.</description>
+        <m>DYS 389-1</m>
+        <m>DYS 389-2</m>
+        <m>DYS 390</m>
+        <m>DYS 391</m>
+        <m>DYS 392</m>
+        <m>DYS 437</m>
+        <m>DYS 438</m>
+        <m>DYS 439</m>
+        <m>DYS 441</m>
+        <m>DYS 444</m>
+        <m>DYS 446</m>
+        <m>DYS 447</m>
+        <m>DYS 448</m>
+        <m>DYS 449</m>
+        <m>DYS 452</m>
+        <m>DYS 456</m>
+        <m>DYS 458</m>
+        <m>DYS 460</m>
+        <m>DYS 463</m>
+        <m>GATA A10</m>
+        <m>GATAC4/DYS635</m>
+        <m>TAGAH4</m>
+        <m>GGAAT1BO7</m>
+        <m>DYS 19/394</m>
+        <m>DYS 385a</m>
+        <m>DYS 385b</m>
+        <m>DYS 388</m>
+        <m>DYS 393</m>
+        <m>DYS 426</m>
+        <m>DYS 442</m>
+        <m>DYS 445</m>
+        <m>DYS 454</m>
+        <m>DYS 455</m>
+        <m>DYS 459a</m>
+        <m>DYS 459b</m>
+        <m>DYS 461</m>
+        <m>DYS 462</m>
+        <m>DYS 464a</m>
+        <m>DYS 464b</m>
+        <m>DYS 464c</m>
+        <m>DYS 464d</m>
+        <m>DYS 464e</m>
+        <m>DYS 464f</m>
+        <m>DYS 464g</m>
+        <m>YCA IIa</m>
+        <m>YCA IIb</m>
+      </test>
+
+      <test>
+        <name>DNA Heritage Y-DNA 58 Marker Test</name>
+        <description>Y-chromosome SNP tests in a hierarchical manner testing from the very root of the Y-Chromosome Tree. The test will define which Y-chromosome haplogroup you are in.</description>
+        <m>DYS 389-1</m>
+        <m>DYS 389-2</m>
+        <m>DYS 390</m>
+        <m>DYS 391</m>
+        <m>DYS 392</m>
+        <m>DYS 437</m>
+        <m>DYS 438</m>
+        <m>DYS 439</m>
+        <m>DYS 441</m>
+        <m>DYS 444</m>
+        <m>DYS 446</m>
+        <m>DYS 447</m>
+        <m>DYS 448</m>
+        <m>DYS 449</m>
+        <m>DYS 452</m>
+        <m>DYS 456</m>
+        <m>DYS 458</m>
+        <m>DYS 460</m>
+        <m>DYS 463</m>
+        <m>GATA A10</m>
+        <m>GATAC4/DYS635</m>
+        <m>TAGAH4</m>
+        <m>GGAAT1BO7</m>
+        <m>DYS 19/394</m>
+        <m>DYS 385a</m>
+        <m>DYS 385b</m>
+        <m>DYS 388</m>
+        <m>DYS 393</m>
+        <m>DYS 426</m>
+        <m>DYS 442</m>
+        <m>DYS 445</m>
+        <m>DYS 454</m>
+        <m>DYS 455</m>
+        <m>DYS 459a</m>
+        <m>DYS 459b</m>
+        <m>DYS 461</m>
+        <m>DYS 462</m>
+        <m>DYS 464a</m>
+        <m>DYS 464b</m>
+        <m>DYS 464c</m>
+        <m>DYS 464d</m>
+        <m>DYS 464e</m>
+        <m>DYS 464f</m>
+        <m>DYS 464g</m>
+        <m>YCA IIa</m>
+        <m>YCA IIb</m>
+        <m>DYS 481</m>
+        <m>DYS 527b</m>
+        <m>DYS 570</m>
+        <m>DYS 643</m>
+        <m>DYS 508</m>
+        <m>DYS 549</m>
+        <m>DYS 576</m>
+        <m>DYS 724a</m>
+        <m>DYS 522</m>
+        <m>DYS 552</m>
+        <m>DYS 607</m>
+        <m>DYS 724b</m>
+        <m>DYS 527a</m>
+        <m>DYS 552.1</m>
+        <m>DYS 627</m>
+      </test>
+      
+      <test>
+        <name>Maternal Roots Test</name>
+        <description>HVR 1, 2 and 3 regions are all sequenced, compared against the revised Cambridge Reference Sequence (CRS). From this the test predicts your mtDNA haplogroup and provides a report containing up-to-date, PhD researched information and maps.</description>
+        <group>
+          <name>HVR1</name>
+          <m>R1</m>
+          <m>R2</m>
+          <m>R3</m>
+          <m>R4</m>
+          <m>R5</m>
+          <m>R6</m>
+          <m>R7</m>
+          <m>R8</m>
+          <m>R9</m>
+          <m>R10</m>
+        </group>
+        <group>
+          <name>HVR2</name>
+          <m>R1</m>
+          <m>R2</m>
+          <m>R3</m>
+          <m>R4</m>
+          <m>R5</m>
+          <m>R6</m>
+          <m>R7</m>
+          <m>R8</m>
+          <m>R9</m>
+          <m>R10</m>
+        </group>
+        <group>
+          <name>HVR3</name>
+          <m>R1</m>
+          <m>R2</m>
+          <m>R3</m>
+          <m>R4</m>
+          <m>R5</m>
+          <m>R6</m>
+          <m>R7</m>
+          <m>R8</m>
+          <m>R9</m>
+          <m>R10</m>
+        </group>
+      </test>      
+    </provider>
+  
+  
+    <provider>
+      <name>DNA Tribes</name>
+      <image>DNATribes.jpg</image>
+      <url>http://bit.ly/FTB5DNA06</url>
+      <test>
+        <name>DNA Tribes 15-Marker Standard Kit test</name>
+        <description>DNA test for 15-Marker gives you the option to compare your DNA to populations and regions around the world.</description>
+        <m>CSF1PO</m>
+        <m>D13S317</m>
+        <m>D16S539</m>
+        <m>D18S51</m>
+        <m>D21S11</m>
+        <m>D3S1358</m>
+        <m>D5S818</m>
+        <m>D7S820</m>
+        <m>D8S1179</m>
+        <m>FGA</m>
+        <m>TH01</m>
+        <m>TPOX</m>
+        <m>vWA</m>
+        <m>Penta D</m>
+        <m>Penta E</m>
+      </test>
+
+      <test>
+        <name>DNA Tribes 21-Marker Standard Kit test</name>
+        <description>DNA test for 21-Marker gives you the option to compare your DNA to populations and regions around the world.</description>
+        <m>CSF1PO</m>
+        <m>D13S317</m>
+        <m>D16S539</m>
+        <m>D18S51</m>
+        <m>D21S11</m>
+        <m>D3S1358</m>
+        <m>D5S818</m>
+        <m>D7S820</m>
+        <m>D8S1179</m>
+        <m>FGA</m>
+        <m>TH01</m>
+        <m>TPOX</m>
+        <m>vWA</m>
+        <m>Penta D</m>
+        <m>Penta E</m>
+        <m>D2S1338</m>
+        <m>D19S433</m>
+        <m>F13A1</m>
+        <m>F13B</m>
+        <m>FES/FPS</m>
+        <m>LPL</m>
+      </test>
+
+      <test>
+        <name>DNA Tribes 27-Marker Standard Kit test</name>
+        <description>DNA test for 27-Marker gives you the option to compare your DNA to populations and regions around the world.</description>
+        <m>CSF1PO</m>
+        <m>D13S317</m>
+        <m>D16S539</m>
+        <m>D18S51</m>
+        <m>D21S11</m>
+        <m>D3S1358</m>
+        <m>D5S818</m>
+        <m>D7S820</m>
+        <m>D8S1179</m>
+        <m>FGA</m>
+        <m>TH01</m>
+        <m>TPOX</m>
+        <m>vWA</m>
+        <m>Penta D</m>
+        <m>Penta E</m>
+        <m>D2S1338</m>
+        <m>D19S433</m>
+        <m>F13A1</m>
+        <m>F13B</m>
+        <m>FES/FPS</m>
+        <m>LPL</m>
+        <m>D10S1248</m>
+        <m>D12S391</m>
+        <m>D1S1656</m>
+        <m>D22S1045</m>
+        <m>D2S441</m>
+        <m>SE33</m>
+      </test>
+    </provider>
+
+    <provider>
+      <name>DNA Worldwide</name>
+      <image>dna-worldwide.jpg</image>
+      <url>http://bit.ly/FTB5DNA07</url>
+      <test>
+        <name>Paternal BRONZE (YDNA-12)</name>
+        <description>Find out about your deep ancestry roots. The result provides your deep roots (Y-Haplogroup) and 12 marker Y-DNA profile.
+</description>
+        <m>393</m>
+        <m>390</m>
+        <m>394</m>
+        <m>391</m>
+        <m>385a</m>
+        <m>385b</m>
+        <m>426</m>
+        <m>388</m>
+        <m>439</m>
+        <m>389i</m>
+        <m>392</m>
+        <m>389ii</m>
+      </test>
+      <test>
+        <name>Paternal SILVER (YDNA-25)</name>
+        <description>It will show if you share a common relative with annother male in near time. The result provides your deep roots (Y-Haplogroup) and 25 marker Y-DNA profile.
+</description>
+        <m>393</m>
+        <m>390</m>
+        <m>394</m>
+        <m>391</m>
+        <m>385a</m>
+        <m>385b</m>
+        <m>426</m>
+        <m>388</m>
+        <m>439</m>
+        <m>389i</m>
+        <m>392</m>
+        <m>389ii</m>
+        <m>458</m>
+        <m>459a</m>
+        <m>459b</m>
+        <m>455</m>
+        <m>454</m>
+        <m>447</m>
+        <m>437</m>
+        <m>448</m>
+        <m>449</m>
+        <m>464a</m>
+        <m>464b</m>
+        <m>464c</m>
+        <m>464d</m>
+        <m>464e</m>
+      </test>
+      <test>
+        <name>Paternal GOLD (YDNA-37)</name>
+        <description>The result provides your deep roots (Y-Haplogroup) and 37 marker Y-DNA profile.
+</description>
+        <m>393</m>
+        <m>390</m>
+        <m>394</m>
+        <m>391</m>
+        <m>385a</m>
+        <m>385b</m>
+        <m>426</m>
+        <m>388</m>
+        <m>439</m>
+        <m>389i</m>
+        <m>392</m>
+        <m>389ii</m>
+        <m>458</m>
+        <m>459a</m>
+        <m>459b</m>
+        <m>455</m>
+        <m>454</m>
+        <m>447</m>
+        <m>437</m>
+        <m>448</m>
+        <m>449</m>
+        <m>464a</m>
+        <m>464b</m>
+        <m>464c</m>
+        <m>464d</m>
+        <m>464e</m>
+        <m>460</m>
+        <m>GATA H4</m>
+        <m>YCA IIa</m>
+        <m>YCA IIb</m>
+        <m>456</m>
+        <m>607</m>
+        <m>576</m>
+        <m>570</m>
+        <m>CDY a</m>
+        <m>CDY b</m>
+        <m>442</m>
+        <m>438</m>
+      </test>
+      <test>
+        <name>Paternal PLATINUM (YDNA-67)</name>
+        <description>The Advanced Test allows you to see nearly exactly if two males shared a common ancestor in recent times with a very high degree of certainty.</description>
+        <m>393</m>
+        <m>390</m>
+        <m>394</m>
+        <m>391</m>
+        <m>385a</m>
+        <m>385b</m>
+        <m>426</m>
+        <m>388</m>
+        <m>439</m>
+        <m>389i</m>
+        <m>392</m>
+        <m>389ii</m>
+        <m>458</m>
+        <m>459a</m>
+        <m>459b</m>
+        <m>455</m>
+        <m>454</m>
+        <m>447</m>
+        <m>437</m>
+        <m>448</m>
+        <m>449</m>
+        <m>464a</m>
+        <m>464b</m>
+        <m>464c</m>
+        <m>464d</m>
+        <m>464e</m>
+        <m>460</m>
+        <m>GATA H4</m>
+        <m>YCA IIa</m>
+        <m>YCA IIb</m>
+        <m>456</m>
+        <m>607</m>
+        <m>576</m>
+        <m>570</m>
+        <m>CDY a</m>
+        <m>CDY b</m>
+        <m>442</m>
+        <m>438</m>
+        <m>531</m>
+        <m>578</m>
+        <m>395S1a</m>
+        <m>395S1b</m>
+        <m>590</m>
+        <m>537</m>
+        <m>641</m>
+        <m>472</m>
+        <m>406S1</m>
+        <m>511</m>
+        <m>425</m>
+        <m>413a</m>
+        <m>413b</m>
+        <m>557</m>
+        <m>594</m>
+        <m>436</m>
+        <m>490</m>
+        <m>534</m>
+        <m>450</m>
+        <m>444</m>
+        <m>481</m>
+        <m>520</m>
+        <m>446</m>
+        <m>617</m>
+        <m>568</m>
+        <m>487</m>
+        <m>572</m>
+        <m>640</m>
+        <m>492</m>
+        <m>565</m>
+      </test>
+      <test>
+        <name>Maternal - BRONZE - Deep Roots (mtDNA)</name>
+        <description>Detailed testing on your direct female line to establish your ancestry group (haplogroup).</description>
+        <group>
+          <name>HVR1</name>
+          <m>R1</m>
+          <m>R2</m>
+          <m>R3</m>
+          <m>R4</m>
+          <m>R5</m>
+          <m>R6</m>
+          <m>R7</m>
+          <m>R8</m>
+          <m>R9</m>
+          <m>R10</m>
+        </group>
+        <group>
+          <name>HVR2</name>
+          <m>R1</m>
+          <m>R2</m>
+          <m>R3</m>
+          <m>R4</m>
+          <m>R5</m>
+          <m>R6</m>
+          <m>R7</m>
+          <m>R8</m>
+          <m>R9</m>
+          <m>R10</m>
+        </group>
+      </test>      
+      <test>
+        <name>Maternal - GOLD - Deep Roots + Relatives (mtDNAFull)</name>
+        <description>Your deep ancestry plus your full mtDNA sequenced. This provides the most detailed information to establish if two people are closely related.</description>
+        <group>
+          <name>HVR1</name>
+          <m>R1</m>
+          <m>R2</m>
+          <m>R3</m>
+          <m>R4</m>
+          <m>R5</m>
+          <m>R6</m>
+          <m>R7</m>
+          <m>R8</m>
+          <m>R9</m>
+          <m>R10</m>
+        </group>
+        <group>
+          <name>HVR2</name>
+          <m>R1</m>
+          <m>R2</m>
+          <m>R3</m>
+          <m>R4</m>
+          <m>R5</m>
+          <m>R6</m>
+          <m>R7</m>
+          <m>R8</m>
+          <m>R9</m>
+          <m>R10</m>
+        </group>
+        <group>
+          <name>HVR3</name>
+          <m>R1</m>
+          <m>R2</m>
+          <m>R3</m>
+          <m>R4</m>
+          <m>R5</m>
+          <m>R6</m>
+          <m>R7</m>
+          <m>R8</m>
+          <m>R9</m>
+          <m>R10</m>
+        </group>
+      </test>
+    </provider>
+     
+    <provider>
+      <name>EthnoAncestry</name>
+      <image>EthnoAncestry.jpg</image>
+      <url>http://bit.ly/FTB5DNA08</url>
+      <test>
+        <name>Haploview Complete Y-Chromosome DNA Test</name>
+        <description>These 20 markers generate a high resolution Y chromosome haplotype which allows identification of related matches sharing recent common ancestry. The standard 12 markers are included here supplemented with other markers which aid identification of haplogroups and interesting subgroups for deep ancestral origins.</description>
+        <m>DYS 19</m>
+        <m>DYS 385a</m>
+        <m>DYS 385b</m>
+        <m>DYS 388</m>
+        <m>DYS 390</m>
+        <m>DYS 391</m>
+        <m>DYS 392</m>
+        <m>DYS 393</m>
+        <m>DYS 426</m>
+        <m>DYS 437</m>
+        <m>DYS 438</m>
+        <m>DYS 439</m>
+        <m>DYS 449</m>
+        <m>DYS 458</m>
+        <m>DYS 461</m>
+        <m>DYS 462</m>
+        <m>YCA IIa</m>
+        <m>YCA IIb</m>
+        <m>YGATA C4</m>
+        <m>YGATA H4</m>
+      </test>
+      <test>
+        <name>Haploview-mtDNA</name>
+        <description>This test traces your maternal lineage using a segment of DNA known as mitochondrial DNA or mtDNA which is passed down from mother to child. Ethnoancestry tests a very variable section of the mtDNA (hypervariable region 1), which allows different lineages to be distinguished.</description>
+        <group>
+          <name>HVR1</name>
+          <m>R1</m>
+          <m>R2</m>
+          <m>R3</m>
+          <m>R4</m>
+          <m>R5</m>
+          <m>R6</m>
+          <m>R7</m>
+          <m>R8</m>
+          <m>R9</m>
+          <m>R10</m>
+        </group>
+      </test> 
+    </provider>
+  
+    <provider>
+      <name>FamilyTree DNA</name>
+      <image>FamilyTreeDNA.jpg</image>
+      <url>http://bit.ly/FTB5DNA09</url>
+      <test>
+        <name>FamilyTree DNA Y-DNA 12 Marker Test</name>
+        <description>This test is the world standard to verify the Y chromosome for genetic matches between males.</description>
+        <m>393</m>
+        <m>390</m>
+        <m>19</m>
+        <m>391</m>
+        <m>385a</m>
+        <m>385b</m>
+        <m>426</m>
+        <m>388</m>
+        <m>439</m>
+        <m>389i</m>
+        <m>392</m>
+        <m>389ii</m>
+      </test>
+      <test>
+        <name>FamilyTree DNA Y-DNAPlus 25 Marker Test</name>
+        <description>A perfect match of 25 markers means a lesser number of generations before 2 individuals shared a commong ancestor.</description>
+        <m>393</m>
+        <m>390</m>
+        <m>19</m>
+        <m>391</m>
+        <m>385a</m>
+        <m>385b</m>
+        <m>426</m>
+        <m>388</m>
+        <m>439</m>
+        <m>389i</m>
+        <m>392</m>
+        <m>389ii</m>
+        <m>458</m>
+        <m>459a</m>
+        <m>459b</m>
+        <m>455</m>
+        <m>454</m>
+        <m>447</m>
+        <m>437</m>
+        <m>448</m>
+        <m>449</m>
+        <m>464a</m>
+        <m>464b</m>
+        <m>464c</m>
+        <m>464d</m>
+        <m>464e</m>
+      </test>
+      <test>
+        <name>FamilyTree DNA Y-DNA 37 Marker Test</name>
+        <description>A high resolution Y-DNA test. A perfect match means sharing a commong ancestor in the last few generations.</description>
+        <m>393</m>
+        <m>390</m>
+        <m>19</m>
+        <m>391</m>
+        <m>385a</m>
+        <m>385b</m>
+        <m>426</m>
+        <m>388</m>
+        <m>439</m>
+        <m>389i</m>
+        <m>392</m>
+        <m>389ii</m>
+        <m>458</m>
+        <m>459a</m>
+        <m>459b</m>
+        <m>455</m>
+        <m>454</m>
+        <m>447</m>
+        <m>437</m>
+        <m>448</m>
+        <m>449</m>
+        <m>464a</m>
+        <m>464b</m>
+        <m>464c</m>
+        <m>464d</m>
+        <m>464e</m>
+        <m>460</m>
+        <m>GATA H4</m>
+        <m>YCA IIa</m>
+        <m>YCA IIb</m>
+        <m>456</m>
+        <m>607</m>
+        <m>576</m>
+        <m>570</m>
+        <m>CDY a</m>
+        <m>CDY b</m>
+        <m>442</m>
+        <m>438</m>
+      </test>
+      <test>
+        <name>FamilyTree DNA Y-DNA 67 Marker Test</name>
+        <description>A high resolution Y-DNA test. A perfect match means sharing a commong ancestor in the last few generations.</description>
+        <m>393</m>
+        <m>390</m>
+        <m>19</m>
+        <m>391</m>
+        <m>385a</m>
+        <m>385b</m>
+        <m>426</m>
+        <m>388</m>
+        <m>439</m>
+        <m>389i</m>
+        <m>392</m>
+        <m>389ii</m>
+        <m>458</m>
+        <m>459a</m>
+        <m>459b</m>
+        <m>455</m>
+        <m>454</m>
+        <m>447</m>
+        <m>437</m>
+        <m>448</m>
+        <m>449</m>
+        <m>464a</m>
+        <m>464b</m>
+        <m>464c</m>
+        <m>464d</m>
+        <m>464e</m>
+        <m>460</m>
+        <m>GATA H4</m>
+        <m>YCA IIa</m>
+        <m>YCA IIb</m>
+        <m>456</m>
+        <m>607</m>
+        <m>576</m>
+        <m>570</m>
+        <m>CDY a</m>
+        <m>CDY b</m>
+        <m>442</m>
+        <m>438</m>
+        <m>531</m>
+        <m>578</m>
+        <m>395S1a</m>
+        <m>395S1b</m>
+        <m>590</m>
+        <m>537</m>
+        <m>641</m>
+        <m>472</m>
+        <m>406S1</m>
+        <m>511</m>
+        <m>425</m>
+        <m>413a</m>
+        <m>413b</m>
+        <m>557</m>
+        <m>594</m>
+        <m>436</m>
+        <m>490</m>
+        <m>534</m>
+        <m>450</m>
+        <m>444</m>
+        <m>481</m>
+        <m>520</m>
+        <m>446</m>
+        <m>617</m>
+        <m>568</m>
+        <m>487</m>
+        <m>572</m>
+        <m>640</m>
+        <m>492</m>
+        <m>565</m>
+      </test>
+      <test>
+        <name>FamilyTree DNA Y-DNA 111 Marker Test</name>
+        <description>A high resolution Y-DNA test. A perfect match means sharing a commong ancestor in the last few generations.</description>
+        <m>393</m>
+        <m>390</m>
+        <m>19</m>
+        <m>391</m>
+        <m>385a</m>
+        <m>385b</m>
+        <m>426</m>
+        <m>388</m>
+        <m>439</m>
+        <m>389i</m>
+        <m>392</m>
+        <m>389ii</m>
+        <m>458</m>
+        <m>459a</m>
+        <m>459b</m>
+        <m>455</m>
+        <m>454</m>
+        <m>447</m>
+        <m>437</m>
+        <m>448</m>
+        <m>449</m>
+        <m>464a</m>
+        <m>464b</m>
+        <m>464c</m>
+        <m>464d</m>
+        <m>464e</m>
+        <m>460</m>
+        <m>GATA H4</m>
+        <m>YCA IIa</m>
+        <m>YCA IIb</m>
+        <m>456</m>
+        <m>607</m>
+        <m>576</m>
+        <m>570</m>
+        <m>CDY a</m>
+        <m>CDY b</m>
+        <m>442</m>
+        <m>438</m>
+        <m>531</m>
+        <m>578</m>
+        <m>395S1a</m>
+        <m>395S1b</m>
+        <m>590</m>
+        <m>537</m>
+        <m>641</m>
+        <m>472</m>
+        <m>406S1</m>
+        <m>511</m>
+        <m>425</m>
+        <m>413a</m>
+        <m>413b</m>
+        <m>557</m>
+        <m>594</m>
+        <m>436</m>
+        <m>490</m>
+        <m>534</m>
+        <m>450</m>
+        <m>444</m>
+        <m>481</m>
+        <m>520</m>
+        <m>446</m>
+        <m>617</m>
+        <m>568</m>
+        <m>487</m>
+        <m>572</m>
+        <m>640</m>
+        <m>492</m>
+        <m>565</m>
+        <m>710</m>
+        <m>485</m>
+        <m>632</m>
+        <m>495</m>
+        <m>540</m>
+        <m>714</m>
+        <m>716</m>
+        <m>717</m>
+        <m>505</m>
+        <m>556</m>
+        <m>549</m>
+        <m>589</m>
+        <m>522</m>
+        <m>494</m>
+        <m>533</m>
+        <m>636</m>
+        <m>575</m>
+        <m>638</m>
+        <m>462</m>
+        <m>452</m>
+        <m>445</m>
+        <m>GATAA10</m>
+        <m>463</m>
+        <m>441</m>
+        <m>GGAAT1B07</m>
+        <m>525</m>
+        <m>712</m>
+        <m>593</m>
+        <m>650</m>
+        <m>532</m>
+        <m>715</m>
+        <m>504</m>
+        <m>513</m>
+        <m>561</m>
+        <m>552</m>
+        <m>726</m>
+        <m>635</m>
+        <m>587</m>
+        <m>643</m>
+        <m>497</m>
+        <m>510</m>
+        <m>434</m>
+        <m>461</m>
+        <m>435</m>
+      </test>
+      <test>
+        <name>X-STR DNA tests for siblingship (Panel 1)</name>
+        <description>This is a set of six X-chromosome short tandem repeat, STR.</description>
+        <m>DXS10011</m>
+        <m>DXS10066</m>
+        <m>DXS10067</m>
+        <m>DXS10068</m>
+        <m>DXS10069</m>
+        <m>DXS10131</m>
+      </test>
+      <test>
+        <name>X-STR DNA tests for siblingship (Panel 1 and Panel 2)</name>
+        <description>This is a set of seventeen X-chromosome short tandem repeat, STR.</description>
+        <m>DXS10011</m>
+        <m>DXS10066</m>
+        <m>DXS10067</m>
+        <m>DXS10068</m>
+        <m>DXS10069</m>
+        <m>DXS10131</m>
+        <m>DXS10074</m>
+        <m>DXS10075</m>
+        <m>DXS10077</m>
+        <m>DXS10079</m>
+        <m>DXS10132</m>
+        <m>DXS6807</m>
+        <m>DXS7132</m>
+        <m>DXS7423</m>
+        <m>DXS8377</m>
+        <m>DXS981</m>
+        <m>HPRTB</m>
+      </test>
+      <test>
+        <name>FamilyTree DNA mtDNA Basic</name>
+        <description>This test traces the direct maternal line without influence from other lines. This test is for HVR1(16001-16569) of the mitochondrial DNA and both men and women may take it.</description>
+        <group>
+          <name>HVR1</name>
+          <m>R1</m>
+          <m>R2</m>
+          <m>R3</m>
+          <m>R4</m>
+          <m>R5</m>
+          <m>R6</m>
+          <m>R7</m>
+          <m>R8</m>
+          <m>R9</m>
+          <m>R10</m>
+        </group>
+      </test>      
+      <test>
+        <name>FamilyTree DNA mtDNA Plus</name>
+        <description>This test traces the direct maternal line without influence from other lines. This test is for HVR1(16001-16569) and HVR2(00001-00574) of the mitochondrial DNA. Adding HVR2 reduces the number of false matches. Both men and women may take it.</description>
+        <group>
+          <name>HVR1</name>
+          <m>R1</m>
+          <m>R2</m>
+          <m>R3</m>
+          <m>R4</m>
+          <m>R5</m>
+          <m>R6</m>
+          <m>R7</m>
+          <m>R8</m>
+          <m>R9</m>
+          <m>R10</m>
+        </group>
+        <group>
+          <name>HVR2</name>
+          <m>R1</m>
+          <m>R2</m>
+          <m>R3</m>
+          <m>R4</m>
+          <m>R5</m>
+          <m>R6</m>
+          <m>R7</m>
+          <m>R8</m>
+          <m>R9</m>
+          <m>R10</m>
+        </group>
+      </test>      
+      <test>
+        <name>FamilyTree DNA mtDNA Full Sequence</name>
+        <description>This test exclusively traces the direct maternal line without influence from other lines. This test is for all three regions of the mitochondrial DNA: HVR1 (16001-16569), HVR2 (00001-00574), and the coding region (00575-16000). The entire mitochondrial genome is tested. Both men and women may take it.</description>
+        <group>
+          <name>HVR1</name>
+          <m>R1</m>
+          <m>R2</m>
+          <m>R3</m>
+          <m>R4</m>
+          <m>R5</m>
+          <m>R6</m>
+          <m>R7</m>
+          <m>R8</m>
+          <m>R9</m>
+          <m>R10</m>
+        </group>
+        <group>
+          <name>HVR2</name>
+          <m>R1</m>
+          <m>R2</m>
+          <m>R3</m>
+          <m>R4</m>
+          <m>R5</m>
+          <m>R6</m>
+          <m>R7</m>
+          <m>R8</m>
+          <m>R9</m>
+          <m>R10</m>
+        </group>
+        <group>
+          <name>Coding Region</name>
+          <m>R1</m>
+          <m>R2</m>
+          <m>R3</m>
+          <m>R4</m>
+          <m>R5</m>
+          <m>R6</m>
+          <m>R7</m>
+          <m>R8</m>
+          <m>R9</m>
+          <m>R10</m>
+          <m>R11</m>
+          <m>R12</m>
+          <m>R13</m>
+          <m>R14</m>
+          <m>R15</m>
+          <m>R16</m>
+          <m>R17</m>
+          <m>R18</m>
+          <m>R19</m>
+          <m>R20</m>
+          <m>R21</m>
+          <m>R22</m>
+          <m>R23</m>
+          <m>R24</m>
+          <m>R25</m>
+          <m>R26</m>
+          <m>R27</m>
+          <m>R28</m>
+          <m>R29</m>
+          <m>R30</m>
+        </group>
+      </test>      
+    </provider>
+
+    <provider>
+      <name>Genetree</name>
+      <image>Genetree.jpg</image>
+      <url>http://bit.ly/FTB5DNA10</url>
+      <test>
+        <name>Enhanced Paternal Lineage Test (Y-DNA 46 marker)</name>
+        <description>The Y chromosome follows the paternal line. In western cultures, this is the same path as the surname. Any man with a matching genetic profile is considered your paternal relative. Find genetic cousins and learn about ancient paternal ancestry.</description>
+        <m>DYS 19/394a</m>
+        <m>DYS 19/394b</m>
+        <m>DYS 385a</m>
+        <m>DYS 385b</m>
+        <m>DYS 388</m>
+        <m>DYS 389I</m>
+        <m>DYS 389II</m>
+        <m>DYS 390</m>
+        <m>DYS 391</m>
+        <m>DYS 392</m>
+        <m>DYS 393</m>
+        <m>DYS 426</m>
+        <m>DYS 437</m>
+        <m>DYS 438</m>
+        <m>DYS 439</m>
+        <m>DYS 441</m>
+        <m>DYS 442</m>
+        <m>DYS 444</m>
+        <m>DYS 445</m>
+        <m>DYS 446</m>
+        <m>DYS 447</m>
+        <m>DYS 448</m>
+        <m>DYS 449</m>
+        <m>DYS 452</m>
+        <m>DYS 454</m>
+        <m>DYS 455</m>
+        <m>DYS 456</m>
+        <m>DYS 458</m>
+        <m>DYS 459a</m>
+        <m>DYS 459b</m>
+        <m>DYS 460</m>
+        <m>DYS 461</m>
+        <m>DYS 462</m>
+        <m>DYS 463</m>
+        <m>DYS 464a</m>
+        <m>DYS 464b</m>
+        <m>DYS 464c</m>
+        <m>DYS 464d</m>
+        <m>DYS 464e</m>
+        <m>DYS 464f</m>
+        <m>DYS 464g</m>
+        <m>GGAAT1B07</m>
+        <m>YCA IIa</m>
+        <m>YCA IIb</m>
+        <m>Y-GATA-A10</m>
+        <m>Y-GATA-C4/DYS 635</m>
+        <m>Y-GATA-H4</m>
+      </test>
+      <test>
+        <name>Enhanced Maternal Lineage Test (mtDNA HVR-1,2,3)</name>
+        <description>The mtDNA testing is an ideal way to find out more information about your direct maternal lineage. Any individual with a matching genetic profile can be considered your maternal relative. Discover the early human migrations of your maternal line and connect with those sharing your maternal ancestry.</description>
+        <group>
+          <name>HVR1</name>
+          <m>R1</m>
+          <m>R2</m>
+          <m>R3</m>
+          <m>R4</m>
+          <m>R5</m>
+          <m>R6</m>
+          <m>R7</m>
+          <m>R8</m>
+          <m>R9</m>
+          <m>R10</m>
+        </group>
+        <group>
+          <name>HVR2</name>
+          <m>R1</m>
+          <m>R2</m>
+          <m>R3</m>
+          <m>R4</m>
+          <m>R5</m>
+          <m>R6</m>
+          <m>R7</m>
+          <m>R8</m>
+          <m>R9</m>
+          <m>R10</m>
+        </group>
+        <group>
+          <name>HVR3</name>
+          <m>R1</m>
+          <m>R2</m>
+          <m>R3</m>
+          <m>R4</m>
+          <m>R5</m>
+          <m>R6</m>
+          <m>R7</m>
+          <m>R8</m>
+          <m>R9</m>
+          <m>R10</m>
+        </group>
+      </test>      
+    </provider>
+
+   <provider>
+      <name>IBDNA</name>
+      <image>IBDNA.jpg</image>
+      <url>http://bit.ly/FTB5DNA11</url>
+      <test>
+        <name>Ancestral Origins - Ancestry by DNA test</name>
+        <description>This test can tell you where on earth your ancestors originated and travelled, your unique geographical and racial heritage. Discover your GeoGenetic links with populations around the world.</description>
+        <m>D3S1358</m>
+        <m>TH01</m>
+        <m>D21S11</m>
+        <m>D18S51</m>
+        <m>Penta E</m>
+        <m>D5S818</m>
+        <m>D13S317</m>
+        <m>D7S820</m>
+        <m>D16S539</m>
+        <m>CSF1PO</m>
+        <m>Penta D</m>
+        <m>vWA</m>
+        <m>D8S1179</m>
+        <m>TPOX</m>
+        <m>FGA</m>
+      </test>
+    </provider>
+
+    <provider>
+      <name>Oxford Ancestors</name>
+      <image>OxfordAncestors.jpg</image>
+      <url>http://bit.ly/FTB5DNA12</url>
+      <test>
+        <name>Oxford Ancestors Y Clan analysis 15-marker test</name>
+        <description>DNA analysis-based determination of 15-digit Y-Clan signature allowing assessment of ancient paternal clan. In addition the 15-digit signature can be used as an aid to genealogical research.</description>
+        <m>DYS 19</m>
+        <m>DYS 385a</m>
+        <m>DYS 385b</m>
+        <m>DYS 388</m>
+        <m>DYS 389-1</m>
+        <m>DYS 389-2</m>
+        <m>DYS 390</m>
+        <m>DYS 391</m>
+        <m>DYS 392</m>
+        <m>DYS 393</m>
+        <m>DYS 425</m>
+        <m>DYS 426</m>
+        <m>DYS 437</m>
+        <m>DYS 438</m>
+        <m>DYS 439</m>
+      </test>
+      
+      <test>
+        <name>MatriLine DNA Service </name>
+        <description>The MatriLine service gives you the opportunity to establish the personal link between you and your ancestral clan mother. There are currently 36 identified clan mothers who cover the whole of humanity. The test establishes to which clan mother you are related, incuding information about how and when she lived.</description>
+        <group>
+          <name>HVR1</name>
+          <m>R1</m>
+          <m>R2</m>
+          <m>R3</m>
+          <m>R4</m>
+          <m>R5</m>
+          <m>R6</m>
+          <m>R7</m>
+          <m>R8</m>
+          <m>R9</m>
+          <m>R10</m>
+        </group>
+        <group>
+          <name>HVR2</name>
+          <m>R1</m>
+          <m>R2</m>
+          <m>R3</m>
+          <m>R4</m>
+          <m>R5</m>
+          <m>R6</m>
+          <m>R7</m>
+          <m>R8</m>
+          <m>R9</m>
+          <m>R10</m>
+        </group>
+        <group>
+          <name>HVR3</name>
+          <m>R1</m>
+          <m>R2</m>
+          <m>R3</m>
+          <m>R4</m>
+          <m>R5</m>
+          <m>R6</m>
+          <m>R7</m>
+          <m>R8</m>
+          <m>R9</m>
+          <m>R10</m>
+        </group>
+      </test>      
+    </provider>
+
+    <provider>
+      <name>Relative Genetics</name>
+      <image>RelativeGenetics.jpg</image>
+      <url>http://bit.ly/FTB5DNA13</url>
+            <test>
+        <name>Family Tree Pruner - 18 Marker Test</name>
+        <description>The Family Tree Pruner's primary purpose is to determine if branches can be eliminated from your family tree. If you have a common surname or are simply trying to find out if you are related to a specific group.</description>
+        <m>DYS 19/394</m>
+        <m>DYS 385a</m>
+        <m>DYS 385b</m>
+        <m>DYS 388</m>
+        <m>DYS 389-1</m>
+        <m>DYS 389-2</m>
+        <m>DYS 390</m>
+        <m>DYS 391</m>
+        <m>DYS 392</m>
+        <m>DYS 426</m>
+        <m>DYS 438</m>
+        <m>DYS 439</m>
+        <m>DYS 447</m>
+        <m>DYS 448</m>
+        <m>DYS 460</m>
+        <m>YCA IIa</m>
+        <m>YCA IIb</m>
+        <m>Y-GATA-H4</m>
+      </test>
+      <test>
+        <name>Family Line Verifier - 26 Marker Test</name>
+        <description>The Family Line Verifier will verify relationships along your paternal family line. </description>
+        <m>DYS 19/394</m>
+        <m>DYS 385a</m>
+        <m>DYS 385b</m>
+        <m>DYS 388</m>
+        <m>DYS 389-1</m>
+        <m>DYS 389-2</m>
+        <m>DYS 390</m>
+        <m>DYS 391</m>
+        <m>DYS 392</m>
+        <m>DYS 393</m>
+        <m>DYS 426</m>
+        <m>DYS 437</m>
+        <m>DYS 438</m>
+        <m>DYS 439</m>
+        <m>DYS 447</m>
+        <m>DYS 454</m>
+        <m>DYS 455</m>
+        <m>DYS 460</m>
+        <m>DYS 461</m>
+        <m>DYS 462</m>
+        <m>GGAAT1B07</m>
+        <m>YCA IIa</m>
+        <m>YCA IIb</m>
+        <m>Y-GATA-A10</m>
+        <m>Y-GATA-C4/DYS635</m>
+        <m>Y-GATA-H4</m>
+      </test>
+      <test>
+        <name>Lineage Establisher - 43 Marker Test</name>
+        <description>The Lineage Establisher can help to establish lineages and answer specific questions within your family group.</description>
+        <m>DYS 19/394</m>
+        <m>DYS 385a</m>
+        <m>DYS 385b</m>
+        <m>DYS 388</m>
+        <m>DYS 389-1</m>
+        <m>DYS 389-2</m>
+        <m>DYS 390</m>
+        <m>DYS 391</m>
+        <m>DYS 392</m>
+        <m>DYS 393</m>
+        <m>DYS 426</m>
+        <m>DYS 437</m>
+        <m>DYS 438</m>
+        <m>DYS 439</m>
+        <m>DYS 441</m>
+        <m>DYS 442</m>
+        <m>DYS 444</m>
+        <m>DYS 445</m>
+        <m>DYS 446</m>
+        <m>DYS 447</m>
+        <m>DYS 448</m>
+        <m>DYS 449</m>
+        <m>DYS 452</m>
+        <m>DYS 454</m>
+        <m>DYS 455</m>
+        <m>DYS 456</m>
+        <m>DYS 458</m>
+        <m>DYS 459a</m>
+        <m>DYS 459b</m>
+        <m>DYS 460</m>
+        <m>DYS 461</m>
+        <m>DYS 462</m>
+        <m>DYS 463</m>
+        <m>DYS 464a</m>
+        <m>DYS 464b</m>
+        <m>DYS 464c</m>
+        <m>DYS 464d</m>
+        <m>DYS 464e</m>
+        <m>DYS 464f</m>
+        <m>DYS 464g</m>
+        <m>GGAAT1B07</m>
+        <m>YCA IIa</m>
+        <m>YCA IIb</m>
+        <m>Y-GATA-A10</m>
+        <m>Y-GATA-C4/DYS635</m>
+        <m>Y-GATA-H4</m>
+      </test>
+    </provider>
+  </providers>
+</dna>  

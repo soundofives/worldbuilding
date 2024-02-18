@@ -1,0 +1,223 @@
+
+MAKING A GAME DYNAMIC DESPITE STATIC PLAYER CHARACTERS
+------------------------------------------------------
+Leveling up presents issues for me, so...
+ • aquire new items
+	- they're character modifiers, essentially
+	- may create _slight_ shift in tactics, but
+	  mostly act to slightly emphasize existing
+	  tactics
+	  e.g., with a +1 damage on a sword, you'll
+		still just be hitting people with the
+		sword. no big tactical shift
+ • aquire new party members
+	- they're player tools, essentially
+	- could potentially create large tactical shifts
+	  e.g., you now have a sneak theif
+	  e.g., you now have a hulk
+	  e.g., you now have a diplomat
+	  e.g., you now have a vulnerable child (ha!)
+	  e.g., you now have a large number of unruly midgets (??)
+ • discover new locations
+	- new enemies!
+	  e.g., or are they friends...?
+	  e.g., bears will tend to charge you
+	  e.g., thieves will steal your money and try to run
+	  e.g., salamander-men will strike from the water,
+		retreat, and strike again--over and over
+	  e.g., goblins will pester you in large groups
+	- new terrain!
+	  e.g., frequent bog fights
+	  e.g., fighting near ledges and drop-offs
+	  e.g., fighting near civilians
+ • develop relationships with people
+	- befriend a village!
+	- piss off a village!
+ • put the character in interesting scenarios occasionally
+   (not long-term dynamic, but it's ALL temporary, really!)
+	- player captured and stripped -- no weapons!
+	- player has to fight mind control (mwah ha)
+	- player stranded in the wilderness
+	- take away player's party (party is split up)
+
+
+
+
+
+
+
+SMART FIGHTER
+-------------
+Focus on skills and feats.
+Rogue/Fighter multiclasser.
+Tries to stick to sneaking, but can also
+  do breaking-and-entering, and can, to
+  a degree, be fearsome in a fight. They
+  are not required to be able to last out
+  a prolonged battle, though--just be able
+  to present a challenge in a short struggle.
+Effective hit die: 1d8
+Effective skill growth: 5 + int modifier
+Effective base attack bonus: between 'good' and 'average'
+Bonus feat every fourth level
+Proficiency with all simple and martial weapons,
+  all shields, and all armour.
+Special sneak attack.
+Ability priorities:
+  int, str, dex, con, wis, cha
+Intelligence boosts skills constantly
+  (especially when leveling as a fighter),
+  strength lets the character threaten
+  enemies with tactical manuvers like
+  bull rushes, trips, and grapples,
+  and dexterity provides them with
+  the natural armour that they won't
+  get via armour. Strength and dexterity
+  also boost various athletic skills.
+  Constitution isn't a bad thing, to
+  help live a bit longer (especially
+  when leveling with a rogue's hit die),
+  and wisdom boosts spot and listen
+  checks, among other things. Charisma
+  is almost useless.
+It's almost a necessity, for this character,
+  to be medium-sized--grapples and the like
+  are virtually useless to small characters.
+
+For a purer skill- and feat-based approach, humans would
+  do excellently. Though they don't technically have
+  any ability modifiers, their extra skill point per
+  level is nearly as good as a boost to intelligence,
+  and their bonus feat could go toward improved grapple
+  or some such thing to more reliably open up combat as
+  a valid option.
+
+One little addition would be adding first-level
+  barbarian to the mix of classes. This would
+  let the character rage once per day, allowing
+  them to tactically resort to straight-up combat.
+  This would not be their ussual mode of operation,
+  but it would leave the option open--the whole
+  point of this build, really. Being a first-
+  level barbarian would also let this character
+  move somewhat faster than normal, which could
+  strongly improve the efficacy of breaking-and-
+  entering strategies, as well as improve sneaking
+  and climbing speed.
+This could be accomplished without an XP penalty
+  by using a half-orc character. Compared with
+  other races, half-orcs have no special skill
+  bonuses, and they also penalize intelligence--
+  the most important of this character's abilities.
+  They also boost strength, however, which is the
+  second most important ability, so a slightly lower
+  roll could be accepted there than would otherwise
+  be desirable.
+Overall, this would weigh strategy in favor of using
+  straight violence more often, but it would make sure
+  that the option would be at least left open in more
+  scenarios.
+
+Elves may do, but I do not believe that they are an excellent
+  fit for this build. Their ability modifiers both affect
+  abilites not held in great or little regard by this
+  character--dexterity and constitution. It is nice that
+  they put dexterity before constitution, as this build does,
+  but neither is a huge worry.
+Should more focus be put on ranged combat and defensive
+  fighting, though, elves should do well. They would not
+  build feats like improved grapple and the like much more
+  slowly than humans, and they would have an immediate boost
+  to a variety of skills related to dexterity and perception.
+  It would also leave the option open to put a level or two
+  into wizardry--this has not been considered yet, but,
+  for players who enjoy possessing magical powers, this could
+  be nice.
+
+Halflings may also work, should much more focus be put into
+  sneaking than fighting. Grappling and the like will be
+  nearly impossible without the appropriate feats, which
+  could take some time to acrue, and smaller creatures do
+  less damage with their weapons. They can hit more often,
+  however, and cannot be hit as often--the only worry about
+  this (as with the elf) is that this will create a pestering
+  style of combat, which could go on for a while, and this
+  build should not be able to handle such prolonged, engaged
+  combat very well (prolonged combat with the sole purpose
+  of distracting the enemy is acceptable, however). The boost
+  to dexterity over strength is somewhat aggrivating, but
+  not so much as a half-orc's intelligence penalty.
+
+Some feats (in order of approximate priority):
+	Improved Unarmed Strike (worst-case prepared) [if dex > 12]
+	Improved Grapple (poor man's EVERYTHING) [if dex > 12]
+	Power Attack (frickin' awesome)
+	Weapon Focus (very versatile with power attack and combat expertise)
+	Combat Expertise (versatile, but not commonly useful)
+	Improved Disarm (poor man's pickpocket)
+	Dodge (no-armour AC boost)
+	Improved Overrun (poor man's trip) [move way up if dex < 13]
+	Improved Bull Rush (because) [move way up if dex < 13]
+	Run (because)
+	Weapon specialization + focus + stuff
+
+
+
+
+BLIND CHARACTER
+---------------
+Dwarven Cleric/Barbarian and lvl 1 Fighter
+	Domains Earth and Fire
+Feats:	Blind-Fight (consider modification)
+	Improved Unarmed Strike
+	Improved Grapple
+	Combat Reflexes
+	Power Attack
+	Toughness
+Ability Priorities:
+	wis, con, str, cha, int, dex*
+	* move as high as neccessary to make at least 13
+Gear:
+	Weapons and Armour:
+	  Quarterstaff		: --
+	  Spiked gauntlets (×2)	: 10 g
+	  Morningstar		:  8 g
+	  Tower shield		: 30 g
+	  Scale Mail		: 50 g
+			total	: 98 g
+	Other:
+	  --stuff--
+Blindness:
+	Everyone else has total concealment (they can
+	  be approximately located by winning a listen
+	  vs. move silently check and pinpointed by
+	  beating that by 20. If you are attacked--even
+	  if you're not hit--by an enemy, you automatically
+	  pinpoint them. In general, consult 'invisibility'
+	  in the DM's Guide).
+	Eternally flat-footed*.
+	-4 penalty to AC
+	-4 penalty to search checks
+	Must move at half speed or with long stick to avoid
+	  bumping into things
+	+2 bonus to listen checks
+	In general, has difficulty doing things that require
+	  sight (such as making spot checks)
+	* can still make attacks of opportunity with
+	  'Combat Reflexes' feat; 'Uncanny dodge' gives
+	  back dex bonus to AC.
+Style:
+The end goal, in most fights, will be to grapple the enemy.
+  That way, their total concealment can't take effect. Cowering
+  behind the tower shield for TOTAL COVER (they can't hit you,
+  even melee attacks) to get to combat could help, and, once there,
+  swinging wildly with the morningstar could help locate the square
+  an enemy is in. The morningstar could also help when facing
+  many smaller enemies. When raging, the typical thing to do
+  would be alternate between dual-handing the morning star--using
+  lots of power attacks--and grappling. Heavy armour and high
+  hit points help compensate for being blind, typically, but
+  caution is generally abandoned when raging. When not raging,
+  touch attacks--such as 'inflict' spells or 'produce fire'--
+  can help deal damage. Area spells like 'flaming hands' and
+  'spike stones' can also help.

@@ -1,0 +1,52 @@
+
+[FTBBanner]
+
+"languageName","Greek"
+"languageCode","EL"
+"tools_options_toggle","Εμφάνιση ανακοινώσεων MyHeritage"
+
+[FTBSync]
+
+"languageName","Greek"
+"languageCode","EL"
+"SYNC_status_on_different_tree_size F","Η ηλεκτρονική έκδοση του οικογενειακού σας δέντρου έχει περισσότερα άτομα από το Family Tree Builder λογισμικό σας.\nΟ συγχρονισμός ματαιώθηκε για να αποφευχθεί η απώλεια δεδομένων."
+"SYNC_status_on_different_tree_size M","Η ηλεκτρονική έκδοση του οικογενειακού σας δέντρου έχει περισσότερα άτομα από το Family Tree Builder λογισμικό σας.\nΟ συγχρονισμός ματαιώθηκε για να αποφευχθεί η απώλεια δεδομένων."
+"SYNC_status_short_on_different_tree_size F","Το ηλεκτρονικό δέντρο έχει περισσότερα άτομα από το FTB."
+"SYNC_status_short_on_different_tree_size M","Το ηλεκτρονικό δέντρο έχει περισσότερα άτομα από το FTB."
+"SYNC_title_on_different_tree_size","Προειδοποίηση πιθανής απώλειας δεδομένων"
+"SYNC_warn_on_different_tree_size F","Ο συγχρονισμός που πρόκειται να κάνετε θα διαγράψει %d άτομα από το δέντρο σας.\nΑυτό συμβαίνει γιατί η τρέχουσα έκδοση του δέντρου στο Family Tree Builder λογισμικό σας έχει %d άτομα και το ηλεκτρονικό σας δέντρο έχει %d άτομα.\nΕάν προχωρήσετε, %d άτομα θα χαθούν.\n\nΕίστε σίγουροι ότι θέλετε να προχωρήσετε και να κάνετε τον συγχρονισμό;\nΑυτό δεν συνίσταται, εκτός αν είστε σίγουροι ότι θέλετε να μειώσετε το μέγεθος του δέντρου σας."
+"SYNC_warn_on_different_tree_size M","Ο συγχρονισμός που πρόκειται να κάνετε θα διαγράψει %d άτομα από το δέντρο σας.\nΑυτό συμβαίνει γιατί η τρέχουσα έκδοση του δέντρου στο Family Tree Builder λογισμικό σας έχει %d άτομα και το ηλεκτρονικό σας δέντρο έχει %d άτομα.\nΕάν προχωρήσετε, %d άτομα θα χαθούν.\n\nΕίστε σίγουροι ότι θέλετε να προχωρήσετε και να κάνετε τον συγχρονισμό;\nΑυτό δεν συνίσταται, εκτός αν είστε σίγουροι ότι θέλετε να μειώσετε το μέγεθος του δέντρου σας."
+
+[FTBInColor]
+
+"languageName","Greek"
+"languageCode","EL"
+"IntroScreen_Body","DO NOT TRANSLATE"
+"IntroScreen_ColorizeButtonCaption","Χρωματισμός"
+"IntroScreen_Footer","DO NOT TRANSLATE"
+"IntroScreen_GotitButtonCaption","DO NOT TRANSLATE"
+"IntroScreen_Title","DO NOT TRANSLATE"
+
+[Subscription]
+
+"UpgradeDlgInColorBullet","DO NOT TRANSLATE"
+
+[FTBGedcomWizard]
+
+"languageName","Greek"
+"languageCode","EL"
+
+[CheckerItemTypes]
+
+"CheckerItemTypes_DuplicatedIndGuid","Αντίθεση μεταξύ ατόμων"
+
+[FamilyConnections]
+
+"FamilyConnections_DuplicatedIndividual","’τομο: Το %PERSON1% δεν είναι σωστά αποθηκευμένο και βρίσκεται σε αντίθεση με το ’τομο: %PERSON2%."
+"FamilyConnections_DuplicatedIndividualTip","Αυτά τα δυο άτομα εξέχουν στο έργο σας. Για να επιλύσετε αυτήν την αντίθεση, σκεφτείτε να διαγράψετε το ένα από τα δύο άτομα."
+
+[GWExportGedcomFinish]
+
+"GWExportGedcomFinish_FailedOnDuplication","Το έργο σας περιέχει μερικές οικογένειες ή άτομα, που δεν είναι σωστά αποθηκευμένα. Αυτές οι οντότητες εξέχουν στο έργο σας. Οι αντιθέσεις αυτές μπορεί να προκλήθηκαν εξ αιτίας κάποιου προσωρινού σφάλματος δεδομένων και αποτρέπουν την εξαγωγή σε GEDCOM. Για περεταίρω συνδρομή παρακαλούμε επισκεφθείτε το %help_center%"
+"GWExportGedcomFinish_HelpCenterLinkTitle","Κέντρο Βοήθειας"
+"GWExportGedcomFinish_WarnOnExport","Το έργο σας περιέχει μερικές οικογένειες ή άτομα, που δεν είναι σωστά αποθηκευμένα. Αυτές οι οντότητες εξέχουν στο έργο σας. Οι αντιθέσεις αυτές μπορεί να προκλήθηκαν εξ αιτίας κάποιου προσωρινού σφάλματος δεδομένων. Το παραχθέν GEDCOM δεν είναι έγκυρο και μπορεί να αντανακλά λανθασμένες σχέσεις. Για περεταίρω συνδρομή παρακαλούμε επισκεφθείτε το %help_center%"

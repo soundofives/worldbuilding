@@ -1,0 +1,52 @@
+
+[FTBBanner]
+
+"languageName","Russian"
+"languageCode","RU"
+"tools_options_toggle","Показывать уведомления от MyHeritage"
+
+[FTBSync]
+
+"languageName","Russian"
+"languageCode","RU"
+"SYNC_status_on_different_tree_size F","В онлайн версии Вашего семейного древа содержится больше людей чем в версии программы Family Tree Builder.\nСинхронизация приостановлена для предотвращения потери данных."
+"SYNC_status_on_different_tree_size M","В онлайн версии Вашего семейного древа содержится больше людей чем в версии программы Family Tree Builder.\nСинхронизация приостановлена для предотвращения потери данных."
+"SYNC_status_short_on_different_tree_size F","В онлайн древе больше людей, чем в локальном."
+"SYNC_status_short_on_different_tree_size M","В онлайн древе больше людей, чем в локальном."
+"SYNC_title_on_different_tree_size","Предупреждение о потенциальной потере данных"
+"SYNC_warn_on_different_tree_size F","Синхронизация, которую Вы собираетесь запустить, удалит %d человек(-а) из Вашего древа.\nЭто связано с тем, что текущая версия древа в программе Family Tree Builder содержит %d человек(-а), а онлайн версия содержит %d человек(-а).\nЕсли Вы решите продолжить, данные %d человек(-а) будут утеряны.\n\nВы действительно хотите продолжить и произвести синхронизацию?\nЭто рекомендуется сделать только если Вы уверены, что хотите уменьшить размер дерева."
+"SYNC_warn_on_different_tree_size M","Синхронизация, которую Вы собираетесь запустить, удалит %d человек(-а) из Вашего древа.\nЭто связано с тем, что текущая версия древа в программе Family Tree Builder содержит %d человек(-а), а онлайн версия содержит %d человек(-а).\nЕсли Вы решите продолжить, данные %d человек(-а) будут утеряны.\n\nВы действительно хотите продолжить и произвести синхронизацию?\nЭто рекомендуется сделать только если Вы уверены, что хотите уменьшить размер дерева."
+
+[FTBInColor]
+
+"languageName","Russian"
+"languageCode","RU"
+"IntroScreen_Body","DO NOT TRANSLATE"
+"IntroScreen_ColorizeButtonCaption","Раскрасить"
+"IntroScreen_Footer","DO NOT TRANSLATE"
+"IntroScreen_GotitButtonCaption","DO NOT TRANSLATE"
+"IntroScreen_Title","DO NOT TRANSLATE"
+
+[Subscription]
+
+"UpgradeDlgInColorBullet","DO NOT TRANSLATE"
+
+[FTBGedcomWizard]
+
+"languageName","Russian"
+"languageCode","RU"
+
+[CheckerItemTypes]
+
+"CheckerItemTypes_DuplicatedIndGuid","Конфликт данных о персонах"
+
+[FamilyConnections]
+
+"FamilyConnections_DuplicatedIndividual","Профиль &quot;%PERSON1%&quot; сохранён некорректно и конфликтует с &quot;%PERSON2%&quot;."
+"FamilyConnections_DuplicatedIndividualTip","В Вашем проекте повторяются 2 человека. Для устранения проблемы рассмотрите возможность удаления одного из них."
+
+[GWExportGedcomFinish]
+
+"GWExportGedcomFinish_FailedOnDuplication","Ваш проект содержит некорректно сохраненных людей или семьи, накладывающихся друг на друга. Конфликт мог быть вызван временной ошибкой в данных и не позволяет произвести экспорт в файл GEDCOM. Пожалуйста, посетите наш %help_center% для дополнительной помощи"
+"GWExportGedcomFinish_HelpCenterLinkTitle","центр помощи"
+"GWExportGedcomFinish_WarnOnExport","Ваш проект содержит некорректно сохраненных людей или семьи, накладывающихся друг на друга. Конфликт мог быть вызван временной ошибкой в данных. Результирующий файл GEDCOM невалиден и может содержать некорректные взаимоотношения. Пожалуйста, посетите наш %help_center% для дополнительной помощи"

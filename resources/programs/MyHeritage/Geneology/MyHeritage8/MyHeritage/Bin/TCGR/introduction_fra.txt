@@ -1,0 +1,178 @@
+﻿#SUBTITLESLEFT#
+
+!                     THIS SECTION REPORTS STATISTICS
+!                     ===============================
+#
+#SUBTITLE#STATISTIQUES
+#
+
+Ce document détaille la généalogie de <INDICOUNT> individus, dont <MALECOUNT> sont masculins et <FEMALECOUNT> sont féminins.__
+!
+! Check that each parameter, or parameter combination, exists before creating a text line
+! containing them.  If there were no people with both a birth date and a death date, there
+! will be no ages in the report and we do not want lines included which would include zeros.
+!
+{IF}<AGED>
+Pour les <AGED> individus dont les dates de naissance et de décès sont enregistrées, la durée de vie moyenne est de <AGEAVG> ans.__
+{ENDIF}
+
+{IF}<AGEDMALE><AGEDFEMALE>
+Elle est de <AGEAVGMALE> ans pour <AGEDMALE> hommes et de <AGEAVGFEMALE> ans pour <AGEDFEMALE> femmes.
+{ENDIF}
+
+#
+!
+! If there is only a Direct Relations section, we can just show the oldest male and
+! female without specifying a section...
+! (add two underscores after each "." to ensure that sentences are spaced correctly.)
+!
+{IF}DIRECTONLY<OLDESTMALE>
+L'homme ayant vécu le plus longtemps est <OLDESTMALE>, décédé à <OLDESTMALEAGE> ans.__ 
+{ENDIF}
+{IF}DIRECTONLY<OLDESTFEMALE>
+La femme ayant vécu le plus longtemps est <OLDESTFEMALE>, décédée à <OLDESTFEMALEAGE> ans.__
+{ENDIF}
+!
+! ...  otherwise, we will show the oldest male and female in each section that exists.
+! We combine these into a single sentence for each section to improve the flow of
+! readability.
+!
+! First the direct relations...  
+!
+!    1.  Each sentence segment is conditioned by {IF}INDIRECTORUNCONNECTED.
+!       We do not need this section if the preCeding block was included
+!    2.  The first segment is required if we have someone (M or F)
+!    3.  The second segment is required if we have a male
+!    4.  The third segment, ", and_" is required if we have both (M and F)
+!    5.  The fourth  segment is required if we have a female
+!    6.  The last segment, ".__" is required if we have someone (M or F)
+!
+{IF}INDIRECTORUNCONNECTED<OLDESTPERSONDIRECT>
+Dans la section "Relations Directes",_
+{ENDIF}
+{IF}INDIRECTORUNCONNECTED<OLDESTMALEDIRECT> 
+l'homme ayant vécu le plus longtemps est <OLDESTMALEDIRECT>, décédé à  <OLDESTMALEAGEDIRECT> ans
+{ENDIF}
+{IF}INDIRECTORUNCONNECTED<OLDESTMALEDIRECT><OLDESTFEMALEDIRECT> 
+, et_
+{ENDIF}
+{IF}INDIRECTORUNCONNECTED<OLDESTFEMALEDIRECT>
+la femme ayant vécu le plus longtemps est <OLDESTFEMALEDIRECT>, décédée à  <OLDESTFEMALEAGEDIRECT> ans
+{ENDIF}
+{IF}INDIRECTORUNCONNECTED<OLDESTPERSONDIRECT>
+.__
+{ENDIF}
+!
+! ...  then the indirect relations (if any such sections exist)...
+!
+{IF}INDIRECT<OLDESTPERSONINDIRECT>
+Dans la section "Relations Indirectes",_
+{ENDIF}
+{IF}INDIRECT<OLDESTMALEINDIRECT> 
+l'homme ayant vécu le plus longtemps est <OLDESTMALEINDIRECT>, décédé à  <OLDESTMALEAGEINDIRECT> ans
+{ENDIF}
+{IF}INDIRECT<OLDESTMALEINDIRECT><OLDESTFEMALEINDIRECT>
+, et_
+{ENDIF}
+{IF}INDIRECT<OLDESTFEMALEINDIRECT>
+la femme ayant vécu le plus longtemps est <OLDESTFEMALEINDIRECT>, décédée à <OLDESTFEMALEAGEINDIRECT> ans
+{ENDIF}
+{IF}INDIRECT<OLDESTPERSONINDIRECT>
+.__
+{ENDIF}
+!
+! ...  then the unconnected individuals (if any such sections exist).
+!
+{IF}UNCONNECTED<OLDESTPERSONUNCONNECTED>
+Dans la section "Section déconectée",_
+{ENDIF}
+{IF}UNCONNECTED<OLDESTMALEUNCONNECTED> 
+l'homme ayant vécu le plus longtemps est <OLDESTMALEUNCONNECTED>, décédé à <OLDESTMALEAGEUNCONNECTED> ans
+{ENDIF}
+{IF}UNCONNECTED<OLDESTMALEUNCONNECTED><OLDESTFEMALEUNCONNECTED>
+, et_
+{ENDIF}
+{IF}UNCONNECTED<OLDESTFEMALEUNCONNECTED>
+la femme ayant vécu le plus longtemps est <OLDESTFEMALEUNCONNECTED>, décédée à <OLDESTFEMALEAGEUNCONNECTED> ans
+{ENDIF}
+{IF}UNCONNECTED<OLDESTPERSONUNCONNECTED>
+.
+{ENDIF}
+!
+!
+! Include family statistics.  Just to be paranoid, we check that there are some families,
+! and separately check that some had children.
+!
+{IF}<FAMCOUNT> 
+#
+<FAMCOUNT> familles sont enregistrées.__
+{ENDIF}
+{IF}<FAMWITHCHILD>
+<FAMWITHCHILD> de ces familles sont recensées comme ayant des enfants, soit une moyenne de <FAMCHILDAVG> enfants par famille.
+{ENDIF}
+!
+#
+#
+#SUBTITLE#NARRATIFS
+#
+La section "Relations Directes" décrit les petits groupes d'individus qui ont une 
+relation directe de famille avec <SUBJECT>.  La section est découpée en sous-sections pour 
+chaque génération, dans laquelle les individus sont énumérés par ordre de proximité par 
+rapport à la personne étudiée.  Des numéros d'ordre sont employés dans tout le document 
+pour établir des renvois sur l'entrée détaillée d'un individu.
+!
+{IF}INDIRECT
+#
+Une section "Relations Indirectes" établit la liste des individus qui n'ont pas de relation directe de famille avec <SUBJECT>, mais qui ont des relations directes de famille avec un individu de la section "Relations Directes", ou dans une autre section 
+"Relations Indirectes".
+{ENDIF}
+!
+{IF}UNCONNECTED
+#
+Une section "Individus Déconnectés" établit la liste des individus qui n'ont pas une relation directe de famille avec <SUBJECT>, ni à l'individu indirectement relié à <SUBJECT>.
+{ENDIF}
+!
+!
+{IF}COUSINX
+#
+#
+#SUBTITLE#RELATIONS DE COUSINAGE
+#
+Les relations de cousinage sont déterminées par la distance (1 fois, 2 fois, 3 fois, etc.) et le nombre de générations d’écart.
+#
+La distance est déterminée à partir de l’individu désigné comme un de moins que le 
+nombre de générations précédentes pour rejoindre le premier ancêtre commun.  Si deux 
+personnes de la même génération ont en commun leurs arrière grands-parents (3 générations) ils sont 2 x cousins. 
+#
+Quand des cousins sont de génération différente, la distance qui les sépare de leur 
+ancêtre commun est différente.  S'il y a un décalage de génération (removal) on dira 
+qu’ils sont cousins avec x générations d’écart.
+#
+Ainsi, par exemple, si vous faites référence au fils de votre cousin, votre ancêtre commun est votre grand-père ; celui-ci sera 1x cousin à une génération d’écart.  Pour lui, son ancêtre commun est son arrière grand-père ; vous êtes donc 2x (deux fois) cousin à une génération d’écart.
+{ENDIF}
+!
+!
+{IF}FAMILYTREES
+#
+#
+#SUBTITLE#ARBRES DE FAMILLE
+#
+Chaque arbre montre une famille sur quatre générations : les enfants, les parents, les grands-parents et les arrière grands-parents recensées d'un groupe de famille.  Afin de réduire les redondances, toute famille qui est complètement incluse dans un autre arbre de famille ne sera pas traitée séparément.
+#
+La référence "..." au-dessus des arrière grands-parents, à gauche des grands-parents ou des parents ou en dessous des enfants se rapporte au numéro d’arbre de ces personnes (arbre qui comprend enfants, grands-parents et arrière grands-parents de ces personnes).
+{ENDIF}
+!
+{IF}FAMILYTREESMULTIPLEMARRIAGES
+#
+Dans les cas de mariages multiples, un numéro de référence précédé par "=" est 
+montré à la droite des parents.  Ce numéro référence l'arbre précédent et/ou prochain dans 
+lequel cet individu est montré associé à une autre personne.
+{ENDIF}
+!
+{IF}FAMILYTREESADOPTIONS
+#
+Dans les cas des enfants adoptés, le lien parental est montré avec un tiret et 
+un numéro de référence précédé par "=" est montré dans la boîte de l'individu.  Ce 
+nombre référence l'arbre dans lequel cet individu est montré avec ses parents normaux.
+{ENDIF}
+

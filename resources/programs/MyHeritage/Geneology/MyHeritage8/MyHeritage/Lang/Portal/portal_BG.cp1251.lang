@@ -1,0 +1,52 @@
+
+[FTBBanner]
+
+"languageName","Bulgarian"
+"languageCode","BG"
+"tools_options_toggle","Покажи обявленията от MyHeritage"
+
+[FTBSync]
+
+"languageName","Bulgarian"
+"languageCode","BG"
+"SYNC_status_on_different_tree_size F","Онлайн версията на вашето родословно дърво съдържа повече лица от версията във Family Tree Builder.\nСинхронизацията е прекъсната, за да се избегне загуба на данни."
+"SYNC_status_on_different_tree_size M","Онлайн версията на вашето родословно дърво съдържа повече лица от версията във Family Tree Builder.\nСинхронизацията е прекъсната, за да се избегне загуба на данни."
+"SYNC_status_short_on_different_tree_size F","Онлайн дървото съдържа повече лица от това във FTB."
+"SYNC_status_short_on_different_tree_size M","Онлайн дървото съдържа повече лица от това във FTB."
+"SYNC_title_on_different_tree_size","Предупреждение за потенциална загуба на данни"
+"SYNC_warn_on_different_tree_size F","Синхронизацията, която сте на път да завършите, ще изтрие %d лица от вашето онлайн родословно дърво.\nТова се дължи на факта, че настоящата версия на дървото ви във Family Tree Builder съдържа %d лица, а в онлайн дървото ви има %d лица.\nАко продължите, %d лица ще бъдат изгубени.\n\nСигурни ли сте, че искате да продължите и да завършите синхронизацията?\nТова не се препоръчва, освен ако не сте сигурни, че искате да намалите размера на родословното си дърво."
+"SYNC_warn_on_different_tree_size M","TODOСинхронизацията, която сте на път да завършите, ще изтрие %d лица от вашето онлайн родословно дърво.\nТова се дължи на факта, че настоящата версия на дървото ви във Family Tree Builder съдържа %d лица, а в онлайн дървото ви има %d лица.\nАко продължите, %d лица ще бъдат изгубени.\n\nСигурни ли сте, че искате да продължите и да завършите синхронизацията?\nТова не се препоръчва, освен ако не сте сигурни, че искате да намалите размера на родословното си дърво."
+
+[FTBInColor]
+
+"languageName","Bulgarian"
+"languageCode","BG"
+"IntroScreen_Body","DO NOT TRANSLATE"
+"IntroScreen_ColorizeButtonCaption","Оцвети"
+"IntroScreen_Footer","DO NOT TRANSLATE"
+"IntroScreen_GotitButtonCaption","DO NOT TRANSLATE"
+"IntroScreen_Title","DO NOT TRANSLATE"
+
+[Subscription]
+
+"UpgradeDlgInColorBullet","DO NOT TRANSLATE"
+
+[FTBGedcomWizard]
+
+"languageName","Bulgarian"
+"languageCode","BG"
+
+[CheckerItemTypes]
+
+"CheckerItemTypes_DuplicatedIndGuid","Противоречие между лицата"
+
+[FamilyConnections]
+
+"FamilyConnections_DuplicatedIndividual","Лицето %PERSON1% не е съхранено правилно и си противоречи с лицето %PERSON2%."
+"FamilyConnections_DuplicatedIndividualTip","Тези две лица се припокриват във вашия проект. За да избегнете противоречие, обмислете премахването на едно от двете лица."
+
+[GWExportGedcomFinish]
+
+"GWExportGedcomFinish_FailedOnDuplication","Вашият проект съдържа някои семейства или лица, които не са съхранени правилно. Тези профили се припокриват в проекта ви. Проблемът може да се дължи на временна грешка в базата данни и пречи на експортирането на GEDCOM файла. За по-нататъшна помощ, моля, посетете нашия %help_center%"
+"GWExportGedcomFinish_HelpCenterLinkTitle","Помощен център"
+"GWExportGedcomFinish_WarnOnExport","Вашият проект съдържа някои семейства или лица, които не са съхранени правилно. Тези профили се припокриват в проекта ви. Проблемът може да се дължи на временна грешка в базата данни. Изходният GEDCOM файл не е валиден и това може да се отрази в неправилно зададени семейни връзки. За по-нататъшна помощ, моля, посетете нашия %help_center%"

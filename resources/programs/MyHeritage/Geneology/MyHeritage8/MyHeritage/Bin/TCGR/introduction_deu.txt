@@ -1,0 +1,180 @@
+﻿#SUBTITLESLEFT#
+
+!                     THIS SECTION REPORTS STATISTICS
+!                     ===============================
+#
+#SUBTITLE#STATISTIKEN
+#
+
+Dieses Dokument enthält Einzelheiten von <INDICOUNT> Personen, von denen <MALECOUNT> männlich sind und <FEMALECOUNT> weiblich.__
+!
+! Check that each parameter, or parameter combination, exists before creating a text line
+! containing them. If there were no people with both a birth date and a death date, there
+! will be no ages in the report and we do not want lines included which would include zeros.
+!
+{IF}<AGED>
+Bei den <AGED> Personen mit gespeicherten Geburts- und Todesdaten, war die durchschnittliche Lebensdauer <AGEAVG> Jahre.__
+{ENDIF}
+
+{IF}<AGEDMALE><AGEDFEMALE>
+Davon waren <AGEDMALE> Männer mit durchschnittlich <AGEAVGMALE> Jahren und <AGEDFEMALE> Frauen mit durchschnittlich <AGEAVGFEMALE> Jahren.
+{ENDIF}
+
+#
+!
+! If there is only a Direct Relations section, we can just show the oldest male and
+! female without specifying a section...
+! (add two underscores after each "." to ensure that sentences are spaced correctly.)
+!
+{IF}DIRECTONLY<OLDESTMALE>
+Der älteste Mann war <OLDESTMALE>, er starb im Alter von <OLDESTMALEAGE> Jahren.__ 
+{ENDIF}
+{IF}DIRECTONLY<OLDESTFEMALE>
+Die älteste Frau war <OLDESTFEMALE>, sie starb im Alter von <OLDESTFEMALEAGE> Jahren.__
+{ENDIF}
+!
+! ... otherwise, we will show the oldest male and female in each section that exists.
+! We combine these into a single sentence for each section to improve the flow of
+! readability.
+!
+! First the direct relations... 
+!
+!    1. Each sentence segment is conditioned by {IF}INDIRECTORUNCONNECTED.
+!       We do not need this section if the preCeding block was included
+!    2. The first segment is required if we have someone (M or F)
+!    3. The second segment is required if we have a male
+!    4. The third segment, ", and_" is required if we have both (M and F)
+!    5. The fourth  segment is required if we have a female
+!    6. The last segment, ".__" is required if we have someone (M or F)
+!
+{IF}INDIRECTORUNCONNECTED<OLDESTPERSONDIRECT>
+Innerhalb des Abschnitts "Direkte Verwandte",_
+{ENDIF}
+{IF}INDIRECTORUNCONNECTED<OLDESTMALEDIRECT> 
+war der älteste Mann <OLDESTMALEDIRECT>, der im Alter von <OLDESTMALEAGEDIRECT> Jahren starb
+{ENDIF}
+{IF}INDIRECTORUNCONNECTED<OLDESTMALEDIRECT><OLDESTFEMALEDIRECT> 
+, und_
+{ENDIF}
+{IF}INDIRECTORUNCONNECTED<OLDESTFEMALEDIRECT>
+war die älteste Frau <OLDESTFEMALEDIRECT>, die im Alter von <OLDESTFEMALEAGEDIRECT> Jahren starb
+{ENDIF}
+{IF}INDIRECTORUNCONNECTED<OLDESTPERSONDIRECT>
+.__
+{ENDIF}
+!
+! ... then the indirect relations (if any such sections exist)...
+!
+{IF}INDIRECT<OLDESTPERSONINDIRECT>
+Unter den indirekten Verwandten,_
+{ENDIF}
+{IF}INDIRECT<OLDESTMALEINDIRECT> 
+war der älteste Mann <OLDESTMALEINDIRECT>, der im Alter von <OLDESTMALEAGEINDIRECT> Jahren starb
+{ENDIF}
+{IF}INDIRECT<OLDESTMALEINDIRECT><OLDESTFEMALEINDIRECT>
+, und_
+{ENDIF}
+{IF}INDIRECT<OLDESTFEMALEINDIRECT>
+war die älteste Frau <OLDESTFEMALEINDIRECT>, die im Alter von <OLDESTFEMALEAGEINDIRECT> Jahren starb
+{ENDIF}
+{IF}INDIRECT<OLDESTPERSONINDIRECT>
+.__
+{ENDIF}
+!
+! ... then the unconnected individuals (if any such sections exist).
+!
+{IF}UNCONNECTED<OLDESTPERSONUNCONNECTED>
+Unter den nicht verbundenen Personen,_
+{ENDIF}
+{IF}UNCONNECTED<OLDESTMALEUNCONNECTED> 
+war der älteste Mann <OLDESTMALEUNCONNECTED>, der im Alter von <OLDESTMALEAGEUNCONNECTED> Jahren starb
+{ENDIF}
+{IF}UNCONNECTED<OLDESTMALEUNCONNECTED><OLDESTFEMALEUNCONNECTED>
+, und_
+{ENDIF}
+{IF}UNCONNECTED<OLDESTFEMALEUNCONNECTED>
+die älteste Frau <OLDESTFEMALEUNCONNECTED>, die im Alter von <OLDESTFEMALEAGEUNCONNECTED> Jahren starb
+{ENDIF}
+{IF}UNCONNECTED<OLDESTPERSONUNCONNECTED>
+.
+{ENDIF}
+!
+!
+! Include family statistics.  Just to be paranoid, we check that there are some families,
+! and separately check that some had children.
+!
+{IF}<FAMCOUNT> 
+#
+Es wird über <FAMCOUNT> Familien berichtet.__
+{ENDIF}
+{IF}<FAMWITHCHILD>
+<FAMWITHCHILD> dieser Familien hatten Kinder, mit einem Durchschnitt von <FAMCHILDAVG> Kindern pro Familie.
+{ENDIF}
+!
+#
+#
+#SUBTITLE#DER ERZÄHLENDE BERICHT
+#
+Der Abschnitt "Direkte Verwandte" berichtet über die Einzelheiten der Personen, die eine direkte Familienverbindung zu <SUBJECT> haben. Der Abschnitt ist in Unterabschnitte für jede Generation unterteilt, innerhalb derer die Personen in der Reihenfolge ihrer verwandtschaftlichen Nähe aufgeführt sind. Die Ordnungsnummern werden überall im Bericht verwendet, um einen Querverweis zum Eintrag der Personeneinzelheiten zu haben.
+!
+{IF}INDIRECT
+#
+Der Abschnitt "Indirekte Verwandte" berichtet über die Einzelheiten der Personen, die keine direkte Familienverbindung zu <SUBJECT> haben, aber eine direkte Verbindung zu einer Person im Abschnitt "Direkte Verwandte" oder im Abschnitt "Indirekte Verwandte" haben.
+{ENDIF}
+!
+{IF}UNCONNECTED
+#
+Nicht verbundene Personen sind Personen , die weder eine direkte Familienverbindung zu <SUBJECT> haben, noch mit irgendeiner Person, die indirekt mit <SUBJECT> verbunden ist.
+{ENDIF}
+!
+!
+{IF}COUSINX
+#
+#
+#SUBTITLE#VERWANDTSCHAFTSVERHÄLTNISSE - ONKEL/COUSIN/NEFFE
+#
+Verwandschaftverhältnis der Seitenlinien werden durch die Entfernung 
+(erster, zweiter, dritter Grad, etc.) und den Generationenunterschied 
+bestimmt.
+#
+Aus Sicht einer betrachteten Person, wird die Entfernung bestimmt durch die 
+Anzahl  der vorhergehenden Generationen, bis zum ersten gemeinsamen 
+Vorfahren.  Sodass, wenn zwei Personen der selben Generation gemeinsame 
+Urgroßeltern (drei Generationen zurück) haben, ihr Verwandtschaftsverhältnis 
+"Cousin zweiten Grades" ist.
+#
+Der Generationenunterschied ist die Anzahl der Generationen, die zwei 
+Personen trennt.
+#
+Wenn die andere Person von einer vorhergehenden Generation ist, wird das 
+Verwandschaftverhältnis als Onkel/Tante bezeichnet und als Neffe/Nichte,  
+wenn sie von einer nachfolgenden Generation ist.  Für Neffe/Nichte wird die 
+Entfernung um einen Grad erhöht.  Für jede weitere Generation werden die 
+Standardvorsilben "Groß-" und "Urgroß-" verwendet.
+#
+Zum Beispiel ist der Vater eines "Cousin zweiten Grades", der "Onkel zweiten 
+Grades" einer betrachteten Person.  Der Urenkel eines "Cousin zweiten 
+Grades", ist der "Urgroßneffe dritten Grades" einer betrachteten Person.
+{ENDIF}
+!
+!
+{IF}FAMILYTREES
+#
+#
+#SUBTITLE#DER STAMMBAUM - ABSCHNITT
+#
+Jeder Stammbaum zeigt die im Bericht enthaltenen Kinder, die Eltern, die Großeltern und die Urgroßeltern einer Familie. Um die Redundanz zu verringern, wird eine Familie, die komplett in einem anderen Stammbaum enthalten ist, nicht mehr separat angezeigt.
+#
+Über jedem der Urgroßeltern Kästen (obere Reihe), wird ein Fortsetzungsquerverweis angezeigt, wenn das Urgroßelternteil als Kind im fortgesetzten Stammbaum ausgegeben wird. Ein Fortsetzungsquerverweis wird ebenfalls auf der linken Seite eines Großeltern- oder Elternkastens gezeigt, wenn für diese Person Geschwister im fortgesetzen Stammbaum ausgegeben werden; und unter einem Kindkasten (untere Reihe) wenn von dieser Person Kinder im fortgesetzen Stammbaum erscheinen.
+{ENDIF}
+!
+{IF}FAMILYTREESMULTIPLEMARRIAGES
+#
+Im Falle von Mehrfachehen, wird ein Fortsetzungsquerverweis mit vorangestelltem "=" rechts vom Elternkasten dargestellt. Diese Zahl verweist auf den vorhergehenden und/oder folgenden Baum, in dem diese Person mit einem anderen Partner gezeigt wird.
+{ENDIF}
+!
+{IF}FAMILYTREESADOPTIONS
+#
+In Fällen von adoptierten (oder in Pflege befindlichen) Kindern, wird die elterliche Verbindung mit einer gestrichelten Linie gezeigt und ein Fortsetzungsquerverweis mit vorangestelltem "=" wird innerhalb des Personenkastens angezeigt. Diese Zahl verweist auf den Baum, in dem diese Person mit ihren leiblichen Eltern dargestellt ist.
+{ENDIF}
+

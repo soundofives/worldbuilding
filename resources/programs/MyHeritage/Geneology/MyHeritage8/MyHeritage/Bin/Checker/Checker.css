@@ -1,0 +1,131 @@
+
+body, td
+{
+    font-family: Arial;
+    font-size: 12px;
+    color: #0C4D7E;
+}
+
+a, a:link, a:visited
+{
+    text-decoration: none;
+    color: #0277DA;
+}
+
+a:hover
+{
+    text-decoration: underline;
+    color: #38B3FF;
+}
+
+.small
+{
+    font-size: 11px;
+}
+
+#results td
+{
+	-border-bottom: solid 1px rgb(200,200,200);
+	-height: 48px;
+}
+
+#results .results_header
+{
+	padding: 4px;
+	height: 26px;
+	background-color: rgb(200,200,200);
+}
+
+#header
+{
+	font-size: 16px;
+	font-weight: bold;
+}
+
+.severity
+{
+	border-bottom: solid 1px rgb(200,200,200);
+	padding: 4px;
+}
+
+.severity_1
+{
+	border-bottom: solid 1px rgb(200,200,200);
+	padding: 4px;
+}
+
+.severity_2
+{
+	border-bottom: solid 1px rgb(200,200,200);
+	padding: 4px;
+}
+
+.severity_3
+{
+	border-bottom: solid 1px rgb(200,200,200);
+	padding: 4px;
+	color: Red;
+}
+
+.message 
+{
+	border-bottom: solid 1px rgb(200,200,200);
+	font-weight: bold;
+	padding: 4px;
+}
+
+.comment_bullet
+{
+	font-weight: normal;
+	width: 16px;
+	color: rgb(128,128,128);
+	padding-top: 4px;
+	padding-right: 4px;
+}
+
+.comment_text
+{
+	font-weight: normal;
+	width: 100%;
+	color: rgb(128,128,128);
+	padding-top: 4px;
+}
+
+.photo1 
+{
+	border-bottom: solid 1px rgb(200,200,200);
+	padding: 4px;
+}
+
+.photo2 
+{
+	border-bottom: solid 1px rgb(200,200,200);
+	padding: 4px;
+}
+
+.actions
+{
+	border-bottom: solid 1px rgb(200,200,200);
+	padding: 4px;
+	text-align: center;
+}
+
+#calloutWindow
+{
+	background-color: rgb(240,240,240); 
+	padding: 4px; 
+	border: solid 2px gray; 
+	width: 500px;
+}
+
+#calloutHeader
+{
+	width: 480px; 
+	font-weight: bold; 
+	padding: 6px 6px 20px 6px; 
+}
+
+#calloutMessage
+{
+	padding: 6px; 
+}

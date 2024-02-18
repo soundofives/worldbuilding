@@ -1,0 +1,52 @@
+
+[FTBBanner]
+
+"languageName","Polish"
+"languageCode","PL"
+"tools_options_toggle","Poka¿ og³oszenia MyHeritage"
+
+[FTBSync]
+
+"languageName","Polish"
+"languageCode","PL"
+"SYNC_status_on_different_tree_size F","Drzewo genealogiczne na stronie MyHeritage posiada wiêcej osób, ni¿ drzewo w programie Family Tree Builder.\nSynchronizacja przerwana z powodu mo¿liwej utraty danych."
+"SYNC_status_on_different_tree_size M","Drzewo genealogiczne na stronie MyHeritage posiada wiêcej osób, ni¿ drzewo w programie Family Tree Builder.\nSynchronizacja przerwana z powodu mo¿liwej utraty danych."
+"SYNC_status_short_on_different_tree_size F","Drzewo genealogiczne on-line posiada wiêcej osób, ni¿ w programie FTB."
+"SYNC_status_short_on_different_tree_size M","Drzewo genealogiczne on-line posiada wiêcej osób, ni¿ w programie FTB."
+"SYNC_title_on_different_tree_size","Ostrze¿enie przed mo¿liw¹ utrat¹ danych"
+"SYNC_warn_on_different_tree_size F","Przeprowadzana synchronizacja usunie tyle osób %d z Twojego drzewa on-line.\nDrzewo genealogiczne w programie Family Tree Builder posiada osób %d, natomiast drzewo on-line %d.\nW razie kontynuowania tyle osób %d zostanie usuniêtych.\n\nCzy chcesz kontynuowaæ synchronizacjê?\nZalecane jest to tylko w wypadku, gdy chcesz zredukowaæ wielkoœæ swojego drzewa."
+"SYNC_warn_on_different_tree_size M","Przeprowadzana synchronizacja usunie tyle osób %d z Twojego drzewa on-line.\nDrzewo genealogiczne w programie Family Tree Builder posiada osób %d, natomiast drzewo on-line %d.\nW razie kontynuowania tyle osób %d zostanie usuniêtych.\n\nCzy chcesz kontynuowaæ synchronizacjê?\nZalecane jest to tylko w wypadku, gdy chcesz zredukowaæ wielkoœæ swojego drzewa."
+
+[FTBInColor]
+
+"languageName","Polish"
+"languageCode","PL"
+"IntroScreen_Body","DO NOT TRANSLATE"
+"IntroScreen_ColorizeButtonCaption","Pokoloruj"
+"IntroScreen_Footer","DO NOT TRANSLATE"
+"IntroScreen_GotitButtonCaption","DO NOT TRANSLATE"
+"IntroScreen_Title","DO NOT TRANSLATE"
+
+[Subscription]
+
+"UpgradeDlgInColorBullet","DO NOT TRANSLATE"
+
+[FTBGedcomWizard]
+
+"languageName","Polish"
+"languageCode","PL"
+
+[CheckerItemTypes]
+
+"CheckerItemTypes_DuplicatedIndGuid","Niespójnoœæ pomiêdzy osobami"
+
+[FamilyConnections]
+
+"FamilyConnections_DuplicatedIndividual","Osoba „%PERSON1%” nie zosta³a poprawnie zapisana i pozostaje w konflikcie z osob¹ „%PERSON2%”."
+"FamilyConnections_DuplicatedIndividualTip","Te dwie osoby pokrywaj¹ siê w Twoim projekcie. Aby usun¹æ niespójnoœæ, rozwa¿ usuniêcie jednej z tych osób."
+
+[GWExportGedcomFinish]
+
+"GWExportGedcomFinish_FailedOnDuplication","Twój projekt zawiera rodziny lub pojedyñcze osoby, które nie zosta³y poprawnie zapisane. Te jednostki pokrywaj¹ siê w Twoim projekcie. Niespójnoœci mog³y zostaæ spowodowane tymczasowym b³êdem danych i uniemo¿liwiaj¹ eksport pliku GEDCOM. W celu otrzymania dalszej pomocy, proszê odwiedziæ nasze %help_center%"
+"GWExportGedcomFinish_HelpCenterLinkTitle","Centrum Pomocy"
+"GWExportGedcomFinish_WarnOnExport","Twój projekt zawiera rodziny lub pojedyñcze osoby, które nie zosta³y poprawnie zapisane. Te jednostki pokrywaj¹ siê w Twoim projekcie. Niespójnoœci mog³y zostaæ spowodowane tymczasowym b³êdem danych. Plik GEDCOM jest nieprawid³owy i mo¿e przedstawiaæ niew³aœciwe powi¹zania. W celu otrzymania dalszej pomocy, proszê odwiedziæ nasze %help_center%"

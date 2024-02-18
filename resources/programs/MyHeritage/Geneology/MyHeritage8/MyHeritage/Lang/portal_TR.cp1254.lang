@@ -1,0 +1,52 @@
+
+[FTBBanner]
+
+"languageName","Turkish"
+"languageCode","TR"
+"tools_options_toggle","MyHeritage duyurularýný göster"
+
+[FTBSync]
+
+"languageName","Turkish"
+"languageCode","TR"
+"SYNC_status_on_different_tree_size F","Aile aðacýnýzýn çevrimiçi sürümü, Family Tree Builder yazýlýmýnýzdaki sürümden daha fazla kiþiye sahiptir.\nVeri kaybýný önlemek için senkronizasyon iptal edilir."
+"SYNC_status_on_different_tree_size M","Aile aðacýnýzýn çevrimiçi sürümü, Family Tree Builder yazýlýmýnýzdaki sürümden daha fazla kiþiye sahiptir.\nVeri kaybýný önlemek için senkronizasyon iptal edilir."
+"SYNC_status_short_on_different_tree_size F","Çevrimiçi aðacýn FTB'den daha fazla bireyi vardýr."
+"SYNC_status_short_on_different_tree_size M","Çevrimiçi aðacýn FTB'den daha fazla bireyi vardýr."
+"SYNC_title_on_different_tree_size","Potansiyel veri kaybý uyarýsý"
+"SYNC_warn_on_different_tree_size F","Yapmak üzere olduðunuz senkronizasyon %d kiþiyi çevrimiçi aðacýnýzdan silecektir.\nBunun nedeni, Family Tree Builder yazýlýmýnýzdaki geçerli aðaç sürümünde %d kiþi ve çevrimiçi aðacýnýzda %d kiþi var.\nDevam ederseniz, %d kiþi kaybolacak.\n\nDevam etmek ve senkronizasyonu yapmak istediðinizden emin misiniz?\nAðacýnýzýn boyutunu küçültmek istediðinizden emin deðilseniz bu önerilmez."
+"SYNC_warn_on_different_tree_size M","Yapmak üzere olduðunuz senkronizasyon %d kiþiyi çevrimiçi aðacýnýzdan silecektir.\nBunun nedeni, Family Tree Builder yazýlýmýnýzdaki geçerli aðaç sürümünde %d kiþi ve çevrimiçi aðacýnýzda %d kiþi var.\nDevam ederseniz, %d kiþi kaybolacak.\n\nDevam etmek ve senkronizasyonu yapmak istediðinizden emin misiniz?\nAðacýnýzýn boyutunu küçültmek istediðinizden emin deðilseniz bu önerilmez."
+
+[FTBInColor]
+
+"languageName","Turkish"
+"languageCode","TR"
+"IntroScreen_Body","DO NOT TRANSLATE"
+"IntroScreen_ColorizeButtonCaption","Renklendir"
+"IntroScreen_Footer","DO NOT TRANSLATE"
+"IntroScreen_GotitButtonCaption","DO NOT TRANSLATE"
+"IntroScreen_Title","DO NOT TRANSLATE"
+
+[Subscription]
+
+"UpgradeDlgInColorBullet","DO NOT TRANSLATE"
+
+[FTBGedcomWizard]
+
+"languageName","Turkish"
+"languageCode","TR"
+
+[CheckerItemTypes]
+
+"CheckerItemTypes_DuplicatedIndGuid","Kiþiler arasýnda çeliþki"
+
+[FamilyConnections]
+
+"FamilyConnections_DuplicatedIndividual","%PERSON1% kiþisi düzgün depolanmadýðý için %PERSON2% kiþisiyle çeliþmektedir."
+"FamilyConnections_DuplicatedIndividualTip","Bu iki birey veri tabanýnda birbirinin tekrarýdýr. Bu çeliþkiyi çözmek için ikisinden birini silmeyi düþünün."
+
+[GWExportGedcomFinish]
+
+"GWExportGedcomFinish_FailedOnDuplication","Projeniz uygun biçimde depolanmamýþ bazý aile ya da kiþiler içermektedir. Bunlar veri birbirini tekrar etmektedir. Çeliþkiler geçici veri nedeniyle oluþmuþ olabilir ve GEDCOM’a gönderilmeyi engelliyordur. Daha fazla yardým için lütfen bizim %help_center%i ziyaret edin"
+"GWExportGedcomFinish_HelpCenterLinkTitle","Yardým Merkezi"
+"GWExportGedcomFinish_WarnOnExport","Projeniz uygun biçimde depolanmamýþ bazý aile ya da kiþiler içermektedir. Bunlar veri birbirini tekrar etmektedir. Çeliþkiler geçici veri nedeniyle oluþmuþ olabilir. GEDCOM’a giden bilgi geçersizdir ve uygunsuz iliþkiler yansýtabilir. Daha fazla yardým için lütfen bizim %help_center%i ziyaret edin"

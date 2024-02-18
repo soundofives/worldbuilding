@@ -1,0 +1,183 @@
+﻿#SUBTITLESLEFT#
+
+!                     THIS SECTION REPORTS STATISTICS
+!                     ===============================
+#
+#SUBTITLE#STATISTICS
+#
+
+This document reports the details of <INDICOUNT> individuals, of which <MALECOUNT> are male and <FEMALECOUNT> are female.__
+!
+! Check that each parameter, or parameter combination, exists before creating a text line
+! containing them. If there were no people with both a birth date and a death date, there
+! will be no ages in the report and we do not want lines included which would include zeros.
+!
+{IF}<AGED>
+Of the <AGED> individuals with recorded birth and death dates, the average lifespan was <AGEAVG> years.__
+{ENDIF}
+
+{IF}<AGEDMALE><AGEDFEMALE>
+Of these, <AGEDMALE> males averaged <AGEAVGMALE> years, and <AGEDFEMALE> females averaged <AGEAVGFEMALE> years.
+{ENDIF}
+
+#
+!
+! If there is only a Direct Relations section, we can just show the oldest male and
+! female without specifying a section...
+! (add two underscores after each "." to ensure that sentences are spaced correctly.)
+!
+{IF}DIRECTONLY<OLDESTMALE>
+The longest living male was <OLDESTMALE>, who died aged <OLDESTMALEAGE>.__ 
+{ENDIF}
+{IF}DIRECTONLY<OLDESTFEMALE>
+The longest living female was <OLDESTFEMALE>, who died aged <OLDESTFEMALEAGE>.__
+{ENDIF}
+!
+! ... otherwise, we will show the oldest male and female in each section that exists.
+! We combine these into a single sentence for each section to improve the flow of
+! readability.
+!
+! First the direct relations... 
+!
+!    1. Each sentence segment is conditioned by {IF}INDIRECTORUNCONNECTED.
+!       We do not need this section if the preCeding block was included
+!    2. The first segment is required if we have someone (M or F)
+!    3. The second segment is required if we have a male
+!    4. The third segment, ", and_" is required if we have both (M and F)
+!    5. The fourth  segment is required if we have a female
+!    6. The last segment, ".__" is required if we have someone (M or F)
+!
+{IF}INDIRECTORUNCONNECTED<OLDESTPERSONDIRECT>
+Within the Direct Relations section,_
+{ENDIF}
+{IF}INDIRECTORUNCONNECTED<OLDESTMALEDIRECT> 
+the longest living male was <OLDESTMALEDIRECT>, who died aged <OLDESTMALEAGEDIRECT>
+{ENDIF}
+{IF}INDIRECTORUNCONNECTED<OLDESTMALEDIRECT><OLDESTFEMALEDIRECT> 
+, and_
+{ENDIF}
+{IF}INDIRECTORUNCONNECTED<OLDESTFEMALEDIRECT>
+the longest living female was <OLDESTFEMALEDIRECT>, who died aged <OLDESTFEMALEAGEDIRECT>
+{ENDIF}
+{IF}INDIRECTORUNCONNECTED<OLDESTPERSONDIRECT>
+.__
+{ENDIF}
+!
+! ... then the indirect relations (if any such sections exist)...
+!
+{IF}INDIRECT<OLDESTPERSONINDIRECT>
+Among the indirect relations,_
+{ENDIF}
+{IF}INDIRECT<OLDESTMALEINDIRECT> 
+the longest living male was <OLDESTMALEINDIRECT>, who died aged <OLDESTMALEAGEINDIRECT>
+{ENDIF}
+{IF}INDIRECT<OLDESTMALEINDIRECT><OLDESTFEMALEINDIRECT>
+, and_
+{ENDIF}
+{IF}INDIRECT<OLDESTFEMALEINDIRECT>
+the longest living female was <OLDESTFEMALEINDIRECT>, who died aged <OLDESTFEMALEAGEINDIRECT>
+{ENDIF}
+{IF}INDIRECT<OLDESTPERSONINDIRECT>
+.__
+{ENDIF}
+!
+! ... then the unconnected individuals (if any such sections exist).
+!
+{IF}UNCONNECTED<OLDESTPERSONUNCONNECTED>
+Among the unconnected individuals,_
+{ENDIF}
+{IF}UNCONNECTED<OLDESTMALEUNCONNECTED> 
+the longest living male was <OLDESTMALEUNCONNECTED>, who died aged <OLDESTMALEAGEUNCONNECTED>
+{ENDIF}
+{IF}UNCONNECTED<OLDESTMALEUNCONNECTED><OLDESTFEMALEUNCONNECTED>
+, and_
+{ENDIF}
+{IF}UNCONNECTED<OLDESTFEMALEUNCONNECTED>
+the longest living female was <OLDESTFEMALEUNCONNECTED>, who died aged <OLDESTFEMALEAGEUNCONNECTED>
+{ENDIF}
+{IF}UNCONNECTED<OLDESTPERSONUNCONNECTED>
+.
+{ENDIF}
+!
+!
+! Include family statistics.  Just to be paranoid, we check that there are some families,
+! and separately check that some had children.
+!
+{IF}<FAMCOUNT> 
+#
+There are <FAMCOUNT> families reported.__
+{ENDIF}
+{IF}<FAMWITHCHILD>
+<FAMWITHCHILD> of these families are reported as having children, with an average of <FAMCHILDAVG> children per family.
+{ENDIF}
+!
+#
+#
+#SUBTITLE#THE NARRATIVE SECTIONS
+#
+The "Direct Relations" section reports the details of individuals who have a direct family connection to <SUBJECT>.  The section is broken into sub-sections for each generation, within which the individuals are listed in order of closeness of relationship.  The sequence numbers are used throughout the document to cross-reference back to the detailed entry of an individual.
+!
+{IF}INDIRECT
+#
+An "Indirect Relations" section reports the details of individuals who do not have a direct family connection to <SUBJECT>, but do have direct family connections to an individual who is reported within the "Direct Relations" section, or within another section of indirect relations.
+{ENDIF}
+!
+{IF}UNCONNECTED
+#
+Unconnected individuals are individuals who do not have a direct family connection to <SUBJECT>, nor to any individual indirectly connected to <SUBJECT>.
+{ENDIF}
+#
+With a narrative section, each generation is shown as a separate subsection, within which the individuals are listed in order of the closeness of their relationship to <SUBJECT>.  
+!
+!
+{IF}COUSINA
+#
+#
+#SUBTITLE#COUSIN RELATIONSHIPS
+#
+Cousin relationships are determined by distance (first, second, third, etc.), and times removed.
+#
+Distance is determined from a person's perspective as one less than the number of previous generations traversed back from that person until the first common ancestor with the other person is found.  Thus, if two people of the same generation have a common great-grandparent (three generations back), they are second cousins.
+{ENDIF}
+{IF}COUSINAR
+#
+Removal is determined by the number of generations which separate the two people.
+#
+When cousins are of different generations, the distance of each to the other is different.  For example, consider your first cousin's children.  Because your common ancestor with them is your grandfather, they are your first cousins, once removed.  However, because their common ancestor with you is their great-grandfather, you are their second cousin, once removed. 
+{ENDIF}
+!
+{IF}COUSINS
+#
+#
+#SUBTITLE#COUSIN RELATIONSHIPS
+#
+Cousin relationships are determined by distance (first, second, third, etc.), and times removed.  
+#
+Distance is determined as one less than the lower number of the previous generations traversed back from each of the individuals until the first common ancestor is found.  Thus, if two people of the same generation have a common great-grandparent (three generations back), they are second cousins.
+{ENDIF}
+{IF}COUSINSR
+#
+Removal is determined by the number of generations which separate the two people.  For example, consider your first cousin's children.  Because your common ancestor with them is your grandfather (two generations back) and their great-grandfather (three generations back), you are first cousins, once removed.
+{ENDIF}
+!
+!
+{IF}FAMILYTREES
+#
+#
+#SUBTITLE#FAMILY TREES SECTION
+#
+Each family tree shows the reported children, parents, grandparents and great-grandparents of a family group.  In order to reduce redundancy, any family group which is wholly included within another family tree may not be reported separately.
+#
+Above each of the great-grandparent boxes (top row), a continuation family tree reference number is shown if the great-grandparent is recorded as a child in the continuation tree.  A continuation reference number is also shown to the left of a grandparent or parent box if that individual has siblings reported in the continuation tree; and beneath a child box (bottom row) if that individual has children reported in the continuation tree.
+{ENDIF}
+!
+{IF}FAMILYTREESMULTIPLEMARRIAGES
+#
+In cases of multiple marriages, a continuation reference number preceded by "=" is shown to the right of a parent box.  This number references the previous and/or next tree in which that individual is shown with another partner.
+{ENDIF}
+!
+{IF}FAMILYTREESADOPTIONS
+#
+In cases of adopted (or fostered) children, the parental connection is shown with a dashed line and a continuation reference number preceded by "=" is shown within the individual's box.  This number references the tree in which that individual is shown with his or her natural parents.
+{ENDIF}
+

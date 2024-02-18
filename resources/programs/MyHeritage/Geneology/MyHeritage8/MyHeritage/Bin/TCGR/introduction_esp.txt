@@ -1,0 +1,174 @@
+﻿#SUBTITLESLEFT#
+
+!                     THIS SECTION REPORTS STATISTICS
+!                     ===============================
+#
+#SUBTITLE#ESTADÍSTICAS
+#
+
+Este documento informa sobre los detalles de <INDICOUNT> personas, de las cuales <MALECOUNT> son hombres y <FEMALECOUNT> son mujeres.__
+!
+! Check that each parameter, or parameter combination, exists before creating a text line
+! containing them. If there were no people with both a birth date and a death date, there
+! will be no ages in the report and we do not want lines included which would include zeros.
+!
+{IF}<AGED>
+De los <AGED> individuos de los que se tiene información sobre su fecha de nacimiento y fallecimiento, la esperanza de vida media era de <AGEAVG> años.__
+{ENDIF}
+!
+{IF}<AGEDMALE><AGEDFEMALE>
+De éstos, los <AGEDMALE> varones hacen un promedio de esperanza de vida de <AGEAVGMALE> años, y las <AGEDFEMALE> mujeres hacen un promedio de <AGEAVGFEMALE> años.
+{ENDIF}
+#
+!
+! If there is only a Direct Relations section, we can just show the oldest male and
+! female without specifying a section...
+! (add two underscores after each "." to ensure that sentences are spaced correctly.)
+!
+{IF}DIRECTONLY<OLDESTMALE>
+El varón de mayor edad fue <OLDESTMALE>, que falleció a los <OLDESTMALEAGE> años.__ 
+{ENDIF}
+!
+{IF}DIRECTONLY<OLDESTFEMALE>
+La mujer de mayor edad fue <OLDESTFEMALE>, que falleció a los <OLDESTFEMALEAGE> años.__
+{ENDIF}
+!
+!
+! ... otherwise, we will show the oldest male and female in each section that exists.
+! We combine these into a single sentence for each section to improve the flow of
+! readability.
+!
+! First the direct relations... 
+!
+!    1. Each sentence segment is conditioned by {IF}INDIRECTORUNCONNECTED.
+!       We do not need this section if the preCeding block was included
+!    2. The first segment is required if we have someone (M or F)
+!    3. The second segment is required if we have a male
+!    4. The third segment, ", and_" is required if we have both (M and F)
+!    5. The fourth  segment is required if we have a female
+!    6. The last segment, ".__" is required if we have someone (M or F)
+!
+{IF}INDIRECTORUNCONNECTED<OLDESTPERSONDIRECT>
+Entre los parientes cercanos,_
+{ENDIF}
+{IF}INDIRECTORUNCONNECTED<OLDESTMALEDIRECT> 
+el varón de más edad fue <OLDESTMALEDIRECT>, que falleció a los <OLDESTMALEAGEDIRECT> años
+{ENDIF}
+!
+{IF}INDIRECTORUNCONNECTED<OLDESTMALEDIRECT><OLDESTFEMALEDIRECT> 
+, y_
+{ENDIF}
+{IF}INDIRECTORUNCONNECTED<OLDESTFEMALEDIRECT>
+la mujer de más edad fue <OLDESTFEMALEDIRECT>, que falleció a los <OLDESTFEMALEAGEDIRECT> años
+{ENDIF}
+!
+{IF}INDIRECTORUNCONNECTED<OLDESTPERSONDIRECT>
+.__
+{ENDIF}
+!
+! ... then the indirect relations (if any such sections exist)...
+!
+{IF}INDIRECT<OLDESTPERSONINDIRECT>
+Entre los parientes lejanos,_
+{ENDIF}
+{IF}INDIRECT<OLDESTMALEINDIRECT> 
+el varón de más edad fue <OLDESTMALEINDIRECT> que falleció a los <OLDESTMALEAGEINDIRECT> años
+{ENDIF}
+{IF}INDIRECT<OLDESTMALEINDIRECT><OLDESTFEMALEINDIRECT>
+, y_
+{ENDIF}
+{IF}INDIRECT<OLDESTFEMALEINDIRECT>
+la mujer de más edad fue <OLDESTFEMALEINDIRECT>, que falleció con <OLDESTFEMALEAGEINDIRECT> años
+{ENDIF}
+{IF}INDIRECT<OLDESTPERSONINDIRECT>
+.__
+{ENDIF}
+!
+! ... then the unconnected individuals (if any such sections exist).
+!
+{IF}UNCONNECTED<OLDESTPERSONUNCONNECTED>
+Entre los individuos no relacionados,_
+{ENDIF}
+{IF}UNCONNECTED<OLDESTMALEUNCONNECTED> 
+el varón de más edad fue <OLDESTMALEUNCONNECTED>, que falleció con <OLDESTMALEAGEUNCONNECTED> años
+{ENDIF}
+
+{IF}UNCONNECTED<OLDESTMALEUNCONNECTED><OLDESTFEMALEUNCONNECTED>
+, y_
+{ENDIF}
+{IF}UNCONNECTED<OLDESTFEMALEUNCONNECTED>
+la mujer de más edad fue <OLDESTFEMALEUNCONNECTED>, que murió a los <OLDESTFEMALEAGEUNCONNECTED> años 
+{ENDIF}
+{IF}UNCONNECTED<OLDESTPERSONUNCONNECTED>
+.
+{ENDIF}
+!
+!
+! Include family statistics.  Just to be paranoid, we check that there are some families,
+! and separately check that some had children.
+!
+{IF}<FAMCOUNT> 
+#
+Hay <FAMCOUNT> familias estudiadas.__
+{ENDIF}
+!
+{IF}<FAMWITHCHILD>
+<FAMWITHCHILD> familias tuvieron hijos, con un promedio de <FAMCHILDAVG> hijos por familia.
+{ENDIF}
+!
+#
+#
+#SUBTITLE#DESCRIPCIÓN DE LAS SECCIONES
+#
+La sección "Parientes Cercanos" muestra informes detallados de los individuos que tienen una conexión directa con la familia de <SUBJECT>.  Esta sección esta dividida por generaciones, y se le asignan números a los individuos de acuerdo a su proximidad al (titular, patriarca, sujeto, etc.).  La serie de números se mantiene a través de todo el documento para facilitar la identificación de las personas. 
+!
+{IF}INDIRECT
+#
+La sección "Parientes Lejanos" muestra informes detallados de los individuos que no tienen una conexión directa con la familia de <SUBJECT>, pero que tengan conexiones directas con la familia de alguna/s persona/s que pertenezcan a la sección "Parientes Cercanos" o dentro de otra sección de relaciones. 
+{ENDIF}
+!
+{IF}UNCONNECTED
+#
+Los individuos no relacionados son los que no tienen ninguna conexión directa con la familia de <SUBJECT>, ni con las personas relacionadas indirectamente con <SUBJECT>.
+{ENDIF}
+#
+Con una sección narrativa, cada generación se muestra como una sub-sección separada, en el que los individuos son enumerados en orden de la proximidad de su relación con <SUBJECT>
+!
+!
+{IF}COUSINX
+#
+#
+#SUBTITLE#RELACIONES ENTRE PRIMOS
+#
+Las relaciones entre primos se determinan por la distancia (Primo Hermano, Primo Segundo, Tercero, etcétera), y la diferencia generacional.
+#
+Esta distancia se determina por el numero de generaciones anteriores hasta encontrarnos al antepasado común a la otra persona, restándole una. Así, si dos personas de la misma generación tienen un Bisabuelo común (tres generaciones atrás), su relación es "Primo Segundo".
+#
+La diferencia generacional se determina por el número de generaciones que separan a las dos personas.
+#
+Cuando ambos primos son de generaciones diferentes, la distancia de cada uno al otro es diferente, por lo tanto la relación se expresa como Tío si la otra persona es mayor, o Nieto si la otra persona es menor. Para los Nietos, la distancia es aumentada en un grado.  A cada generación adicional, Abuelo/Sobrino se le antepone el prefijo "Bis-", "Tatara-", etcétera.
+#
+Por ejemplo, el Padre del "Primo Tercero" de <SUBJECT> es su "Tío Tercero". El Nieto del "Primo Segundo" de <SUBJECT> es su "Sobrino Nieto Tercero". 
+{ENDIF}
+!
+!
+{IF}FAMILYTREES
+#
+#
+#SUBTITLE#SECCIÓN DE LOS ÁRBOLES DE FAMILIA
+#
+Cada árbol de familia muestra a los hijos, los padres, los abuelos y bisabuelos de cada grupo familiar.  Para evitar redundancia, cada familia que se incluya completamente dentro de otro árbol de familia, puede que no se muestre por separado.
+#
+Encima de los cuadros de cada bisabuelo, se muestra un número que se refiere al número de árbol de familia mostrado en el índice de árboles; el mismo número se muestra a la izquierda y debajo del cuadro de otros familiares, para indicar el número del Árbol de Familia en el que aparece esa persona. El número dentro del cuadro, entre paréntesis cuadrados, es el número asignado anteriormente, de la persona en las Relaciones Directas. 
+{ENDIF}
+
+!
+{IF}FAMILYTREESMULTIPLEMARRIAGES
+#
+En los casos de uniones múltiples, se muestra un numero de referencia a la derecha precedido por el signo "=".  Este número se refiere al otro Árbol de Familia al que también pertenece esa persona con la otra pareja.
+{ENDIF}
+!
+{IF}FAMILYTREESADOPTIONS
+#
+En los casos de niños adoptados, la conexión con los padres se muestra con una línea discontinua, y dentro de la caja se muestra un número precedido por el signo "=", que se refiere al número de Árbol de Familia en el que aparecen sus padres naturales.   
+{ENDIF}

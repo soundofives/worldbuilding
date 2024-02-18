@@ -1,0 +1,52 @@
+
+[FTBBanner]
+
+"languageName","Norwegian"
+"languageCode","NO"
+"tools_options_toggle","Vis MyHeritage kunngjøringer"
+
+[FTBSync]
+
+"languageName","Norwegian"
+"languageCode","NO"
+"SYNC_status_on_different_tree_size F","Nettversjonen av slektstreet ditt har flere personer enn versjonen på Family Tree Builder.\nSync ble avbrutt for å unngå tap av data."
+"SYNC_status_on_different_tree_size M","Nettversjonen av slektstreet ditt har flere personer enn versjonen på Family Tree Builder.\nSync ble avbrutt for å unngå tap av data."
+"SYNC_status_short_on_different_tree_size F","Online treet har flere personer enn FTB."
+"SYNC_status_short_on_different_tree_size M","Online treet har flere personer enn FTB."
+"SYNC_title_on_different_tree_size","Advarsel om potensielt tap av data"
+"SYNC_warn_on_different_tree_size F","Synkroniseringen du er i ferd med å utføre vil slette %d personer fra ditt online tre.\nDette skyldes at den nåværende versjonen av Family Tree Builder programvaren har %d personer og online treet ditt har %d personer.\nHvis du forsetter, vil %d personer gå tapt.\n\nEr du sikker på at du vil forsette med synkroniseringen?\nDette anbefales ikke med mindre du er sikker på at du vil redusere størrelsen på treet ditt."
+"SYNC_warn_on_different_tree_size M","Synkroniseringen du er i ferd med å utføre vil slette %d personer fra ditt online tre.\nDette skyldes at den nåværende versjonen av Family Tree Builder programvaren har %d personer og online treet ditt har %d personer.\nHvis du forsetter, vil %d personer gå tapt.\n\nEr du sikker på at du vil forsette med synkroniseringen?\nDette anbefales ikke med mindre du er sikker på at du vil redusere størrelsen på treet ditt."
+
+[FTBInColor]
+
+"languageName","Norwegian"
+"languageCode","NO"
+"IntroScreen_Body","DO NOT TRANSLATE"
+"IntroScreen_ColorizeButtonCaption","Fargelegg"
+"IntroScreen_Footer","DO NOT TRANSLATE"
+"IntroScreen_GotitButtonCaption","DO NOT TRANSLATE"
+"IntroScreen_Title","DO NOT TRANSLATE"
+
+[Subscription]
+
+"UpgradeDlgInColorBullet","DO NOT TRANSLATE"
+
+[FTBGedcomWizard]
+
+"languageName","Norwegian"
+"languageCode","NO"
+
+[CheckerItemTypes]
+
+"CheckerItemTypes_DuplicatedIndGuid","Person konflikt"
+
+[FamilyConnections]
+
+"FamilyConnections_DuplicatedIndividual","Person: %PERSON1% er ikke lagret riktig og kommer i konflikt med person: %PERSON2%."
+"FamilyConnections_DuplicatedIndividualTip","Disse to enkeltpersonene overlapper i treet ditt. For å løse dette, sjekk om du kanskje bør slette en av dem."
+
+[GWExportGedcomFinish]
+
+"GWExportGedcomFinish_FailedOnDuplication","Det er noen familier eller enkeltpersoner i treet ditt som ikke er lagret rett. Disse overlapper i treet ditt. Dette skyldes muligens en midlertidig data feil og forhindrer eksport av GEDCOM. For ytterligere hjelp gå til vårt %help_center%"
+"GWExportGedcomFinish_HelpCenterLinkTitle","Hjelpesenter"
+"GWExportGedcomFinish_WarnOnExport","Det er noen familier eller enkeltpersoner i treet ditt som ikke er lagret rett. Disse overlapper i treet ditt. Dette skyldes muligens en data feil. GEDCOMen blir da ikke rett, og gir deg muligens feil familieforhold. For ytterligere hjelp gå til vårt %help_center%"

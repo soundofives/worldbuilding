@@ -1,0 +1,216 @@
+﻿#SUBTITLESLEFT#
+
+!                     THIS SECTION REPORTS STATISTICS
+!                     ===============================
+#
+#SUBTITLE#STATISTIK
+#
+
+Denna rapport visar detaljerna om <INDICOUNT> personer, varav <MALECOUNT> är manliga, och <FEMALECOUNT> är kvinnliga.__
+!
+! Check that each parameter, or parameter combination, exists before creating a text line
+! containing them. If there were no people with both a birth date and a death date, there
+! will be no ages in the report and we do not want lines included which would include zeros.
+!
+{IF}<AGED>
+Av de <AGED> personerna med registrerade födelse- och döddata var medellivslängden <AGEAVG> år.__
+{ENDIF}
+
+{IF}<AGEDMALE><AGEDFEMALE>
+Av dessa är <AGEDMALE> manliga med en medellivslängd som uppgår till <AGEAVGMALE> år, och <AGEDFEMALE> kvinnliga med en medellivslängd som uppgår till <AGEAVGFEMALE> år.
+{ENDIF}
+
+#
+!
+! If there is only a Direct Relations section, we can just show the oldest male and
+! female without specifying a section...
+! (add two underscores after each "." to ensure that sentences are spaced correctly.)
+!
+{IF}DIRECTONLY<OLDESTMALE>
+Den längst levande manliga var <OLDESTMALE>, som avled vid en ålder av <OLDESTMALEAGE>.__ 
+{ENDIF}
+{IF}DIRECTONLY<OLDESTFEMALE>
+Den längst levande kvinnliga var <OLDESTFEMALE>, som avled vid en ålder av <OLDESTFEMALEAGE>.__
+{ENDIF}
+!
+! ... otherwise, we will show the oldest male and female in each section that exists.
+! We combine these into a single sentence for each section to improve the flow of
+! readability.
+!
+! First the direct relations... 
+!
+!    1. Each sentence segment is conditioned by {IF}INDIRECTORUNCONNECTED.
+!       We do not need this section if the preceding block was included
+!    2. The first segment is required if we have someone (M or F)
+!    3. The second segment is required if we have a male
+!    4. The third segment, ", and_" is required if we have both (M and F)
+!    5. The fourth  segment is required if we have a female
+!    6. The last segment, ".__" is required if we have someone (M or F)
+!
+{IF}INDIRECTORUNCONNECTED<OLDESTPERSONDIRECT>
+Inom det direkta relations avsnittet, var den_
+{ENDIF}
+{IF}INDIRECTORUNCONNECTED<OLDESTMALEDIRECT> 
+längst levande manliga <OLDESTMALEDIRECT>, som avled vid en ålder av <OLDESTMALEAGEDIRECT>
+{ENDIF}
+{IF}INDIRECTORUNCONNECTED<OLDESTMALEDIRECT><OLDESTFEMALEDIRECT> 
+, och den_
+{ENDIF}
+{IF}INDIRECTORUNCONNECTED<OLDESTFEMALEDIRECT>
+längst levande kvinnliga_
+{ENDIF}
+{IF}INDIRECTORUNCONNECTED<OLDESTMALEDIRECT><OLDESTFEMALEDIRECT> 
+var_
+{ENDIF}
+{IF}INDIRECTORUNCONNECTED<OLDESTFEMALEDIRECT>
+<OLDESTFEMALEDIRECT>, som avled vid en ålder av <OLDESTFEMALEAGEDIRECT>
+{ENDIF}
+{IF}INDIRECTORUNCONNECTED<OLDESTPERSONDIRECT>
+.__
+{ENDIF}
+!
+! ... then the indirect relations (if any such sections exist)...
+!
+{IF}INDIRECT<OLDESTPERSONINDIRECT>
+Bland de indirekta relationerna, var den_
+{ENDIF}
+{IF}INDIRECT<OLDESTMALEINDIRECT> 
+längst levande manliga <OLDESTMALEINDIRECT>, som avled vid en ålder av <OLDESTMALEAGEINDIRECT>
+{ENDIF}
+{IF}INDIRECT<OLDESTMALEINDIRECT><OLDESTFEMALEINDIRECT>
+, och den_
+{ENDIF}
+{IF}INDIRECTORUNCONNECTED<OLDESTFEMALEINDIRECT>
+längst levande kvinnliga_
+{ENDIF}
+{IF}INDIRECTORUNCONNECTED<OLDESTMALEINDIRECT><OLDESTFEMALEINDIRECT> 
+var_
+{ENDIF}
+{IF}INDIRECTORUNCONNECTED<OLDESTFEMALEINDIRECT>
+<OLDESTFEMALEINDIRECT>, som avled vid en ålder av <OLDESTFEMALEAGEINDIRECT>
+{ENDIF}
+{IF}INDIRECT<OLDESTPERSONINDIRECT>
+.__
+{ENDIF}
+!
+! ... then the unconnected individuals (if any such sections exist).
+!
+{IF}UNCONNECTED<OLDESTPERSONUNCONNECTED>
+Bland de okopplade personerna, var den_
+{ENDIF}
+{IF}UNCONNECTED<OLDESTMALEUNCONNECTED> 
+längst levande manliga <OLDESTMALEUNCONNECTED>, som avled vid en ålder av <OLDESTMALEAGEUNCONNECTED>
+{ENDIF}
+{IF}UNCONNECTED<OLDESTMALEUNCONNECTED><OLDESTFEMALEUNCONNECTED>
+, och den_
+{ENDIF}
+{IF}INDIRECTORUNCONNECTED<OLDESTFEMALEUNCONNECTED>
+längst levande kvinnliga_
+{ENDIF}
+{IF}INDIRECTORUNCONNECTED<OLDESTMALEUNCONNECTED><OLDESTFEMALEUNCONNECTED> 
+var_
+{ENDIF}
+{IF}INDIRECTORUNCONNECTED<OLDESTFEMALEUNCONNECTED>
+<OLDESTFEMALEUNCONNECTED>, som avled vid en ålder av <OLDESTFEMALEAGEUNCONNECTED>
+{ENDIF}
+{IF}UNCONNECTED<OLDESTPERSONUNCONNECTED>
+.__
+{ENDIF}
+!
+!
+! Include family statistics.  Just to be paranoid, we check that there are some families,
+! and separately check that some had children.
+!
+{IF}<FAMCOUNT> 
+#
+Det finns <FAMCOUNT> rapporterade familjer.__
+{ENDIF}
+{IF}<FAMWITHCHILD>
+<FAMWITHCHILD> av dessa familjer rapporterades ha barn, med ett genomsnitt av <FAMCHILDAVG> barn per familj.
+{ENDIF}
+!
+#
+#
+#SUBTITLE#BERÄTTELSER
+#
+Avsnittet "De Direkta Relationerna" rapporterar detaljerna om personer som har en direkt familjanknytning till <SUBJECT>.  Avsnittet bryts ner i underavsnitt för varje relation, personerna listas i relation till närheten i förhållandet.  Följdnumren används genom hela rapporten för att hänsvisning av personen bakåt till det detaljerade släktträdet skall kunna göras.
+!
+{IF}INDIRECT
+#
+Avsnittet "Indirekta Relationer" rapporterar detaljerna om personer, som inte har en direkt familjanknytning till <SUBJECT>, men har direkta familjanknytning till en person, som rapporteras inom avsnittet "för direkta relationer", eller inom ett annat avsnitt av indirekta relationer.
+{ENDIF}
+!
+{IF}UNCONNECTED
+#
+Okopplade personer är personer, som inte har en direkt familjanknytning till <SUBJECT>, och inte heller till annan personen med indirekt relation till <SUBJECT>.
+{ENDIF}
+!
+!
+{IF}COUSIN1
+!Syssling style
+#
+#
+#SUBTITLE#KUSINFÖRHÅLLANDEN
+#
+Kusinförhållanden bestäms i släktsteg (Kusin, Syssling, Brylling, Pyssling, Trassling, Sjätte Kusin, etc.).
+#
+Avståndet är bestämt från en persons perspektiv, som ett mindre än antalet generationer bakåt som krävs för att träffa på den första gemensamma förfadern man har med den andra personen.  Således om två personer av samma generation har en gemensam far- morförälder (tre generationer tillbaka ), är de sysslingar.
+#
+Släktstegen bestäms av antalet generationer som skiljer de två personerna. Släktstegen uttrycks, genom att man lägger till son/dotter efter relationen eller far/mor för relationen.
+#
+För personer från olika generationer skiljer sig avståndet till varje annan person. Ta din kusins barn till exempel.  Eftersom er gemensamma förfader är din farfar, är de dina kusinbarn, men samma gemensamma förfader är deras farfars far. Du är deras fars kusin. 
+{ENDIF}
+!
+!
+{IF}COUSIN2
+!A-Kusin style 
+#
+#
+#SUBTITLE#KUSINFÖRHÅLLANDEN
+#
+Kusinförhållanden bestäms i släktsteg (Kusin, A-Kusin, B-Kusin, etc.).
+#
+Avståndet är bestämt från en persons perspektiv, som ett mindre än antalet generationer bakåt som krävs för att träffa på den första gemensamma förfadern man har med den andra personen.  Således om två personer av samma generation har en gemensam far- morförälder (tre generationer tillbaka ), är de A-kusiner.
+#
+Släktstegen bestäms av antalet generationer som skiljer de två personerna. Släktstegen uttrycks, genom att man lägger till son/dotter efter relationen eller far/mor för relationen.
+#
+För personer från olika generationer skiljer sig avståndet till varje annan person. Ta din kusins barn till exempel.  Eftersom er gemensamma förfader är din farfar, är de dina kusinbarn, men samma gemensamma förfader är deras farfars far. Du är deras fars kusin. 
+{ENDIF}
+!
+!
+{IF}COUSIN3
+!Tremänning style
+#
+#
+#SUBTITLE#KUSINFÖRHÅLLANDEN
+#
+Kusinförhållanden bestäms i släktsteg (Tvåmänning, Tremänning, Fyrmänning, etc.).
+#
+Avståndet är bestämt från en persons perspektiv, som ett mindre än antalet generationer bakåt som krävs för att träffa på den första gemensamma förfadern man har med den andra personen.  Således om två personer av samma generation har en gemensam far- morförälder (tre generationer tillbaka ), är de tremänningar.
+#
+Släktstegen bestäms av antalet generationer som skiljer de två personerna. Släktstegen uttrycks, genom att man lägger till son/dotter efter relationen eller far/mor för relationen.
+#
+För personer från olika generationer skiljer sig avståndet till varje annan person. Ta din kusins barn till exempel.  Eftersom er gemensamma förfader är din farfar, är de dina kusinbarn, men samma gemensamma förfader är deras farfars far. Du är deras fars kusin. 
+{ENDIF}
+!
+!
+{IF}FAMILYTREES
+#
+#
+#SUBTITLE#FAMILJETRÄDSAVSNITT
+#
+Varje stamträd visar de rapporterade barnen, föräldrarna, far- och morföräldrarna och farfars/farmors och morfars/mormors föräldrar i en familjgrupp.  För att minska flödet, kan en familjgrupp, som i sin helhet ingår i ett annat stamträd inte rapporteras separat.
+#
+Ovanför varje av far- morföräldrars boxar (övre raden), visas ett nummer som är en fortsättningsstamträdreferens, som visas om gammelmor- och farföräldrar registrerats som barn i fortsättningsträden.  Ett fortsättningsreferensnummer visas också på vänstersidan av en morförälder- eller förälders box om den personen har syskon som rapporteras i fortsättningsträden och under en barnbox (den nedersta raden) om den personen har barn som rapporteras i fortsättningsträden.
+{ENDIF}
+!
+{IF}FAMILYTREESMULTIPLEMARRIAGES
+#
+I fall av många relationer föregås ett fortsättningsreferensnummer med "=" som visas på höger sida av en förälder box.  Detta referensnummer visar det föregående och/eller nästa träd som den personen ingår i med en annan deltagare.
+{ENDIF}
+!
+{IF}FAMILYTREESADOPTIONS
+#
+I fall av adoptiv- (eller foster-) barn visas föräldraanknytningen med en streckad linje och ett fortsättningsreferensnummer som föregås med "=" och visas inom den personens box.  Detta referensnummer visar träden som den personen ingår i med hans eller hennes naturliga föräldrar.
+{ENDIF}
+

@@ -1,0 +1,52 @@
+
+[FTBBanner]
+
+"languageName","Croatian"
+"languageCode","HR"
+"tools_options_toggle","Show MyHeritage announcements"
+
+[FTBSync]
+
+"languageName","Croatian"
+"languageCode","HR"
+"SYNC_status_on_different_tree_size F","Online verzija vaseg obiteljskog stabla sadrzi vise osoba nego verzija u programu Family Tree Builder.\nSinkronizacija je prekinuta da bismo sprijecili gubitak podataka."
+"SYNC_status_on_different_tree_size M","Online verzija vaseg obiteljskog stabla sadrzi vise osoba nego verzija u programu Family Tree Builder.\nSinkronizacija je prekinuta da bismo sprijecili gubitak podataka."
+"SYNC_status_short_on_different_tree_size F","Online stablo sadrzi vise osoba nego ono u FTB."
+"SYNC_status_short_on_different_tree_size M","Online stablo sadrzi vise osoba nego ono u FTB."
+"SYNC_title_on_different_tree_size","Upozorenje o mogucem gubitku podataka"
+"SYNC_warn_on_different_tree_size F","Sinkronizacija koju se spremate napraviti izbrisat ce %d osoba sa vaseg stabla online.\nTo je zato jer verzija stabla u programu Family Tree Builder sadrzi %d osoba, dok vase stablo online sadrzi %d osoba.\nAko nastavite, %d osoba ce biti izgubljeno.\n\nJeste li sigurni da zelite nastaviti sa sinkronizacijom?\nTo nije preporucljivo osim ako ste sigurni da zelite smanjiti velicinu vaseg stabla."
+"SYNC_warn_on_different_tree_size M","Sinkronizacija koju se spremate napraviti izbrisat ce %d osoba sa vaseg stabla online.\nTo je zato jer verzija stabla u programu Family Tree Builder sadrzi %d osoba, dok vase stablo online sadrzi %d osoba.\nAko nastavite, %d osoba ce biti izgubljeno.\n\nJeste li sigurni da zelite nastaviti sa sinkronizacijom?\nTo nije preporucljivo osim ako ste sigurni da zelite smanjiti velicinu vaseg stabla."
+
+[FTBInColor]
+
+"languageName","Croatian"
+"languageCode","HR"
+"IntroScreen_Body","DO NOT TRANSLATE"
+"IntroScreen_ColorizeButtonCaption","Koloriziraj"
+"IntroScreen_Footer","DO NOT TRANSLATE"
+"IntroScreen_GotitButtonCaption","DO NOT TRANSLATE"
+"IntroScreen_Title","DO NOT TRANSLATE"
+
+[Subscription]
+
+"UpgradeDlgInColorBullet","DO NOT TRANSLATE"
+
+[FTBGedcomWizard]
+
+"languageName","Croatian"
+"languageCode","HR"
+
+[CheckerItemTypes]
+
+"CheckerItemTypes_DuplicatedIndGuid","Neuskladjenost izmedju osoba"
+
+[FamilyConnections]
+
+"FamilyConnections_DuplicatedIndividual","Osoba %PERSON1% nije korektno spremljena i u konfliktu je sa osobom: %PERSON2%."
+"FamilyConnections_DuplicatedIndividualTip","Ove dvije osobe se preklapaju u vasem projektu. Kao rjesenje razmotrite brisanje jedne od njih."
+
+[GWExportGedcomFinish]
+
+"GWExportGedcomFinish_FailedOnDuplication","Vas projekt sadrzi neke osobe ili obitelji koje nisu korektno spremljene. Ti zapisi se preklapaju u vasem projektu. Konflikt je mozda izazvan privremenom greskom u podacima i sada sprijecava izvoz u GEDCOM. Za dalje informacije pogledajte %help_center%"
+"GWExportGedcomFinish_HelpCenterLinkTitle","Cantar za pomoc"
+"GWExportGedcomFinish_WarnOnExport","Vas projekt sadrzi neke osobe ili obitelji koje nisu korektno spremljene. Ti zapisi se preklapaju vasem projektu. Konflikt je mozda izazvan privremenom greskom u podacima. Izvoz u GEDCOM nije vazeci i mogao bi pokazati netocne odnose medju osobama. Za dalje informacije pogledajte %help_center%"

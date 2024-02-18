@@ -1,0 +1,166 @@
+﻿#SUBTITLESLEFT#
+
+!                     THIS SECTION REPORTS STATISTICS
+!                     ===============================
+#
+#SUBTITLE#STATISTICHE
+#
+
+Questo rapporto riporta le informazioni di <INDICOUNT> persone, di cui <MALECOUNT> sono maschi e <FEMALECOUNT> sono femmine.__
+!
+! Check that each parameter, or parameter combination, exists before creating a text line
+! containing them. If there were no people with both a birth date and a death date, there
+! will be no ages in the report and we do not want lines included which would include zeros.
+!
+{IF}<AGED>
+Delle <AGED> persone con date di nascita e morte registrate, la durata della vita media è stata di <AGEAVG> anni.__
+{ENDIF}
+
+{IF}<AGEDMALE><AGEDFEMALE>
+Di queste, <AGEDMALE>  uomini sono vissuti in media <AGEAVGMALE> anni, e <AGEDFEMALE> donne sono vissute in media <AGEAVGFEMALE> anni.
+{ENDIF}
+
+#
+!
+! If there is only a Direct Relations section, we can just show the oldest male and
+! female without specifying a section...
+! (add two underscores after each "." to ensure that sentences are spaced correctly.)
+!
+{IF}DIRECTONLY<OLDESTMALE>
+L'uomo vissuto più a lungo è stato <OLDESTMALE>, che è morto a <OLDESTMALEAGE> anni.__ 
+{ENDIF}
+{IF}DIRECTONLY<OLDESTFEMALE>
+La donna vissuta più a lungo è stata <OLDESTFEMALE>, che è morta a <OLDESTFEMALEAGE> anni.__
+{ENDIF}
+!
+! ... otherwise, we will show the oldest male and female in each section that exists.
+! We combine these into a single sentence for each section to improve the flow of
+! readability.
+!
+! First the direct relations... 
+!
+!    1. Each sentence segment is conditioned by {IF}INDIRECTORUNCONNECTED.
+!       We do not need this section if the preCeding block was included
+!    2. The first segment is required if we have someone (M or F)
+!    3. The second segment is required if we have a male
+!    4. The third segment, ", and_" is required if we have both (M and F)
+!    5. The fourth  segment is required if we have a female
+!    6. The last segment, ".__" is required if we have someone (M or F)
+!
+{IF}INDIRECTORUNCONNECTED<OLDESTPERSONDIRECT>
+All'interno della sezione dei Parenti diretti,_
+{ENDIF}
+{IF}INDIRECTORUNCONNECTED<OLDESTMALEDIRECT> 
+l'uomo vissuto più a lungo è stato <OLDESTMALEDIRECT>, che è morto a <OLDESTMALEAGEDIRECT> anni
+{ENDIF}
+{IF}INDIRECTORUNCONNECTED<OLDESTMALEDIRECT><OLDESTFEMALEDIRECT> 
+, e_
+{ENDIF}
+{IF}INDIRECTORUNCONNECTED<OLDESTFEMALEDIRECT>
+la donna vissuta più a lungo è stata <OLDESTFEMALEDIRECT>, che è morta a <OLDESTFEMALEAGEDIRECT> anni
+{ENDIF}
+{IF}INDIRECTORUNCONNECTED<OLDESTPERSONDIRECT>
+.__
+{ENDIF}
+!
+! ... then the indirect relations (if any such sections exist)...
+!
+{IF}INDIRECT<OLDESTPERSONINDIRECT>
+Fra i parenti indiretti,_
+{ENDIF}
+{IF}INDIRECT<OLDESTMALEINDIRECT> 
+l'uomo vissuto più a lungo è stato <OLDESTMALEINDIRECT>, che è morto a <OLDESTMALEAGEINDIRECT> anni
+{ENDIF}
+{IF}INDIRECT<OLDESTMALEINDIRECT><OLDESTFEMALEINDIRECT>
+, e_
+{ENDIF}
+{IF}INDIRECT<OLDESTFEMALEINDIRECT>
+la donna vissuta più a lungo è stata <OLDESTFEMALEINDIRECT>, che è morta a <OLDESTFEMALEAGEINDIRECT> anni
+{ENDIF}
+{IF}INDIRECT<OLDESTPERSONINDIRECT>
+.__
+{ENDIF}
+!
+! ... then the unconnected individuals (if any such sections exist).
+!
+{IF}UNCONNECTED<OLDESTPERSONUNCONNECTED>
+Fra le persone non parenti,_
+{ENDIF}
+{IF}UNCONNECTED<OLDESTMALEUNCONNECTED> 
+l'uomo vissuto più a lungo è stato <OLDESTMALEUNCONNECTED>, che è morto a <OLDESTMALEAGEUNCONNECTED> anni
+{ENDIF}
+{IF}UNCONNECTED<OLDESTMALEUNCONNECTED><OLDESTFEMALEUNCONNECTED>
+, e_
+{ENDIF}
+{IF}UNCONNECTED<OLDESTFEMALEUNCONNECTED>
+la donna vissuta più a lungo è stata <OLDESTFEMALEUNCONNECTED>, che è morta a <OLDESTFEMALEAGEUNCONNECTED> anni
+{ENDIF}
+{IF}UNCONNECTED<OLDESTPERSONUNCONNECTED>
+.
+{ENDIF}
+!
+!
+! Include family statistics.  Just to be paranoid, we check that there are some families,
+! and separately check that some had children.
+!
+{IF}<FAMCOUNT> 
+#
+Nel Rapporto sono riportate <FAMCOUNT> famiglie.__
+{ENDIF}
+{IF}<FAMWITHCHILD>
+<FAMWITHCHILD> di queste famiglie hanno avuto figli, con una media di <FAMCHILDAVG> figli per famiglia.
+{ENDIF}
+!
+#
+#
+#SUBTITLE#LE SEZIONI NARRATIVE
+#
+La Sezione "Parenti Diretti" riporta le persone che hanno un rapporto familiare diretto con <SUBJECT>.  
+!
+{IF}INDIRECT
+#
+Ogni Sezione "Parenti Indiretti" riporta le persone che hanno un rapporto familiare indiretto con <SUBJECT> ma che hanno rapporti familiari diretti con una persona inserita alla sezione "Parenti Diretti" o in un'altra sezione "Parenti Indiretti".
+{ENDIF}
+!
+{IF}UNCONNECTED
+#
+Ogni Sezione "Non parenti" riporta gli individui che non hanno relazioni di parentela né diretta né indiretta con <SUBJECT>.
+{ENDIF}
+!
+#
+Ogni Sezione è articolata in sottosezioni ordinate per generazione, all'interno delle quali le persone sono elencate in ordine di vicinanza di parentela con <SUBJECT>.
+!
+{IF}COUSINX
+#
+#
+#SUBTITLE#RAPPORTI TRA CUGINI
+#
+Le relazioni tra cugini sono indicate dal grado (primo, secondo, terzo, ecc.).
+#
+Il grado tra cugini della stessa generazione è determinato come il numero di generazioni intercorrenti tra ciascuna persona e l'antenato comune, cui deve essere  detratta una unità. Per esempio: se le due persone della stessa generazione hanno un bisnonno comune (tre generazioni), sono chiamati "secondi cugini" o "cugini di secondo grado".
+#
+Se i cugini appartengono a generazioni diverse, la relazione viene ricondotta alla stessa generazione indicando il cugino (di x grado) dell'antenato o del discendente che uguaglia la generazione. Per esempio si consideri il figlio di mio cugino (figlio del fratello di mio padre). Il comune antenato è per me mio nonno (due generazioni) che è per lui il bisnonno (tre generazioni): lui è per me "il figlio del mio cugino" (di primo grado).
+#
+{ENDIF}
+!
+!
+{IF}FAMILYTREES
+#
+#
+#SUBTITLE#SEZIONE DEGLI ALBERI GENEALOGICI
+#
+Ogni albero genealogico mostra quattro generazioni alla volta (figli, genitori, nonni e bisnonni) di un gruppo familiare. Per evitare ripetizioni, un gruppo familiare che è incluso interamente all'interno di un altro albero genealogico può non essere stato riportato separatamente.
+#
+Per collegare i gruppi familiari tra i vari alberi riportati, sopra le caselle dei bisnonni(riga superiore) è indicato il numero dell'albero in cui, eventualmente, il bisnonno è riportato come figlio. Analogamente,il numero dell'albero genealogico collegato è indicato alla sinistra della casella di un genitore o di un nonno se tale persona ha fratelli e, infine, sotto la casella di un figlio (riga inferiore) se quest'ultimo ha figli.
+{ENDIF}
+!
+{IF}FAMILYTREESMULTIPLEMARRIAGES
+#
+Nel caso di unioni multiple, il numero di riferimento di continuazione preceduto da "=" è indicato alla destra della casella. Questo numero indica l'albero genealogico in cui quella persona è riportata con un altro partner.
+{ENDIF}
+!
+{IF}FAMILYTREESADOPTIONS
+#
+Nei casi di figli adottati (o affidati), il collegamento è indicato con una linea tratteggiata e un numero di riferimento di continuazione preceduto da "=" indicato all'interno della casella della persona. Questo numero indica l'albero in cui quella persona è riportata con i suoi genitori naturali.
+{ENDIF}
+

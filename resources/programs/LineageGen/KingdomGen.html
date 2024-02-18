@@ -1,0 +1,113 @@
+<!DOCTYPE HTML>
+<html>
+
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Open+Sans:400,300,600,700">
+
+
+    <style>
+        body {
+            font-family: 'Open Sans', serif;
+            font-size: 16px;
+            background-color: #EEE5CE;
+            background-image: url("background.jpg");
+            margin-top: 0;
+            overflow-y: scroll;
+            height: 100%
+        }
+        
+        h1,
+        h2,
+        h3,
+        h4 {
+            margin-top: .2em;
+            margin-bottom: .2em;
+            font-family: MrJeeves;
+            font-weight: 800;
+            color: #58180D
+        }
+        
+        h1 {
+            column-span: all;
+            font-size: .987cm;
+            -webkit-column-span: all;
+            -moz-column-span: all
+        }
+        
+        h1+p::first-letter {
+            float: left;
+            font-family: Solberry;
+            font-size: 10em;
+            color: #222;
+            line-height: .8em
+        }
+        
+        h2 {
+            font-size: .705cm
+        }
+        
+        h3 {
+            font-size: .529cm;
+            border-bottom: 2px solid #c9ad6a
+        }
+        
+        h4 {
+            margin-top: .15cm;
+            margin-bottom: 0;
+            font-size: .458cm
+        }
+        
+        h5 {
+            margin-bottom: .2em;
+            font-family: ScalySansSmallCaps;
+            font-size: .423cm;
+            font-weight: 900
+        }
+    </style>
+</head>
+
+<body>
+    <script src="Kingdom.js"></script>
+    <h1>Kingdom History Generator</h1>
+    <h2>by Adam Edwards</h2> Simulate
+    <input type="text" id="yearsSimulated" value="1000" size="5" /> Years
+    <br/> Noble Houses
+    <input type="text" id="nobleHouseNames" value="Alphus,Betan,Gammris,Celos,Kaeivar,Nautus" size="100" />
+    <br/> Other Kingdoms
+    <input type="text" id="otherKingdoms" value="Austaria,Griggledorn,Carthal,Tortestra" size="100" />
+    <br/> Male Names
+    <input type="text" id="maleNames" value="Aelius,Aemilianus,Agrippa,Albinus,Appius,Aquilinus,Aulus,Aurelianus,Avitus,Balbus,Blandus,Caesar,Camillus,Cassianus,Celsus,Claudius,Cnaeus,Crispinus,Domitius,Drusus,Ennius,Fabianus,Felix,Gallus,Glaucia,Hadrianus,Horatius,Ianuarius,Iulius,Iuvenalis,Laelius,Laurentinus,Lucius,Manlius,Marcellinus,Marcius,Marianus,Marius,Martinus,Maximianus,Maximinus,Nonus,Octavius,Paulus,Plinius,Quintilianus,Quintinus,Saturninus,Secundus,Septimius,Servius,Severinus,Sextus,Terentius,Tiberius,Titianus,Valerius,Varius,Verginius,Vibianus,Aemilius,Albanus,Albus,Antoninus,Aquila,Atilius,Augustinus,Aurelius,Blasius,Caecilius,Caelinus,Caius,Cassius,Cicero,Crispus,Decimus,Domitianus,Duilius,Fabricius,Faustinus,Festus,Flavianus,Florianus,Fulvius,Gnaeus,Gratianus,Hilarius,Iovianus,Januarius,Junius,Laurentius,Livianus,Longinus,Lucilius,Marcellus,Marcus,Martialis,Maxentius,Maximus,Nerva,Otho,Pompeius,Pomponius,Porcius,Priscus,Quintillus,Quintus,Rufinus,Sabinus,Scaevola,Seneca,Septimus,Severianus,Severus,Silvanus,Tacitus,Tatianus,Tertius,Tiburtius,Titus,Tullius,Valentinianus,Vergilius,Vespasianus,Vibius,Aelianus,Aetius,Ahenobarbus,Antonius,Augustus,Avilius,Balbinus,Blandinus,Brutus,Caelius,Cassian,Cloelius,Cornelius,Cyprianus,Diocletianus,Egnatius,Fabius,Faustus,Flavius,Florus,Gaius,Germanus,Gordianus,Herminius,Hortensius,Iovita,Iulianus,Iunius,Jovian,Julius,Livius,Lucanus,Lucianus,Lucretius,Marinus,Maximilianus,Naevius,Octavianus,Ovidius,Paulinus,Petronius,Pompilius,Pontius,Publius,Regulus,Rufus,Secundinus,Sergius,Sextilius,Spurius,Tarquinius,Tatius,Thracius,Traianus,Valens,Valentinus,Valerianus,Varinius,Vinicius,Vitus"
+    size="100" />
+    <br/> Female Names
+    <input type="text" id="femaleNames" value="Aelia,Antonina,Augustina,Caecilia,Caelina,Decima,Domitia,Fabricia,Faustina,Flaviana,Floriana,Fulvia,Gratiana,Hilaria,Iulia,Julia,Junia,Liviana,Longina,Lucia,Lucilia,Paula,Pomponia,Porcia,Priscilla,Rufina,Sabina,Tacita,Tatiana,Tullia,Valentina,Valeria,Virginia,Aeliana,Aemilia,Agrippina,Aurelia,Balbina,Blandina,Cassia,Cloelia,Cornelia,Drusa,Fabia,Fabiola,Germana,Herminia,Hortensia,Iuliana,Iunia,Juliana,Laurentia,Luciana,Lucretia,Marcella,Marina,Maximiliana,Octavia,Paulina,Petronia,Valeriana,Varinia,Vita,Aemiliana,Albina,Antonia,Aquilina,Augusta,Aureliana,Caelia,Camilla,Claudia,Domitilla,Drusilla,Fabiana,Fausta,Flavia,Hadriana,Horatia,Laelia,Laurentina,Lucilla,Marcellina,Marcia,Mariana,Martina,Maxima,Prisca,Quintina,Saturnina,Septima,Severina,Titiana,Verginia,Vibiana"
+    size="100" />
+    <br/> Allow Usurping:
+    <input type="checkbox" id="allowUsurping" checked="true">
+    <br/> Inline: Monuments
+    <input type="checkbox" id="inlineMonuments" checked="true"> | Wars
+    <input type="checkbox" id="inlineWars" checked="true"> | Deaths
+    <input type="checkbox" id="inlineDeaths" checked="true"> | Ascensions
+    <input type="checkbox" id="inlineAscensions" checked="true"> | Power
+    <input type="checkbox" id="inlinePower" checked="true">
+    <br/> Review Nobility Every
+    <input type="text" id="nobleReviewPeriod" value="100" size="5" /> Years
+    <br/>
+
+    <br/>
+    <button onclick="GenerateKingdom()">Generate Kingdom</button>
+
+    <p id="SummaryOutput"></p>
+
+    <p id="GeneratorOutput"></p>
+
+
+
+
+
+
+    <p></p>
+
+</body>
+
+</html>

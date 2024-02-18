@@ -1,0 +1,52 @@
+
+[FTBBanner]
+
+"languageName","German"
+"languageCode","DE"
+"tools_options_toggle","MyHeritage Ankündigungen anzeigen"
+
+[FTBSync]
+
+"languageName","German"
+"languageCode","DE"
+"SYNC_status_on_different_tree_size F","Die Online-Version Ihres Stammbaums enthält mehr Personen als die Version Ihrer Family Tree Builder-Software.\nDie Synchronisierung wird abgebrochen, um Datenverlust zu vermeiden."
+"SYNC_status_on_different_tree_size M","Die Online-Version Ihres Stammbaums enthält mehr Personen als die Version Ihrer Family Tree Builder-Software.\nDie Synchronisierung wird abgebrochen, um Datenverlust zu vermeiden."
+"SYNC_status_short_on_different_tree_size F","Online-Stammbaum hat mehr Personen als FTB."
+"SYNC_status_short_on_different_tree_size M","Online-Stammbaum hat mehr Personen als FTB."
+"SYNC_title_on_different_tree_size","Warnung vor möglichem Datenverlust"
+"SYNC_warn_on_different_tree_size F","Bei der Synchronisierung werden %d Personen aus Ihrem Online-Stammbaum gelöscht.\nDas liegt daran, dass in der aktuellen Baumversion Ihrer Family Tree Builder-Software %d Personen und in Ihrem Online-Stammbaum %d Personen vorhanden sind.\nWenn Sie fortfahren, gehen %d Einzelpersonen verloren.\n\nMöchten Sie wirklich fortfahren und die Synchronisierung durchführen?\nDies wird nicht empfohlen, es sei denn, Sie sind sicher, dass Sie Ihre Größe reduzieren möchten Baum."
+"SYNC_warn_on_different_tree_size M","Bei der Synchronisierung werden %d Personen aus Ihrem Online-Stammbaum gelöscht.\nDas liegt daran, dass in der aktuellen Baumversion Ihrer Family Tree Builder-Software %d Personen und in Ihrem Online-Stammbaum %d Personen vorhanden sind.\nWenn Sie fortfahren, gehen %d Einzelpersonen verloren.\n\nMöchten Sie wirklich fortfahren und die Synchronisierung durchführen?\nDies wird nicht empfohlen, es sei denn, Sie sind sicher, dass Sie Ihre Größe reduzieren möchten Baum."
+
+[FTBInColor]
+
+"languageName","German"
+"languageCode","DE"
+"IntroScreen_Body","DO NOT TRANSLATE"
+"IntroScreen_ColorizeButtonCaption","Kolorieren"
+"IntroScreen_Footer","DO NOT TRANSLATE"
+"IntroScreen_GotitButtonCaption","DO NOT TRANSLATE"
+"IntroScreen_Title","DO NOT TRANSLATE"
+
+[Subscription]
+
+"UpgradeDlgInColorBullet","DO NOT TRANSLATE"
+
+[FTBGedcomWizard]
+
+"languageName","German"
+"languageCode","DE"
+
+[CheckerItemTypes]
+
+"CheckerItemTypes_DuplicatedIndGuid","Konflikt zwischen Individuen"
+
+[FamilyConnections]
+
+"FamilyConnections_DuplicatedIndividual","Person: %PERSON1% konnte nicht ordnungsgemäß gespeichert werden und steht in Konflikt mit Person: %PERSON2%."
+"FamilyConnections_DuplicatedIndividualTip","Diese Personen überschneiden sich in Ihrem Projekt. Um den Konflikt zu lösen sollten Sie eine dieser Personen löschen."
+
+[GWExportGedcomFinish]
+
+"GWExportGedcomFinish_FailedOnDuplication","Ihr Projekt enthält Familien oder Einzelpersonen die nicht ordnungsgemäß gespeichert werden konnten. Diese Einträge überlappen sich in Ihrem Projekt. Die Konflikte sind möglicherweise auf einen temporären Datenfehler zurückzuführen und verhindern den Export der GEDCOM. Für weitere Unterstützung besuchen Sie bitte unser %help_center%"
+"GWExportGedcomFinish_HelpCenterLinkTitle","Hilfszentrum"
+"GWExportGedcomFinish_WarnOnExport","Ihr Projekt enthält Familien oder Einzelpersonen die nicht ordnungsgemäß gespeichert worden sind. Diese Einträge überlappen sich in Ihrem Projekt. Die Konflikte sind möglicherweise auf einen temporären Datenfehler zurückzuführen. Das GEDCOM Resultat ist ungültig und kann möglicherweise falsche Beziehungen widerspiegeln. Für weitere Unterstützung besuchen Sie bitte unser %help_center%"

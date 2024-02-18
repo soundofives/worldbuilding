@@ -1,0 +1,79 @@
+//
+// This file generates names in Japanese
+//  If you like L5Rings...
+//
+//  Created in March'01 by Jokin Gonzalez
+//
+
+NAME => SURNAME {FIRST}{SECOND}
+
+FIRST=> A
+     => I
+     => Kei
+     => Masa
+     => Nobu
+     => O
+     => Sano
+     => Taka
+     => Tsu
+     => Ue
+
+SECOND  => bame
+        => basa
+        => chiro
+        => hiro
+        => kira
+	=> ko
+	=> mi
+        => nazo
+        => nori
+        => samu
+        => shi
+        => sugi
+        => suke
+        => wari
+
+SURNAME => {ONE}{TWO}
+
+ONE      => Fuji
+         => Hi
+         => Kawa
+	 => Kuru
+         => Miya
+         => Mizu
+         => Moku
+         => Mori
+         => Muko
+         => Na
+         => Niwa
+         => Sa
+         => Te
+         => Tori
+         => Wa
+
+TWO    => gai
+       => gara
+       => kai
+       => mada
+       => mori
+       => mura
+       => saki
+       => sei
+       => tobe
+       => tori
+       => tsuki
+       => wara
+       => yama
+       => yobi
+       => zuka
+
+//
+// Replacement rules: fix up any bad Japanese
+//
+buba==ba
+kuka==ka
+nona==na
+susu==su
+Tsush==Tsuh
+wawa==wa
+zuzu==zu

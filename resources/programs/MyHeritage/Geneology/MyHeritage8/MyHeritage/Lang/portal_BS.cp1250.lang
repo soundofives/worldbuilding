@@ -1,0 +1,52 @@
+
+[FTBBanner]
+
+"languageName","Bosnian"
+"languageCode","BS"
+"tools_options_toggle","Show MyHeritage announcements"
+
+[FTBSync]
+
+"languageName","Bosnian"
+"languageCode","BS"
+"SYNC_status_on_different_tree_size F","The online version of your family tree has more individuals than the version on your Family Tree Builder software.\nSync is aborted to avoid data loss."
+"SYNC_status_on_different_tree_size M","The online version of your family tree has more individuals than the version on your Family Tree Builder software.\nSync is aborted to avoid data loss."
+"SYNC_status_short_on_different_tree_size F","Online tree has more individuals than FTB."
+"SYNC_status_short_on_different_tree_size M","Online tree has more individuals than FTB."
+"SYNC_title_on_different_tree_size","Potential data loss warning"
+"SYNC_warn_on_different_tree_size F","The sync you are about to do will delete %d individuals from your online tree.\nThat's because the current tree version on your Family Tree Builder software has %d individuals and your online tree has %d individuals.\nIf you proceed, %d individuals will be lost.\n\nAre you sure you want to proceed and do the sync?\nThis is not recommended unless you are sure that you want to reduce the size of your tree."
+"SYNC_warn_on_different_tree_size M","The sync you are about to do will delete %d individuals from your online tree.\nThat's because the current tree version on your Family Tree Builder software has %d individuals and your online tree has %d individuals.\nIf you proceed, %d individuals will be lost.\n\nAre you sure you want to proceed and do the sync?\nThis is not recommended unless you are sure that you want to reduce the size of your tree."
+
+[FTBInColor]
+
+"languageName","Bosnian"
+"languageCode","BS"
+"IntroScreen_Body","DO NOT TRANSLATE"
+"IntroScreen_ColorizeButtonCaption","DO NOT TRANSLATE"
+"IntroScreen_Footer","DO NOT TRANSLATE"
+"IntroScreen_GotitButtonCaption","DO NOT TRANSLATE"
+"IntroScreen_Title","DO NOT TRANSLATE"
+
+[Subscription]
+
+"UpgradeDlgInColorBullet","DO NOT TRANSLATE"
+
+[FTBGedcomWizard]
+
+"languageName","Bosnian"
+"languageCode","BS"
+
+[CheckerItemTypes]
+
+"CheckerItemTypes_DuplicatedIndGuid","Conflict between individuals"
+
+[FamilyConnections]
+
+"FamilyConnections_DuplicatedIndividual","Person: %PERSON1% is not stored properly and conflicts with Person: %PERSON2%."
+"FamilyConnections_DuplicatedIndividualTip","These two individuals overlap in your project. To resolve the conflict, consider deleting one of the individuals."
+
+[GWExportGedcomFinish]
+
+"GWExportGedcomFinish_FailedOnDuplication","Your project contains some families or individuals that are not stored properly. These entities overlap in your project. The conflicts might have been caused due to a temporary data error and are preventing the export to GEDCOM. For further assistance please visit our %help_center%"
+"GWExportGedcomFinish_HelpCenterLinkTitle","Help Center"
+"GWExportGedcomFinish_WarnOnExport","Your project contains some families or individuals that are not stored properly. These entities overlap in your project. The conflicts might have been caused due to a temporary data error. The output GEDCOM is not valid and might reflect improper relationships. For further assistance please visit our %help_center%"

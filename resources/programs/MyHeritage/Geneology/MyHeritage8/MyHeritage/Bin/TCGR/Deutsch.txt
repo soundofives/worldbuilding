@@ -1,0 +1,735 @@
+﻿!SECTION NAMES
+!-------------
+COMPLETE_GENEALOGY_REPORT:Ein Genealogiereport für
+CREATED_ON:Erstellt
+FRONT_PAGE_SECT:Titelseite
+CONTENTS:Inhalt
+INTRODUCTION_SECT:Einleitung
+PATERNAL_ANCESTRY_SECT:Die väterlichen Vorfahren
+MATERNAL_ANCESTRY_SECT:Die mütterlichen Vorfahren
+DESCENDANTS_SECT:Nachkommen
+DIRECT_RELATIONS_SECT:Direkte Verwandte
+INDIRECTLY_RELATED_SECT:Indirekte Verwandte
+UNCONNECTED_SECTION_SECT:Abschnitt nicht verbundene Personen
+ASSOCIATED_SECTION_SECT:Abschnitt Verbindungen
+UNCONNECTED_INDIVIDUALS_SECT:Nicht verbundene Einzelpersonen
+ASSOCIATED_INDIVIDUALS_SECT:Verbundene Einzelpersonen
+ASSOCIATED_WITH:Verbunden mit
+ASSOCIATED_AS:als
+NAME_DERIVATIONS_SECT:Namensursprung
+FAMILY_TREES_SECT:Stammbäume
+MEDIA_SECT:Medien
+PHOTOGRAPHS_SECT:Fotos
+PLACES_OF_REST_SECT:Ruhestätten
+DOCUMENTS_SECT:Dokumente
+NOTES_SECT:Notizen
+SOURCES_SECT:Quellen
+INDEX_OF_OCCUPATIONS_SECT:Verzeichnis der Berufe
+INDEX_OF_PLACES_SECT:Verzeichnis der Orte
+MAPS_SECT:Atlas
+MAP_INCLUDED_1:[Eine
+MAP_INCLUDED_2:Karte
+MAP_INCLUDED_3:ist im Atlas vorhanden.]
+INDEX_OF_DATES_SECT:Verzeichnis der Ereignisse
+INDEX_OF_ANNIVERSARIES_SECT:Verzeichnis der Jahrestage
+CAUSES_OF_DEATH_SECT:Todesursachen
+RELATIONSHIP_PATHS_SECT:Beziehungspfade
+REL_PATH_PREAMBLE_1:Dieser Abschnitt beschreibt genau das Verhältnis jeder verbundenen Einzelperson zu <name>.
+REL_PATH_PREAMBLE_2:Um Querverbindungen zu erleichtern, wird die in diesem Abschnitt dargestellte Referenznummer der Verhältnisse mit der Verhältnisbeschreibung innerhalb der anderen Abschnitte gezeigt.
+INDEX_OF_INDIVIDUALS_SECT:Verzeichnis der Personen
+INDEX_SECT:Verzeichnis
+PREFACE_SECT:Vorwort
+APPENDIX_SECT:Anhang
+VOLUME:Band
+INDIVIDUAL_DETAILS:PERSONEN DETAILS
+
+!HEADINGS
+---------
+GENERAL_PAGE:Seite
+CONTINUED:(Fortsetzung)
+GENERATION:Generation
+INDIRECT_VIA:über
+PEER_GENERATION:Gleiche Generation
+PEER_GENERATION_OF:Gleiche Generation von <name>
+ANCESTORS:Vorfahren
+DESCENDANTS:Nachkommen
+GEN_PEERS:Gleichen
+GEN_PARENTS:Eltern
+GEN_GRANDPARENTS:Großeltern
+GEN_CHILDREN:Kindern
+GEN_GRANDCHILDREN:Enkelkindern
+IMMEDIATE_FAMILY:DIREKTE FAMILIE
+ONE_STEP_REMOVED:1 GENERATION ENTFERNT
+STEPS_REMOVED:<n> GENERATIONEN ENTFERNT
+TITLE_REF:Verw.
+TITLE_TREE:Baum
+TITLE_NAME:Name
+TITLE_RELATIONSHIP:Beziehungen
+
+!SUBJECT INDIVIDUAL
+!------------------
+SUBJECT_REPORT:Die Hauptperson dieses berichtes
+SUBJECT_SECTION:Die Hauptperson dieses abschnitts
+SUBJECT_UNC_SECT:Die Hauptperson eines unverbundenen abschnitts
+
+!PERSONAL EVENTS/FACTS
+!---------------------
+MOVE_HESHE_AFTER_DATE:Y
+WAS_BORN:wurde <date><place>
+LIVING_PERSON_FIRST:Lebende
+LIVING_PERSON_LAST:Person
+BORN_AS_MALE_TO:als Sohn von
+BORN_AS_FEMALE_TO:als Tochter von
+BORN_TO:als Kind von
+BORN_TO_AND:und
+WAS_BORN_END_VERB:geboren <type>
+ASSUMED_PARENTHOOD_OF_M:hatte durch Adoption
+ASSUMED_PARENTHOOD_OF_F:hatte durch Adoption
+ASSUMED_PARENTHOOD_OF_P:hatten durch Adoption
+FATHERED:hatte
+GAVE_BIRTH_TO:gebar
+GAVE_BIRTH_TO_END:
+FATHERED_AND:zeugte <children>
+GAVE_BIRTH_TO_AND:gebar <children>
+AND_ASSUMED_PARENTHOOD_OF_S_S:und adoptierte <num> weiteres
+AND_ASSUMED_PARENTHOOD_OF_P_S:, und <num> weiteres durch Adoption
+AND_ASSUMED_PARENTHOOD_OF_S_P:und adoptierte <num> weitere
+AND_ASSUMED_PARENTHOOD_OF_P_P:, und <num> weitere durch Adoption
+WAS_CHRISTENED:<heshe> wurde <date>, <place> getauft <type>.
+WAS_BAPTIZED:<heshe> wurde <date>, <place> getauft <type>.
+WAS_BLESSED:<heshe> wurde <date>, <place> gesegnet <type>.
+WAS_NOT_CHRISTENED:<heshe> wurde nicht <place> getauft <type>.
+WAS_NOT_BAPTIZED:<heshe> wurde nicht <place> getauft <type>.
+WAS_NOT_BLESSED:<heshe> wurde nicht <place> gesegnet <type>.
+EVENT_CUSTOM:<customevent> <date>, <place>
+WAS_IN_CENSUS:<heshe> wurde bei der Volkszählung (<censusdesc>) <type> <date>, <place> registriert.
+FAMILY_WAS_IN_CENSUS:Bei der Volkszählung (<censusdesc>) <type> <date>, <place> registriert.
+WAS_ADOPTED:wurde <heshe?> <parents> adoptiert <type>
+ADOPTED_BY:von
+ADOPTED_AND_BY:und von
+BECAME_EMPLOYED_AS:wurde <heshe?>
+WAS_EMPLOYED_AS:arbeitete <heshe?> als
+INDEFINITE_A_M:ein
+INDEFINITE_AN_M:ein
+INDEFINITE_A_F:eine
+INDEFINITE_AN_F:eine
+WAS_EMPLOYED:war <heshe?> beschäftigt
+EMPLOYED_AS:als
+EMPLOYED_WITH:im
+RESIDED:wohnte <heshe?>
+BECAME_B_MITZVAH:wurde <heshe?>
+DID_NOT_BECOME_B_MITZVAH:wurde <heshe?> nicht
+WAS_EDUCATED:machte <heshe?> eine Ausbildung <type> <place>
+GRADUATED:machte <heshe?> {sein/ihr} Diplom <type> <place>
+RETIRED:setzte <heshe?> sich <place> zur Ruhe <type>
+WAS_NOT_EDUCATED:machte <heshe?> eine Ausbildung <type> nicht <place>
+DID_NOT_GRADUATE:bekam <heshe?> Diplom <type> nicht <place>
+DID_NOT_RETIRE:zog sich nicht <heshe?> <place> zurück <type>
+EMIGRATED:wanderte <heshe?> <place> <type>
+EMIGRATED_FROM:aus
+IMMIGRATED:ist <heshe?> <place> eingewandert <type>
+IMMIGRATED_TO:in
+WAS_NATURALIZED:wurde <heshe?> <place> eingebürgert <type>
+WAS_NOT_NATURALIZED:wurde <heshe?> nicht <place> eingebürgert <type>
+DIED:starb <type>
+DIED_OF:an
+IS_STILL_ALIVE:ist noch am Leben.
+IS_NO_LONGER_LIVING:lebt nicht mehr.
+WAS_BURIED:wurde <date><place> begraben <type>
+WAS_NOT_BURIED:wurde nicht <date><place> begraben <type>
+WAS_LAID_TO_REST:wurde <date><place> zu Grabe getragen <type>
+WAS_CREMATED:wurde <date><place> eingeäschert <type>
+WAS_NOT_CREMATED:wurde nicht <date><place> eingeäschert <type>
+ALSO_RECORDED_FOR:Weitere Informationen über <name>
+GENERAL_BORN:geboren
+GENERAL_DIED:gestorben
+WAS_GENERALLY_KNOWN_AS:<name1> wurde auch „<name2>“ genannt.
+ALSO_RECORDED_AS:auch verzeichnet als
+ASSOCIATION_WITH:Beziehung mit
+ATTR_CAST:Kaste
+ATTR_DSCR:Beschreibung
+ATTR_IDNO:Nationale Identifikationsnummer
+ATTR_NATI:Nationalität
+ATTR_PROP:Besitz
+ATTR_RELI:Religion
+ATTR_SSN:Sozialversicherungsnummer
+ATTR_TITL:Titel
+
+!DATES
+------
+DATE_ON:am
+DATE_ON_SUFF:.
+DATE_IN_M:im
+DATE_IN_Y:
+DATE_UNTIL:bis <zum>
+DATE_FROM:von <dem>
+DATE_TO:bis <zum>
+DATE_YEAR_UNKNOWN:Jahr unbekannt
+DATE_ESTIMATED:(geschätzt)
+DATE_WFT_ESTIMATE:(World Family Tree geschätzt)
+DATE_BEFORE:vor <dem>
+DATE_AFTER:nach <dem>
+DATE_BETWEEN:zwischen <dem>
+DATE_AND:und <dem>
+DATE_ABOUT:ungefähr <dem>
+UNSPECIFIED_YEARS:Nicht genannte Jahre
+CAL_FRENCH:französischer Revolutionskalender
+CAL_HEBREW:hebräisch
+CAL_JULIAN:julianisch
+ERA_BC:v.Chr.
+ERA_AD:n.Chr.
+ERA_BCE:v.u.Z.
+ERA_CE:u.Z.
+
+!AGES
+-----
+AGED:im Alter von <age>
+AGED_ABOUT:im Alter von zirka <age>
+AGED_WHEN_OLDER_THAN:als <heshe?> älter <war1> als <age> <war2>
+AGED_WHEN_YOUNGER_THAN:als <heshe?> jünger <war1> als <age> <war2>
+AGED_FROM_INFANCY:im Kindesalter
+AGED_FROM_AGE:im Alter von <age>
+AGED_FROM_AGE_ABOUT:im Alter von ungefähr <age>
+AGE_MORE_THAN:mehr als
+AGE_LESS_THAN:weniger als
+AGE_DAYS:Tagen
+AGE_MONTHS:Monaten
+AGE_YEARS:Jahren
+AGE_YEARS_ONLY:Jahren
+AGE_AS_A_CHILD:als Kind
+AGE_AS_AN_INFANT:als Kleinkind
+AGE_STILLBORN:tot geboren
+WHEN_AGED_PERSON:als <person> <age> alt war
+WHEN_AGED_COUPLE:als <hisname> <hisage> und <hername> <herage> alt waren
+WHEN_AGED_COUPLE_RESP:als sie <hisage> beziehungsweise <herage> alt waren
+AGE_AFTER_VERB:Y
+
+!PLACES
+-------
+PLACE_AT:in
+PLACE_IN:in
+PLACE_FROM:von
+PLACE_TO:zu
+
+!FAMILY INFORMATION
+-------------------
+THEY_BECAME_ENGAGED:<he> hat sich mit <her> verlobt
+PERSON_BECAME_ENGAGED:<person> hat sich verlobt
+HAVING_BECOME_ENGAGED:Sie verlobten sich
+BECAME_PARTNERS:wurden Partner
+HAD_PARTNERS_M:hatte <num> Partner
+HAD_PARTNERS_F:hatte <num> Partnerinnen
+HAD_PARTNERSHIPS:hatte <num> Partnerschaften
+WAS_MARRIED_TO:war mit
+WAS_MARRIED_AND_TO:und
+WAS_MARRIED_END_VERB:verheiratet
+WAS_ALSO_PARTNER_OF_M:war auch der Partner von
+WAS_PARTNER_OF_M:war der Partner von
+WAS_ALSO_PARTNER_OF_F:war auch die Partnerin von
+WAS_PARTNER_OF_F:war die Partnerin von
+MARRIED:heiratete
+MARRIED_TIMES:heiratete
+WAS_NOT_MARRIED_TO:<he> war nicht mit <her> verheiratet
+WERE_NOT_MARRIED:waren nicht verheiratet
+PERSON_WAS_NOT_MARRIED:<person> war nicht verheiratet
+PERSON_WAS_MARRIED:<person> war verheiratet
+NO_RECORDED_FAMILY_DETAILS:(Keine Familiendetails bekannt)
+HESHE_DIVORCED:<heshe> ließen sich scheiden
+THEY_DIVORCED:Sie ließen sich scheiden
+HESHE_LATER_DIVORCED:<heshe> ließen sich später scheiden
+THEY_LATER_DIVORCED:Sie ließen sich später scheiden
+MARRIAGE_WAS_ANNULLED:Die Ehe wurde annulliert
+WAS_DIVORCED:wurde geschieden
+WERE_DIVORCED:wurden geschieden
+HESHE_WAS_DIVORCED:<heshe> wurde geschieden
+THEY_WERE_DIVORCED:sie wurden geschieden
+VIA_UNMARRIED:über eine unverheiratete Beziehung
+VIA_X_MARRIAGES:über <n> Ehen
+VIA_X_MARRIAGES_RELATIONSHIPS:über <n> Ehen und/oder Beziehungen
+VIA_A_RELATIONSHIP:über eine Beziehung
+VIA_N_RELATIONSHIPS:über <n> Beziehungen
+VIA_AN_ADOPTION:über eine Adoption
+VIA_N_ADOPTIONS:über <n> Adoptionen
+REL_UNDETERMINED:Beziehungen (unbestimmt)
+ALSO_FOLLOWING_INFO_FAMILY:Weitere Informationen über diese Familie
+
+!FAMILY INFORMATION - CHILDREN
+------------------------------
+BIRTH_HAD_SINGLE:hatte
+BIRTH_HAD_COUPLE:hatten
+BIRTH_SON:Sohn
+BIRTH_DAUGHTER:Tochter
+BIRTH_SONS:Söhne
+BIRTH_DAUGHTERS:Töchter
+BIRTH_CHILD:Kind
+BIRTH_CHILDREN:Kinder
+NATURAL_CHILD:leibliches Kind
+NATURAL_CHILDREN:leibliche Kinder
+BY_ADOPTION:durch Adoption
+BY_FOSTERING:durch Pflegschaft
+BY_SEALED_ADOPTION:durch abgeschlossene Adoption
+
+!RELATIONSHIPS
+--------------
+LOWERCASE_RELATION:N
+GREAT_GREAT_LIMIT:1
+REMOVED_COUSINS:D
+
+STEP_PREFIX_M:Stief
+STEP_PREFIX_F:Stief
+IN_LAW_PREFIX_M:Schwieger
+IN_LAW_PREFIX_F:Schwieger
+IN_LAW_SUFFIX:
+
+REL_HUSBAND:Mann
+REL_WIFE:Frau
+REL_PARTNER:{Partner/Partnerin}
+REL_SON:Sohn
+REL_DAUGHTER:Tochter
+REL_CHILD:Kind
+REL_CHILDREN:Kinder
+REL_SIBLING:Geschwister
+REL_MOTHER:Mutter
+REL_FATHER:Vater
+REL_BROTHER:Bruder
+REL_SISTER:Schwester
+REL_UNCLE:Onkel
+REL_AUNT:Tante
+REL_GRANDMOTHER:Großmutter
+REL_GRANDFATHER:Großvater
+REL_GRANDSON:Enkel
+REL_GRANDDAUGHTER:Enkelin
+REL_GREAT_UP:Ur
+REL_GREAT_DOWN:Ur
+REL_NEPHEW:Neffe
+REL_NIECE:Nichte
+REL_NEPHEW_NIECE:Neffe/Nichte
+REL_COUSIN_M:Cousin
+REL_COUSIN_F:Cousine
+REL_GREAT_UNCLE:Großonkel
+REL_GREAT_AUNT:Großtante
+REL_GREAT_NEPHEW:Großneffe
+REL_GREAT_NIECE:Großnichte
+REL_SPOUSE:Gatte
+REL_HALF_SIBLING:Halb-Geschwister
+REL_GRANDCHILD:Enkelkind
+REL_GREAT_NEPHEW_NIECE:Großneffe/Großnichte
+REL_PARENT:Elternteil
+REL_UNCLE_AUNT:Onkel/Tante
+REL_GRANDPARENT:Großeltern
+REL_GREAT_UNCLE_AUNT:Großonkel/Großonkel
+REL_HALF_BROTHER:Halbbruder
+REL_HALF_SISTER:Halbschwester
+REL_EX_WIFE:Vorherige Ehefrau
+REL_STEP_MOTHER:Stiefmutter
+REL_DAUGHTER_IN_LAW:Schwiegertochter
+REL_SISTER_IN_LAW:Schwägerin
+REL_EX_HUSBAND:Vorheriger Ehemann
+REL_STEP_FATHER:Stiefvater
+REL_SON_IN_LAW:Schwiegersohn
+REL_BROTHER_IN_LAW:Schwager
+REL_STEP_GRANDFATHER:Stiefgroßvater
+REL_STEP_GRANDMOTHER:Stiefgroßmutter
+
+ADOPTIVE_FATHER:Adoptivvater
+ADOPTIVE_MOTHER:Adoptivmutter
+ADOPTED_CHILD:Adoptiertes Kind
+ADOPTED_SON:Adoptierter Sohn
+ADOPTED_DAUGHTER:Adoptierte Tochter
+
+REL_BY_MARRIAGE:durch Heirat
+REL_INDIRECT:indirekte Verwandte
+
+COUSIN_REMOVED_ONCE:
+COUSIN_REMOVED_X_TIMES:<int>. Grades
+
+COUSIN_REMOVED_UP_M:
+COUSIN_REMOVED_UP_F:
+COUSIN_REMOVED_DOWN_M:
+COUSIN_REMOVED_DOWN_F:
+COUSIN_DISTANCE:
+
+MORE_THAN:mehr als
+ONCE:einmal
+TWICE:zweimal
+N_TIMES:<n>mal
+N_TIMES_GREAT_UP:<int> x Ur-
+N_TIMES_GREAT_DOWN:<int> x Ur-
+
+'POSSESSIVE RELATIONSHIPS
+'------------------------
+POSSESSIVE_NAME_FIRST:S
+NAME_POSSESSIVE_PREF:s
+NAME_POSSESSIVE_PREF_ALT:'
+NAME_POSSESSIVE_SUFF:von
+REVERSE_POSSESSIVE:Y
+REVERSE_POSSESSIVE_DEFAULT:der
+
+OF_SUBSTITUTIONS:12
+SUB_OF_COUSIN_M:ousin=des *ousins
+SUB_OF_UNCLE:nkel=des *nkels
+SUB_OF_NEPHEW:effe=des *effen
+SUB_OF_GRANDSON:nkel=des *nkels
+SUB_OF_GRANDFATHER:roßvaters=des *roßvaters
+SUB_OF_FATHER:ater=des *aters
+SUB_OF_BROTHER:ruder=des *ruders
+SUB_OF_SON:Sohn=des *Sohnes
+SUB_OF_CHILD:inder=des *inder
+SUB_OF_HUSBAND:Mann=des *Mannes
+SUB_OF_PARTNER_M:Partner=des *Partners
+SUB_OF_PARTNER_F:Partner=der *Partnerin
+
+!FAMILY TREES
+!------------
+SHOWN_IN_TREE:im <tree> gezeigt
+SHOWN_WITHIN_TREE:innerhalb <tree> gezeigt
+FAMILY_TREE:Stammbaum
+NO_RECORDED_PARENTS_FAMILY:Keine bekannten Eltern (<person> Familie)
+THIS_FAMILY_SHOWN_AS_TREE:Diese Familie wird im <tree> dargestellt.
+THIS_FAMILY_SHOWN_WITHIN_TREE:Diese Familie wird innerhalb <tree> dargestellt.
+EXCESS_CHILDREN_1:Plus
+EXCESS_CHILDREN_2:<n> Andere
+EXCESS_CHILDREN_3:Kinder
+
+!MEDIA
+!-----
+IMAGE:Das Bild
+THIS_IMAGE:Dieses Bild
+ANOTHER_IMAGE:Ein anderes Bild
+IMAGE_OTHER:andere
+IMAGES:Bilder
+RELATES_TO:bezieht sich auf
+RELATE_TO:beziehen sich auf
+PICTURE_SINGULAR:Abbildung
+PHOTOGRAPH_SINGULAR:Foto
+DOCUMENT_SINGULAR:Dokument
+PLACE_OF_REST_SINGULAR:Ruhestätte
+IMAGE_FROM:von
+IMAGE_CROPPED_FROM:bearbeitet von
+
+!NOTES AND SOURCES
+!-----------------
+GENERAL_NOTE:Notiz
+GENERAL_NOTES:Notizen
+GENERAL_SOURCE:Quelle
+GENERAL_SOURCES:Quellen
+THIS_NOTE:diese Notiz
+THIS_SOURCE:diese Quelle
+CITED_BY:zitiert
+APPLIES_TO:Trifft zu auf
+APPLIES:trifft zu
+GENERAL_BY:Durch
+GENERAL_IN:Im
+PUBLISHED_IN:Veröffentlicht im
+REPOSITORY:Lagerort
+UNDETERMINED:Unbestimmt
+SOURCE_LEVEL_0:Unzuverlässig oder geschätzt
+SOURCE_LEVEL_1:Fraglich
+SOURCE_LEVEL_2:Ziemlich zuverlässig
+SOURCE_LEVEL_3:In hohem Grade zuverlässig
+SOURCE_LEVEL_X:Zuverlässigkeit Niveau
+SOURCE_LEVEL_QUAL:Qualität
+SOURCE_PAGE:Seite
+GENERAL_SEE:Siehe
+GENERAL_SEE_ALSO:Siehe auch
+ALL_NOTES_INCORPORATED:Alle Anmerkungen sind in den erzählenden Texten enthalten.
+
+!EVENT TYPES
+!-----------
+EVENT_MARRIAGE:Heirat
+EVENT_ENGAGEMENT:Verlobung
+EVENT_DIVORCE:Scheidung
+EVENT_ANNULMENT:Annullierung
+EVENT_NAME:Name
+EVENT_BIRTH:Geburt
+EVENT_CHRISTENING:Taufe
+EVENT_BAPTISM:Taufe
+EVENT_BLESSING:Segen
+EVENT_ADOPTION:Adoption
+EVENT_EDUCATION:Ausbildung
+EVENT_GRADUATION:Abschluß
+EVENT_RETIREMENT:Ruhestand
+EVENT_OCCUPATION:Beruf
+EVENT_RESIDENCE:Wohnsitz
+EVENT_EMIGRATION:Auswanderung
+EVENT_IMMIGRATION:Einwanderung
+EVENT_NATURALIZATION:Einbürgerung
+EVENT_BAR_MITZVAH:Bar Mitzvah
+EVENT_BAS_MITZVAH:Bas Mitzvah
+EVENT_BAT_MITZVAH:Bat Mitzvah
+EVENT_DEATH:Tod
+EVENT_CREMATION:Feuerbestattung
+EVENT_BURIAL:Beerdigung
+EVENT_CENSUS:Volkszählung
+EVENT_ASSOCIATION:Beziehung
+EVENT_WILL:Testament
+EVENT_PROBATE:Erblegitimation
+
+!GENERAL
+!-------
+GENERAL_AND:und
+GENERAL_VIA:über
+GENERAL_OF_DESCRIBE:der
+GENERAL_OF_POSSESS:von
+GENERAL_AS:wie
+GENERAL_ANOTHER:anderen
+
+GENERAL_HIS_M:sein
+GENERAL_HER_M:ihren
+GENERAL_HIS_F:seine
+GENERAL_HER_F:ihre
+
+GENERAL_HE:Er
+GENERAL_SHE:Sie
+GENERAL_THEY:Sie
+
+VERB_WAS:war
+VERB_WERE:waren
+
+UNK_MR:Herr
+UNK_MS:Frau
+UNK_MR_MS:Herr/Frau
+UNK_UNKNOWN:Unbekannt
+UNK_DATED:datiert
+
+!MONTH NAMES
+!-----------
+JANUARY:Januar
+FEBRUARY:Februar
+MARCH:März
+APRIL:April
+MAY:Mai
+JUNE:Juni
+JULY:Juli
+AUGUST:August
+SEPTEMBER:September
+OCTOBER:Oktober
+NOVEMBER:November
+DECEMBER:Dezember
+
+!NUMBERS
+!-------
+ONE_M:Einen
+ONE_F:Eine
+ONE_N:Ein
+1:Ein
+2:Zwei
+3:Drei
+4:Vier
+5:Fünf
+6:Sechs
+7:Sieben
+8:Acht
+9:Neun
+10:Zehn
+11:Elf
+12:Zwölf
+13:Dreizehn
+14:Vierzehn
+15:Fünfzehn
+16:Sechzehn
+17:Siebzehn
+18:Achtzehn
+19:Neunzehn
+20:Zwanzig
+21:Einundzwanzig
+22:Zweiundzwanzig
+23:Dreiundzwanzig
+24:Vierundzwanzig
+25:Fünfundzwanzig
+26:Sechsundzwanzig
+27:Siebenundzwanzig
+28:Achtundzwanzig
+29:Neunundzwanzig
+30:Dreißig
+31:Einunddreißig
+32:Zweiunddreißig
+33:Dreiunddreißig
+34:Vierunddreißig
+35:Fünfunddreißig
+36:Sechsunddreißig
+37:Siebenunddreißig
+38:Achtunddreißig
+39:Neununddreißig
+40:Vierzig
+41:Einundvierzig
+42:Zweiundvierzig
+43:Dreiundvierzig
+44:Vierundvierzig
+45:Fünfundvierzig
+46:Sechsundvierzig
+47:Siebenundvierzig
+48:Achtundvierzig
+49:Neunundvierzig
+50:Fünfzig
+51:Einundfünfzig
+52:Zweiundfünfzig
+53:Dreiundfünfzig
+54:Vierundfünfzig
+55:Fünfundfünfzig
+56:Sechsundfünfzig
+57:Siebenundfünfzig
+58:Achtundfünfzig
+59:Neunundfünfzig
+60:Sechzig
+61:Einundsechzig
+62:Zweiundsechzig
+63:Dreiundsechzig
+64:Vierundsechzig
+65:Fünfundsechzig
+66:Sechsundsechzig
+67:Siebenundsechzig
+68:Achtundsechzig
+69:Neunundsechzig
+70:Siebzig
+71:Einundsiebzig
+72:Zweiundsiebzig
+73:Dreiundsiebzig
+74:Vierundsiebzig
+75:Fünfundsiebzig
+76:Sechsundsiebzig
+77:Siebenundsiebzig
+78:Achtundsiebzig
+79:Neunundsiebzig
+80:Achtzig
+81:Einundachtzig
+82:Zweiundachtzig
+83:Dreiundachtzig
+84:Vierundachtzig
+85:Fünfundachtzig
+86:Sechsundachtzig
+87:Siebenundachtzig
+88:Achtundachtzig
+89:Neunundachtzig
+90:Neunzig
+91:Einundneunzig
+92:Zweiundneunzig
+93:Dreiundneunzig
+94:Vierundneunzig
+95:Fünfundneunzig
+96:Sechsundneunzig
+97:Siebenundneunzig
+98:Achtundneunzig
+99:Neunundneunzig
+
+Ordinal0:Entfernter
+Ordinal1:
+Ordinal2:Zweiten
+Ordinal3:Dritten
+Ordinal4:Vierten
+Ordinal5:Fünften
+Ordinal6:Sechsten
+Ordinal7:Siebten
+Ordinal8:Achten
+Ordinal9:Neunten
+Ordinal10:Zehnten
+Ordinal11:Elften
+Ordinal12:Zwölfn
+Ordinal13:Dreizehnten
+Ordinal14:Vierzehnten
+Ordinal15:Fünfzehnten
+Ordinal16:Sechzehnten
+Ordinal17:Siebzehnten
+Ordinal18:Achtzehnten
+Ordinal19:Neunzehnten
+Ordinal20:Zwanzigsten
+
+Nth1:Die <num>.
+Nth2:Die <num>.
+Nth3:Die <num>.
+NthX:Die <num>.
+Nth1:Die <num>.
+Nth2:Die <num>.
+Nth3:Die <num>.
+Nth4:Die <num>.
+Nth5:Die <num>.
+Nth6:Die <num>.
+Nth7:Die <num>.
+Nth8:Die <num>.
+Nth9:Die <num>.
+Nth10:Die <num>.
+Nth11:Die <num>.
+Nth12:Die <num>.
+
+
+'RECENT ADDITIONS (TCGR 2009)
+-----------------------------
+MH_PARTNERS:Partner
+MH_FRIENDS:Freunde
+MH_REL_OTHER:Undefinierte Beziehung
+MH_REL_UNKNOWN:Unbekannte Beziehung
+
+EVENT_UNKNOWN:Undefiniertes Ereignis
+EVENT_CONF:Konfirmation
+EVENT_FCOM:Erstkommunion
+EVENT_ORDN:Priesterweihe
+EVENT_BAPL:Taufe (LDS)
+EVENT_CONL:Konfirmation (LDS)
+EVENT_ENDL:Begabung (LDS)
+EVENT_SLGC:Siegelung (LDS)
+EVENT_DIVF:Scheidungsantrag
+EVENT_MARB:Eheaufgebot
+EVENT_MARC:Ehevertrag
+EVENT_MARL:Heiratserlaubnis
+EVENT_MARS:Ehevertrag
+EVENT_SLGS:Siegelung (LDS)
+
+GENERAL_CITATION:Quellenangabe
+GENERAL_CITATIONS:Quellenangaben
+
+WAS_FOSTERED:wurde aufgezogen <parents>
+FOSTERED_BY:von
+FOSTERED_AND_BY:und
+VIA_FOSTERING:durch Pflege
+FOSTER_FATHER:Pflegevater
+FOSTER_MOTHER:Pflegemutter
+FOSTER_CHILD:Pflegekind
+FOSTER_DAUGHTER:Pflegetochter
+FOSTER_SON:Pflegesohn
+VIA_AN_ADOPTION:durch Adoption
+VIA_N_ADOPTIONS:durch <n> Adoptivbeziehungen
+
+GENERAL_INCLUDING:einschließlich
+
+SUNDAY:Sonntag
+MONDAY:Montag
+TUESDAY:Dienstag
+WEDNESDAY:Mittwoch
+THURSDAY:Donnerstag
+FRIDAY:Freitag
+SATURDAY:Samstag
+
+SUBJECT_ASSOC_SECT:Die Hauptperson eines verbindungen Abschnitts
+
+ADDR_TELEPHONE:Telefon
+ADDR_FAX:Telefax
+ADDR_INTERNET:Internet
+ADDR_EMAIL:Email
+
+DSCR_HAIR:Haarfarbe
+DSCR_EYES:Augenfarbe
+DSCR_HEIGHT:Größe
+DSCR_WEIGHT:Gewicht
+DSCR_DESC:Beschreibung
+DSCR_MEDICAL:Med. Info
+DSCR_PHYSICAL:Phys. Beschr.
+
+'RECENT ADDITIONS (TCGR 2010)
+-----------------------------
+DATEABB_BEFORE:v
+DATEABB_ABOUT:u
+DATEABB_AFTER:n
+DATEABB_ESTIMATED:g
+
+ATTR_MARRIAGES:Ehen
+QUOTEMARKS:„“
+
+'RECENT ADDITIONS (TCGR 2011)
+-----------------------------
+NAME_LAST_FIRST:N
+
+'RECENT ADDITIONS (TCGR 2012)
+-----------------------------
+INDIRECT_TREE:Indirekte Beziehungen
+UNCONNECTED_TREE:Nicht Verbundene
+ASSOCIATES_TREE:Verbundene

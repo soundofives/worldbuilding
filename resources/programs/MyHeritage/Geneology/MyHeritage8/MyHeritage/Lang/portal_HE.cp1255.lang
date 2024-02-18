@@ -1,0 +1,52 @@
+
+[FTBBanner]
+
+"languageName","Hebrew"
+"languageCode","HE"
+"tools_options_toggle","הראה הודעות מ-MyHeritage"
+
+[FTBSync]
+
+"languageName","Hebrew"
+"languageCode","HE"
+"SYNC_status_on_different_tree_size F","בגרסה המקוונת של עץ המשפחה שלך יש יותר אנשים מאשר בגרסה שנמצאת על תוכנת בניית עץ המשפחה (Family Tree Builder) שלך.\nעצרנו את הסנכרון בכדי למנוע אובדן מידע."
+"SYNC_status_on_different_tree_size M","בגרסה המקוונת של עץ המשפחה שלך יש יותר אנשים מאשר בגרסה שנמצאת על תוכנת בניית עץ המשפחה (Family Tree Builder) שלך.\nעצרנו את הסנכרון בכדי למנוע אובדן מידע."
+"SYNC_status_short_on_different_tree_size F","העץ המקוון כולל מספר אנשים גדול בהשוואה לתוכנת FTB."
+"SYNC_status_short_on_different_tree_size M","העץ המקוון כולל מספר אנשים גדול בהשוואה לתוכנת FTB."
+"SYNC_title_on_different_tree_size","אזהרה מפני אובדן מידע אפשרי"
+"SYNC_warn_on_different_tree_size F","הסנכרון שאת עומדת לבצע ימחק %d אנשים מהגרסה המקוונת של עץ המשפחה שלך באתר.\nהסיבה לכך היא שבתוכנה מורשת ברשת, עץ המשפחה מכיל %d אנשים, בעוד שבעץ המקוון שלך יש %d אנשים.\nאם תמשיכי, %d אנשים יימחקו מעץ המשפחה באתר.\n\nהאם את בטוחה שברצונך להמשיך ולבצע את הסנכרון?\nאנחנו לא ממליצים לך לעשות זאת אלא אם את בטוחה שאת רוצה להקטין את עץ המשפחה שלך."
+"SYNC_warn_on_different_tree_size M","הסנכרון שאתה עומד לבצע ימחק %d אנשים מהגרסה המקוונת של עץ המשפחה שלך באתר.\nהסיבה לכך היא שבתוכנה מורשת ברשת, עץ המשפחה מכיל %d אנשים, בעוד שבעץ המקוון שלך יש %d אנשים.\nאם תמשיך, %d אנשים יימחקו מעץ המשפחה באתר.\n\nהאם אתה בטוח שברצונך להמשיך ולבצע את הסנכרון?\nאנחנו לא ממליצים לך לעשות זאת אלא אם אתה בטוח שאתה רוצה להקטין את עץ המשפחה שלך."
+
+[FTBInColor]
+
+"languageName","Hebrew"
+"languageCode","HE"
+"IntroScreen_Body","DO NOT TRANSLATE"
+"IntroScreen_ColorizeButtonCaption","הוספת צבע"
+"IntroScreen_Footer","DO NOT TRANSLATE"
+"IntroScreen_GotitButtonCaption","DO NOT TRANSLATE"
+"IntroScreen_Title","DO NOT TRANSLATE"
+
+[Subscription]
+
+"UpgradeDlgInColorBullet","DO NOT TRANSLATE"
+
+[FTBGedcomWizard]
+
+"languageName","Hebrew"
+"languageCode","HE"
+
+[CheckerItemTypes]
+
+"CheckerItemTypes_DuplicatedIndGuid","התנגשות בין ישויות"
+
+[FamilyConnections]
+
+"FamilyConnections_DuplicatedIndividual","אדם: %PERSON1% לא מאוחסן כראוי ומתנגש עם האדם הבא: %PERSON2%."
+"FamilyConnections_DuplicatedIndividualTip","שני האנשים האלה חופפים בפרויקט שלך. כדי לפתור את ההתנגשות הזו, אנחנו ממליצים למחוק אחד מהם."
+
+[GWExportGedcomFinish]
+
+"GWExportGedcomFinish_FailedOnDuplication","הפרויקט שלך מכיל משפחות או אנשים שאינם מאוחסנים כהלכה. הישויות האלה חופפות אחת את השנייה בפרויקט שלך. ייתכן כי ההתנגשויות הללו נגרמו משגיאת נתונים זמנית והן מונעות את הייצוא ל-GEDCOM. לסיוע נוסף, אנחנו ממליצים לבקר ב%help_center% שלנו"
+"GWExportGedcomFinish_HelpCenterLinkTitle","מרכז סיוע"
+"GWExportGedcomFinish_WarnOnExport","הפרויקט שלך מכיל משפחות או אנשים שאינם מאוחסנים כהלכה. הישויות האלה חופפות אחת את השנייה בפרויקט שלך. ייתכן כי ההתנגשויות הללו נגרמו משגיאת נתונים זמנית. תוצר הייצוא ל-GEDCOM לא תקף ועשוי להציג קשרים בלתי מדויקים.לסיוע נוסף, אנחנו ממליצים לבקר ב%help_center% שלנו"

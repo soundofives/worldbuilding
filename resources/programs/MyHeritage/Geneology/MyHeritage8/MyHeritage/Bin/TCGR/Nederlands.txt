@@ -1,0 +1,720 @@
+﻿!SECTION NAMES
+!-------------
+COMPLETE_GENEALOGY_REPORT:Een Rapport Van De Genealogie Van
+CREATED_ON:Gecreërd
+FRONT_PAGE_SECT:Voorpagina
+CONTENTS:Inhoud
+INTRODUCTION_SECT:Inleiding
+PATERNAL_ANCESTRY_SECT:Voorgeslacht van de Vader
+MATERNAL_ANCESTRY_SECT:Voorgeslacht van de Moeder
+DESCENDANTS_SECT:Nakomelingen
+DIRECT_RELATIONS_SECT:Directe Relaties
+INDIRECTLY_RELATED_SECT:Indirecte Verwantschap
+UNCONNECTED_SECTION_SECT:Afgekoppelde Sectie
+ASSOCIATED_SECTION_SECT:Vennoot Sectie
+UNCONNECTED_INDIVIDUALS_SECT:Afgekoppelde Persoonlijk
+ASSOCIATED_INDIVIDUALS_SECT:Vennoot Persoonlijk
+ASSOCIATED_WITH:Vennoot van
+ASSOCIATED_AS:zoals
+NAME_DERIVATIONS_SECT:De Afleidingen van de Naam
+FAMILY_TREES_SECT:Stambomen
+MEDIA_SECT:Media
+PHOTOGRAPHS_SECT:Foto's
+PLACES_OF_REST_SECT:Rustplaatsen
+DOCUMENTS_SECT:Documenten
+NOTES_SECT:Noten
+SOURCES_SECT:Bronnen
+INDEX_OF_OCCUPATIONS_SECT:Index van Beroepen
+INDEX_OF_PLACES_SECT:Index van Plaatsen
+MAPS_SECT:Atlas
+MAP_INCLUDED_1:[Een
+MAP_INCLUDED_2:kaart
+MAP_INCLUDED_3:is inbegrepen in de sectie van de Atlas.]
+INDEX_OF_DATES_SECT:Index van Data
+INDEX_OF_ANNIVERSARIES_SECT:Index van Verjaardagen
+CAUSES_OF_DEATH_SECT:Doodsoorzaken
+RELATIONSHIP_PATHS_SECT:Onderlinge verwantschappen
+REL_PATH_PREAMBLE_1:Deze sectie detailleert de verhouding van elk verbonden individu aan <name>.
+REL_PATH_PREAMBLE_2:Om de verwijzing makkelijker te maken, wordt het volgnummer in deze sectie getoond met de beschrijving van de verhoudingen binnen de andere secties.
+INDEX_OF_INDIVIDUALS_SECT:Index van Individuen
+INDEX_SECT:Index
+PREFACE_SECT:Voorwoord
+APPENDIX_SECT:Aanhangsel
+VOLUME:Volume
+INDIVIDUAL_DETAILS:INDIVIDUELE DETAILS
+
+!HEADINGS
+---------
+GENERAL_PAGE:Pagina
+CONTINUED:(Vervolg)
+GENERATION:Generatie
+INDIRECT_VIA:over
+PEER_GENERATION:Dezelfde Generatie
+PEER_GENERATION_OF:De Generatie van <name>
+ANCESTORS:Voorouders
+DESCENDANTS:Nakomelingen
+GEN_PEERS:Gelijken
+GEN_PARENTS:Ouders
+GEN_GRANDPARENTS:Grootouders
+GEN_CHILDREN:Kinderen
+GEN_GRANDCHILDREN:Kleinkinderen
+IMMEDIATE_FAMILY:DIRECTE FAMILIE
+ONE_STEP_REMOVED:1 STAP VERDER
+STEPS_REMOVED:<n> STAPPEN VERDER
+TITLE_REF:Ref.
+TITLE_TREE:Boom
+TITLE_NAME:Naam
+TITLE_RELATIONSHIP:Onderlinge verwantschap
+
+!SUBJECT INDIVIDUAL
+!------------------
+SUBJECT_REPORT:De persoon van dit rapport
+SUBJECT_SECTION:De persoon van deze sectie
+SUBJECT_UNC_SECT:De persoon van een afgekoppelde sectie
+
+!PERSONAL EVENTS/FACTS
+!---------------------
+MOVE_HESHE_AFTER_DATE:N
+LIVING_PERSON_FIRST:Levende
+LIVING_PERSON_LAST:Persoon
+WAS_BORN:werd geboren <type> <date><place>
+BORN_AS_MALE_TO:als kind van
+BORN_AS_FEMALE_TO:als kind van
+BORN_TO:als kind van
+BORN_TO_AND:en
+WAS_BORN_END_VERB:
+ASSUMED_PARENTHOOD_OF_M:kreeg vermoedelijk ouderschap over
+ASSUMED_PARENTHOOD_OF_F:kreeg vermoedelijk ouderschap over
+ASSUMED_PARENTHOOD_OF_P:kreeg vermoedelijk ouderschap over
+FATHERED:was de vader van
+GAVE_BIRTH_TO:kreeg
+GAVE_BIRTH_TO_END:
+FATHERED_AND:was de vader van <children>
+GAVE_BIRTH_TO_AND:kreeg <children>
+AND_ASSUMED_PARENTHOOD_OF_S_S:, en kreeg vermoedelijk ouderschap over een andere <num>
+AND_ASSUMED_PARENTHOOD_OF_P_S:, en kreeg vermoedelijk ouderschap over een andere <num>
+AND_ASSUMED_PARENTHOOD_OF_S_P:, en kreeg vermoedelijk ouderschap over een andere <num>
+AND_ASSUMED_PARENTHOOD_OF_P_P:, en kreeg vermoedelijk ouderschap over een andere <num>
+WAS_CHRISTENED:<heshe> werd gedoopt <type> <date>, <place>.
+WAS_BAPTIZED:<heshe> werd gedoopt <type> <date>, <place>.
+WAS_BLESSED:<heshe> werd gezegend <type> <date>, <place>.
+WAS_NOT_CHRISTENED:<heshe> werd niet gedoopt <type> <place>.
+WAS_NOT_BAPTIZED:<heshe> werd niet gedoopt <type> <place>.
+WAS_NOT_BLESSED:<heshe> werd niet gezegend <type> <place>.
+EVENT_CUSTOM:<customevent> <date>, <place>
+WAS_IN_CENSUS:<heshe> werd geregistreerd in de telling (<censusdesc>) <type> <date>, <place>.
+FAMILY_WAS_IN_CENSUS:Geregistreerd in de telling (<censusdesc>) <type> <date>, <place>.
+WAS_ADOPTED:werd geadopteerd <type> <parents>
+ADOPTED_BY:door
+ADOPTED_AND_BY:en
+BECAME_EMPLOYED_AS:werd
+WAS_EMPLOYED_AS:werd
+INDEFINITE_A_M:een
+INDEFINITE_AN_M:een 
+INDEFINITE_A_F:een
+INDEFINITE_AN_F:een
+WAS_EMPLOYED:was tewerkgesteld
+EMPLOYED_AS:als
+EMPLOYED_WITH:met
+RESIDED:verbleef <type>
+BECAME_B_MITZVAH:werd
+DID_NOT_BECOME_B_MITZVAH:werd niet
+WAS_EDUCATED:werd opgeleid <type> <place>
+GRADUATED:diplomeerde <type> <place>
+RETIRED:pensioneerde <type> <place>
+WAS_NOT_EDUCATED:werd niet opgeleid <type> <place>
+DID_NOT_GRADUATE:behaalde niet <place> een diploma <type> <place>
+DID_NOT_RETIRE:trok zich niet <place> terug <type>
+EMIGRATED:ëmigreerde <type> <place>
+EMIGRATED_FROM:van
+IMMIGRATED:ïmmigreerde <type> <place>
+IMMIGRATED_TO:naar
+WAS_NATURALIZED:werd genaturaliseerd <type> <place>
+WAS_NOT_NATURALIZED: werd niet genaturaliseerd <type> <place>
+DIED:is gestorven <type>
+DIED_OF:door
+IS_STILL_ALIVE:is nog in leven.
+IS_NO_LONGER_LIVING:leeft niet meer.
+WAS_BURIED:werd begraven <type> <date><place>
+WAS_NOT_BURIED: werd niet begraven <type> <date><place>
+WAS_LAID_TO_REST:werd te ruste gelegd <type> <date><place>
+WAS_CREMATED:werd gecremeerd <type> <date><place>
+WAS_NOT_CREMATED:werd niet gecremeerd <type> <date><place>
+ALSO_RECORDED_FOR:De volgende informatie is ook geregistreerd over <name>
+GENERAL_BORN:is geboren
+GENERAL_DIED:is gestorven
+WAS_GENERALLY_KNOWN_AS:<name1> werd „<name2>” genoemd.
+ALSO_RECORDED_AS:ook geregistreerd als
+ASSOCIATION_WITH:Verwantschap met
+ATTR_CAST:Kaste
+ATTR_DSCR:Beschrijving
+ATTR_IDNO:ID Kaart Nummer  
+ATTR_NATI:Nationaliteit
+ATTR_PROP:Bezit
+ATTR_RELI:Godsdienst
+ATTR_SSN:Registratienummer sociale zekerheid
+ATTR_TITL:Titel
+
+!DATES
+------
+DATE_ON:op
+DATE_ON_SUFF:
+DATE_IN_M:in
+DATE_IN_Y:in
+DATE_UNTIL:tot
+DATE_FROM:van
+DATE_TO:tot
+DATE_YEAR_UNKNOWN:onbekend jaar
+DATE_ESTIMATED:(geschat)
+DATE_WFT_ESTIMATE:(De raming van de Stamboom van de Wereld)
+DATE_BEFORE:voor
+DATE_AFTER:na
+DATE_BETWEEN:tussen
+DATE_AND:en
+DATE_ABOUT:rond
+UNSPECIFIED_YEARS:Niet gespecificeerde Jaren
+CAL_FRENCH:Franse Republikein
+CAL_HEBREW:Hebreeuws
+CAL_JULIAN:Julian
+ERA_BC:v.Chr.
+ERA_AD:n.Chr.
+ERA_BCE:B.C.E.
+ERA_CE:C.E.
+
+!AGES
+-----
+AGED:<age> oud
+AGED_ABOUT:ongeveer <age> oud
+AGED_WHEN_OLDER_THAN:ouder dan <age>
+AGED_WHEN_YOUNGER_THAN:jonger dan <age>
+AGED_FROM_INFANCY:in de kleutertijd
+AGED_FROM_AGE:op de leeftijd van <age>
+AGED_FROM_AGE_ABOUT:in de leeftijd van ongeveer <age>
+AGE_MORE_THAN:meer dan
+AGE_LESS_THAN:minder dan
+AGE_DAYS:dagen
+AGE_MONTHS:maanden
+AGE_YEARS:jaren
+AGE_YEARS_ONLY:jaar
+AGE_AS_A_CHILD:als kind
+AGE_AS_AN_INFANT:als zuigeling
+AGE_STILLBORN:doodgeboren
+WHEN_AGED_PERSON:toen <person> <age> jaar oud was
+WHEN_AGED_COUPLE:toen <hisname> <hisage> jaar oud was en <hername> <herage> jaar oud was
+WHEN_AGED_COUPLE_RESP:<hisage> jaar oud en respectievelijk <herage> jaar oud
+AGE_AFTER_VERB:N
+
+!PLACES
+-------
+PLACE_AT:te
+PLACE_IN:in
+PLACE_FROM:van
+PLACE_TO:aan
+
+!FAMILY INFORMATION
+-------------------
+THEY_BECAME_ENGAGED:<he> verloofde zich met <her>
+PERSON_BECAME_ENGAGED:<person> verloofde zich
+HAVING_BECOME_ENGAGED:Verloofden zich
+BECAME_PARTNERS:werden partners
+HAD_PARTNERS_M:had <num> partners
+HAD_PARTNERS_F:had <num> partners
+HAD_PARTNERSHIPS:had <num> geregistreerde relaties
+WAS_MARRIED_TO:huwde met
+WAS_MARRIED_AND_TO:
+WAS_MARRIED_END_VERB:
+WAS_ALSO_PARTNER_OF_M:werd ook een partner van
+WAS_PARTNER_OF_M:werd een partner van
+WAS_ALSO_PARTNER_OF_F:werd ook een partner van
+WAS_PARTNER_OF_F:werd een partner van
+MARRIED:huwde
+MARRIED_TIMES:huwde
+WAS_NOT_MARRIED_TO:<he> huwde niet met <her>
+WERE_NOT_MARRIED:waren niet gehuwd
+PERSON_WAS_NOT_MARRIED:<person> was niet gehuwd
+PERSON_WAS_MARRIED:<person> was gehuwd
+NO_RECORDED_FAMILY_DETAILS:(geen geregistreerde familiedetails).
+HESHE_DIVORCED:<heshe> gescheiden
+THEY_DIVORCED:Zij scheidden
+HESHE_LATER_DIVORCED:<heshe> is later gescheiden
+THEY_LATER_DIVORCED:Zij scheidden later
+MARRIAGE_WAS_ANNULLED:Het huwelijk werd geannuleerd
+WAS_DIVORCED:was gescheiden
+WERE_DIVORCED:waren gescheiden
+HESHE_WAS_DIVORCED:<heshe> was gescheiden
+THEY_WERE_DIVORCED:Zij waren gescheiden
+VIA_UNMARRIED:via een ongehuwde verhouding
+VIA_X_MARRIAGES:via <n> huwelijken
+VIA_X_MARRIAGES_RELATIONSHIPS:via <n> huwelijken en/of verhoudingen
+VIA_A_RELATIONSHIP:via een verhouding
+VIA_N_RELATIONSHIPS:via <n> verhoudingen
+VIA_AN_ADOPTION:via adoptatie
+VIA_N_ADOPTIONS:via <n> adoptaties
+REL_UNDETERMINED:(Onbepaalde) relatie
+ALSO_FOLLOWING_INFO_FAMILY:De volgende informatie wordt ook geregistreerd voor deze familie
+
+!FAMILY INFORMATION - CHILDREN
+------------------------------
+BIRTH_HAD_SINGLE:kregen
+BIRTH_HAD_COUPLE:kregen
+BIRTH_SON:zoon
+BIRTH_DAUGHTER:dochter
+BIRTH_SONS:zonen
+BIRTH_DAUGHTERS:dochters
+BIRTH_CHILD:kind
+BIRTH_CHILDREN:kinderen
+NATURAL_CHILD:kind
+NATURAL_CHILDREN:kinderen
+BY_ADOPTION:via adoptie
+BY_FOSTERING:via pleeggezin
+BY_SEALED_ADOPTION:via een goedgekeurde adoptie
+
+!RELATIONSHIPS
+!-------------
+'Program will replace "Oomzeg" with"Tantezeg" as required.
+LOWERCASE_RELATION:Y
+GREAT_GREAT_LIMIT:4
+REMOVED_COUSINS:E
+
+STEP_PREFIX_M:Stief
+STEP_PREFIX_F:Stief
+IN_LAW_PREFIX_M:Schoon
+IN_LAW_PREFIX_F:Schoon
+IN_LAW_SUFFIX:
+
+REL_HUSBAND:Echtgenoot
+REL_WIFE:Vrouw
+REL_PARTNER:Partner
+REL_SON:Zoon
+REL_DAUGHTER:Dochter
+REL_CHILD:Kind
+REL_CHILDREN:Kinderen
+REL_SIBLING:Broer/Zus
+REL_MOTHER:Moeder
+REL_FATHER:Vader
+REL_BROTHER:Broer
+REL_SISTER:Zus
+REL_UNCLE:Oom
+REL_AUNT:Tante
+REL_GRANDMOTHER:Grootmoeder
+REL_GRANDFATHER:Grootvader
+REL_GRANDSON:Kleinzoon
+REL_GRANDDAUGHTER:Kleindochter
+REL_GREAT_UP:Oud-
+REL_GREAT_DOWN:Achter-
+REL_NEPHEW:Oomzegger
+REL_NIECE:Oomzegster
+REL_NEPHEW_NIECE:Oomzegger/Oomzegster
+REL_COUSIN_M:Neef
+REL_COUSIN_F:Nicht
+REL_GREAT_UNCLE:Oudoom
+REL_GREAT_AUNT:Oudtante
+REL_GREAT_NEPHEW:Achter-Oomzegger
+REL_GREAT_NIECE:Achter-Oomzegster
+REL_SPOUSE:Echtgenoot
+REL_HALF_SIBLING:Halfbroer/Halfzus
+REL_GRANDCHILD:Kleinkind
+REL_GREAT_NEPHEW_NIECE:Achter-Oomzegger/Oomzegster
+REL_PARENT:Ouder
+REL_UNCLE_AUNT:Oom/Tante
+REL_GRANDPARENT:Grootouder
+REL_GREAT_UNCLE_AUNT:Oudoom/Oudtante
+REL_HALF_BROTHER:Halfbroer
+REL_HALF_SISTER:Halfzus
+REL_EX_WIFE:Vorige vrouw
+REL_STEP_MOTHER:Stiefmoeder
+REL_DAUGHTER_IN_LAW:Schoondochter
+REL_SISTER_IN_LAW:Schoonzuster
+REL_EX_HUSBAND:Vorige echtgenoot
+REL_STEP_FATHER:Stiefvader
+REL_SON_IN_LAW:Schoonzoon
+REL_BROTHER_IN_LAW:Zwager
+REL_STEP_GRANDFATHER:Stiefgrootvader
+REL_STEP_GRANDMOTHER:Stiefgrootmoeder
+
+ADOPTIVE_FATHER:Adoptievader
+ADOPTIVE_MOTHER:Adoptiemoeder
+ADOPTED_CHILD:Adoptiefkind
+ADOPTED_SON:Adoptiefzoon
+ADOPTED_DAUGHTER:Adoptiefdochter
+
+REL_BY_MARRIAGE:via huwelijk
+REL_INDIRECT:indirecte relatie
+
+COUSIN_REMOVED_UP_M:
+COUSIN_REMOVED_UP_F:
+COUSIN_REMOVED_DOWN_M:
+COUSIN_REMOVED_DOWN_F:
+COUSIN_DISTANCE:Achter-
+
+COUSIN_REMOVED_ONCE:1 gen. verwijderd
+COUSIN_REMOVED_X_TIMES:<int> gen. verwijderd
+
+MORE_THAN:meer dan
+ONCE:zodra
+TWICE:2 maal
+N_TIMES:<n> maal
+N_TIMES_GREAT_UP:<n> maal Oud-
+N_TIMES_GREAT_DOWN:<n> maal Achter-
+
+'POSSESSIVE RELATIONSHIPS
+'------------------------
+POSSESSIVE_NAME_FIRST:S
+NAME_POSSESSIVE_PREF:'s
+NAME_POSSESSIVE_PREF_ALT:'
+NAME_POSSESSIVE_SUFF:van
+REVERSE_POSSESSIVE:Y
+REVERSE_POSSESSIVE_DEFAULT:van
+
+!FAMILY TREES
+!------------
+SHOWN_IN_TREE:getoond in <tree>
+SHOWN_WITHIN_TREE:getoond binnen <tree>
+FAMILY_TREE:stamboom
+NO_RECORDED_PARENTS_FAMILY:Geen Geregistreerde Ouders (<person> Familie)
+THIS_FAMILY_SHOWN_AS_TREE:Deze familie wordt getoond als <tree>.
+THIS_FAMILY_SHOWN_WITHIN_TREE:Deze familie wordt getoond binnen <tree>.
+EXCESS_CHILDREN_1:Plus
+EXCESS_CHILDREN_2:<n> Extra
+EXCESS_CHILDREN_3:Kinderen
+
+!MEDIA
+!-----
+IMAGE:Een afbeelding
+THIS_IMAGE:Deze afbeelding
+ANOTHER_IMAGE:Een ander afbeelding
+IMAGE_OTHER:andere
+IMAGES:afbeeldingen
+RELATES_TO:heeft betrekking op 
+RELATE_TO:hebben betrekking op 
+PICTURE_SINGULAR:Beeld
+PHOTOGRAPH_SINGULAR:Foto
+DOCUMENT_SINGULAR:Document
+PLACE_OF_REST_SINGULAR:Rustplaats
+IMAGE_FROM:van
+IMAGE_CROPPED_FROM:aangepast van 
+
+!NOTES AND SOURCES
+!-----------------
+GENERAL_NOTE:Noot
+GENERAL_NOTES:Noten
+GENERAL_SOURCE:Bron
+GENERAL_SOURCES:Bronnen
+THIS_NOTE:deze noot
+THIS_SOURCE:deze bron
+CITED_BY:Langs aangehaald
+APPLIES_TO:Is van toepassing op
+APPLIES:is van toepassing
+GENERAL_BY:Door
+GENERAL_IN:in
+PUBLISHED_IN:Gepubliceerd in
+REPOSITORY:Bewaarplaats
+UNDETERMINED:Onbepaald
+SOURCE_LEVEL_0:Onbetrouwbaar of geschat
+SOURCE_LEVEL_1:Twijfelachtig
+SOURCE_LEVEL_2:Vrij betrouwbaar
+SOURCE_LEVEL_3:Hoogst - betrouwbaar
+SOURCE_LEVEL_X:Het niveau van de betrouwbaarheid
+SOURCE_LEVEL_QUAL:Kwaliteit
+SOURCE_PAGE:pagina
+GENERAL_SEE:Zie
+GENERAL_SEE_ALSO:Zie ook
+ALL_NOTES_INCORPORATED:Alle noten zijn opgenomen in de verhalende teksten.
+
+!EVENT TYPES
+!-----------
+EVENT_MARRIAGE:Huwelijk
+EVENT_ENGAGEMENT:Overeenkomst
+EVENT_DIVORCE:Scheiding
+EVENT_ANNULMENT:Annulering
+EVENT_NAME:Naam
+EVENT_BIRTH:Geboorte
+EVENT_CHRISTENING:Doopsel
+EVENT_BAPTISM:Doopsel
+EVENT_BLESSING:Zegen
+EVENT_ADOPTION:Adoptie
+EVENT_EDUCATION:Onderwijs
+EVENT_GRADUATION:Afstuderen
+EVENT_RETIREMENT:Pensionering
+EVENT_OCCUPATION:Beroep
+EVENT_RESIDENCE:Woonplaats
+EVENT_EMIGRATION:Emigratie
+EVENT_IMMIGRATION:Immigratie
+EVENT_NATURALIZATION:Naturalisatie
+EVENT_BAR_MITZVAH:Bar Mitswa
+EVENT_BAS_MITZVAH:Bas Mitswa
+EVENT_BAT_MITZVAH:Bas Mitswa
+EVENT_DEATH:Overlijden
+EVENT_CREMATION:Crematie
+EVENT_BURIAL:Begrafenis
+EVENT_CENSUS:Telling
+EVENT_ASSOCIATION:Verwantschap
+EVENT_WILL:Testament
+EVENT_PROBATE:Verificatie
+
+!GENERAL
+!-------
+GENERAL_AND:en
+GENERAL_VIA:over
+GENERAL_OF_DESCRIBE:van
+GENERAL_OF_POSSESS:van
+GENERAL_AS:zoals
+GENERAL_ANOTHER:een andere
+
+GENERAL_HIS_M:zijn
+GENERAL_HER_M:haar
+GENERAL_HIS_F:zijn
+GENERAL_HER_F:haar
+
+GENERAL_HE:Hij
+GENERAL_SHE:Zij
+GENERAL_THEY:Zij
+
+VERB_WAS:was
+VERB_WERE:waren
+
+UNK_MR:Hr.
+UNK_MS:Mej.
+UNK_MR_MS:Hr./Mej.
+UNK_UNKNOWN:Onbekend
+UNK_DATED:gedateerd
+
+!MONTH NAMES
+!-----------
+JANUARY:Januari
+FEBRUARY:Februari
+MARCH:Maart
+APRIL:April
+MAY:Mei
+JUNE:Juni
+JULY:Juli
+AUGUST:Augustus
+SEPTEMBER:September
+OCTOBER:Oktober
+NOVEMBER:November
+DECEMBER:December
+
+!NUMBERS
+!-------
+ONE_M:Een
+ONE_F:Een
+ONE_N:Een
+1:Een
+2:Twee
+3:Drie
+4:Vier
+5:Vijf
+6:Zes
+7:Zeven
+8:Acht
+9:Negen
+10:Tien
+11:Elf
+12:Twaalf
+13:Dertien
+14:Veertien
+15:Vijftien
+16:Zestien
+17:Zeventien
+18:Achttien
+19:Negentien
+20:Twintig
+21:Eenentwintig
+22:Tweeëntwintig
+23:Drieëntwintig
+24:Vierentwintig
+25:Vijfentwintig
+26:Zesentwintig
+27:Zevenentwintig
+28:Achtentwintig
+29:Negenentwintig
+30:Dertig
+31:Éénendertig
+32:Tweeëndertig
+33:Drieëndertig
+34:Vierendertig
+35:Vijfendertig
+36:Zesendertig
+37:Zevenendertig
+38:Achtendertig
+39:Negenendertig
+40:Veertig
+41:Éénenveertig
+42:Tweeënveertig
+43:Drieënveertig
+44:Vierenveertig
+45:Vijfenveertig
+46:Zesenveertig
+47:Zevenenveertig
+48:Achtenveertig
+49:Negenenveertig
+50:Vijftig
+51:Éénenvijftig
+52:Tweeënvijftig
+53:Drieënvijftig
+54:Vierenvijftig
+55:Vijfenvijftig
+56:Zesenvijftig
+57:Zevenenvijftig
+58:Achtenvijftig
+59:Negenenvijftig
+60:Zestig
+61:Éénenzestig
+62:Tweeënzestig
+63:Drieënzestig
+64:Vierenzestig
+65:Vijfenzestig
+66:Zesenzestig
+67:Zevenenzestig
+68:Achtenzestig
+69:Negenenzestig
+70:Zeventig
+71:Eenenzeventig
+72:Tweeënzeventig
+73:Drieënzeventig
+74:Vierenzeventig
+75:Vijfenzeventig
+76:Zesenzeventig
+77:Zevenenzeventig
+78:Achtenzeventig
+79:Negenenzeventig
+80:Tachtig
+81:Éénentachtig
+82:Tweeëntachtig
+83:Drieëntachtig
+84:Vierentachtig
+85:Vijfentachtig
+86:Zesentachtig
+87:Zevenentachtig
+88:Achtentachtig
+89:Negenentachtig
+90:Negentig
+91:Éénennegentig
+92:Tweeënnegentig
+93:Drieënnegentig
+94:Vierennegentig
+95:Vijfennegentig
+96:Zesennegentig
+97:Zevenennegentig
+98:Achtennegentig
+99:Negenennegentig
+
+Ordinal0:Ver
+Ordinal1:Eerste
+Ordinal2:Tweede
+Ordinal3:Derde
+Ordinal4:Vierde
+Ordinal5:Vijfde
+Ordinal6:Zesde
+Ordinal7:Zevende
+Ordinal8:Achtste
+Ordinal9:Negende
+Ordinal10:Tiende
+Ordinal11:Elfde
+Ordinal12:Twaalfde
+Ordinal13:Dertiende
+Ordinal14:Veertiende
+Ordinal15:Vijftiende
+Ordinal16:Zestiende
+Ordinal17:Zeventiende
+Ordinal18:Achttiende
+Ordinal19:Negentiende
+Ordinal20:Twintigste
+
+Nth1:<num>e
+Nth2:<num>e
+Nth3:<num>e
+Nth4:<num>e
+Nth5:<num>e
+Nth6:<num>e
+Nth7:<num>e
+Nth8:<num>e
+Nth9:<num>e
+Nth10:<num>e
+Nth11:<num>e
+Nth12:<num>e
+
+
+'RECENT ADDITIONS (TCGR 2009)
+-----------------------------
+MH_PARTNERS:Partners
+MH_FRIENDS:Vrienden
+MH_REL_OTHER:Niet gespecificeerde verhouding
+MH_REL_UNKNOWN:Onbekende verhouding
+
+EVENT_UNKNOWN:Niet gespecificeerde gebeurtenis
+EVENT_CONF:Bevestiging
+EVENT_FCOM:Eerste Heilige Communie
+EVENT_ORDN:Ordening
+EVENT_BAPL:Doopsel (LDS)
+EVENT_CONL:Bevestiging (LDS)
+EVENT_ENDL:Schenking (LDS)
+EVENT_SLGC:Verzegelen (LDS)
+EVENT_DIVF:Indienen van de scheiding
+EVENT_MARB:Huwelijksaankondiging
+EVENT_MARC:Huwelijkscontract
+EVENT_MARL:Vergunning van het huwelijk
+EVENT_MARS:Regeling van het huwelijk
+EVENT_SLGS:Verzegelen (LDS)
+
+GENERAL_CITATION:Citaat
+GENERAL_CITATIONS:Citaten
+
+WAS_FOSTERED:werd goedgekeurd <parents>
+FOSTERED_BY:door
+FOSTERED_AND_BY:en
+VIA_FOSTERING:via het bevorderen
+FOSTER_FATHER:bevorder vader
+FOSTER_MOTHER:bevorder moeder
+FOSTER_CHILD:pleegkind
+FOSTER_DAUGHTER:bevorder dochter
+FOSTER_SON:bevorder zoon
+
+' the next two replace earlier definitions 
+VIA_AN_ADOPTION:via goedkeuring
+VIA_N_ADOPTIONS:via <n> adoptieverhoudingen
+
+GENERAL_INCLUDING:die omvatten
+
+SUNDAY:zondag
+MONDAY:maandag
+TUESDAY:dinsdag
+WEDNESDAY:woensdag
+THURSDAY:donderdag
+FRIDAY:vrijdag
+SATURDAY:zaterdag
+
+SUBJECT_ASSOC_SECT:De persoon van een vennoot sectie
+
+ADDR_TELEPHONE:Telefoon
+ADDR_FAX:FAX
+ADDR_INTERNET:Internet
+ADDR_EMAIL:E-mail
+
+DSCR_HAIR:Haarkleur
+DSCR_EYES:Kleur van de ogen
+DSCR_HEIGHT:Lengte
+DSCR_WEIGHT:Gewicht
+DSCR_DESC:Beschrijving
+DSCR_MEDICAL:Medisch
+DSCR_PHYSICAL:Fysiek
+
+'RECENT ADDITIONS (TCGR 2010)
+-----------------------------
+DATEABB_BEFORE:v
+DATEABB_ABOUT:r
+DATEABB_AFTER:n
+DATEABB_ESTIMATED:g
+
+ATTR_MARRIAGES:Huwelijken
+QUOTEMARKS:„”
+
+'RECENT ADDITIONS (TCGR 2011)
+-----------------------------
+NAME_LAST_FIRST:N
+
+'RECENT ADDITIONS (TCGR 2012)
+-----------------------------
+INDIRECT_TREE:Indirecte Relaties
+UNCONNECTED_TREE:Afgekoppelde
+ASSOCIATES_TREE:Vennoot

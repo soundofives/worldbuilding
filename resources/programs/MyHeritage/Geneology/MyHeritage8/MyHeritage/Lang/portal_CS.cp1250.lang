@@ -1,0 +1,52 @@
+
+[FTBBanner]
+
+"languageName","Czech"
+"languageCode","CS"
+"tools_options_toggle","Zobrazit oznámení MyHeritage"
+
+[FTBSync]
+
+"languageName","Czech"
+"languageCode","CS"
+"SYNC_status_on_different_tree_size F","On-line verze Vašeho rodokmenu obsahuje více osob, než verze ve Vašem programu Family Tree Builder.\nSynchronizace byla pøerušena, aby nedošlo ke ztrátì dat."
+"SYNC_status_on_different_tree_size M","On-line verze Vašeho rodokmenu obsahuje více osob, než verze ve Vašem programu Family Tree Builder.\nSynchronizace byla pøerušena, aby nedošlo ke ztrátì dat."
+"SYNC_status_short_on_different_tree_size F","On-line rodokmen má více jednotlivcù než FTB."
+"SYNC_status_short_on_different_tree_size M","On-line rodokmen má více jednotlivcù než FTB."
+"SYNC_title_on_different_tree_size","Varování pøed možnou ztrátou dat"
+"SYNC_warn_on_different_tree_size F","Synchronizace, kterou se chystáte provést, odstraní %d osoby z Vašeho on-line rodokmenu.\nJe to proto, protože Vaše aktuální verze rodokmenu v programu Family Tree Builder obsahuje %d osoby, zatímco Váš on-line rodokmen má %d osoby.\nPokud budete pokraèovat, %d jednotlivci budou ztraceni.\n\nJste si jisti, že chcete tuto synchronizaci provést?\nToto není doporuèeno pokud si nejste jisti, že máte v úmyslu zmenšit svùj rodokmen."
+"SYNC_warn_on_different_tree_size M","Synchronizace, kterou se chystáte provést, odstraní %d osoby z Vašeho on-line rodokmenu.\nJe to proto, protože Vaše aktuální verze rodokmenu v programu Family Tree Builder obsahuje %d osoby, zatímco Váš on-line rodokmen má %d osoby.\nPokud budete pokraèovat, %d jednotlivci budou ztraceni.\n\nJste si jisti, že chcete tuto synchronizaci provést?\nToto není doporuèeno pokud si nejste jisti, že máte v úmyslu zmenšit svùj rodokmen."
+
+[FTBInColor]
+
+"languageName","Czech"
+"languageCode","CS"
+"IntroScreen_Body","DO NOT TRANSLATE"
+"IntroScreen_ColorizeButtonCaption","Kolorovat"
+"IntroScreen_Footer","DO NOT TRANSLATE"
+"IntroScreen_GotitButtonCaption","DO NOT TRANSLATE"
+"IntroScreen_Title","DO NOT TRANSLATE"
+
+[Subscription]
+
+"UpgradeDlgInColorBullet","DO NOT TRANSLATE"
+
+[FTBGedcomWizard]
+
+"languageName","Czech"
+"languageCode","CS"
+
+[CheckerItemTypes]
+
+"CheckerItemTypes_DuplicatedIndGuid","Rozpor mezi jednotlivci"
+
+[FamilyConnections]
+
+"FamilyConnections_DuplicatedIndividual","Osoba: %PERSON1% není uložena správnì a je v rozporu s osobou: %PERSON2%."
+"FamilyConnections_DuplicatedIndividualTip","Tito dva lidé se ve Vašem projektu pøekrývají. Pro odstranìní rozporu zvažte vymazání jednoho z nich."
+
+[GWExportGedcomFinish]
+
+"GWExportGedcomFinish_FailedOnDuplication","Váš rodokmen obsahuje nìkteré rodiny èi jednotlivce, kteøí nejsou uloženi správnì. Tyto entity se ve Vašem projektu pøekrývají. Rozpory mohou být zpùsobeny následkem doèasné chyby dat a zabraòují exportu do GEDCOMu. Pro další pomoc prosím navštivte naše %help_center%"
+"GWExportGedcomFinish_HelpCenterLinkTitle","Centrum pomoci"
+"GWExportGedcomFinish_WarnOnExport","Váš rodokmen obsahuje nìkteré rodiny èi jednotlivce, kteøí nejsou uloženi správnì. Tyto entity se ve Vašem projektu pøekrývají. Rozpory mohou být zpùsobeny následkem doèasné chyby dat. Výstup z GEDCOMu není platný a mùže ukazovat nesprávné vztahy. Pro další pomoc prosím navštivte naše %help_center%"

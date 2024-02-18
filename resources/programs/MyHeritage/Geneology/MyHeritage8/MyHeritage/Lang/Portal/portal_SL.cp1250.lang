@@ -1,0 +1,52 @@
+
+[FTBBanner]
+
+"languageName","Slovenian"
+"languageCode","SL"
+"tools_options_toggle","Prikaži MyHeritageva obvestila"
+
+[FTBSync]
+
+"languageName","Slovenian"
+"languageCode","SL"
+"SYNC_status_on_different_tree_size F","Spletna verzija vašega družinskega drevesa vsebuje veè zapisov oseb kot v vašem Family Tree Builder programu.\nSinhronizacija je prekinjena - ni izvršena, zato da se izognemo izgubi podatkov."
+"SYNC_status_on_different_tree_size M","Spletna verzija vašega družinskega drevesa vsebuje veè zapisov oseb kot v vašem Family Tree Builder programu.\nSinhronizacija je prekinjena - ni izvršena, zato da se izognemo izgubi podatkov."
+"SYNC_status_short_on_different_tree_size F","Družinsko drevo (na spletnem mestu) vsebuje veè zapisov oseb kot (v) FTB."
+"SYNC_status_short_on_different_tree_size M","Družinsko drevo (na spletnem mestu) vsebuje veè zapisov oseb kot (v) FTB."
+"SYNC_title_on_different_tree_size","Opozorilo o možni izgubi podatkov"
+"SYNC_warn_on_different_tree_size F","Sinhronizacija, ki jo nameravate izvesti, bo izbrisala %d zapisov oseb z vašega spletnega družinskega drevesa.\nTemu je tako, ker ima vaša verzija trenutnega drevesa v programu Family Tree Builder %d zapisov oseb, vaše drevo na spletu pa ima %d zapisov dreves.\nÈe nadaljujete, bo izgubljenih %d zapisov oseb.\n\nSte preprièani, da želite nadaljevati in izvesti sinhronizacijo?\nTo ni priporoèljivo, razen èe ste preprièani, da želite zmanjšati velikost vašega drevesa."
+"SYNC_warn_on_different_tree_size M","Sinhronizacija, ki jo nameravate izvesti, bo izbrisala %d zapisov oseb z vašega spletnega družinskega drevesa.\nTemu je tako, ker ima vaša verzija trenutnega drevesa v programu Family Tree Builder %d zapisov oseb, vaše drevo na spletu pa ima %d zapisov dreves.\nÈe nadaljujete, bo izgubljenih %d zapisov oseb.\n\nSte preprièani, da želite nadaljevati in izvesti sinhronizacijo?\nTo ni priporoèljivo, razen èe ste preprièani, da želite zmanjšati velikost vašega drevesa."
+
+[FTBInColor]
+
+"languageName","Slovenian"
+"languageCode","SL"
+"IntroScreen_Body","DO NOT TRANSLATE"
+"IntroScreen_ColorizeButtonCaption","Obarvajte"
+"IntroScreen_Footer","DO NOT TRANSLATE"
+"IntroScreen_GotitButtonCaption","DO NOT TRANSLATE"
+"IntroScreen_Title","DO NOT TRANSLATE"
+
+[Subscription]
+
+"UpgradeDlgInColorBullet","DO NOT TRANSLATE"
+
+[FTBGedcomWizard]
+
+"languageName","Slovenian"
+"languageCode","SL"
+
+[CheckerItemTypes]
+
+"CheckerItemTypes_DuplicatedIndGuid","Konflikt med posamezniki"
+
+[FamilyConnections]
+
+"FamilyConnections_DuplicatedIndividual","Oseba: %PERSON1% ni pravilno shranjena in je v konfliktu z osebo: %PERSON2%."
+"FamilyConnections_DuplicatedIndividualTip","Ta dva posameznika se v vašem projektu prekrivata. Èe želite rešiti konflikt, razmislite o brisanju enega od posameznikov."
+
+[GWExportGedcomFinish]
+
+"GWExportGedcomFinish_FailedOnDuplication","V vašem projektu je nekaj dvojnikov družin ali posameznikov, ki niso pravilno shranjeni in drug z drugim v konfliktu. Konflikti so lahko bili povzroèeni zaradi zaèasne napake v podatkih in prepreèujejo izvoz v GEDCOM. Za nadaljnjo pomoè, prosim kontaktirajte %help_center%"
+"GWExportGedcomFinish_HelpCenterLinkTitle","Center za pomoè"
+"GWExportGedcomFinish_WarnOnExport","Vaš projekt vsebuje nekatere družine ali posameznike, ki niso pravilno shranjeni. Te entitete se v vašem projektu prekrivajo. Do konfliktov je lahko prišlo zaradi zaèasne napake v podatkih. Izhodni GEDCOM ni veljaven in lahko odraža nepravilna razmerja. Za nadaljnjo pomoè obišèite naš %help_center%"

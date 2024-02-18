@@ -1,0 +1,221 @@
+NAME=>
+OWNERS[ ADJ] PLACE[ of ADJ NOUN]
+[The ]PLACE of ADJ NOUN
+[The ]PLACE of OWNER
+
+PLACE=>
+Battle
+Bog
+Catacombs
+Cave
+Center
+Chamber
+Chapel
+Church
+City
+City-State
+Clan
+Council
+Cove
+Crater
+Crypt
+Den
+Desert
+Disappearance
+Disappointment
+Dwelling
+Errands
+Fells
+Fen
+Fields
+Glen
+Halls
+Hiding Place
+Hill
+Hole
+Home
+Horde
+Impasse
+Lair
+Lake
+Lands
+Marsh
+Mountain
+Oracle
+Palace
+Pass
+Peak
+Pit[s]
+Point
+Pool
+Ring
+Ruins
+Sacrifices
+Smithy
+Spring
+Steeple
+Steps
+Swamp
+Temple
+Territory
+Trials
+Tribe
+Tomb
+Town
+Tunnel
+Valley
+Village
+War
+Wastes
+Well
+Woods
+
+OWNER => The [ADJ] MONSTER
+      => [The ]{MONSTER}s
+      => PERSON's {MONSTER}s
+      => PERSON
+
+OWNERS=> The MONSTER's
+      => PERSON's
+
+MONSTER=>
+Animal
+Beast
+Beholder
+Creature
+Creep
+Demon
+Devil
+Dragon
+Fiend
+Goblin
+Legion
+Lich
+Minion
+Mummy
+Ogre
+Orc
+Pack
+Troll
+Wraith
+
+NOUN=>
+Horror
+Chaos
+Blasphemy
+Fear
+Doom
+Dread
+Alliances
+Pacts
+Solace
+Worship
+Filth
+Torture
+Wealth
+Din
+Silence
+Waste
+Bones
+Marrow
+Terror
+Sorrows
+Sores
+Scourge
+Pestilence
+Despair
+Lamentations
+Torment
+
+ADJ=>
+Immaculate
+Weeping
+Sooty
+Unholy
+Torturous
+Sinful
+Wretched
+Red
+Blue
+Green
+Yellow
+White
+Black
+Golden
+Silver
+Metallic
+Blessed
+Holy
+Demonic
+Fetid
+Wailing
+Screaming
+Invincible
+Unmerciful
+Pallid
+Unconscionable
+Unimaginable
+Trickling
+Gushing
+Bloody
+Scented
+Clamorous
+Clammy
+Frigid
+Burning
+Flaming
+Frozen
+Haunted
+Tainted
+Fire
+Ice
+
+PERSON=>Mox
+Denab
+Bru-hinda
+Salamon
+Weschler
+Karapac
+Hora
+Louran
+Bora-lodin
+Aesie
+Quecoto
+Xirag
+Porase
+Sidina
+Shelha
+Coridan
+Iricheshe
+Zatha
+El Disu
+Duram Clan
+Halrag-Onak
+Tempto
+Teck-nu
+Obalo
+Nesalla
+Melka
+Amanda
+Lagilas
+Ruaker
+Murac
+Carza
+Pallos
+Demona
+Xos
+The Yellow Owls
+The Beekeeper
+The Keeper
+The Sentinal
+The Watcher
+The Overlord
+The Count
+The Visicount
+
+//
+// Replacement rules: fix up any bad English
+//
+The The==The
+s's==s'
+Mummys==Mummies

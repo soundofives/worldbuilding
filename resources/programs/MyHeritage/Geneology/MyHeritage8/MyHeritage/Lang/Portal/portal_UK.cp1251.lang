@@ -1,0 +1,52 @@
+
+[FTBBanner]
+
+"languageName","Ukrainian"
+"languageCode","UK"
+"tools_options_toggle","Показувати повідомлення MyHeritage"
+
+[FTBSync]
+
+"languageName","Ukrainian"
+"languageCode","UK"
+"SYNC_status_on_different_tree_size F","Інтернет-версія Вашого родинного дерева має більше людей, ніж версія у Вашому програмному забезпеченні Family Tree Builder.\nСинхронізація перервана, щоб уникнути втрати даних."
+"SYNC_status_on_different_tree_size M","Інтернет-версія Вашого родинного дерева має більше людей, ніж версія у Вашому програмному забезпеченні Family Tree Builder.\nСинхронізація перервана, щоб уникнути втрати даних."
+"SYNC_status_short_on_different_tree_size F","Онлайн-дерево має більше осіб, ніж FTB."
+"SYNC_status_short_on_different_tree_size M","Онлайн-дерево має більше осіб, ніж FTB."
+"SYNC_title_on_different_tree_size","Попередження про потенційні втрати даних"
+"SYNC_warn_on_different_tree_size F","Синхронізація, яку Ви збираєтеся зробити, видалить%d осіб(-у,-и) з Вашого онлайн дерева.\nЦе станеться у зв'язку з тим, що в поточній версії дерева у програмі Family Tree Builder є %d осіб(-а,-и), а у Вашому онлайн-дереві є %d осіб(-а,-и).\nЯкщо Ви продовжите, %d осіб(-у,-и) буде втрачено.\n\nВи впевнені, що хочете продовжувати синхронізацію?\nЦе не рекомендується робити, якщо Ви не впевнені, що хочете зменшити розмір свого дерева."
+"SYNC_warn_on_different_tree_size M","Синхронізація, яку Ви збираєтеся зробити, видалить%d осіб(-у,-и) з Вашого онлайн дерева.\nЦе станеться у зв'язку з тим, що в поточній версії дерева у програмі Family Tree Builder є %d осіб(-а,-и), а у Вашому онлайн-дереві є %d осіб(-а,-и).\nЯкщо Ви продовжите, %d осіб(-у,-и) буде втрачено.\n\nВи впевнені, що хочете продовжувати синхронізацію?\nЦе не рекомендується робити, якщо Ви не впевнені, що хочете зменшити розмір свого дерева."
+
+[FTBInColor]
+
+"languageName","Ukrainian"
+"languageCode","UK"
+"IntroScreen_Body","DO NOT TRANSLATE"
+"IntroScreen_ColorizeButtonCaption","Колоризувати"
+"IntroScreen_Footer","DO NOT TRANSLATE"
+"IntroScreen_GotitButtonCaption","DO NOT TRANSLATE"
+"IntroScreen_Title","DO NOT TRANSLATE"
+
+[Subscription]
+
+"UpgradeDlgInColorBullet","DO NOT TRANSLATE"
+
+[FTBGedcomWizard]
+
+"languageName","Ukrainian"
+"languageCode","UK"
+
+[CheckerItemTypes]
+
+"CheckerItemTypes_DuplicatedIndGuid","Конфлікт між особами"
+
+[FamilyConnections]
+
+"FamilyConnections_DuplicatedIndividual","Особа: %PERSON1% не збережена належним чином і конфліктує з Особою: %PERSON2%."
+"FamilyConnections_DuplicatedIndividualTip","Ці дві особи перетинаються у Вашому проекті. Щоб вирішити конфлікт, розгляньте можливість видалення однієї з осіб."
+
+[GWExportGedcomFinish]
+
+"GWExportGedcomFinish_FailedOnDuplication","У Вашому проекті є деякі сім’ї чи особи, які не збережені належним чином. Ці елементи перетинаються у Вашому проекті. Конфлікти, можливо, викликані тимчасовою помилкою даних і перешкоджають експорту в GEDCOM. Для отримання додаткової допомоги відвідайте наш %help_center%"
+"GWExportGedcomFinish_HelpCenterLinkTitle","Центр допомоги"
+"GWExportGedcomFinish_WarnOnExport","У Вашому проекті є деякі сім’ї чи особи, які не збережені належним чином. Ці елементи перетинаються у Вашому проекті. Конфлікти, можливо, викликані тимчасовою помилкою даних. Вихідний файл GEDCOM недійсний і може відображати неправильні родинні стосунки. Для отримання додаткової допомоги відвідайте наш %help_center%"

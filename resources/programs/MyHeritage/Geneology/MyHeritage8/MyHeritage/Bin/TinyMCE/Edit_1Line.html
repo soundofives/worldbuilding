@@ -1,0 +1,155 @@
+﻿<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+<body leftmargin="0px" topmargin="0px" marginwidth="0px" marginheight="0px" scroll="no">
+
+<script type="text/javascript">
+document.write("<textarea name=\"content\" id=\"content\" style=\"width:100%;height:100%;margin:0;padding:0;\">\n");
+document.write(window.external.GetText());
+document.write("</textarea>\n");
+</script>
+
+<script type="text/javascript">
+
+function GetText()
+{
+  return tinyMCE.get('content').getContent();
+}
+
+function InsertChar(charToInsert)
+{
+    tinyMCE.execCommand('mceInsertContent', false, charToInsert);
+}
+
+function GetSelectionText() 
+{
+    return tinyMCE.activeEditor.selection.getContent();
+}
+
+function CutSelectedText()
+{
+    tinyMCE.execCommand('Cut');
+}
+
+function CopySelectedText()
+{
+    tinyMCE.execCommand('Copy');
+}
+
+function PasteText() 
+{
+    tinyMCE.execCommand('Paste');
+}
+
+function AlignRight()
+{
+	tinyMCE.execCommand('justifyright');
+	tinyMCE.execCommand('mceDirectionRTL');
+	//
+	//tinyMCE.settings['directionality'] = 'rtl';
+	//
+	// remove buttons and redraw
+	//tinyMCE.execCommand( 'mceRemoveControl', false, 'editor' );
+	//tinyMCE.execCommand( 'mceAddControl', false, 'editor' );
+}
+
+function AlignLeft()
+{
+	tinyMCE.execCommand('justifyleft');
+	tinyMCE.execCommand('mceDirectionLTR');
+	//
+	//tinyMCE.settings['directionality'] = 'ltr';
+	//
+	// remove buttons and redraw
+	//tinyMCE.execCommand( 'mceRemoveControl', false, 'editor' );
+	//tinyMCE.execCommand( 'mceAddControl', false, 'editor' );
+}
+
+function SelectAll()
+{
+	tinyMCE.execCommand('selectall',false,null);
+}
+
+</script>
+
+<script type="text/javascript">
+document.write('<script type="text/javascript" src="'+ window.external.GetPath() + 'tiny_mce.js' + '"><\/script>');
+</script>
+
+<script type="text/javascript">
+var paramsOne = {
+        // General options
+        mode : "textareas",
+        theme : "advanced",
+        content_css : ".\TinyMCE.css",
+        // editor_css : "TinyMCE.css",
+
+        // For now, disable all plugins
+        // plugins : "emotions,iespell,preview,searchreplace,print,table",
+		//
+		// UPDATE: specifically, enable the directionality plugin to have RTL and LTR support
+		plugins : "directionality",
+
+        // Theme options
+        // theme_advanced_buttons1 : "bold, italic, underline, separator,justifyleft, justifycenter, justifyright, justifyfull, separator,bullist, numlist, outdent, indent, separator, hr, separator, search, replace",    	// theme_advanced_buttons2 : "cut, copy, paste, separator, undo, redo, separator, link, unlink, image, separator, charmap, iespell, preview,separator, emotions, separator, print", 
+        theme_advanced_buttons1 : "ltr, rtl, separator, bold, italic, underline, separator,justifyleft, justifycenter, justifyright, justifyfull, separator,bullist, numlist, outdent, indent, separator, hr, separator, cut, copy, paste, separator, undo, redo",
+    	theme_advanced_buttons2 : "", 
+        //theme_advanced_buttons1 : "bold, italic, underline, separator,justifyleft, justifycenter, justifyright, justifyfull, separator,bullist, numlist, outdent, indent, separator, hr",    	//theme_advanced_buttons2 : "cut, copy, paste, separator, undo, redo",     	theme_advanced_buttons3 : "",         theme_advanced_toolbar_location : "top",
+        theme_advanced_toolbar_align : "left",
+        theme_advanced_resizing : true
+
+};
+
+var paramsTwo = {
+        // General options
+        mode : "textareas",
+        theme : "advanced",
+        content_css : ".\TinyMCE.css",
+        // editor_css : "TinyMCE.css",
+
+        // For now, disable all plugins
+        // plugins : "emotions,iespell,preview,searchreplace,print,table",
+		//
+		// UPDATE: specifically, enable the directionality plugin to have RTL and LTR support
+		plugins : "directionality",
+
+        // Theme options
+        // theme_advanced_buttons1 : "bold, italic, underline, separator,justifyleft, justifycenter, justifyright, justifyfull, separator,bullist, numlist, outdent, indent, separator, hr, separator, search, replace",
+    	// theme_advanced_buttons2 : "cut, copy, paste, separator, undo, redo, separator, link, unlink, image, separator, charmap, iespell, preview,separator, emotions, separator, print", 
+
+        //theme_advanced_buttons1 : "bold, italic, underline, separator,justifyleft, justifycenter, justifyright, justifyfull, separator,bullist, numlist, outdent, indent, separator, hr, separator, cut, copy, paste, separator, undo, redo",
+    	//theme_advanced_buttons2 : "", 
+        theme_advanced_buttons1 : "bold, italic, underline, separator,justifyleft, justifycenter, justifyright, justifyfull, separator,bullist, numlist, outdent, indent, separator, hr",
+    	theme_advanced_buttons2 : "ltr,rtl,separator,cut, copy, paste, separator, undo, redo", 
+
+    	theme_advanced_buttons3 : "", 
+        theme_advanced_toolbar_location : "top",
+        theme_advanced_toolbar_align : "left",
+        theme_advanced_resizing : true
+
+};
+
+paramsOne["language"] = window.external.Language;
+paramsTwo["language"] = window.external.Language;
+
+// This doesn't seem to help
+// params["document_base_url"] = window.external.GetPath();
+
+tinyMCE.init(paramsOne);
+
+function InitTinyMCE_SingleLineToolbar()
+{
+	tinyMCE.init(paramsOne);
+}
+
+function InitTinyMCE_DualLineToolbar()
+{
+	tinyMCE.init(paramsTwo);
+}
+
+
+</script>
+
+</body>
+</html>

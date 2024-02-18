@@ -1,0 +1,52 @@
+
+[FTBBanner]
+
+"languageName","Arabic"
+"languageCode","AR"
+"tools_options_toggle","Џ—÷ ≈‘Џ«—«  «б№MyHeritage"
+
+[FTBSync]
+
+"languageName","Arabic"
+"languageCode","AR"
+"SYNC_status_on_different_tree_size F","«б≈’ѕ«— «бќ«’ »я Џ»— «б√жд б«нд гд ‘ћ—… «бЏ«∆б… »е √‘ќ«’ √яЋ— гд «б≈’ѕ«— «бгћжѕ Џбм «б№Family Tree Builder «бќ«’ »я.\nж г ≈нё«Ё «б “«гд б Ё«ѕн Ёёѕ «б»н«д« ."
+"SYNC_status_on_different_tree_size M","«б≈’ѕ«— «бќ«’ »я Џ»— «б√жд б«нд гд ‘ћ—… «бЏ«∆б… »е √‘ќ«’ √яЋ— гд «б≈’ѕ«— «бгћжѕ Џбм «б№Family Tree Builder «бќ«’ »я.\nж г ≈нё«Ё «б “«гд б Ё«ѕн Ёёѕ «б»н«д« ."
+"SYNC_status_short_on_different_tree_size F","«б‘ћ—… Џ»— √жд б«нд »е« √‘ќ«’ √яЋ— гд FTB."
+"SYNC_status_short_on_different_tree_size M","«б‘ћ—… Џ»— √жд б«нд »е« √‘ќ«’ √яЋ— гд FTB."
+"SYNC_title_on_different_tree_size"," Ќ–н— гд Ёёѕм гЌ гб б»н«д« "
+"SYNC_warn_on_different_tree_size F","≈д «б “«гд «б–н  ж‘янд Џбм ≈ћ—«∆е ”жЁ нЌ–Ё %d ‘ќ’«с гд ‘ћ— я Џ»— «б√жд б«нд.\nж–бя »”»» √д ‘ћ— я Џбм «б≈’ѕ«— «бЌ«бн б»—д«гћ Family Tree Builder »е« %d ‘ќ’«с Ён Ќнд √д ‘ћ— я Џ»— «б√жд б«нд »е« %d ‘ќ’«с.\n≈–« ж«’б ° ”н г Ёёѕ %d ‘ќ’«с.\n\nЁеб √д  г √яѕ… гд —џ» я Ён гж«’б… «бг“«гд…?\n≈д е–« џн— гж’м »е г« бг  яждн г √яѕ… гд —џ» я Ён ≈ќ ’«— Ќћг ‘ћ— я."
+"SYNC_warn_on_different_tree_size M","≈д «б “«гд «б–н  ж‘я Џбм ≈ћ—«∆е ”жЁ нЌ–Ё %d ‘ќ’«с гд ‘ћ— я Џ»— «б√жд б«нд.\nж–бя »”»» √д ‘ћ— я Џбм «б≈’ѕ«— «бЌ«бн б»—д«гћ Family Tree Builder »е« %d ‘ќ’«с Ён Ќнд √д ‘ћ— я Џ»— «б√жд б«нд »е« %d ‘ќ’«с.\n≈–« ж«’б ° ”н г Ёёѕ %d ‘ќ’«с.\n\nЁеб √д  г √яѕ гд —џ» я Ён гж«’б… «бг“«гд…?\n≈д е–« џн— гж’м »е г« бг  яд г √яѕ«с гд —џ» я Ён ≈ќ ’«— Ќћг ‘ћ— я."
+
+[FTBInColor]
+
+"languageName","Arabic"
+"languageCode","AR"
+"IntroScreen_Body","DO NOT TRANSLATE"
+"IntroScreen_ColorizeButtonCaption"," бжнд"
+"IntroScreen_Footer","DO NOT TRANSLATE"
+"IntroScreen_GotitButtonCaption","DO NOT TRANSLATE"
+"IntroScreen_Title","DO NOT TRANSLATE"
+
+[Subscription]
+
+"UpgradeDlgInColorBullet","DO NOT TRANSLATE"
+
+[FTBGedcomWizard]
+
+"languageName","Arabic"
+"languageCode","AR"
+
+[CheckerItemTypes]
+
+"CheckerItemTypes_DuplicatedIndGuid"," Џ«—÷ »нд «б√‘ќ«’"
+
+[FamilyConnections]
+
+"FamilyConnections_DuplicatedIndividual","«б‘ќ’: %PERSON1% бг н г ЌЁўе »Ў—нё… ’ЌнЌ… жед«я  Џ«—÷ гЏ «б‘ќ’: %PERSON2%."
+"FamilyConnections_DuplicatedIndividualTip","н ѕ«ќб е–«д «б‘ќ’«д Ён «бг‘—жЏ «бќ«’ »я. бЌб е–« «б Џ«—÷ ° ќ– »Џнд «б«Џ »«— Ќ–Ё √Ќѕ «б√Ё—«ѕ."
+
+[GWExportGedcomFinish]
+
+"GWExportGedcomFinish_FailedOnDuplication","нЌ жн «бг‘—жЏ «бќ«’ »я Џбм »Џ÷ «бЏб«∆б«  √ж «б√Ё—«ѕ «б–нд бг н г  ќ“ндег »Ў—нё… ’ЌнЌ…. ж  ѕ«ќб е–е «бЏц—ён«  Ён «бг‘—жЏ «бќ«’ »я. жёѕ няжд е–« «б Џ«—÷ д« ћ«с Џд ќЎ√ гƒё  »«б»н«д«  жнгдЏ «б ’ѕн— ≈бм «б№GEDCOM. ббг“нѕ гд «бг”«Џѕ… »—ћ«Ѕ “н«—… %help_center%"
+"GWExportGedcomFinish_HelpCenterLinkTitle","г—я“ «бг”«Џѕ…"
+"GWExportGedcomFinish_WarnOnExport","нЌ жн «бг‘—жЏ «бќ«’ »я Џбм »Џ÷ «бЏб«∆б«  √ж «б√Ё—«ѕ «б–нд бг н г  ќ“ндег »Ў—нё… ’ЌнЌ…. ж  ѕ«ќб е–е «бЏц—ён«  Ён «бг‘—жЏ «бќ«’ »я. жёѕ няжд е–« «б Џ«—÷ д« ћ«с Џд ќЎ√ гƒё  »«б»н«д« . гќ—ћ«  «б№GEDCOM џн— ’«бЌ… жёѕ  Џя” Џб«ё«  џн— ”бнг…. ббг“нѕ гд «бг”«Џѕ… »—ћ«Ѕ “н«—… %help_center%"

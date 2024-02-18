@@ -1,0 +1,52 @@
+
+[FTBBanner]
+
+"languageName","Dutch"
+"languageCode","NL"
+"tools_options_toggle","Toon MyHeritage aankondigingen"
+
+[FTBSync]
+
+"languageName","Dutch"
+"languageCode","NL"
+"SYNC_status_on_different_tree_size F","De online versie van uw stamboom heeft meer individuen dan de versie van uw Family Tree Builder software.\nSync is aborted to avoid dataloss."
+"SYNC_status_on_different_tree_size M","De online versie van uw stamboom heeft meer individuen dan de versie van uw Family Tree Builder software.\nSync is aborted to avoid dataloss."
+"SYNC_status_short_on_different_tree_size F","De online stamboom heeft meer individuen dan de FTB."
+"SYNC_status_short_on_different_tree_size M","De online stamboom heeft meer individuen dan de FTB."
+"SYNC_title_on_different_tree_size","Potentieel data verlies waarschuwing"
+"SYNC_warn_on_different_tree_size F","De sync die u wilt doen zal %d individuen verwijderen van uw online stamboom.\nDat is omdat uw huidige stamboom versie op uw Family Tree Builder software %d individuen heeft en uw online stamboom heeft %d individuen.\nAls u doorgaat verliest u %d individuen.\n\nBent u er zeker van dat u door wil gaan en wil sync?\nDit wordt niet aanbevolen tenzij u zeker weet dat u de grootte van uw stamboom wil verkleinen."
+"SYNC_warn_on_different_tree_size M","De sync die u wilt doen zal %d individuen verwijderen van uw online stamboom.\nDat is omdat uw huidige stamboom versie op uw Family Tree Builder software %d individuen heeft en uw online stamboom heeft %d individuen.\nAls u doorgaat verliest u %d individuen.\n\nBent u er zeker van dat u door wil gaan en wil sync?\nDit wordt niet aanbevolen tenzij u zeker weet dat u de grootte van uw stamboom wil verkleinen."
+
+[FTBInColor]
+
+"languageName","Dutch"
+"languageCode","NL"
+"IntroScreen_Body","DO NOT TRANSLATE"
+"IntroScreen_ColorizeButtonCaption","Inkleuren"
+"IntroScreen_Footer","DO NOT TRANSLATE"
+"IntroScreen_GotitButtonCaption","DO NOT TRANSLATE"
+"IntroScreen_Title","DO NOT TRANSLATE"
+
+[Subscription]
+
+"UpgradeDlgInColorBullet","DO NOT TRANSLATE"
+
+[FTBGedcomWizard]
+
+"languageName","Dutch"
+"languageCode","NL"
+
+[CheckerItemTypes]
+
+"CheckerItemTypes_DuplicatedIndGuid","Er is een conflict tussen personen"
+
+[FamilyConnections]
+
+"FamilyConnections_DuplicatedIndividual","Persoon: %PERSON1% is niet juist opgeslagen en geeft een conflict met persoon: %PERSON2%."
+"FamilyConnections_DuplicatedIndividualTip","Deze twee personen overlappen elkaar in uw project. Om dit conflict op te lossen, overweeg om een van de personen te verwijderen."
+
+[GWExportGedcomFinish]
+
+"GWExportGedcomFinish_FailedOnDuplication","Uw project bevat enkele families of personen die niet op de juiste wijze zijn opgeslagen. Deze gegevens overlappen elkaar in uw project. De conflicten kunnen misschien zijn ontstaan doordat er een tijdelijke data fout is opgetreden en zij voorkomen dat de export naar GEDCOM plaatsvindt. Voor verdere ondersteuning kunt u ons %help_center% bezoeken"
+"GWExportGedcomFinish_HelpCenterLinkTitle","Help Centrum"
+"GWExportGedcomFinish_WarnOnExport","Uw project bevat enkele families of personen die niet op de juiste wijze zijn opgeslagen. Deze gegevens overlappen elkaar in uw project. De conflicten kunnen misschien zijn ontstaan doordat er een tijdelijke data fout is opgetreden. Het GEDCOM bestand is niet geldig en kan onjuiste relaties laten zien. Voor verdere ondersteuning kunt u ons %help_center% bezoeken"

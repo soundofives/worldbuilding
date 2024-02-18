@@ -1,0 +1,621 @@
+
+body, td
+{
+    font-family: Arial;
+    font-size: 12px;
+    color: #0C4D7E;
+}
+
+.small
+{
+    font-size: 11px;
+}
+
+.title, .address
+{
+    font-size: 16px;
+    padding-top: 4px;
+}
+
+.address
+{
+    font-weight: bold;
+}
+
+#individualName
+{
+    font-size: 16px;
+    font-weight: bold;
+    padding-bottom: 4px;
+}
+
+.placemark-address
+{
+    color: #808080;
+    padding-top: 2px;
+}
+
+.note
+{
+    color: #AAAAAA;
+}
+
+.darkNote
+{
+    color: #808080;
+}
+
+#alternativesPanel
+{
+	padding: 4px;
+}
+
+#alternativesNote
+{
+	padding-top: 4px; 
+	padding-bottom: 2px;
+}
+
+#legend
+{
+    width: 100%;
+    padding: 6px;
+}
+
+#legend2
+{
+    width: 100%;
+    background-color: rgb(238,238,238);
+    border-top: solid 1px rgb(150,158,164);
+}
+
+#legend2_message
+{
+    color: #444444;
+    padding: 6px;
+    text-align: left;
+}
+
+#legend2_print
+{
+    text-align: right;
+    padding-right: 10px;
+}
+
+input, select
+{
+    font-family: Arial;
+    font-size: 12px;
+    color: #000000;
+}
+
+a, a:link, a:visited
+{
+    text-decoration: none;
+    color: #0277DA;
+}
+
+a:hover
+{
+    text-decoration: underline;
+    color: #38B3FF;
+}
+
+#premium_link
+{
+    font-weight: bold; 
+    color: #57A206; 
+    font-size: 14px;
+}
+
+.sideBarArea
+{
+    width: 228px;
+}
+
+.sideBarRow
+{
+    padding-left: 8px;
+    padding-right: 8px;
+}
+
+.sideBarPlaceRow
+{
+	width: 212px;
+    text-indent: -10px; 
+    padding-left: 10px;
+    padding-top: 3px;
+}
+
+.sideBarFacts
+{
+    padding-left: 10px;
+    text-indent: -10px;
+    padding-bottom: 5px;
+}
+
+.sideBarFact
+{
+    padding-top: 3px;
+    padding-left: 6px;
+    text-indent: -6px;
+}
+
+.sideBarDash
+{
+    padding-right: 5px;
+}
+
+.sideBarSeparator
+{
+    padding-top: 6px;
+}
+
+.sideBarStateSeparator
+{
+    padding-top: 2px;
+    padding-bottom: 2px;
+}
+
+.sideBarImprove
+{
+    color: red; 
+    font-weight: bold;
+    cursor: pointer;
+    padding-left: 5px;
+}
+
+a.sideBar, a.sideBar:link, a.sideBar:visited
+{
+    text-decoration: none;
+    color: #0277DA;
+}
+
+a.sideBar:hover
+{
+    text-decoration: underline;
+    color: #008000;
+}
+
+a.sideBarHighlight, a.sideBarHighlight:link, a.sideBarHighlight:visited
+{
+    text-decoration: none;
+    color: #008000;
+}
+
+a.sideBarHighlight:hover
+{
+    text-decoration: underline;
+    color: #008000;
+}
+
+a.sideBarHighlightHover, a.sideBarHighlightHover:link, a.sideBarHighlightHover:visited, a.sideBarHighlightHover:hover
+{
+    text-decoration: underline;
+    color: #008000;
+}
+
+.sideBarGray
+{
+    color: gray;
+}
+
+.infoWindowRow
+{
+    padding-top: 5px;
+}
+
+.infoWindowEditRow
+{
+    background-color: #EEEEEE;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+.infoWindowIcon
+{
+    text-align: center;
+    padding-right: 4px;
+}
+
+.infoWindowImage
+{
+    cursor: pointer;
+}
+
+.infoWindowDash
+{
+    padding-right: 5px;
+}
+
+.infoWindowReferences
+{
+    border-top: solid 1px rgb(243,241,241);
+}
+
+.infoWindowReferencesScroll
+{
+    border: solid 1px rgb(211,214,216);
+    height: 150px;
+    padding-left: 3px;
+    padding-right: 3px;
+    overflow-y: auto;
+    overflow-x: none;
+}
+
+input.error
+{
+	border: solid 2px rgb(255,0,0);
+}
+
+input.button
+{
+    color: #FFFFFF;
+    background-color: #0277DA;
+    font-weight: bold;
+    padding-right: 3px;
+    padding-left: 3px;
+    cursor: hand;
+}
+
+input.disabledButton
+{
+    color: #FFFFFF;
+    background-color: #808080;
+    font-weight: bold;
+    padding-right: 3px;
+    padding-left: 3px;
+    cursor: hand;
+}
+
+input.premium_button
+{
+    color: #FFFFFF;
+    background-color: red;
+    font-weight: bold;
+    padding-right: 3px;
+    padding-left: 3px;
+    cursor: hand;
+}
+
+.sideBarCountry
+{
+    padding-top: 3px; 
+    padding-bottom: 3px; 
+    padding-left: 8px; 
+    padding-right: 3px; 
+    background-image: url(CountrySeperator.jpg);
+    width: 100%;
+}
+
+.sideBarState
+{
+	width: 212px;
+	padding-top: 2px;
+    border-bottom: inset 2px rgb(240,240,240);
+}
+
+.checkbox
+{
+    padding-right: 8px; 
+    cursor: default;
+}
+
+#only_types
+{
+    padding-left: 8px; 
+    padding-right: 2px;
+}
+
+#form_label
+{
+    font-weight: bold;
+    padding-right: 4px;
+}
+
+#places_sort_label
+{
+    padding-right: 10px;
+}
+
+#places_td
+{
+    border-left: solid 1px rgb(150,158,164);
+}
+
+#individualPhoto
+{
+    padding-right: 9px;
+}
+
+.photoBorder
+{
+	border: solid 1 rgb(226,226,226);
+	padding: 2px;
+	background-color: White;
+}
+
+.individual-legend
+{
+    padding-right: 10px;
+}
+
+.zoomin
+{
+    padding-left: 2px;
+}
+
+.map-all
+{
+    font-size: 11px;
+    text-align: right;
+}    
+
+#premium
+{
+    height: 20px;
+    padding-bottom: 8px; 
+}
+
+#places_header
+{
+    font-weight: bold;
+}
+
+#show_all_link
+{
+    font-weight: bold;
+}
+
+#pins_header
+{
+    color: #808080;
+    padding-top: 3px;
+}
+
+#show_all_places
+{
+    padding-right: 2px;
+}
+
+#header
+{
+    padding-left: 6px; 
+    padding-right: 4px; 
+    padding-top: 4px; 
+    padding-bottom: 4px; 
+    width: 100%; 
+    height: 80px;
+    border-bottom: solid 1px rgb(150,158,164);
+    background-image: url(Header.gif);
+}
+
+#main
+{
+	border: solid 1px white;
+}
+
+#header_left
+{
+    padding-right: 10px;
+}
+
+#single_note
+{
+    padding-top: 4px; 
+    padding-bottom: 4px;
+}
+
+#placesSortPanel
+{
+	padding-left: 8px;
+    padding-top: 4px;
+    padding-bottom: 4px;
+    padding-right: 4px;
+    border-bottom: solid 1px rgb(150,158,164);
+}
+
+#places_text
+{
+    overflow: auto;
+}
+
+#loading
+{
+    position: absolute; 
+    top: 0px; 
+    left: 0px; 
+    width: 100%; 
+    height: 100%; 
+    background-color: White; 
+    filter: alpha(opacity=85);
+}
+
+#canceled_places
+{
+    color: red;
+}
+
+#calloutWindow
+{
+	width: 200px; 
+	padding: 10px; 
+	position: absolute; 
+	top: 200px; 
+	left: 0px; 
+	border: solid 1px #AAAAAA; 
+	background-color: White; 
+	
+}
+
+#calloutCloseButton
+{
+	text-align: right;
+}
+
+.advanced_search
+{
+	padding: 2px;
+}
+
+#open_advanced_search_link
+{
+	font-weight: bold;
+}
+
+#select_letters_area
+{
+	padding-right: 10px;
+}
+
+#calculating_advanced_search
+{
+	font-style: italic;
+	padding: 2px;
+}
+
+#calculating_individuals
+{
+	padding: 2px;
+}
+
+#individualPanel
+{
+    border-bottom: solid 1px rgb(150,158,164);
+	padding: 8px;
+	background-image: url(Person.gif);
+	width: 245px;
+}
+
+#inThisPlacePanel, #inThisPlacePanel
+{
+	padding-bottom: 4px;
+    border-bottom: solid 1px rgb(211,214,216);
+}
+
+#inThisPlacePanel
+{
+    border-bottom: solid 1px rgb(211,214,216);
+}
+
+#showAllReferences
+{
+	text-align: right;
+}
+
+#calloutHeader
+{
+	padding-bottom: 5px;
+    --border-bottom: solid 1px rgb(211,214,216);
+    width: 290px;
+}
+
+#calloutMain
+{
+    --border-top: solid 1px rgb(243,241,241);
+	padding-top: 0px;
+}
+
+#zoomIn
+{
+	padding-left: 2px;
+}
+
+.referenceImage, .referenceImageLast
+{
+	padding-top: 7px;
+	padding-bottom: 7px;
+}
+
+.referenceDescription, .referenceDescriptionLast, .referenceDescriptionWithPhotos, .referenceDescriptionWithPhotosLast
+{
+	padding-top: 7px;
+	padding-bottom: 7px;
+	width: 100%;
+}
+
+.referenceDescriptionWithPhotos, .referenceDescriptionWithPhotosLast
+{
+	padding-left: 6px;
+}
+
+.referenceImage, .referenceDescription, .referenceDescriptionWithPhotos
+{
+	border-bottom: solid 1px rgb(240,238,238);
+}
+
+#fullPhotoHeader
+{
+	padding-top: 4px;
+	padding-bottom: 8px;
+}
+
+#fullPhotoFooter
+{
+	padding-top: 8px;
+}
+
+.coolButton
+{
+	cursor: pointer;
+}
+
+.coolButtonLeft, .coolButtonLeftHover, .coolButtonRight, .coolButtonRightHover
+{
+	background-repeat:no-repeat;
+	width: 11px;
+	height: 23px;
+}
+
+.coolButtonLeft
+{
+	background-image:url(btn_N_L.gif);
+}
+
+.coolButtonLeftHover
+{
+	background-image:url(btn_R_L.gif);
+}
+
+.coolButtonRight
+{
+	background-image:url(btn_N_R.gif);
+}
+
+.coolButtonRightHover
+{
+	background-image:url(btn_R_R.gif);
+}
+
+.coolButtonMiddle
+{
+	background-image:url(btn_N_M.gif);
+	background-repeat:repeat-x;
+}
+
+.coolButtonMiddleHover
+{
+	background-image:url(btn_R_M.gif);
+	background-repeat:repeat-x;
+}
+
+.coolButtonText
+{
+    font-family: Arial;
+    font-size: 11px;
+	color: White;
+	font-weight: bold;
+	white-space: nowrap;
+	padding-left: 6px;
+	padding-right: 6px;
+}
+
+.right
+{
+	text-align: right;
+}
+
+#info_window_div
+{
+	width: 300px;
+}

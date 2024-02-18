@@ -1,0 +1,52 @@
+
+[FTBBanner]
+
+"languageName","Spanish"
+"languageCode","ES"
+"tools_options_toggle","Mostrar las notificaciones de MyHeritage"
+
+[FTBSync]
+
+"languageName","Spanish"
+"languageCode","ES"
+"SYNC_status_on_different_tree_size F","La versión en línea de su árbol familiar tiene más individuos que la versión en Family Tree Builder.\nLa sincronización se abortará para evitar la pérdida de información."
+"SYNC_status_on_different_tree_size M","La versión en línea de su árbol familiar tiene más individuos que la versión en Family Tree Builder.\nLa sincronización se abortará para evitar la pérdida de información."
+"SYNC_status_short_on_different_tree_size F","Su árbol en línea tiene más individuos que la versión en FTB."
+"SYNC_status_short_on_different_tree_size M","Su árbol en línea tiene más individuos que la versión en FTB."
+"SYNC_title_on_different_tree_size","Advertencia sobre la posible pérdida de información"
+"SYNC_warn_on_different_tree_size F","La sincronización que está a punto de realizar eliminará %d individuos de su árbol en línea.\nEsto se debe a que la versión actual de su árbol en Family Tree Builder tiene %d individuos, mientras que su árbol en línea tiene %d individuos.\nSi usted continúa, se eliminarán %d individuos.\n\n¿Está segura que desea proceder con la sincronización?\nEn este caso no se recomienda la sincronización a menos que esté segura que desea reducir el tamaño de su árbol."
+"SYNC_warn_on_different_tree_size M","La sincronización que está a punto de realizar eliminará %d individuos de su árbol en línea.\nEsto se debe a que la versión actual de su árbol en Family Tree Builder tiene %d individuos, mientras que su árbol en línea tiene %d individuos.\nSi usted continúa, se eliminarán %d individuos.\n\n¿Está seguro que desea proceder con la sincronización?\nEn este caso no se recomienda la sincronización a menos que esté seguro que desea reducir el tamaño de su árbol."
+
+[FTBInColor]
+
+"languageName","Spanish"
+"languageCode","ES"
+"IntroScreen_Body","DO NOT TRANSLATE"
+"IntroScreen_ColorizeButtonCaption","Colorear"
+"IntroScreen_Footer","DO NOT TRANSLATE"
+"IntroScreen_GotitButtonCaption","DO NOT TRANSLATE"
+"IntroScreen_Title","DO NOT TRANSLATE"
+
+[Subscription]
+
+"UpgradeDlgInColorBullet","DO NOT TRANSLATE"
+
+[FTBGedcomWizard]
+
+"languageName","Spanish"
+"languageCode","ES"
+
+[CheckerItemTypes]
+
+"CheckerItemTypes_DuplicatedIndGuid","Conflicto entre individuos"
+
+[FamilyConnections]
+
+"FamilyConnections_DuplicatedIndividual","No se ha guardado correctamente a la persona %PERSON1% por lo que se produce un conflicto con la persona %PERSON2%."
+"FamilyConnections_DuplicatedIndividualTip","Estos dos individuos se superponen en su proyecto. Para resolver este conflicto, considere eliminar a uno de los individuos."
+
+[GWExportGedcomFinish]
+
+"GWExportGedcomFinish_FailedOnDuplication","Su proyecto contiene algunas familias o individuos que no se han guardado correctamente. Estas entidades se superponen en su proyecto. Estos conflictos pueden haber sido causados por un error de datos temporal e impiden la exportación a GEDCOM. Para mayor asistencia puede visitar nuestro %help_center%"
+"GWExportGedcomFinish_HelpCenterLinkTitle","Centro de Ayuda"
+"GWExportGedcomFinish_WarnOnExport","Su proyecto contiene algunas familias o individuos que no se han guardado correctamente. Estas entidades se superponen en su proyecto, y se producen conflictos que pueden haber sido causados por un error de datos temporal. El resultado de GEDCOM no es válido y puede originar relaciones incorrectas. Para mayor asistencia puede visitar nuestro %help_center%"

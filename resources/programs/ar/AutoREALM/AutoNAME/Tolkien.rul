@@ -1,0 +1,71 @@
+//
+// J.R.R. Tolkien style names
+//
+
+NAME      => ELVEN
+     [30%]=> HUMAN
+
+ELVEN      => {ELFPREFIX}{ELFSUFFIX}
+       [1%]=> Tar-{ELFPREFIX}{ELFSUFFIX}
+
+ELFPREFIX => Ere
+          => Cele
+          => Bele
+          => Eären
+          => Nen
+          => Dún-
+          => Adû
+          => Akall
+          => Elbe
+          => Gilth
+          => Lagi
+          => Aig
+          => Ald[a]
+          => Anger
+          => Rú
+          => Fëan
+
+ELFSUFFIX => gion
+          => [brim]bor
+          => riand
+          => dil
+          => uial
+          => dain
+          => naic
+          => abêth
+          => reth
+          => oniel
+          => los
+          => lómë
+          => ëa
+          => úya
+          => thas
+          => mil
+          => [o]rean
+
+HUMAN       => {HUMANPREFIX}{HUMANSUFFIX}
+        [5%]=> Dol {HUMANPREFIX}{HUMANSUFFIX}
+
+HUMANPREFIX => Húr
+            => Túr
+            => Had
+            => Núm
+            => Ro
+            => Am
+            => Agla
+            => Dîn
+            => Sûl
+            => Ana
+            => Glam
+            => Gir
+            => Glan
+
+HUMANSUFFIX => in
+            => [d]or
+            => [e]nor
+            => han
+            => roth
+            => rond
+            => rion
+            => ring
+

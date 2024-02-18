@@ -1,0 +1,46 @@
+WEATHER => TYPE, DESCRIPTION. TEMPERATURE. WINDS.
+
+TYPE=>Partly sunny
+    =>Partly cloudy
+    =>Sunny
+    =>Cloudy
+    =>Chance of rain
+    =>Chance of snow at night
+    =>Chance of storms at night
+    =>Thunderstorms at night
+    =>A chance of showers and thunderstorms
+    =>Thunderstorms today
+
+DESCRIPTION=>hot and humid
+    =>cool and dry
+    =>breezy with scattered afternoon thunderstorms
+    =>a chance of evening thunderstorms
+    =>a chance of morning snowstorms
+    =>rain followed by freezing rain and sleet
+    =>chance of hail
+    =>cool and calm
+    =>a chance of afternoon thunderstorms
+
+TEMPERATURE=>Today's high {6d10+40}F, low {6d10+0}F
+
+WINDS=>Winds out of the DIRECTION at SPEED
+
+DIRECTION=>North
+	 =>South
+	 =>East
+         =>West
+         =>Northeast
+         =>Northwest
+         =>Southeast
+         =>Southwest
+
+SPEED=>5 to 15 mph
+     =>10 to 20 mph
+     =>15 to 25 mph
+     =>20 to 30 mph
+     =>25 to 35 mph
+     =>30 to 40 mph
+     =>35 to 45 mph
+     =>40 to 50 mph
+     =>55 to 65 mph
+     =>hurricane speeds

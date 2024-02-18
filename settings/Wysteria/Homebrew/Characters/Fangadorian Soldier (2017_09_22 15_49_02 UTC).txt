@@ -1,0 +1,126 @@
+Fangadorian Soldier
+
+Str 12 1	Saves:	+3
+Dex 10 0			+2
+Con 12 1			+0
+Int 9 -1			+0
+Wis 8 -1 			+0
+Cha 10 0			+0
+
+Fighter 2
+
+HP 13	Initiative +0	Speed 30ft
+10L/7M/3S
+
+Armor: Studded leather, 25 gp, +3 Protection,–1 Check Penalty,20 lbs. 
+
+Skills:		Animal Handling +1
+			Investigation	+1
+
+Possible Fighting Styles:
+DEFENSE While you are wearing armor, you gain a +1 bonus to AC.
+
+1) DUELING When you are wielding a melee weapon in one hand and no other weapons,
+ you gain a +2 bonus to damage rolls with that weapon,
+
+2) GREAT WEAPON FIGHTING When you roll a 1 or 2 on a damage die for an attack you make
+ with a melee weapon that you are wielding with two hands, you can reroll the die
+ and must use the new roll, even if the new roll is a 1or a 2.
+ The weapoo must have the two-handed or versatile property for you to gaio this benefit.
+ 
+3) PROTECTION When a creature you can see attacks a target other than
+ you that is within 5 feet of you,you can use your reaction
+ to impose disadvantage on the attack roll. Vou must be wielding a shield.
+ 
+4) TWO-WEAPON FIGHTING When you engage in two-weapon fighting,
+ you can add your ability modifier to the damage of lhe second attack.
+  
+Fangadorian soldiers are trained in the disarming of their targets specifically. They expend a superiority dice, which
+they have two of:
+	Dísarmíng Attack. When you hit a creature with a weapon attack, you can expend one
+	superiority die to attempt to disarm the target, forcing it to drop one item ofyour choice that it's holding,
+	Vou add the superiority die to the attack's damage roll, and the target must make a Strength saving throw,
+	On a failed save, it drops the object you choose, The object lands at its feet. 
+	
+Second Wind: Once per rest, a Fangadorian can heal 1d4+Con Mod HP as a bonus action.
+ 
+Attack bonus: [2+1d10]+1
+Defense bonus: [2+1d10]
+
+Spear: 3 gp, [1d8+2]+1, 3 Ib. Thrown (range 20/60) 
+Longsword: 15 gp, [1d8+2]+1, slashing 3 1b. 
+Crossbow, light: 25 gp, ld6 piercing, 5 1b. Ammunition (10) (range 80/320),
+	loading, two.handed
+Dagger:  2 gp, 1d6+1 piercing 1 Ib. Finesse, light, thrown (range 20/60) 
+	
+Feats:
+
+1) ALERT Always on the lookout for danger, you gain the following benefits:
+ Vou gain a +5 bonus to initiative. Vou can't be surprised while you are conscious. 
+ Other creatures don't gain advantage on attack rolls against you as a result of being hidden from you.
+ 
+2)CHARGER When you use your action to Dash, you can use a bonus action to make one melee weapon attack or to shove a creature.
+ 1fyou move at least 10 feet in a straight tine immediately before taking this bonus action,
+ you either gain a +5 bonus to the attack's damage roll (ifyou chose to make a melee attack and hit)
+ or push the target up to 10 feet away from you (ifyou chose to shove and you succeed).
+
+3) DUAL WIELDER Vou master fighting with two weapons, gaining the following benefits:
+ Vougain a +1 bonus to ACwhile you are wielding a separate melee weapon in each hand.
+ Voucan use two-weapon fighting even whcn the onehanded melee weapons you are wielding aren't light.
+ Voucan draw or stow two one-handed weapons when you would normally be able to draw or stow only one.
+ 
+4)DEFENSIVE DUELIST Prerequisite: Dexterity 13or higher When you are wielding a finesse weapon
+ with which you are proficient and another creature hits you with a melee attack, you can use your reaction
+ to add your proficiency bonus to your AC for that attack, potentially causing the attack to miss you.
+ 
+5)OBSERVANT Quick to notice details ofyour environment, you gain the following benefits: 
+Increase your Intelligence or Wisdom score by 1,to a maximum of 20. If you can see a creature's mouth while it is speaking
+ a Ianguage you understand, you can interpret what it's saying by reading its lips. 
+ Vou have a +5 bonus to your passive Wisdom (Perception) and passive Intelligence (Investigation) scores.
+ 
+6) SAVAGE ATTACKER once per turn when you roll damage for a melee weapon attaek,
+ you ean reroll the weapon's damage diee and use either total.
+ 
+7) SKULKER Prerequisile: Dexterily 13 Or higher. Vou are expert at slinking through shadows.
+ Vou gain lhe following benefits: Vou can try to hide when you are lighlly obscured from the creature from which you are hiding.
+ When you are hidden from a crealure and miss it with a ranged weapon attack, making the attack doesn't reveal your posilion.
+ Dim light docsn'l impose disadvantage on your Wisdom (Perceplion) checks relying on sighl.
+ 
+8) TAVERN BRAWLER Accustomed to rough-and-tumble fighling using whalever weapons happen lo be ai hand,
+ you gain lhe following benelils: lncrease your Strenglh or Constilulion score by I, to a maximum of 20.
+ Vouare prolicienl wilh improvised weapons and unarmed slrikes. Vour unarmed strike uses a d4 for damage.
+ When you hil a creature with an unarmed strike 01' an improvised weapon on your turn, you can use a 
+ bonus action lOattempl to grapple the targel. 
+ 
+ 
+Personalities:
+
+1)		Rarely curtious, this sharp faced man is risk taking and ambitious. While curious,
+ he excersizes reasonable self control. He is honest and optimistic, and very observant. He is somewhat
+ shy in social situations. He believes in children's tales, such as pixies and the like. He eats ravenously,
+ despite his lean frame. Origionally from Waterford, this man's friend was wrongfully imprisoned. Because of this,
+ he swore to get even with the captors. To do this, he joined the Fangadorian army to learn swordsmanship.
+ 
+2)		This man's courteous act covers his unstable mind. He is often too paranoid to take risks, however his reaching
+curiousity gets him into trouble--and he has the bruises and lashes to show for it. He sees many other people as
+havens from his paranoia, and can be very trusting at times. Very illogical, he often makes up causes for events
+based on nothing. Often solitary, he doesn't get along with other soldiers. He is prone to muttering, and often gives names
+to inanimate objects. His paranoia is mainly pointed towards authority figures, who have abused him throughout his life, 
+and his trust will often go to those at the same social level as him. 
+
+3)		Cold and observant, this sergeant is logical and quick. His loyalty lies with the side that he feels will win,
+and he feels no qualms about betrayal. He is honest and brunt, and never optimistic. Being an efficient person himself,
+he often thinks long on how he can make systems that he's involved in more efficient--that includes training soldiers. This efficiency
+leads to a very organized and tidy lifestyle. A born soldier, he always looked up to an older leader, a captain during the War of the White
+Mountain. His passions were betrayed, however, when the sergeant began working with the captain, and he turned out to be nothing
+more than a fake.
+
+4-5)	These two banded together early in training. One slim and small and the other big and musled, they make an odd pair. The small one
+has the brains of the pair, the big one being an oaf--a town fool blessed with the musles of an ox. The small one was a pickpocket, arrested and
+sent to Fangador to be trained. The big one is prone to humming, and the small one often stutters when stressed--that's what got him arrested.
+
+6)		A crossbowman for the Fangadorians, this man has little love for his position. Always in awe of the men on the front lines, he
+has always wished to be better with the sword. Uncoordinated and clumsy, he was sent off from his family home outside of Balling to better himself,
+make himself worthy of the family name. Ambitious, he lusts for the chance to prove himself to his superiors.
+ 
+ 

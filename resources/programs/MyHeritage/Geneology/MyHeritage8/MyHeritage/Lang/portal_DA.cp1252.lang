@@ -1,0 +1,52 @@
+
+[FTBBanner]
+
+"languageName","Danish"
+"languageCode","DA"
+"tools_options_toggle","Vis meddelelser fra MyHeritage"
+
+[FTBSync]
+
+"languageName","Danish"
+"languageCode","DA"
+"SYNC_status_on_different_tree_size F","Online-versionen af dit slægtstræ har flere personer end versionen på din Family Tree Builder-software.\nSynkronisering afbrydes for at undgå datatab."
+"SYNC_status_on_different_tree_size M","Online-versionen af dit slægtstræ har flere personer end versionen på din Family Tree Builder-software.\nSynkronisering afbrydes for at undgå datatab."
+"SYNC_status_short_on_different_tree_size F","Dit online træ har flere personer end din FTB-version."
+"SYNC_status_short_on_different_tree_size M","Dit online træ har flere personer end din FTB-version."
+"SYNC_title_on_different_tree_size","Advarsel om potentielt tab af data"
+"SYNC_warn_on_different_tree_size F","Den synkronisering, du er ved at lave, sletter %d personer fra dit online-træ.\nDet skyldes, at den aktuelle stamtræ-version på dit Family Tree Builder-software har %d personer og dit online træ har %d personer.\nHvis du fortsætter, vil %d personer gå tabt.\n\nEr du sikker på, at du vil fortsætte og synkronisere?\nDette anbefales ikke, medmindre du er sikker på, at du vil reducere størrelsen på dit træ."
+"SYNC_warn_on_different_tree_size M","Den synkronisering, du er ved at lave, sletter %d personer fra dit online-træ.\nDet skyldes, at den aktuelle stamtræ-version på dit Family Tree Builder-software har %d personer og dit online træ har %d personer.\nHvis du fortsætter, vil %d personer gå tabt.\n\nEr du sikker på, at du vil fortsætte og synkronisere?\nDette anbefales ikke, medmindre du er sikker på, at du vil reducere størrelsen på dit træ."
+
+[FTBInColor]
+
+"languageName","Danish"
+"languageCode","DA"
+"IntroScreen_Body","DO NOT TRANSLATE"
+"IntroScreen_ColorizeButtonCaption","Farvelæg"
+"IntroScreen_Footer","DO NOT TRANSLATE"
+"IntroScreen_GotitButtonCaption","DO NOT TRANSLATE"
+"IntroScreen_Title","DO NOT TRANSLATE"
+
+[Subscription]
+
+"UpgradeDlgInColorBullet","DO NOT TRANSLATE"
+
+[FTBGedcomWizard]
+
+"languageName","Danish"
+"languageCode","DA"
+
+[CheckerItemTypes]
+
+"CheckerItemTypes_DuplicatedIndGuid","Konflikt mellem personer"
+
+[FamilyConnections]
+
+"FamilyConnections_DuplicatedIndividual","Person: %PERSON1% er ikke placeret korrekt, og konflikter med Person: %PERSON2%."
+"FamilyConnections_DuplicatedIndividualTip","Disse 2 personer overlapper i dit projekt. For at løse konflikten bør du overveje at slette en af dem."
+
+[GWExportGedcomFinish]
+
+"GWExportGedcomFinish_FailedOnDuplication","Dit projekt indeholder nogle familier eller personer som ikke er arkiveret korrekt. Disse entiteter overlapper i dit projekt. Konflikterne kan være forårsaget af en midlertidig datafejl, som forhindrer eksporten til GEDCOM. For at få yderligere assistance, besøg venligst vores %help_center%"
+"GWExportGedcomFinish_HelpCenterLinkTitle","Hjælpecenter"
+"GWExportGedcomFinish_WarnOnExport","Dit projekt indeholder nogle familier eller personer som ikke er arkiveret korrekt. Disse entiteter overlapper i dit projekt Konflikterne kan være forårsaget af en midlertidig datafejl. Resultatets GEDCOM er ikke gyldigt, og kan afspejle forkerte relationer. For at få yderligere assistance, besøg venligst vores %help_center%"

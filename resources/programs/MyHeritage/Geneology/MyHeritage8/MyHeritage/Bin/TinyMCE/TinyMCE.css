@@ -1,0 +1,25 @@
+body{background-color:#fff}
+.mceContentBody{padding:3px}
+.mceButtonNormal,.mceButtonOver,.mceButtonDown,.mceSeparator,.mceButtonDisabled,.mceButtonSelected{margin-top:1px;margin-left:1px}
+.mceButtonNormal{border-top:1px solid;border-left:1px solid;border-bottom:0 solid;border-right:1px solid;border-color:#f9f5f6;cursor:default}
+.mceButtonOver{border:1px solid #0a246a;cursor:default;background-color:#b6bdd2}
+.mceButtonDown{cursor:default;border:1px solid #0a246a;background-color:#8592b5}
+.mceButtonSelected{border:1px solid;border-color:#f9f5f6;cursor:default}
+.mceButtonDisabled{-moz-opacity:.3;opacity:.3;border-top:1px solid;border-left:1px solid;border-bottom:0 solid;border-right:1px solid;border-color:#f9f5f6;cursor:default}
+.mceSeparator{border-top:1px solid buttonhighlight;border-left:1px solid buttonhighlight;border-bottom:1px solid buttonshadow;border-right:1px solid buttonshadow;margin-right:2px;margin-left:2px}
+.mceSeparatorLine{margin:2px;margin-left:4px;background-color:#f9f5f6;border-top:1px solid buttonshadow;border-left:1px solid buttonshadow;border-bottom:1px solid buttonhighlight;border-right:1px solid buttonhighlight;width:0;height:15px}
+.mceSelectList{font-family:"MS Sans Serif";font-size:7pt;font-weight:normal;margin-top:3px;padding:0;display:inline;vertical-align:top;background-color:#f9f5f6}
+.mceLabel,.mceLabelDisabled{font-family:"MS Sans Serif";font-size:9pt}
+.mceLabel{color:#000}
+.mceLabelDisabled{cursor:text;color:#999}
+.mceEditor{background:#f9f5f6;border:1px solid #8589b6}
+.mceEditorArea{background:#fff;padding-left:1px;padding-right:1px}
+.mceToolbarTop,.mceToolbarBottom{background:#f9f5f6}
+.mceToolbarTop{border-bottom:1px solid #8589b6}
+.mceToolbarBottom{border-top:1px solid #8589b6}
+.mcePathTop,.mcePathBottom,.mcePath{font-family:"MS Sans Serif";font-size:9pt;padding:2px}
+.mcePathTop{border-bottom:1px solid #ccc}
+.mcePathBottom{border-top:1px solid #ccc}
+.mcePathItem,.mcePathItem:link,.mcePathItem:visited,.mcePathItem:hover{text-decoration:none;font-family:"MS Sans Serif";font-size:9pt}
+.mcePathItem:hover{text-decoration:underline}
+.mcePath{border-bottom:1px solid #ccc}

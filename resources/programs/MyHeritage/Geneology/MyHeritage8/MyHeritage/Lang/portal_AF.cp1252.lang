@@ -1,0 +1,52 @@
+
+[FTBBanner]
+
+"languageName","Afrikaans"
+"languageCode","AF"
+"tools_options_toggle","Wys MyHeritage aankondigings"
+
+[FTBSync]
+
+"languageName","Afrikaans"
+"languageCode","AF"
+"SYNC_status_on_different_tree_size F","Die aanlynweergawe van jou stamboom het meer individue as die weergawe op jou Family Tree Builder-sagteware.\nSinchronisasie word gestaak om verlies van data te voorkom."
+"SYNC_status_on_different_tree_size M","Die aanlynweergawe van jou stamboom het meer individue as die weergawe op jou Family Tree Builder-sagteware.\nSinchronisasie word gestaak om verlies van data te voorkom."
+"SYNC_status_short_on_different_tree_size F","Aanlyn boom het meer individue as FTB."
+"SYNC_status_short_on_different_tree_size M","Aanlyn boom het meer individue as FTB."
+"SYNC_title_on_different_tree_size","Waarskuwing vir moontlike verlies van data"
+"SYNC_warn_on_different_tree_size F","Die sinchronisasie wat jy gaan doen, sal %d individue uit jou aanlyn boom verwyder.\nDit is omdat die huidige weergawe van jou boom op jou Family Tree Builder-sagteware %d individue het en jou aanlyn boom %d individue.\nAs jy voortgaan, sal %d individue verlore gaan.\n\nIs jy seker dat jy wil voortgaan en die sinchronisering wil doen?\nDit word nie aanbeveel nie, tensy jy seker is dat jy die grootte van jou boom wil verklein."
+"SYNC_warn_on_different_tree_size M","Die sinchronisasie wat jy gaan doen, sal %d individue uit jou aanlyn boom verwyder.\nDit is omdat die huidige weergawe van jou boom op jou Family Tree Builder-sagteware %d individue het en jou aanlyn boom %d individue.\nAs jy voortgaan, sal %d individue verlore gaan.\n\nIs jy seker dat jy wil voortgaan en die sinchronisering wil doen?\nDit word nie aanbeveel nie, tensy jy seker is dat jy die grootte van jou boom wil verklein."
+
+[FTBInColor]
+
+"languageName","Afrikaans"
+"languageCode","AF"
+"IntroScreen_Body","DO NOT TRANSLATE"
+"IntroScreen_ColorizeButtonCaption","Kleur in"
+"IntroScreen_Footer","DO NOT TRANSLATE"
+"IntroScreen_GotitButtonCaption","DO NOT TRANSLATE"
+"IntroScreen_Title","DO NOT TRANSLATE"
+
+[Subscription]
+
+"UpgradeDlgInColorBullet","DO NOT TRANSLATE"
+
+[FTBGedcomWizard]
+
+"languageName","Afrikaans"
+"languageCode","AF"
+
+[CheckerItemTypes]
+
+"CheckerItemTypes_DuplicatedIndGuid","Konflik tussen individue"
+
+[FamilyConnections]
+
+"FamilyConnections_DuplicatedIndividual","Persoon: %PERSON1% is nie behoorlike gestoor nie en is in konflik met Persoon: %PERSON2%."
+"FamilyConnections_DuplicatedIndividualTip","Hierdie twee individue oorvleuel in jou projek. Oorweeg dit om een van die individue te verwyder om die konflik op te los."
+
+[GWExportGedcomFinish]
+
+"GWExportGedcomFinish_FailedOnDuplication","Jou projek bevat enkele families of individue wat nie behoorlik gestoor is nie. Hierdie entiteite oorvleuel in jou projek. Die konflik kon moontlik veroorsaak word as gevolg van 'n tydelike datafout en verhinder die uitvoer na GEDCOM. Besoek ons %help_center% vir verdere hulp"
+"GWExportGedcomFinish_HelpCenterLinkTitle","Hulpsentrum"
+"GWExportGedcomFinish_WarnOnExport","Jou projek bevat enkele families of individue wat nie behoorlik gestoor is nie. Hierdie entiteite oorvleuel in jou projek. Die konflik kon moontlik veroorsaak word as gevolg van 'n tydelike datafout. Die uitset GEDCOM is nie geldig nie en kan moontlik onbehoorlike verhoudings weerspieël. Besoek ons %help_center% vir verdere hulp"

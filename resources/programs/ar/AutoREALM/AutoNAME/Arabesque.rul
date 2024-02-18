@@ -1,0 +1,69 @@
+//
+// Al-Qadim style names
+//
+
+NAME      => {PREFIX}{SUFFIX}
+     [35%]=> al-{PREFIX}{SUFFIX}
+     [15%]=> Ras {PREFIX}{SUFFIX}
+     [15%]=> Wadi al-{PREFIX}{SUFFIX}
+     [5%]=> Abu {PREFIX}{SUFFIX}
+
+PREFIX => Aa
+          => Ah
+          => As
+          => Ak
+          => Fa
+          => Jam
+          => Ja
+          => Ka
+          => Al
+          => Bandar al-
+          => Sa
+          => Sha
+          => Ghun
+          => Ba
+          => Bi
+          => Kha
+          => Mu
+          => Sula
+          => Madi
+          => Ma
+          => Na
+          => A
+          => Kith
+          => Abu
+          => Abd
+
+SUFFIX    => ziz
+          => sim
+          => mad
+          => war
+          => rid
+          => sam
+          => mal
+          => rim
+          => ia
+          => nar
+          => tima
+          => tisam
+          => lima
+          => moon
+          => jib
+          => zeed
+          => la
+          => tara
+          => beida
+          => min
+          => dir
+          => if
+          => aif
+          => sul
+          => tahkir
+          => bib
+          => meima
+          => mar
+          => hah
+          => rayyah
+          => dahar
+          => lat
+          => dar

@@ -1,0 +1,70 @@
+﻿
+<!DOCTYPE html>
+<html>
+<head>
+<title></title>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+<script type="text/javascript">
+
+    var gLang = "en";
+    var gPath = "";
+    var gURL = "";
+    var gVersion = "1";
+    var gShouldCreateFtbCom = true;
+    var FTBCOM = null;
+
+    var gParams = [];
+
+    var url = location.href;
+    var iPos = url.indexOf('?');
+    if (iPos != -1) {
+        gURL = url.substr(0, iPos);
+        var rest = url.substr(iPos+1);
+
+        var params = rest.split('&');
+        for (var iParam = 0; iParam < params.length; iParam++) {
+            var param = params[iParam];
+            var pair = param.split('=');
+            if (pair.length == 2) {
+                var paramName = pair[0];
+                var paramValue = pair[1];
+                if (paramName)
+                    gParams[paramName] = paramValue;
+            }
+        }
+
+        if (gParams["hl"] != undefined) {
+            gLang = gParams["hl"];
+        }
+        if (gParams["ver"] != undefined) {
+            gVersion = gParams["ver"];
+        }
+        if (gParams["path"] != undefined) {
+            gPath = gParams["path"];
+            if (gPath.substr(gPath.length-1) == "\"") {
+                gPath = gPath.substr(0, gPath.length-1);
+            }
+            if (gPath.substr(gPath.length-1) != "/") {
+                gPath += "/";
+            }
+        }
+        if (gParams["qa"] != undefined) {
+            gShouldCreateFtbCom = false;
+        }
+    }
+    if (gShouldCreateFtbCom) {
+        FTBCOM = document.createElement("OBJECT");
+        FTBCOM.classid = "CLSID:2F43522E-B0C5-4FF3-9F06-4CDB90F779D5";
+        FTBCOM.StartedLoadingMap();
+    }
+
+    document.write('<script type="text/javascript" src="http://www.myheritage.com/FP/API/FTB/Maps/MapPlaces.php?ver=' + gVersion + '&hl=' + gLang + '"></s' + 'cript>');
+
+</script>
+
+</head>
+
+<body style="margin:0; padding:0">
+</body>
+</html>

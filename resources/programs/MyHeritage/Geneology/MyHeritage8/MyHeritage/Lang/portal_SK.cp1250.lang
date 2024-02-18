@@ -1,0 +1,52 @@
+
+[FTBBanner]
+
+"languageName","Slovakian"
+"languageCode","SK"
+"tools_options_toggle","Prieèinok s projektami"
+
+[FTBSync]
+
+"languageName","Slovakian"
+"languageCode","SK"
+"SYNC_status_on_different_tree_size F","Online verzia vášho rodokmeòa obsahuje viac osôb ako verzia vo vašom rodokmeni v programe Family Tree Builder.\nSynchronizácia sa preruší, aby nedošlo k strate údajov."
+"SYNC_status_on_different_tree_size M","Online verzia vášho rodokmeòa obsahuje viac osôb ako verzia vo vašom rodokmeni v programe Family Tree Builder.\nSynchronizácia sa preruší, aby nedošlo k strate údajov."
+"SYNC_status_short_on_different_tree_size F","Online rodokmeò obsahuje viac osôb ako verzia rodokmeòa v FTB."
+"SYNC_status_short_on_different_tree_size M","Online rodokmeò obsahuje viac osôb ako verzia rodokmeòa v FTB."
+"SYNC_title_on_different_tree_size","Varovanie pred monou stratou údajov"
+"SYNC_warn_on_different_tree_size F","Synchronizáciou, ktorú sa chystáte vykona, odstránite %d osôb z vášho online rodokmeòa.\nJe to preto, e aktuálna verzia rodokmeòa vo vašom programe Family Tree Builder obsahuje %d osôb a váš online rodokmeò má %d osôb.\nAk budete pokraèova, stratí sa teda celkom %d osôb.\n\nNaozaj chcete pokraèova a vykona synchronizáciu?\nToto sa neodporúèa, ak nie ste istá, e chcete zníi poèet osôb vo vašom rodokmeni."
+"SYNC_warn_on_different_tree_size M","Synchronizáciou, ktorú sa chystáte vykona, odstránite %d osôb z vášho online rodokmeòa.\nJe to preto, e aktuálna verzia rodokmeòa vo vašom programe Family Tree Builder obsahuje %d osôb a váš online rodokmeò má %d osôb.\nAk budete pokraèova, stratí sa teda celkom %d osôb.\n\nNaozaj chcete pokraèova a vykona synchronizáciu?\nToto sa neodporúèa, ak nie ste istı, e chcete zníi poèet osôb vo vašom rodokmeni."
+
+[FTBInColor]
+
+"languageName","Slovakian"
+"languageCode","SK"
+"IntroScreen_Body","DO NOT TRANSLATE"
+"IntroScreen_ColorizeButtonCaption","Zafarbi"
+"IntroScreen_Footer","DO NOT TRANSLATE"
+"IntroScreen_GotitButtonCaption","DO NOT TRANSLATE"
+"IntroScreen_Title","DO NOT TRANSLATE"
+
+[Subscription]
+
+"UpgradeDlgInColorBullet","DO NOT TRANSLATE"
+
+[FTBGedcomWizard]
+
+"languageName","Slovakian"
+"languageCode","SK"
+
+[CheckerItemTypes]
+
+"CheckerItemTypes_DuplicatedIndGuid","Konflikt medzi osobami"
+
+[FamilyConnections]
+
+"FamilyConnections_DuplicatedIndividual","Osoba: %PERSON1% nie je správne uloenı/á a je v konflikte s osobou:: %PERSON2%."
+"FamilyConnections_DuplicatedIndividualTip","Tieto dve osoby sa vo vašom projekte prekrıvajú. Ak chcete konflikt vyrieši, zváte odstránenie niektorej z nich."
+
+[GWExportGedcomFinish]
+
+"GWExportGedcomFinish_FailedOnDuplication","Váš projekt obsahuje niektoré rodiny alebo osoby, ktoré nie sú správne uloené. Tieto entity sa vo vašom projekte prekrıvajú. Konflikty mohli by spôsobené doèasnou chybou údajov a bránia exportu do súboru GEDCOM. Ak potrebujete ïalšiu pomoc, navštívte našev %help_center%"
+"GWExportGedcomFinish_HelpCenterLinkTitle","Centrum pomoci"
+"GWExportGedcomFinish_WarnOnExport","Váš projekt obsahuje niektoré rodiny alebo osoby, ktoré nie sú správne uloené. Tieto entity sa vo vašom projekte prekrıvajú. Konflikty mohli by spôsobené doèasnou chybou údajov a bránia exportu do súboru GEDCOM. Ak potrebujete ïalšiu pomoc, navštívte naše %help_center%"

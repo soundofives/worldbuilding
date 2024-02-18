@@ -1,0 +1,163 @@
+﻿#SUBTITLESLEFT#
+
+!                     THIS SECTION REPORTS STATISTICS
+!                     ===============================
+#
+#SUBTITLE#STATISTIEKEN
+#
+
+Dit document meldt de details van <INDICOUNT> individuen, waarvan <MALECOUNT> mannelijk en <FEMALECOUNT> vrouwelijk zijn.__
+!
+! Check that each parameter, or parameter combination, exists before creating a text line! containing them. If there were no people with both a birth date and a death date, there! will be no ages in the report and we do not want lines included which would include zeros.
+!
+{IF}<AGED>
+Van de <AGED> individuen met geregistreerde geboorte- en overlijdensdatum, was de gemiddelde levensduur <AGEAVG> jaar.__
+{ENDIF}
+
+{IF}<AGEDMALE><AGEDFEMALE>
+Hiervan waren <AGEDMALE> mannen, met een gemiddelde leeftijd van <AGEAVGMALE> jaar, <AGEDFEMALE> vrouwen met een gemiddelde leeftijd van <AGEAVGFEMALE> jaar.
+{ENDIF}
+
+#
+!
+! If there is only a Direct Relations section, we can just show the oldest male and
+! female without specifying a section...
+! (add two underscores after each "." to ensure that sentences are spaced correctly.)
+!
+{IF}DIRECTONLY<OLDESTMALE>
+De langstlevende man was <OLDESTMALE>, die op <OLDESTMALEAGE> jarige leeftijd stierf.__ 
+{ENDIF}
+{IF}DIRECTONLY<OLDESTFEMALE>
+De langstlevende vrouw was <OLDESTFEMALE>, die op <OLDESTFEMALEAGE> jarige leeftijd stierf.__
+{ENDIF}
+!
+! ... otherwise, we will show the oldest male and female in each section that exists.
+! We combine these into a single sentence for each section to improve the flow of
+! readability.
+!
+! First the direct relations... 
+!
+!    1. Each sentence segment is conditioned by {IF}INDIRECTORUNCONNECTED.
+!       We do not need this section if the preCeding block was included
+!    2. The first segment is required if we have someone (M or F)
+!    3. The second segment is required if we have a male
+!    4. The third segment, ", and_" is required if we have both (M and F)
+!    5. The fourth  segment is required if we have a female
+!    6. The last segment, ".__" is required if we have someone (M or F)
+!
+{IF}INDIRECTORUNCONNECTED<OLDESTPERSONDIRECT>
+Binnen de sectie van directe relaties,_
+{ENDIF}
+{IF}INDIRECTORUNCONNECTED<OLDESTMALEDIRECT> 
+was de langstlevende man <OLDESTMALEDIRECT>, die op <OLDESTMALEAGEDIRECT> jarige leeftijd stierf
+{ENDIF}
+{IF}INDIRECTORUNCONNECTED<OLDESTMALEDIRECT><OLDESTFEMALEDIRECT> 
+, en_
+{ENDIF}
+{IF}INDIRECTORUNCONNECTED<OLDESTFEMALEDIRECT>
+was de langstlevende vrouw <OLDESTFEMALEDIRECT>, die op <OLDESTFEMALEAGEDIRECT> jarige leeftijd stierf
+{ENDIF}
+{IF}INDIRECTORUNCONNECTED<OLDESTPERSONDIRECT>
+.__
+{ENDIF}
+!
+! ... then the indirect relations (if any such sections exist)...
+!
+{IF}INDIRECT<OLDESTPERSONINDIRECT>
+Onder de indirecte relaties,_
+{ENDIF}
+{IF}INDIRECT<OLDESTMALEINDIRECT> 
+was de langstlevende man <OLDESTMALEINDIRECT>, die op <OLDESTMALEAGEINDIRECT> jarige leeftijd stierf
+{ENDIF}
+{IF}INDIRECT<OLDESTMALEINDIRECT><OLDESTFEMALEINDIRECT>
+, en_
+{ENDIF}
+{IF}INDIRECT<OLDESTFEMALEINDIRECT>
+was de langstlevende vrouw <OLDESTFEMALEINDIRECT>, die op <OLDESTFEMALEAGEINDIRECT> jarige leeftijd stierf
+{ENDIF}
+{IF}INDIRECT<OLDESTPERSONINDIRECT>
+.__
+{ENDIF}
+!
+! ... then the unconnected individuals (if any such sections exist).
+!
+{IF}UNCONNECTED<OLDESTPERSONUNCONNECTED>
+Onder de afgekoppelde individuen,_
+{ENDIF}
+{IF}UNCONNECTED<OLDESTMALEUNCONNECTED> 
+was de langstlevende man <OLDESTMALEUNCONNECTED>, die op <OLDESTMALEAGEUNCONNECTED> jarige leeftijd stierf
+{ENDIF}
+{IF}UNCONNECTED<OLDESTMALEUNCONNECTED><OLDESTFEMALEUNCONNECTED>
+, en_
+{ENDIF}
+{IF}UNCONNECTED<OLDESTFEMALEUNCONNECTED>
+was de langstlevende vrouw <OLDESTFEMALEUNCONNECTED>, die op <OLDESTFEMALEAGEUNCONNECTED> jarige leeftijd stierf
+{ENDIF}
+{IF}UNCONNECTED<OLDESTPERSONUNCONNECTED>
+.
+{ENDIF}
+!
+!
+! Include family statistics.  Just to be paranoid, we check that there are some families,
+! and separately check that some had children.
+!
+{IF}<FAMCOUNT> 
+#
+Er zijn <FAMCOUNT> gezinnen opgenomen.__
+{ENDIF}
+{IF}<FAMWITHCHILD>
+<FAMWITHCHILD> van deze gezinnen hebben kinderen, met een gemiddelde van <FAMCHILDAVG> kinderen per gezin.
+{ENDIF}
+!
+#
+#
+#SUBTITLE#DE VERHALENDE SECTIES
+#
+Het onderdeel "Directe Relaties" meldt de details van individuen die een directe familierelatie hebben met <SUBJECT>.  De sectie is onderverdeeld in afdelingen voor elke generatie, waarin elk individu wordt vermeld naargelang de graad van verwantschap. De volgnummers worden door het document gebruikt om terug naar het detail van een individu te verwijzen.
+!
+{IF}INDIRECT
+#
+Het onderdeel "Indirecte Relaties" meldt de details van individuen die niet direct een familierelatie hebben met <SUBJECT>, maar directe familierelaties hebben met een individu dat gerapporteerd is binnen sectie de van "Directe Relaties", of binnen een andere sectie van  indirecte relaties.
+{ENDIF}
+!
+{IF}UNCONNECTED
+#
+De afgekoppelde individuen zijn individuen die geen directe familierelatie hebben met <SUBJECT>, noch aan om het even welke individu onrechtstreeks verbonden met <SUBJECT>.
+{ENDIF}
+!
+!
+{IF}COUSINA
+#
+#
+#SUBTITLE#DE VERHOUDINGEN VAN DE NEEF
+#
+De verhoudingen van de neef worden bepaald door de afstand en het aantal generaties verwijderd.
+#
+De afstand wordt bepaald vanuit het perspectief van een persoon, door één minder dan het aantal vorige generaties terug te gaan tot aan de eerste gemeenschappelijke voorvader met de andere persoon wordt gevonden.  Aldus, als twee mensen van dezelfde generatie een gemeenschappelijke overgrootouder (drie generaties terug) hebben, zijn zij achterneven.
+#
+De verwijdering wordt bepaald door het aantal generaties die de twee mensen scheiden.
+#
+Wanneer de neven van verschillende generaties zijn, is de afstand van elkaar verschillend.  Bijvoorbeeld, overweeg de kinderen van uw eerste neef.  Omdat uw gemeenschappelijke voorvader met hen uw grootvader is, zijn zij uw neven, 1 generatie verwijderd.  Nochtans, omdat hun gemeenschappelijke voorvader met u hun overgrootvader is, bent u hun achterneef, 1 generatie verwijderd.
+{ENDIF}
+!
+!
+{IF}FAMILYTREES
+#
+#
+#SUBTITLE#HET ONDERDEEL STAMBOMEN
+#
+Elke stamboom toont de geregistreerde kinderen, de ouders, de grootouders en de overgrootouders van een familiegroep. Gegevens van in om het even welke familiegroep die volledig inbegrepen is in een andere familiestamboom, worden niet apart gerapporteerd. Dit Om een overtolligheid aan gegevens te beperken.
+#
+Boven de kaders van de overgrootouders (bovenste rij), wordt een volgnummer van de volgende stamboom getoond als de overgrootouder als kind in een volgende stamboom worden getoond.  Een volgnummer wordt ook getoond links van de kaders van grootouders of ouders als dat individu broers of zusters heeft in een volgende stamboom; en onder een kader van het kind (onderste rij) als dat individu kinderen heeft in een volgende stamboom.
+{ENDIF}
+!
+{IF}FAMILYTREESMULTIPLEMARRIAGES
+#
+In gevallen van veelvoudige huwelijken, wordt een volgnummer voorafgegaan door "=" rechts van het kader van de ouder getoond. Dit getal verwijst naar de vorige en/of volgende boom waarin dat het individu wordt getoond met een andere partner.
+{ENDIF}
+!
+{IF}FAMILYTREESADOPTIONS
+#
+In gevallen van geadopteerde kinderen of pleegkinderen, wordt de ouderlijke aansluiting getoond met een stippellijn en een volgnummer dat voorafgegaan wordt door"=" wordt getoond binnen het kader van het individu.  Dit aantal verwijst naar de boom waarin dat individu met zijn of haar natuurlijke ouders wordt getoond.
+{ENDIF}
+

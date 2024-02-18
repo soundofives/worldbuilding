@@ -1,0 +1,2 @@
+[1209/103028.422:ERROR:network_change_notifier_win.cc(146)] WSALookupServiceBegin failed with: 0
+[1209/103029.853:ERROR:mf_helpers.cc(14)] Error in dxva_video_decode_accelerator_win.cc on line 378

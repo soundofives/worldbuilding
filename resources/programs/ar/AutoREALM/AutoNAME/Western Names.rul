@@ -1,0 +1,113 @@
+PERSON  => MALENAME, son of GREATNAME
+        => FEMALENAME, daughter of GREATNAME
+  [50%] => GREATNAME
+
+GREATNAME => MALENAME[, MALEMONIKER]
+          => FEMALENAME[, FEMALEMONIKER]
+
+MALEMONIKER => NEUTRALMONIKER
+            => MALETITLE of PLACE
+            => MALETITLE of <he>RACE
+            => the POSITION male heir to PERSON
+
+FEMALEMONIKER => NEUTRALMONIKER
+              => FEMALETITLE of PLACE
+              => FEMALETITLE of <she>RACE
+              => the POSITION female heir to PERSON
+
+POSITION => only
+         => last
+         => first
+         => second
+         => third
+         => favorite
+
+FEMALETITLE => Queen
+            => Princess
+            => Duchess
+            => Baroness
+
+MALETITLE => King
+          => Prince
+          => Duke
+          => Baron
+          => Earl
+
+RACE[70%]=> the Elves ASITISKNOWN
+     => the Dwarves ASITISKNOWN
+     => the Hobbits ASITISKNOWN
+     => the Gnomes ASITISKNOWN
+     => the Orcs ASITISKNOWN
+
+ASITISKNOWN => (by which name <> is known)
+            => (it is by this name that <> is known)
+            => (in Human tongue)
+
+NEUTRALMONIKER => Creator of the TREATY of PLACE
+               => Great Slayer of Dragons
+	       => Keeper of Great Magicks
+               => Guarder of the Temple
+               => Bearer of the ITEM
+
+ITEM => Sword
+     => Ring
+     => Amulet
+     => Mail
+     => Shield
+     => Crown
+
+TREATY => Concord
+       => Treaty
+       => Peace
+       => Agreement
+       => Documents
+       => Quiet
+
+MALENAME  => Andrew
+          => Alex[ander]
+          => Bart[holemew]
+          => Charles
+          => Donald
+          => Everett
+          => Francis
+          => George
+          => Henry
+          => John[athon]
+          => Kyle
+          => Lawrence
+          => Malcom
+          => Noland
+          => Othello
+          => Reginald
+          => Ronald
+          => Stephen
+          => Terrence
+          => Vladimir
+          => William
+          => Xavier
+          => Zachary
+
+FEMALENAME=> Alison
+          => Beatrice
+          => Cherise
+          => Charolette
+          => Denise
+          => Elizabeth
+          => Francis
+          => Georgina
+          => Hariette
+          => Isabelle
+          => Jasmine
+          => Karen
+          => Kathy
+          => Lori
+          => Maureen
+          => Nell
+          => Ophelia
+          => Penelope
+          => Regina
+          => Sarah
+          => Theresa
+          => Virginia
+
+#include English.rul

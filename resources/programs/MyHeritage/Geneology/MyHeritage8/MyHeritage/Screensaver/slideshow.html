@@ -1,0 +1,74 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+	<title>Slideshow</title>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+
+	<style type="text/css">	
+		
+		body,html {
+			background:#000000;
+			margin:0;
+			padding:0;
+			width:100%;
+			height:100%;
+			overflow:hidden;
+			text-align:center;
+			
+			margin-left: 0px;
+			margin-top: 0px;
+			margin-right: 0px;
+			margin-bottom: 0px;
+		}
+		
+		div#flashcontent {
+			margin:0px auto;
+		}
+	</style>
+	 
+	<!-- If moving, start copying here -->
+	<script type="text/javascript" src="%%%JS%%%"></script>
+	
+	<script type="text/javascript">
+		// Permalinks option
+		function flashPutHref(href) { location.href = href; }
+		
+		// SWFObject embed
+		//Please use double '\' when passing path to local XML file
+		//registrationNote - The text
+		var flashvars = {
+			initialURL: escape(document.location),
+			xmlPath:"%%%XML%%%&xmlfiletype=Default",
+			registrationNote:"%%%NOTE%%%",
+			pictureData:"%%%TITLE%%%"
+			
+		}
+		
+		var params = { 
+			base: ".",
+			quality: "best",
+			bgcolor: "#000000",
+			allowfullscreen: "true"
+			
+			
+		}                
+		
+		var attributes = {}
+		
+		swfobject.embedSWF("%%%SWF%%%", "flashcontent", "100%", "100%", "9.0.0", false, flashvars, params, attributes);
+		
+	</script>
+
+</head>   
+
+<body bgcolor="#000000">
+		 <!-- Flash DIV container - start -->
+		<div id="flashcontent">
+			This SlideShowPro photo gallery requires the Flash Player plugin and a web browser with JavaScript enabled.
+		</div>
+		<!-- Flash DIV container - end -->
+
+</body> 
+
+</html>

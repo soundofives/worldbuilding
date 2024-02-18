@@ -1,0 +1,135 @@
+ given background:
+	
+	i live in a farming village (emelle) of maybe seven dozen.
+	we have a church, houses, farms, and little else.
+	we answer to a lord in a nearby castle.
+	
+	my younger sister (19) hunts.
+	my older brother (31) is captain of the guard of the village.
+	my father used to be captain, but he died recently (somehow).
+
+potential occupations:
+	
+		(in the woods)
+	
+	hunter: i snare rabbits and shoot deer, and i collect nuts, roots, berries, and herbs. i am practiced in moving silently.
+	
+	woodcutter: i cut trees down and chop them into planks and firewood.
+	
+		(in the village)
+	
+	farmer: i raise grains, vegetables, poultry, goats, bees -- maybe some fruit or pigs.
+	
+	carpenter: i build houses, tables, and chairs, and i carve patterns and trinkets. i also might make bows.
+	
+	blacksmith: i make nails, horseshoes, arrowheads, and spearheads.
+	
+	tanner: i cure leather to make sturdy jackets, straps, and boots. i also might make rope of flax or hemp.
+	
+		(supplementary)
+	
+	aspiring priest: i help set up ceremonial or holiday events at the church, am trained in administering rites, and assist with weekly/daily services.
+	
+	aspiring warrior: i practice sword-play in my spare time and take every opportunity to journey to larger towns or cities.
+	
+	aspiring bard: i practice music in my spare time and take every opportunity to journey to larger towns or cities.
+
+potential classes:
+	
+	cleric  # acceptable!
+	druid
+	paladin
+	ranger
+	rogue
+	
+	bard    # too much like previous characters.
+	fighter
+	
+	barbarian  # i just don't know if i'm feelin' it.
+	sorcerer
+	
+	monk    # a bit of a stretch, don't you think?
+	warlock
+	wizard
+
+acceptable classes:
+	
+	cleric
+		i hold a job in the village and aspire to be a priest.
+		i have a very rudimentary knowledge of divine magic: exorcise illness, perform generic blessings, grant protect against evil spirits.
+		i might be trained in mundane healing arts such as mixing herbs, setting breaks, and letting blood.
+		i have a good thing going, and i don't want things to change.
+		
+		mechanics: the time-scale of my healing magic would be drastically lengthened; instant healing would be almost miraculous.
+		mechanics: the time-scale of my blessing magic would be drastically lengthened, frequently lasting hours or days.
+		mechanics: many spells would only be available to me via preparing scrolls or potions.
+		
+		seems like a pretty good choice, if i can get motivated.
+	
+	druid
+		i hold a job in the woods.
+		i am knowledgeable in poisonous and medicinal herbs.
+		i identify bipolarly as a member of my village and as a part of nature (i need to identify with the village because my father was captain of the guard).
+		i am relatively insensitive to events in the outside world, and i'm probably content to continue as i am, baring an enormous provocation.
+		
+		mechanics: i can only access my magic in the wilderness, and i would have a visibly different personality and demeanor there.
+		mechanics: i'm totally chill with metal crap. seriously, what's wrong with iron?
+		mechanics: many spells, in particular healing or poison spells, would only be availalbe to me via preparing potions.
+		
+		seems like a pretty good choice, if i can get motivated.
+	
+	paladin
+		i hold a job in the village and aspire to be priest or warrior (priest/warrior might determine emphasis on healing/other magic).
+		i might be very devout; many of my meager magics are useable only after lengthy prayers.
+		i am a natural leader, whence my bolstering magic.
+		i am very idealistic, and the moment i sense a problem in the world i will want to take off to solve it.
+		
+		mechanics: the time-scale of my healing magic would be drastically lengthened; instant healing would be almost miraculous.
+		mechanics: my bolstering spells come from my presense alone and can be cast as free actions.
+		
+		seems a bit much like georg, but with a little magic and more extroverted.
+	
+	ranger
+		i hold a job in the woods and might aspire to be a warrior (hunter/woodcutter might determine ranged/melee focus).
+		i am knowledgeable in poisonous and medicinal herbs.
+		i identify mostly as a member of the village who happens to be very familiar with the woods.
+		i might be content with my lot or flighty for adventure.
+		
+		mechanics: i can only access my magic in the wilderness.
+		mechanics: many spells, in particular healing or poison spells, would only be availalbe to me via preparing potions.
+		
+		seems like a pretty good choice.
+	
+	rogue (hunter)
+		i am a hunter.
+		i view the village and the woods as one domain, people as animals, and myself in a brutal struggle for survival; i am antisocial and probably rather poor.
+		i am extraordinarily insensitive to events that don't directly affect me and cannot hold grudges; i might be motivated by profit.
+		
+		i'm not sure that i want to play a cold character, and i'd need to get motivated.
+	
+	rogue (villager)
+		i hold an apprenticeship with someone in the village.
+		i have weak kleptomaniacal tendencies -- stealing scraps of food, coins from drunks, crops from fields or gardens, trinkets from travellers.
+		i am rather reserved and fearful of people; when i was younger, i was occasionally caught and punished for my thievery.
+		i am restless and malcontent where i am, but also scared of journeying.
+		
+		something just feels wrong, and motivation might be an issue.
+
+accepted class/occupation: druid/woodcutter
+
+more given background:
+	
+	my parents were hired farmhands (almost average income for this town, on the low side).
+	my mother died shortly after my sister was born, my father (cloud) caught ill and died when i was 14 (sister 11, brother 23).
+	my brother's name is adavald (ada), my sister's name is samitha (sami).
+	i am close to my siblings.
+	my brother took over as captain of the guard almost right after my father died.
+	
+	my brother and sister have light blonde hair and bright blue eyes.
+
+... adavald does something frickin' amazing and wins everyone's respect after the second year.
+... adavald gets married and inherits an entire miniature farm as dowry a short year or so later.
+... by this time, sis and i are good 'n stuck in our forest-y ways. we just think that there's something really special about that place.
+
+... i have yet to describe my alternate forest personality.
+... i have yet to decide how much people know of my forest magic.

@@ -1,0 +1,52 @@
+
+[FTBBanner]
+
+"languageName","Hungarian"
+"languageCode","HU"
+"tools_options_toggle","A MyHeritage bejelentések megjelenítése"
+
+[FTBSync]
+
+"languageName","Hungarian"
+"languageCode","HU"
+"SYNC_status_on_different_tree_size F","A családi fa online verziójában több személy található, mint a Family Tree Builder szoftver verzióján.\nA szinkronizálás megszakad az adatvesztés elkerülése érdekében."
+"SYNC_status_on_different_tree_size M","A családi fa online verziójában több személy található, mint a Family Tree Builder szoftver verzióján.\nA szinkronizálás megszakad az adatvesztés elkerülése érdekében."
+"SYNC_status_short_on_different_tree_size F","Az online fa több személyt tartalmaz mint a FTB szoftver jelenlegi fa verziója."
+"SYNC_status_short_on_different_tree_size M","Az online fa több személyt tartalmaz mint a FTB szoftver jelenlegi fa verziója."
+"SYNC_title_on_different_tree_size","Lehetséges adatvesztés-figyelmeztetés"
+"SYNC_warn_on_different_tree_size F","A szinkronizálás, amelyet elvégez, %d egyént töröl az online fáról.\nEz azért van, mert a Family Tree Builder szoftver jelenlegi fa verziója %d személyt tartalmaz az online fa pedig %d személyt.\nFolytatás esetén %d személy elveszik.\n\nBiztosan folytatni akarja a szinkronizálást?\nEz nem ajánlott, hacsak nem biztos abban, hogy csökkenteni szeretné a fáját."
+"SYNC_warn_on_different_tree_size M","A szinkronizálás, amelyet elvégez, %d egyént töröl az online fáról.\nEz azért van, mert a Family Tree Builder szoftver jelenlegi fa verziója %d személyt tartalmaz az online fa pedig %d személyt.\nFolytatás esetén %d személy elveszik.\n\nBiztosan folytatni akarja a szinkronizálást?\nEz nem ajánlott, hacsak nem biztos abban, hogy csökkenteni szeretné a fáját."
+
+[FTBInColor]
+
+"languageName","Hungarian"
+"languageCode","HU"
+"IntroScreen_Body","DO NOT TRANSLATE"
+"IntroScreen_ColorizeButtonCaption","Színezés"
+"IntroScreen_Footer","DO NOT TRANSLATE"
+"IntroScreen_GotitButtonCaption","DO NOT TRANSLATE"
+"IntroScreen_Title","DO NOT TRANSLATE"
+
+[Subscription]
+
+"UpgradeDlgInColorBullet","DO NOT TRANSLATE"
+
+[FTBGedcomWizard]
+
+"languageName","Hungarian"
+"languageCode","HU"
+
+[CheckerItemTypes]
+
+"CheckerItemTypes_DuplicatedIndGuid","Ütközés van a személyek között"
+
+[FamilyConnections]
+
+"FamilyConnections_DuplicatedIndividual","Személy: A (z) %PERSON1% nincs megfelelõen tárolva, és ütközik a Személyekkel: %PERSON2%."
+"FamilyConnections_DuplicatedIndividualTip","Ez a két személy átfedésben van a projektben. A konfliktus megoldása érdekében fontolja meg az egyik személy törlését."
+
+[GWExportGedcomFinish]
+
+"GWExportGedcomFinish_FailedOnDuplication","A projekt olyan családokat vagy egyéneket tartalmaz, amelyeket nem tárolnak megfelelõen. Ezek az egységek átfedésben vannak a projektben. A konfliktusokat átmeneti adathiba okozhatja, és ezek megakadályozzák a GEDCOM-ba történõ exportálást. További segítségért kérjük, látogasson el honlapunkra %help_center%"
+"GWExportGedcomFinish_HelpCenterLinkTitle","Sugó Központ"
+"GWExportGedcomFinish_WarnOnExport","A projekt olyan családokat vagy egyéneket tartalmaz, amelyeket nem tárolnak megfelelõen. Ezek az egységek átfedésben vannak a projektben. A konfliktusokat átmeneti adathiba okozhatja. A kimentett GEDCOM érvénytelen, és helytelen kapcsolatokat tükrözhet. További segítségért kérjük, látogasson el honlapunkra %help_center%"

@@ -1,0 +1,52 @@
+
+[FTBBanner]
+
+"languageName","Italian"
+"languageCode","IT"
+"tools_options_toggle","Mostra annunci di MyHeritage"
+
+[FTBSync]
+
+"languageName","Italian"
+"languageCode","IT"
+"SYNC_status_on_different_tree_size F","La versione online del tuo albero genealogico ha più individui rispetto alla versione nel tuo programma Family Tree Builder.\nLa sincronizzazione è stata annullata per evitare la perdita di dati."
+"SYNC_status_on_different_tree_size M","La versione online del tuo albero genealogico ha più individui rispetto alla versione nel tuo programma Family Tree Builder.\nLa sincronizzazione è stata annullata per evitare la perdita di dati."
+"SYNC_status_short_on_different_tree_size F","L'albero online ha più individui della versione FTB."
+"SYNC_status_short_on_different_tree_size M","L'albero online ha più individui della versione FTB."
+"SYNC_title_on_different_tree_size","Avviso di potenziale perdita di dati"
+"SYNC_warn_on_different_tree_size F","La sincronizzazione che stai per eseguire cancellerà %d individui dal tuo albero online.\nQuesto è dovuto al fatto che la versione attuale dell'albero gestita dal programma Family Tree Builder contiene %d individui e il tuo albero online ne contiene %d.\nSe decidi di proseguire, i dati di %d individui andranno perduti.\n\nSei sicura di voler procedere ed eseguire la sincronizzazione?\nNon è un'operazione consigliata, a meno che tu non sia certa di voler ridurre la dimensione del tuo albero."
+"SYNC_warn_on_different_tree_size M","La sincronizzazione che stai per eseguire cancellerà %d individui dal tuo albero online.\nQuesto è dovuto al fatto che la versione attuale dell'albero gestita dal programma Family Tree Builder contiene %d individui e il tuo albero online ne contiene %d.\nSe decidi di proseguire, i dati di %d individui andranno perduti.\n\nSei sicuro di voler procedere ed eseguire la sincronizzazione?\nNon è un'operazione consigliata, a meno che tu non sia certo di voler ridurre la dimensione del tuo albero."
+
+[FTBInColor]
+
+"languageName","Italian"
+"languageCode","IT"
+"IntroScreen_Body","DO NOT TRANSLATE"
+"IntroScreen_ColorizeButtonCaption","Colorizza"
+"IntroScreen_Footer","DO NOT TRANSLATE"
+"IntroScreen_GotitButtonCaption","DO NOT TRANSLATE"
+"IntroScreen_Title","DO NOT TRANSLATE"
+
+[Subscription]
+
+"UpgradeDlgInColorBullet","DO NOT TRANSLATE"
+
+[FTBGedcomWizard]
+
+"languageName","Italian"
+"languageCode","IT"
+
+[CheckerItemTypes]
+
+"CheckerItemTypes_DuplicatedIndGuid","Conflitto fra individui"
+
+[FamilyConnections]
+
+"FamilyConnections_DuplicatedIndividual","Individuo: %PERSON1% non è memorizzato correttamente e è in conflitto con l'Individuo:%PERSON2%."
+"FamilyConnections_DuplicatedIndividualTip","Questi due individui si sovrappongono nel tuo progetto. Per risolvere il conflitto, considera la possibilità di eliminare uno degli individui."
+
+[GWExportGedcomFinish]
+
+"GWExportGedcomFinish_FailedOnDuplication","Il tuo progetto contiene alcune famiglie o individui che non sono memorizzati correttamente. Queste entità si sovrappongono nel tuo progetto. I conflitti possono essere stati causati da un errore temporaneo nei dati e stanno impedendo l'esportazione come file GEDCOM. Per ulteriore assistenza ti preghiamo di visitare il nostro %help_center%"
+"GWExportGedcomFinish_HelpCenterLinkTitle","Centro assistenza"
+"GWExportGedcomFinish_WarnOnExport","Il tuo progetto contiene alcune famiglie o individui che non sono memorizzati correttamente. Queste entità si sovrappongono nel tuo progetto. I conflitti possono essere stati causati da un errore temporaneo nei dati. Il file GEDCOM generato non è valido e potrebbe riflettere parentele non corrette. Per ulteriore assistenza ti preghiamo di visitare il nostro %help_center%"

@@ -1,0 +1,164 @@
+﻿#SUBTITLESLEFT#
+
+!                     THIS SECTION REPORTS STATISTICS
+!                     ===============================
+#
+#SUBTITLE#STATISTIKK
+#
+
+Denne rapporten inneholder detaljene for <INDICOUNT> personer, hvorav <MALECOUNT> er menn , og <FEMALECOUNT> er kvinner__
+!
+! Check that each parameter, or parameter combination, exists before creating a text line
+! containing them. If there were no people with both a birth date and a death date, there
+! will be no ages in the report and we do not want lines included which would include zeros.
+!
+{IF}<AGED>
+Av de <AGED> personene med registrert fødels- og dødsdata var gjennomsnittlig levetid <AGEAVG> år.__
+{ENDIF}
+
+{IF}<AGEDMALE><AGEDFEMALE>
+Av disse er <AGEDMALE> menn med en gjennomsnittlig levetid på <AGEAVGMALE> år, og <AGEDFEMALE> kvinner med en gjennomsnittlig levetid på <AGEAVGFEMALE> år.
+{ENDIF}
+
+#
+!
+! If there is only a Direct Relations section, we can just show the oldest male and
+! female without specifying a section...
+! (add two underscores after each "." to ensure that sentences are spaced correctly.)
+!
+{IF}DIRECTONLY<OLDESTMALE>
+Den lengst levende mannen var <OLDESTMALE>, som døde i en alder av <OLDESTMALEAGE>.__ 
+{ENDIF}
+{IF}DIRECTONLY<OLDESTFEMALE>
+Den lengst levende kvinnen var <OLDESTFEMALE>, som døde i en alder av <OLDESTFEMALEAGE>.__
+{ENDIF}
+!
+! ... otherwise, we will show the oldest male and female in each section that exists.
+! We combine these into a single sentence for each section to improve the flow of
+! readability.
+!
+! First the direct relations... 
+!
+!    1. Each sentence segment is conditioned by {IF}INDIRECTORUNCONNECTED.
+!       We do not need this section if the preCeding block was included
+!    2. The first segment is required if we have someone (M or F)
+!    3. The second segment is required if we have a male
+!    4. The third segment, ", and_" is required if we have both (M and F)
+!    5. The fourth  segment is required if we have a female
+!    6. The last segment, ".__" is required if we have someone (M or F)
+!
+{IF}INDIRECTORUNCONNECTED<OLDESTPERSONDIRECT>
+Innenfor den direkte relasjonsseksjonen,_
+{ENDIF}
+{IF}INDIRECTORUNCONNECTED<OLDESTMALEDIRECT> 
+den lengstlevende mannen var <OLDESTMALEDIRECT>, som døde i en alder av <OLDESTMALEAGEDIRECT>
+{ENDIF}
+{IF}INDIRECTORUNCONNECTED<OLDESTMALEDIRECT><OLDESTFEMALEDIRECT> 
+, og_
+{ENDIF}
+{IF}INDIRECTORUNCONNECTED<OLDESTFEMALEDIRECT>
+den lengstlevende kvinnen var <OLDESTFEMALEDIRECT>, som døde i en alder av <OLDESTFEMALEAGEDIRECT>
+{ENDIF}
+{IF}INDIRECTORUNCONNECTED<OLDESTPERSONDIRECT>
+.__
+{ENDIF}
+!
+! ... then the indirect relations (if any such sections exist)...
+!
+{IF}INDIRECT<OLDESTPERSONINDIRECT>
+Blandt de indirekte forholdene,_
+{ENDIF}
+{IF}INDIRECT<OLDESTMALEINDIRECT> 
+var den lengstlevende mannen <OLDESTMALEINDIRECT>, som døde i en alder av <OLDESTMALEAGEINDIRECT>
+{ENDIF}
+{IF}INDIRECT<OLDESTMALEINDIRECT><OLDESTFEMALEINDIRECT>
+, og_
+{ENDIF}
+{IF}INDIRECT<OLDESTFEMALEINDIRECT>
+den lengstlevende kvinneen var <OLDESTFEMALEINDIRECT>, som døde i en alder av <OLDESTFEMALEAGEINDIRECT>
+{ENDIF}
+{IF}INDIRECT<OLDESTPERSONINDIRECT>
+.__
+{ENDIF}
+!
+! ... then the unconnected individuals (if any such sections exist).
+!
+{IF}UNCONNECTED<OLDESTPERSONUNCONNECTED>
+Blandt de usammenhengende personene,_
+{ENDIF}
+{IF}UNCONNECTED<OLDESTMALEUNCONNECTED> 
+var den lengstlevende mannen <OLDESTMALEUNCONNECTED>, som døde i en alder av <OLDESTMALEAGEUNCONNECTED>
+{ENDIF}
+{IF}UNCONNECTED<OLDESTMALEUNCONNECTED><OLDESTFEMALEUNCONNECTED>
+, og_
+{ENDIF}
+{IF}UNCONNECTED<OLDESTFEMALEUNCONNECTED>
+den lengstlevende kvinneen var <OLDESTFEMALEUNCONNECTED>, som døde i en alder av <OLDESTFEMALEAGEUNCONNECTED>
+{ENDIF}
+{IF}UNCONNECTED<OLDESTPERSONUNCONNECTED>
+.
+{ENDIF}
+!
+!
+! Include family statistics.  Just to be paranoid, we check that there are some families,
+! and separately check that some had children.
+!
+{IF}<FAMCOUNT> 
+#
+Det finnes <FAMCOUNT> familier i rapporten.__
+{ENDIF}
+{IF}<FAMWITHCHILD>
+<FAMWITHCHILD> av disse familier rapporteres å ha barn, med en genomsnitt på <FAMCHILDAVG> barn pr familie.
+{ENDIF}
+!
+#
+#
+#SUBTITLE#RELASJONER
+#
+Seksjonen "Direkte Relasjoner" rapporterer de detaljene til individer som har en direkte familierelasjon til <SUBJECT>. Seksjonen er delt opp i underseksjoner for hver generasjon, hvor hvert enkelt individ er listet opp etter hvor nært slektskapet er. Referansenummer er brukt i hele dokumentet for kryssreferanser tilbake til den detaljerte delen for hvert individ.
+!
+{IF}INDIRECT
+#
+En "Indirekte Relasjoner"-seksjon rapporterer detaljene for individer som ikke har en direkte tilknytning til <SUBJECT>, men har direkte relasjoner til en person som er rapportert innenfor seksjonen "Direkte relasjoner", eller innenfor seksjonen for indirekte relasjoner.
+{ENDIF}
+!
+{IF}UNCONNECTED
+#
+Ukoblede personer er personer som ikke har en direkte familietilknytning til <SUBJECT>, heller ikke til noen person indirekte knyttet til <SUBJECT>.
+{ENDIF}
+!
+!
+{IF}COUSINX
+#
+#
+#SUBTITLE#SØSKENBARN
+#
+Søskenbarn-relasjoner er bestemt av nærhet (første, andre, tredje, osv.) og fjernede tider.
+#
+Nærheten er bestemt av en persons perspektiv, som en mindre enn nummeret fra forrige generasjon, traversert tilbake fra den gitte personen til den første felles forfedre er funnet med den andre personen.  Altså, hvis to personer fra samme generasjon har felles oldeforeldre (tre generasjoner tilbake), er de tremenninger (også kalt andre-søskenbarn)
+#
+Forstavelsen er bestemt av antallet generasjoner som er imellom de to personene.  Fjerning utrykkes gjennom å fylle på sønn/datter eller mor/far til forholdet.
+#
+Når søskenbarn er av forskjellige generasjoner, er avstanden forskjellig tilbake til første felles forfedre.  For eksempel, mellom deg og ditt søskenbarns barn. Fordi du har felles forfedre med denne/disse, din farfar er deres oldefar, er de dine søskenbarns barn, men du er deres fars søskenbarn.  Dette pga generasjonsforskjellen.
+{ENDIF}
+!
+!
+{IF}FAMILYTREES
+#
+#
+#SUBTITLE#FAMILIETRÆR
+#
+Hvert familietre viser barn, foreldre, besteforeldre og oldeforeldre i en famile. For å redusere redundans, enhver familiegruppe som er fullt inkludert i et annet familietre, vil kanskje ikke bli rapportert separat.
+#
+Over boksene for oldeforeldre (topp-raden), vises et referansenummer hvis oldeforeldrene er definert som barn i det utvidete treet. Et referansenummer i vinkelparenteser vises til venstre for besteforeldres boks eller foreldres boks hvis personen har søsken definert i det samme treet. Et referansenummer er også vist til venstre for en besteforeldres boks hvis personen har søsken definert i det fortsettende treet; Og under et barns boks (bunn-rad) hvis personen har barn definert i det samme treet.
+{ENDIF}
+!
+{IF}FAMILYTREESMULTIPLEMARRIAGES
+#
+I de tilfeller hvor flere ekteskap er inngått, et referansenummer er definert med "=" foran til venstre for en foreldres boks. Dette nummeret refererer det forrige og/eller neste tre hvor personen er vist med en annen partner.
+{ENDIF}
+!
+{IF}FAMILYTREESADOPTIONS
+#
+I tilfeller hvor barn er adoptert eller har fosterforeldre, foreldrekoblingen er vist med en prikket linje og et referansenummer med "=" foran vises i personens boks. Dette nummeret refererer til treet hvor personen eventuelt er definert med sine biologiske foreldre.
+{ENDIF}
