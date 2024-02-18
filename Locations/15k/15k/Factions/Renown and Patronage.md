@@ -3,21 +3,23 @@ In downtime, spending 10 x current renown score # of days will increase the reno
 Carrying out a mission that advances the faction's interests indirectly advances your score by 1 point.
 Carrying out a mission directed by the faction increases you score by 2 points.
 
+Last updated: Session 3
+
 | Renown Tracker | Bureaucratic Factions |          |          |          | Criminal Factions |               |
 | -------------- | --------------------- | -------- | -------- | -------- | ----------------- | ------------- |
 |                | Malku                 | Neshirim | Qadashim | Reshifim | Shynedar-Kai      | Thieves Guild |
-| Carric         | 0                     | 0        | 0        | 0        | -5                | 0             |
-| Maximo         | 0                     | 0        | 0        | 0        | -5                | 0             |
-| Muck           | 0                     | 0        | 0        | 0        | -5                | 0             |
-| Mysto          | 0                     | 0        | 0        | 0        | -5                | 0             |
-| Rabbitouille   | 0                     | 0        | 0        | 0        | -5                | 0             |
-| Koshi         | 0                     | 0        | 0        | 0        | 0                 | 0             |
+| Carric         | 0                     | 0        | 0        | 0        | -50                | 0             |
+| Maximo         | 0                     | 0        | 0        | 0        | -50                | 0             |
+| Muck           | 0                     | 0        | 0        | 0        | -50                | 0             |
+| Mysto          | 0                     | 0        | 0        | 0        | -50                | 0             |
+| Rabbitouille   | 0                     | 0        | 0        | 0        | -50                | 0             |
+| Koshi         | 0                     | 0        | 0        | 0        | -50                 | 0             |
 
 | Renown Tracker | Financial Factions |               |                   |             |                  |             |
 | -------------- | ------------------ | ------------- | ----------------- | ----------- | ---------------- | ----------- |
 |                | Bank of Miros      | Banking Guild | Brothers' Company | Red Company | Logistics Guilds | Incantators |
 | Carric         | 4                  | 1             | 3                 | 0           | 8                | 0           | 
-| Maximo         | 1                  | 0             | 10 (20 days)                 | 0           | 0                | 0           |
+| Maximo         | 1                  | 0             | 10.8                 | 0           | 0                | 0           |
 | Muck           | 1                  | 0             | 3                 | 0           | 0                | 0           |
 | Mysto          | 1                  | 0             | 3                 | 0           | 0                | 0           |
 | Rabbitouille   | 1                  | 0             | 3                 | 0           | 0                | 0           |
@@ -39,12 +41,12 @@ Carrying out a mission directed by the faction increases you score by 2 points.
 | Carric         | 0                  | 0              | 0        | 0                    | 0                 |
 | Maximo         | 0                  | 0              | 0        | 0                    | 0                 |
 | Muck           | 0                  | 0              | 0        | 0                    | 0                 |
-| Mysto          | 0                  | 0              | 0        | 0                    | 2 (10 days)       |
+| Mysto          | 0                  | 0              | 0        | 0                    | 9.5               |
 | Rabbitouille   | 0                  | 0              | 0        | 0                    | 0                 |
 | Koshi          | 8                  | 0              | 0        | 0                    | 0                 |
 
 
-Maximo has 6 renown with Adnan
+Maximo has 12 renown with Adnan
 
 **Levels of Renown**
 Renown is a measure of your influence, rank, fame, or otherwise standing within *or to* a group, faction, or person. There are two main ways to use renown: **within** an organization or **outside** of it.

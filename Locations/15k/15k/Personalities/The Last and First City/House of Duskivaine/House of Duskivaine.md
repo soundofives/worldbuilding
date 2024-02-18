@@ -12,7 +12,7 @@ The Duskivaines span several factions:
 -the Cycle of Twins
 -the Shynedar-Kai
 -the Bureaucracy
-With a minor fragment into the Circle of Eight.
+With a minor fragment into the Circle of Eight. (Nystul)
 
 
 **Great Matriarch**

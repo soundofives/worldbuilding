@@ -41,3 +41,8 @@ The Cycle of Twins is an ancient and dualistic religion deeply ingrained in the 
     - Orin Darksbane is a prominent figure within the Cycle of Twins who has advocated for a diplomatic resolution to the religious conflict with The Myriad. His efforts aim to reduce tension and promote peaceful coexistence.
 
 The Cycle of Twins faces a challenging period in its history, as it grapples with diminishing influence, internal divisions, and a religious war with The Myriad. Its future will be shaped by the ability of its leaders to adapt to changing times and maintain relevance in the empire's spiritual landscape.
+
+
+The Cycle of Twins is an old institution with extensive headquarters in the huge Temple of the Twins in Sinisa. The church is run--almost exclusively--by the Duskivaine family. The Duskivaines are a wide family of dark elves often intermarried with members of the vampire clans of Ithalas and the Ishur family that runs the Bank of Miros. The matriarch of the family is Dragana Duskivaine, the Fifth Life of Ivara. She's flanked by her sisters, Saira, Maja, and Bojia. Them and their families make up some of the highest ranks in the Cycle.
+
+The Duskivaine estates are spread across the seven Pales. Dragana lives primarily within the great Temple of the Twins as the high priestess, but she owns and often resides in the ancestral family castle in the hills outside Sinisa.

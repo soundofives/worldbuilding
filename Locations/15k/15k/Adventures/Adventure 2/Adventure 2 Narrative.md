@@ -59,7 +59,7 @@ The party is recovering from their injuries in Adventure 1. They have about 10 d
 >*You have ten more days of recovery period. What do you do?*
 
 1. The Crew is introduced to some other students: Daliborn and Dragana Regalwood, elf siblings. [[Saamy Nightscribe]] if they use the [[Library]]. [[Dariush the Quiet]] if they explore the [[Gardens]]. Professors if they explore the Tower more.
-2. [[Zoran Drakewolf]] mentions that he wants to explore the Crypt, and asks if you have anything that could help. He explores the cleared Crypt and finds the chamber of [[Fraz]], warded strongly. He wants to show the PCs, and says they should keep a lookout for any magic that can break powerful wards--and they should probably keep quiet about it.
+2. [[Zoran Drakewolf]] mentions that he wants to explore the Crypt, and asks if you have anything that could help. He explores the cleared Crypt and finds the chamber of [[Fraz, Var-Az the Hollow King]], warded strongly. He wants to show the PCs, and says they should keep a lookout for any magic that can break powerful wards--and they should probably keep quiet about it.
 
 The PCs can use their recovery time as light downtime. They can go into the city as long as they don't do much strenuous stuff.
 

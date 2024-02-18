@@ -1,4 +1,4 @@
-Yrah was the son of Zagyg and friend to Mordenkainen until they had a falling out, and Yrah pursued his mother Tasha in the Abyss. He dominated, and remains charmed, by Fraz Urb'luu.
+Yrah was the son of Zagyg and friend to Mordenkainen until they had a falling out, and Yrah pursued his mother Tasha in the Abyss. He was dominated, and remains charmed, by Fraz Urb'luu.
 
 Fraz Urb'luu, the powerful demon lord trapped in the basement of the Tower, takes on the mask of Yrah to deceive the party.
 
@@ -32,3 +32,12 @@ Yrah knows that celestial scholars will be alerted soon - imminently, on the nex
 
 
 Revealing Yrah in Muck's visions, with no memory of Muck, will insinuate that Yrah lost/loses  memories too. If that is so, then how does the current-day Yrah know anything about his past? For example, that he's the son of Tasha and Zagyg. Also, how does he know so much about the world and the people in it? A true amnesiac would be clueless to the things that Yrah knows. Perhaps the modern-day Yrah learned how to break his curse. If that's true, then he would have recognized Muck. Perhaps Yrah didn't get "passed around" so much, and instead has been controlled by a single owner since the beginning. When he was captured by Zagyg and Tasha, he was told about his past with them. But he has forgotten the details of the Citadel of Eight, the falling out with Mordenkainen, Muck, etc, up until his Heart was repossessed by a powerful Demon: perhaps his rival, Demogorgon. This, he says, is the true reason he explains he was imprisoned.
+
+
+
+--
+
+Fraz's ability states that if his subjects stop being dominated *by him* then they die. A creature is dominated by Fraz Urb'luu as long as their heart remains out of their body. The domination can only be ended by a Wish spell or equivalent magic. A dominated person who has died cannot be resurrected as long as their heart remains out of their body.
+The nature of the domination isn't really described; so let's say that Fraz Urb'luu can control his subjects to the same level as Dominate Monster (ie, he requries a telepathic connection to issue orders and can do so at any time on the same plane, but can take full control without telepathic link. Full control requires that Fraz have the Heart of the target, which he can conjure from the Heart Library instantly). As a rule, when Fraz first dominates anyone, he gives the verbal order, "Never betray me, and never deceive me." Fraz also has complete control over the memories of the Dominated creature while the creature's heart is in his possession.
+Anyone that controls the heart of a creature dominated by Fraz can likewise exercise control over the creature, though Fraz's control is paramount. 
+

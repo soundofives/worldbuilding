@@ -8,54 +8,103 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e16fd93b44dc19ec",
+            "id": "19c03b26d00d57c1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Adventures/Adventure 6/Adventure 6 Narrative.md",
+                "file": "Adventures/Adventure 12/Images.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "ef71a7a6a459cfe7",
+            "id": "2066933c9902bcf1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Adventures/Adventure 6/statblocks.md",
+                "file": "Adventures/Adventure 12/Hexcrawl.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "14851cc980fdc1bf",
+            "id": "74cdd517f0a0826d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Personalities/Name Bank.md",
+                "file": "Adventures/Adventure 12/Adventure 12 Narrative.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "d863c7b51701b85d",
+            "id": "87d5a789f9e1138f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "History/History.md",
+                "file": "Hooks/Good treasure.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "81809b51cdd2ce4c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Adventures/Adventure 12/statblocks.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3e340039d3d32fca",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Quotes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bb5d7159db215f47",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Essays/Summoning a Demon Lord.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d24e942c6c9026e4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Quotes.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -84,7 +133,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "loot",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -121,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Adventures/Adventure 6/Adventure 6 Narrative.md",
+                "file": "Adventures/Adventure 12/Adventure 12 Narrative.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Adventures/Adventure 6/Adventure 6 Narrative.md",
+                "file": "Adventures/Adventure 12/Adventure 12 Narrative.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Adventures/Adventure 6/Adventure 6 Narrative.md"
+                "file": "Adventures/Adventure 12/Adventure 12 Narrative.md"
               }
             }
           },
@@ -172,9 +221,17 @@
               "type": "FANTASY_CALENDAR",
               "state": {}
             }
+          },
+          {
+            "id": "838d3728768a4616",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -195,32 +252,53 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e16fd93b44dc19ec",
+  "active": "74cdd517f0a0826d",
   "lastOpenFiles": [
-    "Personalities/Name Bank.md",
-    "Adventures/Adventure 6/Adventure 6 Narrative.md",
-    "Personalities/The Last and First City/House of Duskivaine/House of Duskivaine.md",
-    "Adventures/Adventure 6/statblocks.md",
+    "Hooks/Good treasure.md",
+    "Adventures/Adventure 12/Adventure 12 Narrative.md",
+    "Essays/Summoning a Demon Lord.md",
+    "Adventures/Adventure 12/statblocks.md",
+    "Adventures/Adventure 12/Hexcrawl.md",
+    "Quotes.md",
+    "Essays/On the Shadaean Society.md",
+    "Essays/On the Shadaean Economy.md",
+    "Essays/On Demons.md",
+    "Personalities/Circle of Eight/Mordenkainen.md",
+    "Personalities/Abyss/Grazzt.md",
+    "Personalities/Abyss/Fraz, Var-Az the Hollow King.md",
+    "Adventures/Adventure 12/Images.md",
+    "Attachments/tmpvkou1b5o.png",
+    "Attachments/Uzaxuk.png",
+    "Attachments/Pasted image 20240207154337.png",
+    "Attachments/d3fx08z-6f944211-833d-414e-aea4-f6cef9b21afd.jpg",
+    "Attachments/Pasted image 20240207154204.png",
+    "Attachments/Pasted image 20240207154143.png",
+    "Attachments/Pasted image 20240207085224.png",
+    "Attachments/Pasted image 20240207084410.png",
+    "Attachments/Pasted image 20240207084347.png",
+    "Attachments/Pasted image 20240207084227.png",
+    "Chronurgy Magic.md",
+    "Adventures/Arcs and Themes.md",
+    "Mechanics/Downtime.md",
+    "Adventures/Adventure 9/Adventure 9 Narrative.md",
+    "Adventures/Adventure 10/Adventure 10 narrative.md",
+    "Personalities/PCs/Muck.md",
+    "Mechanics/Gambling.md",
     "History/History.md",
-    "Adventures/Adventure 2/Statblocks.md",
-    "Adventures/Adventure 5/Adventure 5 Narrative.md",
+    "Factions/Renown and Patronage.md",
     "Personalities/PCs/Carric.md",
     "Personalities/The Tower/The Tower.md",
-    "Adventures/Chronicles.md",
-    "Personalities/The Tower/Yrah.md",
-    "Personalities/PCs/Muck.md",
-    "Personalities/Personalities.md",
-    "Adventures/Adventure 5/statblocks.md",
-    "Mechanics/Tools.md",
-    "Hooks/Adventure Hooks.md",
+    "Markdown Bits.md",
+    "Welcome.md",
+    "Adventures/Adventure 12",
+    "Adventures/Adventure 11",
+    "Adventures/Adventure 10",
+    "Personalities/Abyss",
+    "Personalities/Circle of Eight",
+    "Adventures/Adventure 9",
+    "Adventures/Adventure 8",
+    "Adventures/Adventure 7",
     "Adventures/Adventure 6",
-    "Mechanics/Mechanics Expanded.md",
-    "Mechanics/Injuries.pdf",
-    "Quotes.md",
-    "Locations/Shadaean Empire/The Last and First City/Sinisa/Roads.md",
-    "Chronurgy Magic.md",
-    "Locations/Shadaean Empire/The Tower/The Tower.md",
-    "Untitled.md",
-    "History/Company of Seven.md"
+    "Mechanics/Injuries.pdf"
   ]
 }

@@ -1,16 +1,16 @@
 The Circle of Eight is the largest and most prolific educator of witches and wizards in the Last and First City. Under the instruction of eight "mostly equal" archmages (though many agree that Mordenkainen is the one who has the final say), pupils learn to wield magic for any circumstance or scenario. Graduates from the Circle of Eight often go on to pursue high-impact careers in the Incantator's Guild or become necromancers for the Bureaucracy.
 
 
-1. Mordenkainen
-2. Bigby, servant of Mordenkainen
+1. **Mordenkainen**
+2. **Bigby**, servant of Mordenkainen
 3. Rhenee Bucknard, wizard with eye for finances. Abruptly left the group to join the Cult of the Worm (decay?)
-4. Drawmij
+4. **Drawmij**
 5. Leomund, out exploring the Planes
-6. Nystul, illusionist, studied alongside Otto.
-7. Otto, chubby lover of arts and food.
-8. Rary of Ket, eventually betrays the Circle and kills Tenser and Otiluke
-9. Tenser, extremely powerful archmage, wealthy and polite. Lawful Good, proponent of purity and purification. Involved with the Qadashim purifiers, heads push to kill or exile Hykhe during his fall.
-10. Otiluke, not very wise member of the group.
+6. **Nystul**, illusionist, studied alongside Otto.
+7. **Otto**, chubby lover of arts and food.
+8. **Rary of Ket**, eventually betrays the Circle and kills Tenser and Otiluke
+9. **Tenser**, extremely powerful archmage, wealthy and polite. Lawful Good, proponent of purity and purification. Involved with the Qadashim purifiers, heads push to kill or exile Hykhe during his fall. Tenser is medium-sized, with brown hair and an aquiline nose. He is always dressed in blue. He is polite and outgoing, but is willing to enforce his will on others for the sake of Law and Good.
+10. **Otiluke**, not very wise member of the group.
 11. Jallarzi Sallivarian, former apprentice to Tenser. Filled Bucknard's spot.
 
 Current members:

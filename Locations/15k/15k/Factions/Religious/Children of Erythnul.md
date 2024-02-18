@@ -13,4 +13,7 @@ Lycanthropes are *forced* to transform into a beast once every lunar cycle. They
 1. You can, and must, transform once every lunar cycle. If, under the light of the full moon, you have not yet transformed, you are forced to transform.
 2. Controlling your beast form is difficult and takes time and practice.
 
+----
+
+The Children of Erythnul are run by a warlord that deposed the previous leader a few years ago. The new chief is a human man named Karn. The Children conduct bloody rituals and sacrifices of people they kidnap to the god Erythnul. In their minds, Erythnul is the god of power and the Animal Heart--the Beast. He is hungry and dark, and he controls their minds and hearts when they give themselves to the Beast. He is not quite like the Myriad interpretation of him.
 

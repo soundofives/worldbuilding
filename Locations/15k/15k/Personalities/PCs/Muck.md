@@ -1,16 +1,22 @@
 #### The Whole Story
 *Bolded statements have been written into Memories*
-**Muck grew up in a village outside Sinisa**, a poor farmer immersed in the natural world. He always had a knack with animals. **In his adolescence, Muck came to the Last and First City to find his fortune**. **He met a young Yrah, and they became quick friends. Through Yrah, Muck joined the Citadel of Eight, long before its members grew powerful and famous**. Through one of their adventures, they recovered the Tome of Zyx. **Using it, they discovered that the Prince of Demons, Fraz Urb'luu, was working with someone on the Prime Material to open a gate to the Abyss and start a new Blood War.** **They were bent on stopping this plan. Mordenkainen was not of the same mind.**
-**They fell out with Mordenkainen in a bad way, leaving on bad terms.** They traveled to the Abyss via borrowed magic, (through the Infinite Dark using the Tome of Zyx they had, now only the Demonomicon has the secret of passing through the Infinite Dark--) to the realm of Fraz Urb'luu, to attempt to bind him. **They lost. Yrah and Muck both had their hearts ripped out and were claimed by Fraz as slaves.** After that, Yrah and Muck served Fraz as slaves until Fraz was summoned to the Prime Material by Zagyg and Tasha and bound. **Demogorgon, Orcus, and Grazzt came and tore Hollow's Heart apart, taking Yrah and Muck with them.**
+**Muck grew up in a village outside Sinisa**, a poor farmer immersed in the natural world. He always had a knack with animals. **In his adolescence, Muck came to the Last and First City to find his fortune**. **He met a young Yrah, and they became quick friends. Through Yrah, Muck joined the Citadel of Eight, long before its members grew powerful and famous**. Through one of their adventures, they recovered the Tome of Zyx. **Using it, they discovered a plot by Orcus to invade the Prime Material and start a new Blood War.** **They were bent on stopping this plan. Mordenkainen was not of the same mind.**
+**They fell out with Mordenkainen in a bad way, leaving on bad terms.** They traveled to the Abyss via borrowed magic, (through the Infinite Dark using the Tome of Zyx they had, now only the Demonomicon has the secret of passing through the Infinite Dark--), unknowingly to the realm of Fraz Urb'luu. **Yrah and Muck both had their hearts ripped out and were claimed by Fraz as slaves.** After that, Yrah and Muck served Fraz as slaves until Fraz was summoned to the Prime Material by Zagyg and Tasha and bound. **Demogorgon, Orcus, and Grazzt came and tore Hollow's Heart apart, taking Yrah and Muck with them.**
 Muck went to Orcus, **who was eventually killed**. In the chaos until Orcus' rejuvination, **Muck passed from his realm and ended up in the Blood War**. **He passed through the hands of several devils, eventually being given to the Carnival l'Morai. From there to a dwarf merchant. Then a human smith in the Prime Material. Then to the vampiric leaders of the Thieves Guild, his current masters.**
 
 Should your heart be taken by Fraz, you will be forever Charmed by your heart's possessor. You die if Charm **breaks**--and you cannot Charm yourself. If he possesses his Heart while the Charm is still active, he dies. The Charm can only be broken by Power Word: Heal, Wish, True Resurrection, or similar magic.
+
+
+Draft 2:
+**Muck grew up in a village outside Sinisa**, a poor farmer immersed in the natural world. He always had a knack with animals. **In his adolescence, Muck came to the Last and First City to find his fortune**. **He met a young Yrah, and they became quick friends. Through Yrah, Muck joined the Citadel of Eight, long before its members grew powerful and famous**. Through one of their adventures, they recovered the Tome of Zyx. **Using it, they discovered that the Prince of Demons, Fraz Urb'luu, was working with someone on the Prime Material to open a gate to the Abyss and start a new Blood War.** **They were bent on stopping this plan. Mordenkainen was not of the same mind.**
+**They fell out with Mordenkainen in a bad way, leaving on bad terms.** They traveled to the Abyss via borrowed magic, (through the Infinite Dark using the Tome of Zyx they had, now only the Demonomicon has the secret of passing through the Infinite Dark--) to the realm of Fraz Urb'luu, to attempt to bind him. **They lost. Yrah and Muck both had their hearts ripped out and were claimed by Fraz as slaves.** After that, Yrah and Muck served Fraz as slaves until Fraz was summoned to the Prime Material by Zagyg and Tasha and bound. **Demogorgon, Orcus, and Grazzt came and tore Hollow's Heart apart, taking Yrah and Muck with them.**
+Muck went to Orcus, **who was recently killed, becoming Tenebrous**. In this weakened and dormant state, Tenebrous sent Muck to a servant
 
 #### Entry rolls
 
 1. Yrah introduces you to Mordenkainen, and you join the Citadel of Eight.
 2. The sack of Hollow's Heart, possession of your Heart by Orcus--a sudden blackness in your mind. Amnesia.
-3. A scene at the Carnival l'Morai. You meet Amelia the Vampire. She falls in love.
+3. **EMPTY**
 4. Another battle, the destruction of Orcus. A balor takes your Heart. Black.
 5. Your time as a young boy outside of Sinisa. You were close to nature and the animals.
 6. You and Yrah discover a horrible secret about the Abyss.
@@ -32,6 +38,7 @@ Should your heart be taken by Fraz, you will be forever Charmed by your heart's 
 #### Completed Rolls
 
 - A view out of the balcony of Fraz' fortress in Hallow Heart. A scar on your chest. Yrah next to you.
+- A scene at the Carnival l'Morai. You meet Amelia the Vampire. She falls in love.
 
 # Memories
 - Your time as a young boy outside of Sinisa. You were close to nature and the animals.
@@ -42,7 +49,7 @@ Should your heart be taken by Fraz, you will be forever Charmed by your heart's 
    >You've just come to the bustling City, its smells and life new to you. You're here for new opportunities--new people, new places. You take a deep breath--a breath of easy youth. The air crackled with possibilities. Amidst the bustling streets, you caught a glimpse of a golden-skinned elf. Their presence seemed to shimmer with energy, drawing you in like a moth to a flame. You were drawn to him. The scene vanishes...you're speaking with him in a tavern, his words were spells, each sentence weaving a connection that transcended the ordinary. "My name is Yrag--but you can call me Yrah." Yrah, the golden mage whose presence marked the beginning of a journey into the unknown.
 - Yrah introduces you to Mordenkainen, and you join the Citadel of Eight.
    >[!quote] Memory
-   >You stand in a run-down parlor sipping on Bonzian nectarwine. Yrah and a few others are here, chatting and drinking. You recognized them. Robilar, Tenser, Bigby. One man, youthful but stern, sits across from you, a simple drink in his hand. "So, Muck. What do you say? Come with us? Turn the Citadel of Seven into the Citadel of Eight?" A voice called from another, though the sound was distant and warped. "Mordenkainen, come, have another round!" The air hummed with arcane potential as the Citadel of Eight unfolded before you, its walls echoing with the legacy of renowned wizards. Mordenkainen's gaze didn't leave your face. It held the weight of knowledge even then.
+   >You stand in a run-down parlor sipping on Bonzian nectarwine. Yrah and a few others are here, chatting and drinking. You recognized them. Robilar, Tenser, Bigby. One man, youthful but stern, sits across from you, a simple drink in his hand. "So, Muck. What do you say? Come with us? Turn the Citadel of Seven into the Citadel of Eight?" A voice called from another, though the sound was distant and warped. "Mordenkainen, come, have another round!" The air hummed with arcane potential as the Citadel of Eight unfolded before you, its walls echoing with the legacy of renowned adventurers. Mordenkainen's gaze didn't leave your face. It held the weight of knowledge even then.
 - You and Yrah discover a horrible secret about the Abyss.
    >[!quote] Memory
    >In the dim-lit chamber, shadows danced as you and Yrah. You held a tome in front of you, its words shifting and foreign and cursed. You remember pulling it from the  Neither of you could speak. No words could capture what you'd found. The air thickened. The horrific secret unraveled in your mind like a sinister tapestry. In that moment, the boundaries of reality seemed to warp, and a distant voice--no, not distant. Next to you. Yrah whispered, "Another Blood War. This would mean the end of all things..." You knew you were young--but the world could not wait for the old to act.
@@ -80,7 +87,7 @@ Should your heart be taken by Fraz, you will be forever Charmed by your heart's 
 
 2. A scene at the Carnival l'Morai. You meet Amelia the Vampire. She falls in love.
    >[!quote] Memory
-   >The carnival is busy tonight. The darkness overhead bears down on you tonight like all nights, but the time here has been exciting. You don't remember what came before your time here, but you remember leaving the Iron City of Dis behind you as you rode away in the cart with the two elves, Mister Light and Mister Witch. You step through the throngs of people; you had a job, yes. But tonight you had some time to wander off. You step into a quieter tent towards the back of the circus. "Finally," a voice says in the damp darkness. Your eyes adjust, and you see Amelia, her black wings folded behind her and her white fangs glistening in through the dark. "Come on! Let's sit for a while. They won't notice we're gone." You want to--you really do--but something deep down rises up. A compulsion. You have to get back to work.
+   >The carnival is busy tonight. The darkness overhead bears down on you tonight like all the days and nights in this place, but the time here has been exciting. You don't remember what came before your time here, but you remember leaving the Iron City of Dis behind you as you rode away in the cart with the two elves, Mister Light and Mister Witch. You step through the throngs of people; you had a job, yes. But tonight you had some time to wander off. You step into a quieter tent towards the back of the circus. "Finally," a voice says in the damp darkness. Your eyes adjust, and you see Amelia, her black wings folded behind her and her white fangs glistening in through the dark. "Come on! Let's sit for a while. They won't notice we're gone." You want to--you really do--but something deep down rises up. A compulsion. You have to get back to work.
 - Amelia helps you escape--but you don't remember her anymore.
 >[!quote] Memory
 >Amelia whispers in a hushed tone, "Come on! We can finally get out of this place!" You slink through a maze of carnival tents, the lights and sounds swirling around you. Ahead: the tent that held your Providence. "I'll slip in and grab it. You keep watch." You did just that. The dark of the Shadowfell seemed to cling to you, not banished but only made more corporeal by the dancing lights around the carnival. Music, cheers, the smell of roasting meat. A pressure washes over you. Everything goes black. 
@@ -97,3 +104,51 @@ Should your heart be taken by Fraz, you will be forever Charmed by your heart's 
 - You are passed to the Vampire's consort and told to infiltrate the Tower.
    >[!quote] Memory
    >"Now Muck..." your vision opens in a candlelit room, a comfortable and dark parlor. Your body is sore. Scarred. Suddenly, it feels as if you've seen the weight of a hundred years. The man in front of you, the Master Thief Rilan, beckoned you. His face was pale as always, his fangs playing at the edge of a blood-stained goblet at his mouth. A woman in a sleek silk dress lounges across his shoulders, half on him and half on the plush couch. A burlap sack stained with blood set on a dark wooden stand next to them. It seemed to shift, as if something inside was moving. The woman, his consort Testra, eyed it. "We have a new task for you. A new job...and this one will pay out very, very well. The Tower of the Mad Mage has just arrived outside of Sinisa. We want you to...well, help us get inside. Now, of course, we can't have you knowing all this. So this requires a change in management..." The woman reaches down and grabs the burlap sack. A new hand. Your vision fades to black.
+
+--
+New draft:
+
+**Muck grew up in a village outside Sinisa**, a poor farmer immersed in the natural world. He always had a knack with animals. **In his adolescence, Muck came to the Last and First City to find his fortune**. **He met a young Yrah, and they became quick friends. Through Yrah, Muck joined the Citadel of Eight, long before its members grew powerful and famous**. Through one of their adventures, they recovered the Tome of Zyx. **Using it, they discovered that the Prince of Demons, Fraz Urb'luu, was working with someone on the Prime Material to open a gate to the Abyss and start a new Blood War.** **They were bent on stopping this plan. Mordenkainen was not of the same mind.**
+**They fell out with Mordenkainen in a bad way, leaving on bad terms.** They traveled to the Abyss via the Tome of Zyx... to the realm of Orcus, to attempt to bind him. Instead, they found themselves in Hollow's Heart and faced down with Fraz. **They lost. Yrah and Muck both had their hearts ripped out and were claimed by Fraz as slaves.** After that, Yrah and Muck served Fraz as slaves until Fraz was summoned to the Prime Material by Zagyg and Tasha and bound.
+
+Yrah was sequestered in an abyssal demiplane (the Heart Library), and Muck was sent to the Prime Material as a sleeper agent.
+
+Why doesn't he remember the last 200 years? Fraz had jobs for him:
+
+Most important: eventually Muck would serve as the seed for his party of heroes.
+Secondly, he was an agent of Fraz.
+1. He kills servants of Grazzt who get too close to the Tower
+2. He sets up the cult at Stardale.
+3. He keeps watch of the Carnival l'Morai.
+4. He kills important people in the city to have them be replaced by Rakshasas.
+5. He keeps the key to the Wand of Orcus. Much of his time was sealing it away.
+
+Grazzt immediately knows that something is up--Fraz wouldn't abandon his Realm without a plan. The Dark Prince makes it his goal to try to unravel Fraz's deceptions. Grazzt took Muck, knowing from the start that he was dominated by Fraz. Strangely, Muck had his own heart in his possession, which Grazzt took. Grazzt enchanted him with Mind Shielding, preventing Fraz of knowing of his presence and controlling him. Grazzt deployed Muck in the Last and First City, giving his Heart to the vampire Rilan. Rilan was head of a powerful thieves syndicate alongside his consort Testra. Muck was their play toy, a spy who could do jobs and investigate various figures throughout the City without ever knowing too much. Rilan used Muck to search for Fraz in every corner of the City. Eventually, when Grazzt was captured by Tasha and learned that Tasha had learned much of her magic from Fraz, Muck was pointed towards Zagig, Tasha, Prismeer, and the Tower. He was sent to the Carnival l'Morai
+
+215 years ago: Yrah and Muck steal the Tome of Zyx and enter the Abyss. Fraz is imprisoned beneath the Tower, and Muck is taken by Grazzt.
+
+185 years ago: After 30 years, Tasha flees with the young Demonomicon. She summons Grazzt. Grazzt learns that Tasha knows about Fraz. Muck begins investigating Zagyg 
+
+215 Years ago - Tasha and Zagyg write parts of Demonomicon
+	-Muck is taken by Grazzt.
+185 Years ago - Tasha is corrupted and runs off. Witch queen of Perennland, when she summons Grazzt.
+	-Muck is sent to search for hints of Fraz around the Planescape. Abyss, Shadowfell, Hells, etc. It is amazingly difficult to truly trace Fraz, but his minions (Rakshasas) can be more easily located.
+160 Years ago - She summons and binds Grazzt to learn more. Demonomicon is expanded. She binds Tsojcanth, spawn of Fraz, a half-fiend.
+	-Muck is given to Rilan in LFC. First he acts as Rilan's hitman for a time.
+155 Years ago - Tasha and Grazzt plot against Orcus
+	-Muck investigates Tasha: Baba Yaga, the Hag sisters.
+150 Years ago - Tasha and Grazzt plot against Demogorgon, which ends with Demogorgon captured, but an Abyssal injunction that was created could only be closed by binding Tsojcanth to it. This was done, but allowed Grazzt to escape.
+	-Muck investigates:  Witch Queen of Perrenland. Serves the witch queen for a time, witnessing the injunction and binding of Demogorgon. The injunction was caused by a summoning ritual that went awry. The astral bridge to the Gaping Maw was corrupted and refused to be closed.
+150 Years ago - Grazzt is freed, Tasha is imprisoned
+	-Muck investigates: Rakshasas in the city
+50 Years ago - Tasha is freed by Teurny in exchange for her help in destroying Grazzt. Tasha agreed, though she doesn't really want to confront Grazzt again. They're like icy-hot.
+50 Years ago - Tasha founds Prismeer.
+	Muck joins l'Morai and investigates Prismeer.
+1 Years ago - Muck joins the Brothers' company and investigates the Tower.
+
+Things Grazzt knows...Tasha, Zagyg, 
+
+Since Grazzt is still banished to the Abyss (by Tasha), and demons tend not to be the most intelligent or loyal beings unless they're dominated, Grazzt sends the perfectly loyal and controllable Muck along with his heart, which allows him to be controlled without telepathy. Muck has been in the service of the vampire leader of a thief syndicate, Rilan.  For 200 years Muck has moved around the Last and First City searching for Fraz. When Grazzt was captured by Tasha Whenever he starts to catch on to his 
+
+**Demogorgon, Orcus, and Grazzt came and tore Hollow's Heart apart, taking Yrah and Muck with them.**
+Muck went to Orcus, **who was eventually killed**. In the chaos until Orcus' rejuvination, **Muck passed from his realm and ended up in the Blood War**. **He passed through the hands of several devils, eventually being given to the Carnival l'Morai. From there to a dwarf merchant. Then a human smith in the Prime Material. Then to the vampiric leaders of the Thieves Guild, his current masters.**

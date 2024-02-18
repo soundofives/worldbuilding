@@ -1,3 +1,11 @@
+Summary:
+- Unarmed attacks by Carric do 1d8 + 1 + STR (unarmed fighting)
+- Advantage on attacks and grapples against creatures grappled by him (grappler)
+- At the start of his turn, grappled creatures automatically take 1d4 damage. (unarmed fighter)
+- Carric can do a second grapple check against an already grappled creature to pin it, which restrains it. (grappler)
+- If he hits a creature with an attack (or grapple) he can use a superiority dice to do a grapple as a bonus action, adding superiority to the athletics check. (grappling maneuver)
+
+Escaping the grapple requires a contested Athletics / Acrobatics check OR a shove. Shove is a contested athletics check as ONE part of a multiattack. Acrobatics has disadvantage when pinned + restrained.
 
 **RAW Grappled condition:**
 - A grappled creature’s [speed](https://roll20.net/compendium/dnd5e/Rules:Movement?expansion=0#toc_1) becomes 0, and it can’t benefit from any bonus to its speed.

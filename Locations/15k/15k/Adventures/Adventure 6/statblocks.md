@@ -1,3 +1,13 @@
+  ![[Pasted image 20231113143404.png]]
+
+Luvomas is a Shadowdancer, but he gets Divine Smite (2d8, 4 slots), Lay on Hands (25), Vow of Emnity, Sneak Attack (8, 2d6), and spellcasting (DC 13, 4 slots):
+Shield of Faith
+Bane
+Hunter's Mark
+Divine Favor 
+![[Pasted image 20231113143821.png]]
+
+
 
 ```statblock
 name: Shynedar-Kai Assassin

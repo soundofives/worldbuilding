@@ -226,7 +226,6 @@ What Yrah wants him to believe: Muck has been cursed for
 Fraz's timeline as Yrah: been in prison for 192 years, so spent maybe 10-20 years in Abysm learning stuff and getting powerful.
 Yrah's timeline: went to Abyss just over 200 years ago, was cursed, then was taken by Demogorgon and imprisoned in Abysm. He's still there.
 
-
 Yrah and Muck left for the Abyss 215 years ago.
 Hollow Heart got sacked 212 years ago (Fraz has actually been in prison 212 years)
 Fraz-Yrah says he spent 20 years in Abysm

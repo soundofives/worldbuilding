@@ -1,4 +1,4 @@
-It's time for Milo to take her Apprentice Exam. She's in the business of seeking power and protection: she wants a Warrior spirit. She's done research over the last few months tracking down the tomb of a powerful warrior, a human champion from the Kuhorik region during their fight against the Heavenly Sinisar Empire. The champion, **Larom**, lived around 18,215 BBT, or around the end of the 18th century of the Empire. He lived in an area near modern Bonz, and his tomb is rumored to exist in a cliffside cave just outside where the fishery district has expanded to. The tomb can only be accessed easily at low tide, which, at this time of year, will happen at night.
+It's time for Milo to take her Apprentice Exam. She's in the business of seeking power and protection: she wants a Warrior spirit. She's done research over the last few months tracking down the tomb of a powerful warrior, a human champion from the Kuhorik region during their fight against the Heavenly Sinisar Empire. The champion, **Larom**, lived around 18,215 BBT, or around the end of the 18th century of the Empire. He lived in an area near modern Bonz, and his tomb is rumored to exist in a cliffside cave just outside where the fishery district has expanded to. The tomb can only be accessed easily at high tide, which, at this time of year, will happen at night.
 
 Scenes:
 - Reaching the Tomb (climbing down the cliffside, taking a boat, etc)
@@ -43,6 +43,10 @@ The Shynedar-Kai can only teleport in dim light and darkness. Bright light makes
 
 The Witch is surrounded by 15 ft of difficult terrain, meaning it takes 30 ft of movement to get to her from that range. She'll use this to her advantage, trapping people and slowing them down.
 
+Generally:
+The Witch will try to hit people who just took damage from the Shadowdancers to negate their next healing opportunity.
+The Shadowdancers will start the combat jumping around and staying mobile. If things start to get hairy, they'll tag team people and focus them to death. This is when Luvomas uses his vow of emnity and hunter's mark. He'll have Shield of Faith on from the start, dropping the Shield in order to get the extra damage.
+
 The water will be rising quickly in the main chamber. At first, only about a foot of water fills the room. The fighting can happen on the ground in the ruined house. After Round 1, the ground becomes difficult terrain.
 After Round 2, the water is approaching waist deep! Sharks are swimming through it, causing damage every turn. The Shynedar-Kai move to balance on the ruined walls of the house. The Lower Tier is flooded. 
 After Round 3, the water is 5 ft high
@@ -51,7 +55,17 @@ After Round 5,
 
 Encounter design with the Shynedar-Kai:
 Important things:
-Light + Moonlight
+Light
 Rising water
+Mobility!
+
+
+
+LOOT:
+180 gp
+
+----
+XP from combat: 1200 each, from skill challenge: 400 each. Total, 1600 each. 3500 -> 5100. 6500 to lvl 5.
+
 
 

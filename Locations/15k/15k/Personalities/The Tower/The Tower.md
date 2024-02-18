@@ -23,28 +23,32 @@ Brief list of people in the Tower.
 ##### Students
 
 ###### New scholars (levels 1 and 2)
-1. Zoran Silvergleam, a gnome from a banking family.
-2. Daliborn Regalwood, an elf.
-3. Dragana Regalwood, sister to Daliborn.
-4. Klialtoth Faerkris, a bronze dragonborn.
-5. Milo Mistrun, a young girl drow.
+5. ~~Milo Mistrun, a young girl drow.~~
+6. Kataena Stok, a yellow-skinned Tiefling from Dragon's Rook. Her family are wealthy planar merchants.
+7. her brother, Mory Stok, a cheery boy eager to learn magic.
 
 ###### Apprentices (levels 3 and 4)
 
-1. Saamy Simic, a young human girl specializing in Divination. Her life's goal is to decipher the temporal tomes in the Library.
-	1. Her Spirit: Volania, from the early kingdom of Krinica after the Plane Race.
-2. Zoran Drakewolf, an young elf boy intensely curious in the mysteries of the Tower. Roguish in his demeanor, he specializes in uncovering hidden secrets within the tower--and he'll pay for tips. Often going by Drakewolf, Zoran specializes in transmutation and alchemy. Drakewolf does not have a Spirit yet.
+~~2. Zoran Drakewolf, an young elf boy intensely curious in the mysteries of the Tower. Roguish in his demeanor, he specializes in uncovering hidden secrets within the tower--and he'll pay for tips. Often going by Drakewolf, Zoran specializes in transmutation and alchemy. Drakewolf does not have a Spirit yet~~.
+
 3. Lei of the Flaming Realms, a halfling fire mage known for her volatile temper and mastery over destructive spells. She can offer training in fire magic and may have quests involving containing dangerous magical accidents. She does not have a Spirit yet, but she wants a spirit from the Unravelling.
-4. Dariush the Quiet, an awkward half-elf specializing in nature magic and alchemy.
-	1. His spirit: Neshenan, a witch from the early kingdom of Ejdradad.
+6. Zoran Silvergleam, a gnome from a banking family.
+7. Daliborn Regalwood, an elf.
+8. Dragana Regalwood, sister to Daliborn.
+9. Klialtoth Faerkris, a bronze dragonborn.
 
 ###### Adepts (levels 5 and 6)
+
+4. 1. Saamy Simic, a young human girl specializing in Divination. Her life's goal is to decipher the temporal tomes in the Library.
+	1. Her Spirit: Volania, from the early kingdom of Krinica after the Plane Race.
+5. Dariush the Quiet, an awkward half-elf specializing in nature magic and alchemy.
+	1. His spirit: Neshenan, a witch from the early kingdom of Ejdradad.
 
 This is the class from which Ned came from.
 1. Naz the Poor. A middle-aged pale-blue half-chromatic elf. Not coming from a noble family, nobody really knows how Naz has been able to pay for his tutelage for this long... Naz specializes in Abjuration.
 	1. His spirit: Ritavash, a Red Warlock from the Dark Ages.
-2. Isidra Stagridge, a tall, buff half-orc. Isidra has worked closely alongside the Crew, and is skilled in the blade an in her magic. She is lvl 6 eldrich knight with Lorehold specialty.
-	1. Her spirit: Niralk, an ancient human barbarian from Oz-Leshah.
+~~2. Isidra Stagridge, a tall, buff half-orc. Isidra has worked closely alongside the Crew, and is skilled in the blade an in her magic. She is lvl 6 eldrich knight with Lorehold specialty.
+	1. Her spirit: Niralk, an ancient human barbarian from Oz-Leshah.~~ (killed in dragon attack)
 
 ###### Wizards, Witches, and Warlocks (levels 7,8, and 9)
 1. Zorica Starstorm, a Tiefling bard. Zorica has long since begun travelling around, and only infrequently does she return to the Tower. She shares her stories through song and games in the Wizard's Knobbly Knob.

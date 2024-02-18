@@ -16,14 +16,16 @@ About two centuries ago, Ljiljana passed on her leadership to her eldest daughte
 
 **Manager - Spice Industry** -
 
-**Manager - Hauling Guild** -
+**Manager - Hauling Guild** - Transporting weapons.
+
+**Manager - Magical Collections** - Repo and collection of magic as debt collateral. The Bank of Miros is the largest controller of magical items, and is heavily tied to bureaucratic regulations because of this.
 
 **Chief Financier** - [[Dariush Graybough]] is charged with overseeing the issuance of major loans and investments. He is a master of financial manipulation and plays a key role in controlling the ongoing religious conflict.
 
 **Master of Intelligence** - [[Cirus Slatespire]] heads the Bank's espionage network. He ensures that the bank is always well-informed and capable of manipulating individuals and factions to its advantage.
 ## Activities
 
-The main business of the Bank of Miros is to offer various financial services and loans to factions and individuals. The Bank also plays a large role in investing in Guilds and industries, most importantly the perfume and spice industries and the hauling and logistics syndicates. These groups are tightly entwined with the interests of the Bank. More secretly, the Bank of Miros also has significant interest in the mercenary guilds and their activities.
+The main business of the Bank of Miros is to offer various financial services and loans to factions and individuals. The Bank also plays a large role in investing in Guilds and industries, most importantly the perfume and spice industries and the hauling and logistics syndicates. These groups are tightly entwined with the interests of the Bank. More secretly, the Bank of Miros also has significant interest in the mercenary guilds and their activities, through which they make money from their war. Essentially, the Bank of Miros pits the two churches against each other. The churches hire mercenaries, and the mercenaries give the Bank a cut of the profits. Adnan is in on this--it's why he's so wealthy. However, the Bank of Miros still wants to control the Mercenaries--they are the military, after all, so crippling them with addicting potions is perfect.
 
 The Bank maintains and grows its position by leveraging its extensive connections throughout the Last and First City, from the Bureaucracy to many of the Guilds, Churches, and Mercenary groups. Beyond dealing in money, the Bank of Miros deals in *politics*, of course with a careful and secretive hand.
 
@@ -109,3 +111,14 @@ Renown 3: You are initiated into the lower ranks of the Bank. You are allowed a 
     
 
 These boons reflect both the character's rising status within the Bank and the increased financial advantages they gain by aligning themselves closely with this powerful institution.
+
+
+
+
+-----
+
+Worth/assets: 18 million gp.
+Approx. 0.0016 the worth of the LFC. The Medici bank was about 0.0002 of the GDP of Italy.
+On average, the bank has a net income of around 180,000 gp / year, but this fluctuates quite a bit. This 18 million gp net worth has been accrued over hundreds of years and withstood significant turmoil. About a 1% growth rate over its ~700 yr history could set this up. Initial investment of 10,000 gp.
+If there are 1500 mercenaries working for avg of 45 gp / month and the Bank gets 10%, then the Bank is earning about 6,700 gp / month from the war. Thats 80,000 per year. This is a profit increase for the bank of 44%. It is, indeed, worth it.
+

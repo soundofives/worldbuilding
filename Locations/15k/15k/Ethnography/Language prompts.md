@@ -1,6 +1,6 @@
 
 Sinisar common
-
+Remember the fantasy language called "Sinisar common", which is based on words and phrases from the following modern or reconstructed languages: Alemannic, Serbian, Proto-Semitic, Shughni.
 
 Old Sinisar
 I want to remind you of the language called "old Sinisar", which is based on words and phrases from the following languages: reconstructed Proto-Croatian and reconstructed Proto-Semitic. When coming up with terms and phrases for old Sinisar, the reconstructions don't have to be perfect, but I want you to double check all of your terms to make sure they are correct.
@@ -10,7 +10,7 @@ Shadaean
 I am making a new fantasy language called Shadaean, which is based on reconstructed terms from Proto-Semitic.
 
 Old Hemangh
-
+I am making a new fantasy language called "Old Hemangh" that is based on reconstructed Proto-Southeastern Iranian, reconstructed Proto-Pashto, and modern Gandhari.
 
 Ancient Zviri
 I want to remind you of the fantasy language, Ancient Zviri, which is based on terms from reconstructed Proto-Caucasian and modern Lithuanian.
@@ -26,3 +26,5 @@ I am making a new fantasy language called Ithali, which is based on reconstructe
 
 Unravelline
 I am making a new fantasy language called "Unravelline", which is based on modern Maori but with a few letters swapped out here and there for a fantasy effect.
+
+Old Tanorian
