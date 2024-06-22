@@ -25,3 +25,7 @@ The Neshirim, known as "The Keepers of Secrets," are a clandestine faction withi
     - Thalia Shadowsong is the Sentinel-Inquisitor, serving as the guardian of the Neshirim's archives. She possesses both martial and magical abilities and protects the sanctuaries from unauthorized access, akin to a Masonic Sentinel.
 
 The Neshirim's gatherings are conducted in the tradition of secret societies, with rituals, cryptic symbols, and ceremonies reminiscent of Masonic lodges. They are dedicated to preserving knowledge that could disrupt power structures, and they often find themselves in conflict with other Ansharim factions and the official bureaucratic hierarchy, all while carefully guarding their enigmatic secrets.
+
+Because of their intense secrecy and paranoia, Fraz has made heavy use of the Neshirim, placing his own agents into the organization to interface with the Emperor and the City. 
+
+The Neshirim have a large presence in New Tanore, as they are heavily tied into the administration of the University of New Tanore.

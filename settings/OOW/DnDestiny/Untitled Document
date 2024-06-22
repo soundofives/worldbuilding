@@ -1,0 +1,97 @@
+Features and Descriptions:
+HUNTER’S INSTINCTS
+As a Risen Hunter, you can take the Disengage action as a bonus action on your turn.
+
+at 2nd level:
+MELEE ABILITY
+
+At 2nd level you gain your melee ability option, Smoke, which you cast using melee ability charges. You have a single melee ability charge. You regain spent melee ability charges when you complete a brief rest.
+
+SMOKE
+Casting Time: 1 bonus action
+Range: 40 feet, mortar
+Cost: 1 melee ability charge
+Recharge: d6, 6
+Duration: Instantaneous
+
+You devise a clever, compact smoke bomb infused with a pinch of void Light, which you throw at a hard surface you can see within range. Upon impact, the puck breaks apart and releases an opaque cloud of green-black smoke that spreads to fill a sphere with a 10-foot radius. The cloud spreads around corners, and the area of the cloud is considered heavily obscured. A creature with darkvision can’t see through the cloud, and nonmagical/non-paracausal sources of light can’t illuminate it. Creatures of your choice can see through the cloud as if it were only a lightly obscured area. The cloud disperses at the start of your next turn.
+
+at 3rd level:
+SUPER ABILITY: MOEBIUS QUIVER
+Gained at 3rd level (see superclass description)
+
+Casting Time: 1 action
+Range: 100/200
+Cost: 1 super ability charge
+Recharge: d20, 17
+Duration: Instantaneous
+
+You summon a recurve bow of pure void Light into your hands—your Dusk Bow—and, as part of the same action, can shoot up to three arrows from it. Make a ranged Light attack roll for each arrow, with a bonus to hit equal to your Light level. Each arrow deals 2d8 + your Wisdom modifier + your Light level in void damage on a hit. After hitting a target with an arrow, the target becomes Weakened for the next minute.
+At Higher Levels. When you make an attack with Moebius Quiver at a Light level of 2nd or higher, its damage increases by 1d8 for each Light level you are above 1st.
+
+at 4th level:
+HUNTER’S DODGE
+Casting Time: 1 bonus action
+Range: Self
+Cost: 1 superclass ability charge
+Recharge: d6, 6
+Duration: Instantaneous
+You gain the effects of the Dodge action. You can only cast this superclass ability while grounded. Choose one of the following additional effects to grant yourself when you cast this Light ability. 
+Marksman’s Dodge. You dodge with a deft and steady hand. Choose one weapon you are holding. This weapon is reloaded instantly (this can overcome the Cumbersome property), and the next shot you take with this weapon, if that shot is taken before the start of your next turn, has its critical hit range increased by 1. 
+Gambler’s Dodge. If you cast this superclass ability when two or more hostile creatures are within 15 feet of you, you can regain one melee ability charge.
+
+
+
+GRENADES:
+SPIKE GRENADE
+Casting Time: 1 action
+Range: 60 feet, mortar
+Cost: 1 grenade ability charge
+Recharge: d8, 7
+Duration: Up to 1 minute
+You throw a void-laced grenade onto a non-living, hard surface within range. This grenade sticks to the surface and creates an active area in a 15-foot cone perpendicular to that surface. All creatures in the area must make a Charisma saving throw. They take 3d8 + your Light ability modifier in void damage on a failed save, or half as much on a success.
+For the duration, creatures who end their turn within the area, or who enter the area for the first time on a turn, must also make a Charisma saving throw against this grenade’s effects. 
+Device. This grenade can be destroyed if it takes any amount of damage. For this purpose, the grenade has an AC equal to 13 + your Light level, and fails all saving throws.
+At Higher Levels. The damage of this Light ability increases by 1d8 for each Light level you are above 1st.
+
+VOIDWALL GRENADE
+Casting Time: 1 action
+Range: 60 feet, mortar
+Cost: 1 grenade ability charge
+Recharge: d8, 8
+Duration: Concentration, up to 1 minute
+You toss an oblong Light grenade onto a hard surface within range. Upon impact with the surface, it instantly creates a roiling wall of void Light that is 25 feet long, 5 feet high, and 5 feet thick. The wall is opaque and lasts for the duration. All creatures in the area must make a Charisma saving throw, taking 2d10 + your Light ability modifier in void damage on a failed save, or half as much on a success.
+For the duration, all creatures that end their turn in the area of the wall, or who move through the area for the first time on a turn, must also make a Charisma saving throw against this grenade’s damage.
+At Higher Levels. The damage of this Light ability increases by 1d10 for each Light level you are above 1st.
+
+VORTEX GRENADE
+Casting Time: 1 action
+Range: 60 feet, mortar
+Cost: 1 grenade ability charge
+Recharge: d8, 8
+Duration: Concentration, up to 1 minute
+You lob a tightly packed ball of void Light onto a hard surface within range and, upon impact, the ball bursts into a 10-foot diameter sphere of churning void Light, centered on the spot it hit the surface. All creatures in the area take 4d4 void damage, and for the duration, all creatures that end their turn within the area, or who enter the area for the first time on a turn, take 4d4 void damage.
+At Higher Levels. The damage of this Light ability increases by 1d4 for each Light level you are above 1st.
+
+ITEMS:
+marble eyeball that has no effect on me
+but makes others wis=19
+
+Hang-in-there kitten keychain
+
+HEADSEEKER:
+Headseeker
+If you hit with a shot with this weapon while Aiming, and you roll a 1 or a 2 on any of this weapon's damage dice, you can re-roll those damage dice one time. You must use the new result, even if it's a 1 or a 2.
+
+TrACKING:
+Tracking
+When you take a shot with this weapon while Aiming, you can choose one target for the round to track. That creature becomes the impact point of the round, and it has disadvantage on its payload saving throw. If that creature uses a reaction that results in it moving, you can move the impact point to be within 5 feet of the tracked creature after they complete their reaction. If the creature ends its reaction behind cover, the impact point becomes that cover, which can affect the creature's saving throw like normal.
+
+
+GHOST PROPS:
+Damage point: 5+lvl
+Resistence: bludg, explos, kinet, pierc, slash
+Vulnerable: dark
+
+Memory slots: 15xINT SCORE = 120
+

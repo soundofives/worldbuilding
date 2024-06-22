@@ -12,6 +12,22 @@ Draft 2:
 **They fell out with Mordenkainen in a bad way, leaving on bad terms.** They traveled to the Abyss via borrowed magic, (through the Infinite Dark using the Tome of Zyx they had, now only the Demonomicon has the secret of passing through the Infinite Dark--) to the realm of Fraz Urb'luu, to attempt to bind him. **They lost. Yrah and Muck both had their hearts ripped out and were claimed by Fraz as slaves.** After that, Yrah and Muck served Fraz as slaves until Fraz was summoned to the Prime Material by Zagyg and Tasha and bound. **Demogorgon, Orcus, and Grazzt came and tore Hollow's Heart apart, taking Yrah and Muck with them.**
 Muck went to Orcus, **who was recently killed, becoming Tenebrous**. In this weakened and dormant state, Tenebrous sent Muck to a servant
 
+Draft 3:
+*Bolded statements have been written into Memories*
+**Muck grew up in a village outside Sinisa**, a poor farmer immersed in the natural world. He always had a knack with animals. **In his adolescence, Muck came to the Last and First City to find his fortune**. **He met a young Yrah, and they became quick friends. Through Yrah, Muck joined the Citadel of Eight, long before its members grew powerful and famous**. Through one of their adventures, they recovered the Tome of Zyx. **Using it, they discovered a plot by Orcus to invade the Prime Material and start a new Blood War.** **They were bent on stopping this plan. Mordenkainen was not of the same mind.**
+**They fell out with Mordenkainen in a bad way, leaving on bad terms.** They traveled to the Abyss via borrowed magic, (through the Infinite Dark using the Tome of Zyx they had, now only the Demonomicon has the secret of passing through the Infinite Dark--), unknowingly to the realm of Fraz Urb'luu. **Yrah and Muck both had their hearts ripped out and were claimed by Fraz as slaves.** After that, Yrah and Muck served Fraz as slaves until Fraz was summoned to the Prime Material by Zagyg and Tasha and bound.
+
+Before the sack of Hollow's Heart, Muck was sent away by Fraz to act as a pawn on the Material Plane.
+Notable things he did:
+Stardale
+Carnival d'Morai (sister entrance to Prismeer) (Prismeer's entrance is in Shadowfell now!)
+	Muck did lots of work investigating Demon Lords
+Set up Rilan and his consort as head of the Thieves Guild
+Dealing with the Emperor himself! 
+
+His heart is controlled by Rilan (a vampire) and his rakshasa consort, who are servants of Fraz. 
+
+
 #### Entry rolls
 
 1. Yrah introduces you to Mordenkainen, and you join the Citadel of Eight.
@@ -104,6 +120,11 @@ Muck went to Orcus, **who was recently killed, becoming Tenebrous**. In this wea
 - You are passed to the Vampire's consort and told to infiltrate the Tower.
    >[!quote] Memory
    >"Now Muck..." your vision opens in a candlelit room, a comfortable and dark parlor. Your body is sore. Scarred. Suddenly, it feels as if you've seen the weight of a hundred years. The man in front of you, the Master Thief Rilan, beckoned you. His face was pale as always, his fangs playing at the edge of a blood-stained goblet at his mouth. A woman in a sleek silk dress lounges across his shoulders, half on him and half on the plush couch. A burlap sack stained with blood set on a dark wooden stand next to them. It seemed to shift, as if something inside was moving. The woman, his consort Testra, eyed it. "We have a new task for you. A new job...and this one will pay out very, very well. The Tower of the Mad Mage has just arrived outside of Sinisa. We want you to...well, help us get inside. Now, of course, we can't have you knowing all this. So this requires a change in management..." The woman reaches down and grabs the burlap sack. A new hand. Your vision fades to black.
+
+
+- Fraz tells Muck that he must leave Hollow's Heart and go to the Last and First City to act as his agent--his arm, his tool, for his plans.
+>[!quote] Memory
+>The man--no, the huge white tiger-headed monster in front of you leans down, its head twice the size of yours. Its slitted cat eyes unblinking, changing colors. First red, then shimmering blue, then green. "Muck, it's time for you to go." Every word he says pulls at you--no, it demands you: your attention, your obedience, your love. To look away from those eyes would be more painful than death. "I need you to go back to the Last and First City, back to your home. I am sending you to meet my Voice. They will tell you everything you need to do. You will be my arm, my tool, my obedient and unknowing servant. Don't worry, little Muck", he said as he brought a huge paw up, its palm facing backwards, to cradle your head. "Everything will follow my designs. All you need to do is play your part." The monster stood, towering over you, his lavish silk robes sweeping around him, dragging along the floor as he walked away. Your vision fades to black.
 
 --
 New draft:

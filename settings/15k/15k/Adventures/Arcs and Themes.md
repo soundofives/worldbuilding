@@ -49,10 +49,17 @@ Bash hates Eres and Guire and Selor. He wants to corrupt everything they do, and
 Orcus's "plot" has been known to Mordenkainen for some time--at least since Yrah and Muck and Serten went to the Abyss. However, Mordenkainen didn't act then and he won't act now, at least not for the "good of the world". He believes that magic of his power must remain neutral. He is so arrogant that be believes himself to be a god-like force. However, he is secretly in love with Tasha and will act to protect or save her. Of course, canonically, Mordenkainen changes his ways and places himself as the ultimate arbiter, exiling Vecna and all of Touchstone.
 
 *Bank of Miros*
+Fraz knows that the significance of history and conflict forges heroes. He wanted to raise the conflict in the Empire to spur on the generation of the Crew, the great heroes that would kill Orcus for him. So, long ago, he stole the heart of Kasra Ishur and prompted him to split from the Duskivaines and grow the Bank of Miros. Fraz has been nudging the Bank this whole time as they started the religious war.
+They, however, don't necessarily know this. To them, they are just a Bank:
 If the world gets invaded by a demon horde, people will be less inclined to pay back their loans. This is unacceptable. If Orcus is planning to invade--he must be stopped. This Fraz guy? Whatever. Killing the Emperor? This would destabilize the government (in reality it will be so much worse), unacceptable. Eventually, the Bank might realize that the world is fucked. It goes into emergency mode: liquidate all assets. Close on all loans immediatly. Distribute magic items between its branches to use when it sets up de-facto local governments after the Empire collapses. Move on wholesale take overs, i.e. of the Incantators to monopolize magical powers for a possible warlord state.
 
 *Orcus*
-The Master of Death doesn't particularly want to invade the Prime Material plane. Sure, he wants all things dead and under his control eventually, but right now he's in a showdown against Fraz--not against the whole world yet. He is weakened, and so he is focusing on his revivification and finding his Wand. Once he accomplishes these two things, then he'll make a move against Fraz. Orcus entreats with Lolth to learn what he can about Fraz, and he tries to head Fraz off with his Cult if he can.
+The Master of Death doesn't particularly want to invade the Prime Material plane. Sure, he wants all things dead and under his control eventually, but right now he's in a showdown against Fraz--not against the whole world yet. He is weakened, and so he is focusing on his revivification and finding his Wand. He's working primarily through the Cycladene Church, the upper eschelons of which are filled with his worshipers. This was, subtly, supported by Fraz's manipulations. Orcus gives power to the Duskivaines and receives power from them as well. Nystul and others are working on reforming Orcus's wand. Once he accomplishes these two things, then he'll make a move against Fraz himself. He is constantly watching for Fraz and waiting for signs of him to emerge. He tracked him to the Tower, but realized that he is far too well protected there to be attacked. When Fraz left the Tower and went to Mordenkainen in the Obsidian Citadel, Orcus saw it as an opportunity to strike at his enemy. Orcus entreats with Lolth to learn what he can about Fraz, and he tries to head Fraz off with his Cult if he can.
+
+A - Orcus / Cycladenes strike at Obsidian Citadel
+B - Fraz strikes at Obsidian Citadel
+- right now, nobody knows that Yrah / Fraz left the Tower. Certainly not Orcus and the Cycladenes. Or would they?
+C - Both? After the kidnapping of Dariush Ishur, the Cycladenes investigate and track the Crew. They infiltrate the Obsidian Citadel and find Yrah, prompting them to attack it under orders of Orcus. Publicly, this is warranted because Mordenkainen is harboring high fugitives of the law. Privately, this is to attack the Crew and Yrah. Yrah / Fraz takes this assault as an opportunity to get rid of Mordenkainen.
 
 **Questions**
 
@@ -136,7 +143,7 @@ Key conclusions to make:
 ### Clues:
 
 - ***Orcus cult worship existed before 215 years ago, but the growth increased then. It dropped off 150 years ago.***
-- Other demonic cults follow the same trend, but they drop off completely at various times in the recent past.
+- ***Other demonic cults follow the same trend, but they drop off completely at various times in the recent past.***
 - The Demonomicon allows the imprisonment of demons.
 - The Demonomicon must be hidden away in a demiplane to prevent demonic possession.
 - ***Tasha controls the Demonomicon*** and hides it away in a demiplane.
@@ -160,13 +167,13 @@ Key conclusions to make:
 - If asked, Zagyg and Tasha say their beloved son, Yrah, was lost many years ago in a tragic accident.
 - ***Yrah traveled to the Abyss 215 years ago***
 - Fraz can tear hearts out and dominate people, holding their very life in his hands.
-- ((Muck's memory: Yrah and Muck both had their hearts ripped out by Fraz))
+- ***((Muck's memory: Yrah and Muck both had their hearts ripped out by Fraz))***
 **Conclusion** - Tasha and Zagyg are being blackmailed with their son's life.
 
 - Fraz is in the Tower.
 - Fraz can tear hearts out and dominate people, holding their very life in his hands.
 - Yrah traveled to the Abyss and vanished 215 years ago.
-- ((Muck's memory: Yrah and Muck both had their hearts ripped out by Fraz))
+- ***((Muck's memory: Yrah and Muck both had their hearts ripped out by Fraz))***
 - Tasha and Zagyg are being blackmailed with their son's life.
 **Conclusion** - "Yrah" is actually Fraz.
 
@@ -175,12 +182,21 @@ Key conclusions to make:
 - Muck has memory flashbacks that reveal actions taken that help Fraz.
 **Conclusion** - Muck is being controlled and groomed by Fraz.
 
-- Some people have scars over their hearts--their hearts have been ripped out.
+- ***Some people have scars over their hearts--their hearts have been ripped out.***
 - Muck can be controlled by the shadowy Rilan, who possesses his Heart.
 - The Emperor has a scar over his heart.
 **Conclusion** - The Emperor is being controlled.
 
-- The Thief Blade allows you to steal the power of those you kill.
+- ***The Thief Blade allows you to steal the power of those you kill.***
 - Zagyg (blackmailed by Fraz) acquires the Thief Blade.
 - Orcus possesses a great power, the Last Word, that lets him kill with a single utterance.
 **Conclusion** - Fraz wants to use the Thief Blade to kill Orcus and take the Last Word.
+
+
+
+--
+Orcus needs to be more active here. The Crew needs to care about his threat--they have to want to kill him.
+Fraz has introduced the idea that Orcus is manipulating the Cycladenes. How can he double down on this?
+
+Yrah goes all in -- he tells the Crew that Zagyg is a demon closely tied to Orcus and was keeping him there because he was the only one who knew.
+He had to get away from the Shadows, because the Shadows could report to the Emperor who is also in cahoots with demons.

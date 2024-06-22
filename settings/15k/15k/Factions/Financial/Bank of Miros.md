@@ -118,7 +118,8 @@ These boons reflect both the character's rising status within the Bank and the i
 -----
 
 Worth/assets: 18 million gp.
-Approx. 0.0016 the worth of the LFC. The Medici bank was about 0.0002 of the GDP of Italy.
+Approx. 0.0016 the worth of the LFC (gdp around 11 billion gp). The Medici bank was about 0.0002 of the GDP of Italy.
+Approx 0.000008 the worth of the entire Empire (gdp around 2.2 trillion gp)
 On average, the bank has a net income of around 180,000 gp / year, but this fluctuates quite a bit. This 18 million gp net worth has been accrued over hundreds of years and withstood significant turmoil. About a 1% growth rate over its ~700 yr history could set this up. Initial investment of 10,000 gp.
 If there are 1500 mercenaries working for avg of 45 gp / month and the Bank gets 10%, then the Bank is earning about 6,700 gp / month from the war. Thats 80,000 per year. This is a profit increase for the bank of 44%. It is, indeed, worth it.
 

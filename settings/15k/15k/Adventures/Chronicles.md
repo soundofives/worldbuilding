@@ -1,4 +1,7 @@
 
+
+# Act 1
+
 1. **Session 1:** Chaos in the Crypts (The Pummelling of Nedavir) You delved into the crypts below the Tower and found that a dark ritual had gone horribly wrong, creating a mutant creature from 3 former apprentices.
 	1. Date: 3 Bonzin
 	2. Downtime: 10 days
@@ -31,4 +34,34 @@
 12. **Session 12**: Dragons! The Crew ties up loose ends around the City, then they join the Tower as it flies southward in search of the prophesied "Black Blade". They are caught in an unnatural storm along the way and attacked by a clan of blue and white storm dragons.
 	1. Date: 29 Kolma 5878 - 29 Hara 5879
 	2. Downtime: 30 days.
-13. **Session 13**: 
+13. **Session 13 -- A Distillation of Kumquat Poison** The Crew reached the ruins of the Mausoleum of Survyastra where it is believed the Black Blade of prophecy is buried. The Mausoleum, now buried by five millennia of ash falls, is excavated by local villagers while the Crew investigates the strange properties of kumquat trees planted in the area. As seems to be a trend, the villagers turned out to be cultists and teleported the whole Crew into the depths of the still-buried Mausoleum to serve as sacrifices to their bloody goddess.
+	1. Date: 29 Hara - 18 Shadary
+14. **Session 14 -- Into the Mausoleum** The Crew ventured through Suryastra's catacombs, unraveling its history and searching for the five keystones needed to reach the center of the ruins. They were caught by a pack of blood-starved vampires, but they managed to escape when they realized that they did not know the secret to the monsters' destruction. After their escape, they stumbled across the chamber of Suryastra's Slavemaster, who had long lost her mind. In a narrow and daring move, they stole her keystone and escaped into the dark.
+	1. Date: 18 Shadary - 20 Shadary
+15. **Session 15 -- The Beast** The Crew pursued hints at a third Keystone, which might be held by the Foregemaster's Beast. They traveled into the hot magmatic depths of the Mausoleum and found the monster: an imprisoned demon named Uzaxuk who promised them glorious power and a key stone if they could free him. They took the risk, but were betrayed by the mighty demon and had to fight him. Uzaxuk was defeated, and the Crew walked away with another Key Stone and some new gear.
+	1. Date: 20 Shadary - 23 Shadary
+16. **Session 16 -- The Warlock** The fourth Key Stone was tracked to the upper Mausoleum, near the surface where cracks, eroded stone, and animals have turned the tunnels into ashy, sandy labyrinths. The Crew quickly traversed the regions, stumbling upon a colony of giant ants that they hijacked and used to help find the mad, corrupted warlock Harmanand. Harmanand, who had set up the Trials to judge challengers to Suryastra 5000 years ago, had long been twisted by the planar energies that he studied. He tried to corrupt the Crew, but they denied him and gang banged him with ants, coming away from the encounter with his crystal eye and a fourth Key Stone.
+	1. Date: 23 Shadary - 25 Shadary
+17. **Session 17 -- The Queen** You rescued Sammy and the other Tower Mercenaries from the depths of the Mausoleum, recoving the final keystone in the process. With all five stones, the final door was opened and the Queen was confronted. In fantastic fashion, the Queen was killed along with all the other mercenaries. The Crew collected the Black Blade for themselves, confident that it would do no good in Zagyg's hands.
+	1. Date: 25 Shadary - 27 Shadary
+18. **Session 18 -- Fly, you fools!** After tense magical questioning by Zagyg and Taforayesh, the Crew realized that it was now or never--they had to get out before Zagyg turned on them. They planned their escape and called in Mordenkainen to break Yrah out of his prison. They fled in a rush, and as they were teleporting away Zagyg found them. Just before they popped back to the Last and First City, they heard, **"I never planned to hurt them! They were necessary..."**
+	1. Date: 27 Shadary - 28 Shadary
+	   
+	   
+	   # Act 2
+	   
+19. **Session 19 -- The Ball** Finally back in the City, the Crew caught up with their business and realized that the last few months had changed quite a bit: the war between the Cycladenes and the Myriad had escalated, tying up many innocent bystanders in the process. The Logging Guild had gone into overdrive, employed by the Cycladenes, and the Brothers' Company had become a centerpiece in the political game of the City. Through their connection with Madame Touille, the Crew attended a high-brow Cycladene Ball. They gathered info, assassinated the Logging Guild Master and the Archlord of Coin for the bureaucracy, and saved the Cycladene executives from an attempted Myriad attack. Their assassination of the Archlord was discovered, though, and the City entered high-alert.
+	1. Date: 28 Shadary - 2 Aukairin
+20. **Session 20 -- Escape from Dragon's Rook** The Crew snuck away from the crime scene. A mysterious vampire, Rilan, found Carric and warned him that both the Bank and the Cycladenes are searching for him--or more rightly, searching for the body of Dariush Ishur, the Archlord of Coin, so that they can either question it or destroy it. Once the Crew met back up, they realized they were followed by several Cycladene asassins: the Shynedar-Kai. The Crew was surrounded on a bridge and forced to carry out an elaborate deception to fool the Shynedar-Kai. Eventually, the Crew met back up with Borlaw from the Bank and gave him the Archlord's body. The questioning revealed that the Cycladene higher-ups are filled with Orcus worshippers.
+	1. Date: 2 Aukairin
+21. **Session 21 -- The Obsidian Citadel** The Crew went to check on Mordenkainen, who had positioned himself as a powerful ally--but the Obsidian Citadel had been attacked by Zagyg and destroyed. Yrah survived, but warned them that Zagyg would not rest long. They needed to find a new hideout. The Crew ventured into the ruins of the Citadel to recover clues to the whereabouts of an extradimensional base, Leomund's Hidden Lodge.
+	1. Date: 3 Aukairin
+22. **Session 22 -- Monster House** The Crew found Leomund's Hidden Lodge in Shada after first clubbing a small band of blue collar workers in the street. They were confronted by Zagyg and Taforayesh just outside the Lodge, but escaped into its extradimensional depths where they battled for their lives against Leomund's mimics.
+	1. Date: 4 Aukairin
+23. **Session 23 -- Leomund's Hidden Lodge** After a grueling and nearly fatal encounter, the Crew subdued the Lodge and bound it to their loyalty.
+	1. Date: 4 Aukairin
+24. **Session 24 -- Competition Must Die** The Crew set up the Lodge in New Tanore, taking some time to settle in and think about the City around them. They talked to high priests of the Myriad about their war progress against the Cycladenes, and decided that, in order to ensure the downfall of their enemies, the ambitious mercenary leader Adnan Alici needed to be removed from the picture. During the plot to stop Adnan from selling his forces to the Cycladenes, the Crew discovered that a new potion was making its way through the streets of the City: competition. In a fantastical move, the Crew spectacularly slandered the new potion and isolated Adnan from his revelers. They executed their Plan B, which ended in a frantic struggle by the light of the Lodge's prismatic engine. Adnan Alici was killed, leaving a power vacuum at the top of the rising power in the City: the Brother's Company.
+	1. Date: 5 Aukairin - 1 Bonzin
+25. **Session 25 -- Under New Management** With Adnan gone, the Crew were poised to take his place and secure their Myriad alliance. They raided Adnan's house, taking with them his massive wealth of gold, gems, and horded magic. They reported back to the Knight Vallorant of Heironeous, leader of the Myriad's war effort against the Cycladenes, and told him of Adnan's death. After, they met with the Guild Majors of the Brother's Company and witnessed Maximo's "promotion" into their council. Their leader, Valandor Sef, manipulated the process however, and Maximo's position seems to be only a facade.
+	1. Date: 2 Bonzin
+26. 

@@ -1,0 +1,3 @@
+Last time, I advanced the Veliu story by having Lord Samir Veliu captured by Cailana and Naz. Rather than coercing the Veliu's to distribute their goods; they had blackmailed them and threatened them with the life of Samir. The syndicate member, Zara Bakalli, is still important for the distribution of the potions. She moves the potions between gates on behalf of the Hauling Guild.
+
+The dinner party gave the Veliu's the opportunity to slip the message to Carric that they were being held captive. However, the Helmed Horrors reported this back to Cailana, who has just left her warehouse (and Samir) with Naz. Cailana is heading to the Veliu's to 

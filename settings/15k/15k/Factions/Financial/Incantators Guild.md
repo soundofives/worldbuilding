@@ -31,27 +31,23 @@ The Incantator's Guild is a prestigious organization of mages who specialize in 
 4. **Renovation and Restoration**: Guild members are skilled at restoring ancient structures and rejuvenating historical landmarks, preserving the empire's rich heritage.
     
 
-**Notable Figures**:
-
-1. **Grand Magister Seraphina Stoneheart**:
-    
-    - Grand Magister Seraphina is a revered figure who leads the guild with wisdom and vision. She possesses a deep understanding of both magic and engineering and is known for her ability to harmonize these two fields.
-2. **Master Artificer Thalindor Trueforge**:
-    
-    - Master Artificer Thalindor is a genius when it comes to enchanting structures. He is the go-to expert for imbuing buildings with protective, aesthetic, and functional enchantments.
-3. **Architect Magus Lysandra Brightskies**:
-    
-    - Lysandra is a brilliant architect known for her innovative designs and ability to harmonize magic with aesthetics. Her creations often push the boundaries of what's possible.
-4. **Master Elemental Shaper Rurik Stonewind**:
-    
-    - Rurik is a renowned earth mage who can shape and manipulate stone and earth with remarkable precision. His skills are invaluable for large-scale projects.
-5. **Project Manager Elara Windrider**:
-    
-    - Elara is a seasoned project manager who oversees complex construction projects. Her ability to coordinate the efforts of guild members and mundane workers is unmatched.
-
 The Incantator's Guild is a vital and respected institution in the empire, shaping its growth and prosperity through the construction of grand architectural marvels and the efficient development of infrastructure. Their combination of magical expertise and engineering knowledge makes them indispensable in the empire's continued expansion and development.
 
+Each Pale has 1 Incantator's Guild Tower. Each Tower focuses on something different, though they all have general capabilities:
+Construction, Engineering, Renovation, Restoration, Urban Planning
+Fire-fighting,
+Enchanting,
+Protection.
 
+**Notable Figures**:
+Grand Magister: Isidra Alkan, a devout Cycladene, head of the central Guild Tower in (Touchstone).
+High Magisters:
+Fire genasi, Singe (Shada)
+Tiefling, Zetlana Bashik (Sinisa)
+Orcblooded, Tarq Demir (Ithalas)
+Brown-skinned elf, Hadi Hoxha (New Tanore)
+Brown-skinned elf, Bader Alemann (Dragon's Rook)
+Unseelie gnome, Thoffarassas of Arcturiadoom, escaped experiment (Bonz)
 
 Incantator hiring cost:
 Cantrip 20gp
@@ -75,3 +71,10 @@ Cantrip 20gp
 7th 16 weeks 25,000gp  
 8th 32 weeks 50,000gp  
 9th 48 weeks 250,000gp
+
+OR:
+
+1st: 15gp 2nd: 50gp 3rd: 150gp 4th: 350gp 5th: 650gp 6th: 1,100gp 7th: 1,700gp 8th: 2,500gp 9th: 3,700gp
+
+Current status:
+The Incantators are in a bind. The Obsidian Citadel and Prismeer have both crumbled or vanished, leaving only the Tower left to educate new mages. Essentially, the Incantators--and the City in general--are facing a magical demographic bottleneck. Newfound sorcerers will have nowhere to hone their skills--except the Tower, which can't take in a hundred students. The Tower's prices increase, and it leaves many bitter young sorcerers in the streets, as it can't teach them. Over the last month, Incantators are approached to work as private tutors, which many do. Soon, a young Incantators School will open and take its place as a new magical university. It will rise and last until the end of the Last and First City.

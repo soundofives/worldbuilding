@@ -14,7 +14,7 @@
 
 6. The Tower is hosting a festival and needs artists. Acquire them by any means necessary.  
  
-7. Zagyg's pursuit of apotheosis: he seeks the Thief Blade, partially for the Vampire Lord Kas, but partially for himself...
+~~7. Zagyg's pursuit of apotheosis: he seeks the Thief Blade, partially for the Vampire Lord Kas, but partially for himself...~~
   
 8. Fraz saga.
 8.0. ~~Find Fraz. You have to get past the Forbidance ward set up by Vezel, and make your way through the Guards and Wards maze guarded by a monster.~~
@@ -29,7 +29,7 @@
 
 ~~12. Students have gone missing in the crypts! Find them~~
 
-13. It's time for Milo to pass her Apprentice Exam and find an artifact to conjure a ghostly advisor. She, wishing for power and protection, will seek a Warrior.
+~~13. It's time for Milo to pass her Apprentice Exam and find an artifact to conjure a ghostly advisor. She, wishing for power and protection, will seek a Warrior.~~
 
 14. The Prismeer carnival appears, as Tasha wants to talk to / needs help from the PCs, leading to a Feywild adventure!
 

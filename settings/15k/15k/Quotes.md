@@ -48,3 +48,57 @@
 "Somebody cut my fucking head off" - Rabbitouille
 "I slap elk ass" - Adam Benfield
 "Disengage triggers an attack of opportunity from me" - Carric "Fuck off" - Rabbitouille
+"Think of what a man cave would look like in the 1470's" - Evan     "So like an actual cave" - Adam
+"Your ass is enourmous" - DM "And what about my tits" -  Evan
+"WHo's gunna carry the boots?" - 
+"I'm gunna find whereever your asshole starts and fuck it" - 
+"Ok, I'm about to gang bang him." - Rabbitouille
+"In your anger, it seems you  have killed her" - Carric
+"So are you edging or are you gooning?" - Carric
+"You can shove a lot in that throat" - Muck
+"Usually we don't save people from the Tower. There's a trail of bodies." - Carric "Uhhhhh, what he means is..." - Rabbitouille
+"DId he suck you dry?" - Muck
+"I need the strength to grab a god" - Carric
+"I'm about to stuff you like a turkey" - Rabbitouille
+"Give me a good bonking" - Muck
+"I don't know if my dad likes me" - Rabbitouille
+"I'm always here to give you a ride" - Phillip , "Just like Nolan's Mom" - Carric
+"Fuck.....they're liberals." - Carric
+"I'm on a daddy - daughter   --- ugh, I mean mother son date" - Rabbitouille
+"If you could change one thing in this world little rabbit, what would it be?" - Mahin Duskivaine
+	-I would wish that elves could marry animals - Rabbitouille
+"He's attacking the tree hugging cunt!" - Muck
+"Shynedar Akhbar!!!!!" - Rabbitouille
+"Jesus why don't you just cut off your balls" - Cole
+"I think we should kill them" - Koshi
+"Master wait for me master! " - Rabbitouille
+"1 millllion gold" - Carric
+"The were black males outside..." - Mysto
+"The black males left!" - Rabbitouille
+"I fart in it and give it pink eye" - Rabbitouille
+"There's lots of him mirrored, right? He's the Blue Man group!" - Maximo
+"Large gaps are worries for people who haven't fallen 3000 feet before" - Carric
+"Maximo has many advanced skills, but reading is not one of them" - Maximo
+"I use my reaction to say, "Oh shit"" - Carric
+"Tug it out? In a time like this?" -Rabbitouille
+"I see Carric expose himself" - Rabbitouille
+"I'm tuggin hard" - Rabbitouille
+"Oh boy that's one happy ending" - Muck
+"It doesn't say where I laid hands" - Maximo
+"I upper-deck the Touille bathroom" - Carric
+"I've never beat any little kids in my entire life" - Carric
+"I kiss the toad and turn it to a prince" - Rabbitouille
+"I could hang myself on the chandelier" - Rabbitouille
+"It's full of cum" - Carric
+"I'll take the bottle of cum" - Rabbitouille
+"They're not necessarily our kind of people..."  "It's because they're black" - Carric
+"Mahin, I want to be very clear.... let's run away together." - Rabbitouille
+"He got very unlucky and just disintegrated" - Carric
+"We're going to get blown back?" - Carric
+"Well we'll blow his back out" - Rabbitouille
+"Consider his back blown" - Rabbitouille
+"Heads will roll. Backs will be blown. Shitting will be much easier." - Rabbitouille
+"So all dwarves are bi?" - Gilbert
+"I steal 4 wedding rings and put them in my butt" - Gilbert
+"I cover myself in blackface" - Gilbert
+"Hey lil mamma" - Gilbert

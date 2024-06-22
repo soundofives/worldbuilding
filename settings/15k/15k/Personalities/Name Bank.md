@@ -1,181 +1,47 @@
 ## Old Sinisar names
 
-| Number | Male     | Female   | Neuter   |
-| ------ | -------- | -------- | -------- |
-| 1      | Arik     | Kataena  | Mirola   |
-| 2      | Zoran    | Jelana   | Zlatan   |
-| 3      | Daliborn | Ivara    | Davor    |
-| 4      | Vukmir   | Dragana  | Vesel    |
-| 5      | Borlaw   | Vesna    | Milo     |
-| 6      | Luvomas  | Milica   | Zerif    |
-| 7      | Danoris  | Zetlana  | Vasilije |
-| 8      | Miros    | Bojia    | Staki    |
-| 9      | Stojan   | Ljiljana | Rilan    |
-| 10     | Gadovan  | Nada     | Kosla    |
-| 11     | Tomlaw   | Maja     | Dusan    |
-| 12     | Nedavir  | Diyana   | Marlo    |
-| 13     | Palnek   | Zorica   | Janlo    |
-| 14     | Laven    | Nezana   | Hem      |
-| 15     | Bozidir  | Natasa   | Desli    |
-| 16     | Gorm     | Isidra   | Moryes   |
-| 17     | Hamur    | Soraya   | Kasra    |
-| 18     | Dariush  | Samira   | Nagin    |
-| 19     | Talmir   | Mahin    | Shanam   |
-| 20     | Banik    | Testra   | Saam         |
 
----
-## Common Sinisar names
+| Number | Male     | Female   | Neuter   | Male   | Female  | Neuter  | Roll --- | Race                              | Astral Races |            |
+| ------ | -------- | -------- | -------- | ------ | ------- | ------- | -------- | --------------------------------- | ------------ | ---------- |
+| 1      | Arik     | Kataena  | Mirola   | Karim  | Layla   | Fars    | 1-25     | Human                             | 1-40         | Genasi     |
+| 2      | Zoran    | Jelana   | Zlatan   | Jamil  | Amira   | Noor    | 26-40    | Chromatic Elf                     | 41-50        | Gith       |
+| 3      | Daliborn | Ivara    | Davor    | Mal    | Nadia   | Sari    | 41-55    | New World Elf                     | 51-70        | Dragonborn |
+| 4      | Vukmir   | Dragana  | Vesel    | Tarq   | Sanaa   | Basel   | 56-65    | Heavenly (Dwarf, Gnome, Halfling) | 71-75        | Dragon     |
+| 5      | Borlaw   | Vesna    | Milo     | Hadi   | Rania   | Shadi   | 66-75    | Tiefling                          | 76-80        | Myconid    |
+| 6      | Luvomas  | Milica   | Zerif    | Rashil | Dalia   | Kamil   | 76-80    | Astral (Gith, Genasi, Dragonborn) | 81-85        | Slaad      |
+| 7      | Danoris  | Zetlana  | Vasilije | Samir  | Lina    | Marwan  | 80-86    | Fey                               | 86-90        | Tabaxi     |
+| 8      | Miros    | Bojia    | Staki    | Azi    | Sahar   | Sade    | 87-100   | Goblinoid                         | 91-95        | Kenku      |
+| 9      | Stojan   | Ljiljana | Rilan    | Farim  | Zara    | Rami    |          |                                   | 96-100       | Aarakocra  |
+| 10     | Gadovan  | Nada     | Kosla    | Naz    | Samira  | Bader   |          |                                   |              |            |
+| 11     | Tomlaw   | Maja     | Dusan    | Rafi   | Yasa    | Nidal   |          |                                   |              |            |
+| 12     | Nedavir  | Diyana   | Marlo    | Nadim  | Muna    | Zayd    |          |                                   |              |            |
+| 13     | Palnek   | Zorica   | Janlo    | Fayesh | Lei     | Adnan   |          |                                   |              |            |
+| 14     | Laven    | Nezana   | Hem      | Haroun | Nisrene | Mazen   |          |                                   |              |            |
+| 15     | Bozidir  | Natasa   | Desli    | Anwar  | Shala   | Karsh   |          |                                   |              |            |
+| 16     | Gorm     | Isidra   | Moryes   | Jaf    | Saida   | Bitt    |          |                                   |              |            |
+| 17     | Hamur    | Soraya   | Kasra    | Tahir  | Ama     | Lufi    |          |                                   |              |            |
+| 18     | Dariush  | Samira   | Nagin    | Raheel | Yara    | Amis    |          |                                   |              |            |
+| 19     | Talmir   | Mahin    | Shanam   | Munir  | Fawzia  | Wael    |          |                                   |              |            |
+| 20     | Banik    | Testra   | Saam     | Cirus  | Nava    | Soroush |          |                                   |              |            |
 
-| Number | Male   | Female  | Neuter |
-| ------ | ------ | ------- | ------ |
-| 1      | Karim  | Layla   | Fars   |
-| 2      | Jamil  | Amira   | Noor   |
-| 3      | Mal    | Nadia   | Sari   |
-| 4      | Tarq   | Sanaa   | Basel  |
-| 5      | Hadi   | Rania   | Shadi  |
-| 6      | Rashil | Dalia   | Kamil  |
-| 7      | Samir  | Lina    | Marwan |
-| 8      | Azi    | Sahar   | Sade   |
-| 9      | Farim  | Zara    | Rami   |
-| 10     | Naz    | Samira  | Bader  |
-| 11     | Rafi   | Yasa    | Nidal  |
-| 12     | Nadim  | Muna    | Zayd   |
-| 13     | Fayesh | Lei     | Adnan  |
-| 14     | Haroun | Nisrene | Mazen  |
-| 15     | Anwar  | Shala   | Karsh  |
-| 16     | Jaf    | Saida   | Bitt   |
-| 17     | Tahir  | Ama     | Lufi   |
-| 18     | Raheel | Yara    | Amis   |
-| 19     | Munir  | Fawzia  | Wael   |
-| 20     | Cirus  | Nava    | Soroush       |
-
-
-### Common Surnames:
-
-1. Mirković
-2. Stojančić
-3. Alimov
-4. Seferi
-5. Radosavljević
-6. Mirzayev
-7. Alemanni
-8. Shughnibek
-9. Vuković
-10. Ljubomirović
-11. Jovanović
-12. Abdullayev
-13. Popović
-14. Petrović
-15. Stojković
-16. Demir
-17. Sokolović
-18. Rahimi
-19. Simić
-20. Rakhmonov
-21. Maksimović
-22. Kostić
-23. Šuker
-24. Selimi
-25. Fazli
-26. Bakalli
-27. Mustafai
-28. Papazi
-29. Sulejmanov
-30. Stamatović
-31. Gashi
-32. Aliyev
-33. Delibašić
-34. Alisi
-35. Ajdini
-36. Hadžić
-37. Abdiu
-38. Mehmeti
-39. Vlachou
-40. Asllani
-41. Bašić
-42. Bahar
-43. Qasemi
-44. Dmitrijević
-45. Zdravković
-46. Andreev
-47. Veliu
-48. Lazarević
-49. Stanković
-50. Spiro
-51. Zeqiri
-52. Sekulić
-53. Brkić
-54. Pires
-55. Rakhimov
-56. Bojić
-57. Tanushi
-58. Marinković
-59. Neković
-60. Ajeti
-61. Mačić
-62. Davidović
-63. Rahmani
-64. Pavlović
-65. Alkan
-66. Osmanković
-67. Tahiraj
-68. Stanišić
-69. Bajrami
-70. Raković
-71. Kala
-72. Ljutić
-73. Avdiu
-74. Mitić
-75. Ilazi
-76. Daci
-77. Ljajić
-78. Ivanović
-79. Sulejmani
-80. Orazi
-81. Hoxha
-82. Demiri
-83. Salkić
-84. Nikolić
-85. Xhafa
-86. Ćosić
-87. Llullaku
-88. Dimitrijević
-89. Mehmedi
-90. Mihajlović
-91. Ćuk
-92. Biševac
-93. Paunović
-94. Iseni
-95. Cvetković
-96. Elezi
-97. Stošić
-98. Beqiri
-99. Perić
-100. Mahmuti
-
----
-
-### Races
-
-| roll | Race            |
-| ---- | --------------- |
-| 1-25     | Human           |
-| 26-40     | Chromatic Elf   |
-| 41-55     | New World Elf   |
-| 56-65     | Heavenly (Dwarf, Gnome, Halfling)           |
-| 66-75     | Tiefling        |
-| 76-80     | Astral (Gith, Genasi, Dragonborn)          |
-| 80-86     | Fey |
-| 87-100     | Goblinoid       |
-
-| Astral Races |            |
-| ------------ | ---------- |
-| 1-40         | Genasi     |
-| 41-50        | Gith       |
-| 51-70        | Dragonborn |
-| 71-75        | Dragon     |
-| 76-80        | Myconid    |
-| 81-85        | Slaad      |
-| 86-90        | Tabaxi     |
-| 91-95        | Kenku      |
-| 96-100       | Aarakocra           |
+| 1. Mirković      | 21. Maksimović | 41. Bašić       | 61. Mačić      | 81. Hoxha        |
+| ---------------- | -------------- | --------------- | -------------- | ---------------- |
+| 2. Stojančić     | 22. Kostić     | 42. Bahar       | 62. Davidović  | 82. Demiri       |
+| 3. Alimov        | 23. Šuker      | 43. Qasemi      | 63. Rahmani    | 83. Salkić       |
+| 4. Seferi        | 24. Selimi     | 44. Dmitrijević | 64. Pavlović   | 84. Nikolić      |
+| 5. Radosavljević | 25. Fazli      | 45. Zdravković  | 65. Alkan      | 85. Xhafa        |
+| 6. Mirzayev      | 26. Bakalli    | 46. Andreev     | 66. Osmanković | 86. Ćosić        |
+| 7. Alemanni      | 27. Mustafai   | 47. Veliu       | 67. Tahiraj    | 87. Llullaku     |
+| 8. Shughnibek    | 28. Papazi     | 48. Lazarević   | 68. Stanišić   | 88. Dimitrijević |
+| 9. Vuković       | 29. Sulejmanov | 49. Stanković   | 69. Bajrami    | 89. Mehmedi      |
+| 10. Ljubomirović | 30. Stamatović | 50. Spiro       | 70. Raković    | 90. Mihajlović   |
+| 11. Jovanović    | 31. Gashi      | 51. Zeqiri      | 71. Kala       | 91. Ćuk          |
+| 12. Abdullayev   | 32. Aliyev     | 52. Sekulić     | 72. Ljutić     | 92. Biševac      |
+| 13. Popović      | 33. Delibašić  | 53. Brkić       | 73. Avdiu      | 93. Paunović     |
+| 14. Petrović     | 34. Alisi      | 54. Pires       | 74. Mitić      | 94. Iseni        |
+| 15. Stojković    | 35. Ajdini     | 55. Rakhimov    | 75. Ilazi      | 95. Cvetković    |
+| 16. Demir        | 36. Hadžić     | 56. Bojić       | 76. Daci       | 96. Elezi        |
+| 17. Sokolović    | 37. Abdiu      | 57. Tanushi     | 77. Ljajić     | 97. Stošić       |
+| 18. Rahimi       | 38. Mehmeti    | 58. Marinković  | 78. Ivanović   | 98. Beqiri       |
+| 19. Simić        | 39. Vlachou    | 59. Neković     | 79. Sulejmani  | 99. Perić        |
+| 20. Rakhmonov    | 40. Asllani    | 60. Ajeti       | 80. Orazi      | 100. Mahmuti     |

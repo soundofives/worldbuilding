@@ -211,7 +211,11 @@ Timeline of the Cycladene Church:
 14.6k Bank of Miros matures, Renaissance of Sashism grows. Cycladene power in Bureaucracy wanes through Cycladene-Sashist schism.
 
 (57th century)
-14.4k Bank of Miros, at its height, begins to secretly fund the Myriad and instigate the religious war.
+14.4k Bank of Miros, at its height, begins to secretly fund the Myriad and instigate the religious war. The Bank invests heavily in smiths and armories.
+
+14.3k Religious tensions have risen over the last century, and the first street violence is seen between gangs of thugs.
+
+14,200 Seeing an opportunity for escalation, the Bank cuts a deal with the Brother Company's Valandor Sef--at this time a young half-elf.
 
 current: tail end of 59th century
 
