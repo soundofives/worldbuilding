@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Adventures/Adventure 26/Adventure 26 narrative.md",
+                "file": "Personalities/Hells/Levistus.md",
                 "mode": "source",
                 "source": false
               }
@@ -201,7 +201,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "rakshas",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -218,7 +218,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -238,7 +239,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Adventures/Adventure 26/Adventure 26 narrative.md",
+                "file": "Personalities/Hells/Levistus.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -255,7 +256,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Adventures/Adventure 26/Adventure 26 narrative.md",
+                "file": "Personalities/Hells/Levistus.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -278,7 +279,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Adventures/Adventure 26/Adventure 26 narrative.md"
+                "file": "Personalities/Hells/Levistus.md"
               }
             }
           },
@@ -322,8 +323,9 @@
   },
   "active": "17f29a872e82960b",
   "lastOpenFiles": [
-    "Adventures/Adventure 25/Adventure 25 narrative.md",
+    "Personalities/Abyss/Fraz, Var-Az the Hollow King.md",
     "Adventures/Adventure 26/Adventure 26 narrative.md",
+    "Adventures/Adventure 25/Adventure 25 narrative.md",
     "Adventures/Adventure 25/statblocks.md",
     "Adventures/Adventure 26",
     "Factions/Religious/The Myriad.md",
@@ -353,7 +355,6 @@
     "Personalities/Name Bank.md",
     "Factions/Criminal/Thieves Guild.md",
     "Adventures/Chronicles.md",
-    "Factions/Bureaucratic/Neshirim.md",
     "Attachments/Pasted image 20240515131702.png",
     "Attachments/Pasted image 20240515131530.png",
     "Attachments/Pasted image 20240515130959.png",
