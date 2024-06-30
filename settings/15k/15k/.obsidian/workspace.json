@@ -13,19 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Adventures/Adventure 25/Adventure 25 narrative.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "17f29a872e82960b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Personalities/Hells/Levistus.md",
+                "file": "Adventures/Adventure 25/statblocks.md",
                 "mode": "source",
                 "source": false
               }
@@ -171,8 +159,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -218,8 +205,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -239,7 +225,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Personalities/Hells/Levistus.md",
+                "file": "Adventures/Adventure 25/statblocks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -256,7 +242,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Personalities/Hells/Levistus.md",
+                "file": "Adventures/Adventure 25/statblocks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -279,7 +265,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Personalities/Hells/Levistus.md"
+                "file": "Adventures/Adventure 25/statblocks.md"
               }
             }
           },
@@ -321,11 +307,12 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "17f29a872e82960b",
+  "active": "5b9d2bf914a5a163",
   "lastOpenFiles": [
-    "Personalities/Abyss/Fraz, Var-Az the Hollow King.md",
-    "Adventures/Adventure 26/Adventure 26 narrative.md",
     "Adventures/Adventure 25/Adventure 25 narrative.md",
+    "Adventures/Adventure 26/Adventure 26 narrative.md",
+    "Personalities/Hells/Levistus.md",
+    "Personalities/Abyss/Fraz, Var-Az the Hollow King.md",
     "Adventures/Adventure 25/statblocks.md",
     "Adventures/Adventure 26",
     "Factions/Religious/The Myriad.md",
@@ -354,7 +341,6 @@
     "Adventures/Adventure 25",
     "Personalities/Name Bank.md",
     "Factions/Criminal/Thieves Guild.md",
-    "Adventures/Chronicles.md",
     "Attachments/Pasted image 20240515131702.png",
     "Attachments/Pasted image 20240515131530.png",
     "Attachments/Pasted image 20240515130959.png",
