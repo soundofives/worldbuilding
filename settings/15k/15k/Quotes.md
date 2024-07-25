@@ -102,3 +102,5 @@
 "I steal 4 wedding rings and put them in my butt" - Gilbert
 "I cover myself in blackface" - Gilbert
 "Hey lil mamma" - Gilbert
+"ALright, how many people am I sucking.... 1, 2, 3, 4... I'm sucking 4 people at once!" - Rabbitouille
+"The fine china broke my fall" - Maximo

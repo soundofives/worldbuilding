@@ -81,6 +81,8 @@ Now that the sword is bound to the Lodge, Yrah simply hangs out in it unless it'
 Rilan is a cult master of Orcus working secretly along with Fraz. After two Rakshasas infiltrated the Duskivaines and seeded Orcus worship, he approached to organize them. He is working to summon Orcus to this plane so that the Crew can kill him. As a cultist of Orcus, he has communed several times with the Dark God and been very careful to cover his deceptions. He is thus a master of deception, able to fool even Orcus himself.
 Rilan and the Crew: he controls Muck, and has made that known. He will use this to draw hatred of Orcus. How? He will make it imperative that they free Muck from Rilan.
 
+Khas is Orcus's main servant. Rilan is his consort -- and a plant by Fraz. Rilan is a rakshasa vampire and one of Fraz's main servants within the upper echelons of the Empire.
+
 ## Veliu
 
 Veliu manor is not huge. The family is prominent, but they are not insanely wealthy. They have a small collection of very old magic items, including a Lifewell mask, an item purchased from an archon long ago. It adheres to the face while attuned.

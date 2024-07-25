@@ -8,24 +8,24 @@
         "type": "tabs",
         "children": [
           {
-            "id": "5b9d2bf914a5a163",
+            "id": "7b773bdc89a6787c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Adventures/Adventure 25/statblocks.md",
+                "file": "Adventures/Arcs and Themes.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "7b773bdc89a6787c",
+            "id": "a952f7d5c355b630",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Personalities/Name Bank.md",
+                "file": "Personalities/Abyss/Fraz, Var-Az the Hollow King.md",
                 "mode": "source",
                 "source": false
               }
@@ -45,19 +45,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Personalities/The Last and First City/House of Duskivaine/House of Duskivaine.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f95cf40f37993573",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Factions/Learned/University of New Tanore.md",
+                "file": "Adventures/Chronicles.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,86 +57,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Quotes.md",
+                "file": "Adventures/Adventure 27/Adventure 27 Narrative.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "91327e02ec3c94ea",
+            "id": "5ddd566559867086",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Adventures/Chronicles.md",
+                "file": "Adventures/Adventure 24/statblocks.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "4a50624751c91345",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Factions/Criminal/Thieves Guild.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cdd9268e77fd3375",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Locations/Shadaean Empire/The Last and First City/The Last and First City.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6172323c1facef40",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Locations/Planar/Feywild Courts/Planned Archfey.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "78aa8ac4a2f6a007",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Locations/Shadaean Empire/The Last and First City/The Bureaucracy.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d8370931ce49c12f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Factions/Religious/The Myriad.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "307430633725180a",
+            "id": "fd1334999ca77f14",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -159,7 +87,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -188,7 +117,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "rakshas",
+                "query": "\"Pale Night\"",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -209,7 +138,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 216.5086555480957
+    "width": 200
   },
   "right": {
     "id": "696b382cb53f2c4d",
@@ -225,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Adventures/Adventure 25/statblocks.md",
+                "file": "Adventures/Adventure 27/Adventure 27 Narrative.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -242,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Adventures/Adventure 25/statblocks.md",
+                "file": "Adventures/Adventure 27/Adventure 27 Narrative.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -265,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Adventures/Adventure 25/statblocks.md"
+                "file": "Adventures/Adventure 27/Adventure 27 Narrative.md"
               }
             }
           },
@@ -307,40 +236,42 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "5b9d2bf914a5a163",
+  "active": "2113a8fd3d1e4b01",
   "lastOpenFiles": [
-    "Adventures/Adventure 25/Adventure 25 narrative.md",
-    "Adventures/Adventure 26/Adventure 26 narrative.md",
-    "Personalities/Hells/Levistus.md",
     "Personalities/Abyss/Fraz, Var-Az the Hollow King.md",
-    "Adventures/Adventure 25/statblocks.md",
-    "Adventures/Adventure 26",
-    "Factions/Religious/The Myriad.md",
-    "Essays/On the Shadaean Economy.md",
-    "Quotes.md",
     "Adventures/Adventure 24/statblocks.md",
-    "Adventures/Adventure 20/statblocks.md",
+    "Adventures/Adventure 25/statblocks.md",
+    "Adventures/Adventure 25/Adventure 25 narrative.md",
+    "Adventures/Adventure 27/Adventure 27 Narrative.md",
+    "Adventures/Adventure 26/Adventure 26 narrative.md",
+    "Adventures/Chronicles.md",
+    "Adventures/Arcs and Themes.md",
+    "Adventures/Adventure 24/Adventure 24 narrative.md",
+    "Essays/On the Shadaean Economy.md",
+    "Adventures/Adventure 22/Adventure 22 narrative.md",
+    "Adventures/Adventure 21/Adventure 21 narrative.md",
+    "Adventures/Adventure 20/Adventure 20 Narrative.md",
+    "Adventures/Adventure 19/Adventure 19 Narrative.md",
+    "Adventures/Adventure 18/Adventure 18 Narrative.md",
+    "Quotes.md",
+    "Adventures/Plot developments and Ideas.md",
+    "Adventures/Loose Ends.md",
+    "Personalities/The Last and First City/House of Duskivaine/House of Duskivaine.md",
+    "Essays/Summoning a Demon Lord.md",
+    "Ethnography/Untitled.md",
+    "History/History.md",
+    "Locations/Planar/Planar.md",
+    "Personalities/Hells/Levistus.md",
+    "Essays/On Demons.md",
+    "Adventures/Adventure 12-16/Adventure 12 Narrative.md",
+    "Adventures/Adventure 27",
+    "Untitled",
+    "Adventures/Adventure 26",
     "Attachments/Pasted image 20240523182559.png",
     "Attachments/Pasted image 20240523182506.png",
-    "Adventures/Adventure 21/statblocks.md",
-    "Adventures/Adventure 19/statblocks.md",
-    "Adventures/Adventure 18/statblocks.md",
-    "Adventures/Adventure 17/statblocks.md",
-    "Adventures/Adventure 22/statblocks.md",
-    "Adventures/Adventure 23/statblocks.md",
-    "Adventures/Adventure 23/Adventure 23 narrative.md",
-    "Adventures/Adventure 21/Adventure 21 narrative.md",
-    "Adventures/Adventure 22/Adventure 22 narrative.md",
-    "Personalities/The Last and First City/Inspector Jeffers.md",
-    "Adventures/Adventure 19/Adventure 19 Narrative.md",
-    "Adventures/Adventure 20/Adventure 20 Narrative.md",
-    "Essays/Summoning a Demon Lord.md",
     "Attachments/Pasted image 20240523144220.png",
     "Attachments/Pasted image 20240523144026.png",
-    "Adventures/Adventure 24/Adventure 24 narrative.md",
     "Adventures/Adventure 25",
-    "Personalities/Name Bank.md",
-    "Factions/Criminal/Thieves Guild.md",
     "Attachments/Pasted image 20240515131702.png",
     "Attachments/Pasted image 20240515131530.png",
     "Attachments/Pasted image 20240515130959.png",
@@ -352,8 +283,6 @@
     "Adventures/Adventure 22",
     "Adventures/Adventure 21",
     "Personalities/Hells",
-    "Adventures/Adventure 20",
-    "Adventures/Adventure 19/Untitled",
-    "Adventures/Adventure 19"
+    "Adventures/Adventure 20"
   ]
 }
