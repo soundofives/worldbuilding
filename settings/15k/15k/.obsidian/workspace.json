@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Adventures/Arcs and Themes.md",
+                "file": "Adventures/Plot developments and Ideas.md",
                 "mode": "source",
                 "source": false
               }
@@ -45,7 +45,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Adventures/Chronicles.md",
+                "file": "Adventures/Adventure 28/Adventure 28 Narrative.md",
                 "mode": "source",
                 "source": false
               }
@@ -64,31 +64,31 @@
             }
           },
           {
-            "id": "5ddd566559867086",
+            "id": "fd1334999ca77f14",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Adventures/Adventure 24/statblocks.md",
+                "file": "Adventures/Arcs and Themes 2.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "fd1334999ca77f14",
+            "id": "2692b2b226f73757",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Essays/On the Shadaean Economy.md",
+                "file": "Adventures/Chronicles.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -154,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Adventures/Adventure 27/Adventure 27 Narrative.md",
+                "file": "Adventures/Adventure 28/Adventure 28 Narrative.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Adventures/Adventure 27/Adventure 27 Narrative.md",
+                "file": "Adventures/Adventure 28/Adventure 28 Narrative.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Adventures/Adventure 27/Adventure 27 Narrative.md"
+                "file": "Adventures/Adventure 28/Adventure 28 Narrative.md"
               }
             }
           },
@@ -236,34 +236,35 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "2113a8fd3d1e4b01",
+  "active": "ec6f8af71edaccef",
   "lastOpenFiles": [
+    "Adventures/Arcs and Themes.md",
+    "Adventures/Adventure 28/Adventure 28 Narrative.md",
+    "Adventures/Adventure 28",
+    "Adventures/Adventure 27/Adventure 27 Narrative.md",
+    "Adventures/Arcs and Themes 2.md",
+    "Adventures/Adventure 1/Advenutre 1 Narrative.md",
+    "Adventures/Adventure 1/Adventure 1.md",
     "Personalities/Abyss/Fraz, Var-Az the Hollow King.md",
+    "Adventures/Chronicles.md",
     "Adventures/Adventure 24/statblocks.md",
+    "Essays/On the Shadaean Economy.md",
+    "Adventures/Plot developments and Ideas.md",
     "Adventures/Adventure 25/statblocks.md",
     "Adventures/Adventure 25/Adventure 25 narrative.md",
-    "Adventures/Adventure 27/Adventure 27 Narrative.md",
     "Adventures/Adventure 26/Adventure 26 narrative.md",
-    "Adventures/Chronicles.md",
-    "Adventures/Arcs and Themes.md",
     "Adventures/Adventure 24/Adventure 24 narrative.md",
-    "Essays/On the Shadaean Economy.md",
     "Adventures/Adventure 22/Adventure 22 narrative.md",
     "Adventures/Adventure 21/Adventure 21 narrative.md",
     "Adventures/Adventure 20/Adventure 20 Narrative.md",
     "Adventures/Adventure 19/Adventure 19 Narrative.md",
     "Adventures/Adventure 18/Adventure 18 Narrative.md",
     "Quotes.md",
-    "Adventures/Plot developments and Ideas.md",
     "Adventures/Loose Ends.md",
     "Personalities/The Last and First City/House of Duskivaine/House of Duskivaine.md",
     "Essays/Summoning a Demon Lord.md",
     "Ethnography/Untitled.md",
     "History/History.md",
-    "Locations/Planar/Planar.md",
-    "Personalities/Hells/Levistus.md",
-    "Essays/On Demons.md",
-    "Adventures/Adventure 12-16/Adventure 12 Narrative.md",
     "Adventures/Adventure 27",
     "Untitled",
     "Adventures/Adventure 26",
@@ -282,7 +283,6 @@
     "Adventures/Adventure 23",
     "Adventures/Adventure 22",
     "Adventures/Adventure 21",
-    "Personalities/Hells",
-    "Adventures/Adventure 20"
+    "Personalities/Hells"
   ]
 }

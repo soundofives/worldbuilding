@@ -1,12 +1,10 @@
 
-1. Vampires become a big thing!
-Duskivaine vs. Ishur is the undertones of the Last and First City, and the Vampire clans of Ithalas are married into both, leading to vampire children. This also connects these families to the Thieves Guild, run by Vampires.
+What's been insinuated so far about the wider plot?
+- Orcus is weaving some plot. He's got worshippers within the Cycladene Church. (corpse of Dariush Ishur, spy)
+- Demon Lords are vanishing, starting with the original Demon King, leaving only Orcus left to rule the Abyss. (Uzaxuk, rising Demon Lord)
+- The Thief Blade is prophesied to be a danger to the Emperor; Zagyg seems to want this weapon.
+- Learning more about demons and their motivations will require seeking out Prismeer and its master: Tasha.
 
-2. A secretive man seeks out the Crew to fight against the Cycladenes.
-	The man is a representative of the Myriad
-
-4. Feywild adventure
-Tasha has the Demonomicon in Prismeer, which has recently (when the prophecy was revealed) been sealed off. Infiltrate Prismeer and get to the bottom of this!
-
-5. Through the Wildring - Arc through the Hells
-
+What's happening right now in the plot that's hidden?
+- Orcus's motivations to track down Fraz and the Thief Blade. He gifted his cult his Sceptre, a weapon to turn the tide of the war.
+- Fraz's motivations to seek revenge on Tasha and Zagyg + acquire the Demonomicon to trap Orcus.

@@ -39,6 +39,10 @@ Fun combat environments:
 >Naz is a former Incantator who left in search of Leomund, who is in Dorthyza's prison. Naz found his mentor, but was dominated into Dorthyza's service and is being used to make Helmed Horrors and sway the populous.
 >Because he is dominated, he is charmed. He believes himself a friend of Dorthyza -- who will take control of Naz if he is close to death and curse out the Crew.
 
+--
+After notes:
+Meeting with Cailana on 25 Bonzin (25th of October in Oreal hemisphere)
+
 
 #### Jeffers / Fraz
 >[!quote] 
