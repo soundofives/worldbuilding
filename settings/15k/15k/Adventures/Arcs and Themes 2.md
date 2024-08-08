@@ -38,9 +38,9 @@ After Lyzandred fled in madness, Zagyg took on an apprentice, Tasha, whom he sca
 After Yrah's domination, Tasha absconded with Fraz's powerful Staff and Zagyg's most precious tomes, including the grimoire of his compiled accomplishments: the Tome of Zyx.
 
 ### The Demonomicon
-Tasha used her power to terrorize countrysides, found nations, and perfect her ability to control demons as the Witch Queen of Perrenland, Natasha the Dark, Iggwilv, Hura of Ket, and other names. She built upon Zagyg's Tome of Zyx, turning the magical treatise in the foundation of her magnum opus: the Demonomicon. She summoned and trapped the demon lord Grazzt, but she ended up falling in love with her prisoner--and he with his captor. Tasha and Grazzt's relationship was twisted in every way. In fits of rage each would betray the other: at one time, Tasha ended up a prisoner herself in Grazzt's realm of Azzagrat. Tasha worked with other Demon Lords as well: for a time she worked with Orcus to bring down those demon lords that spurned his rule. Demogorgon and several other demon lords fell to her, finding themselves trapped within the pages of the Demonomicon. To keep these Abyssal lords imprisoned, she creates the hidden realm of Prismeer. Here she took on a new role as an archmage and instructor, teaching students the ways of conjuration.
+Tasha used her power to terrorize countrysides, found nations, and perfect her ability to control demons as the Witch Queen of Perrenland, Natasha the Dark, Iggwilv, Hura of Ket, and other names. She built upon Zagyg's Tome of Zyx, turning the magical treatise in the foundation of her magnum opus: the Demonomicon. She summoned and trapped the demon lord Grazzt, but she ended up falling in love with her prisoner--and he with his captor. Tasha and Grazzt's relationship was twisted in every way. In fits of rage each would betray the other: at one time, Tasha ended up a prisoner herself in Grazzt's realm of Azzagrat. Tasha worked with other Demon Lords as well, and even for Vecna, entering a pact with him to imprison Orcus's allies. Demogorgon and several other demon lords fell to her, finding themselves trapped within the pages of the Demonomicon. To keep these Abyssal lords imprisoned, she creates the hidden realm of Prismeer. Here she took on a new role as an archmage and instructor, teaching students the ways of conjuration.
 
-Tasha has few friends in this story. Orcus, though he has worked with her in the past, reviles the Demonomicon for the control it grants over demons. Fraz despises her for her theft of his Staff. Vecna years for her power and the demonic secrets she refuses to share. Zagyg, while she hurt him with her betrayal, still holds some love for her -- however undeserving she is.
+Tasha has few friends in this story. Orcus, though he has worked with her in the past, reviles the Demonomicon for the control it grants over demons. Fraz despises her for her theft of his Staff. Vecna yearns for her power and the demonic secrets she refuses to share -- though he did entreat her and forge a fey pact. Zagyg, while she hurt him with her betrayal, still holds some love for her -- however undeserving she is.
 
 
 Other figure to introduce to Tasha's realm: the bound Tsojcanth
@@ -48,7 +48,19 @@ Other figure to introduce to Tasha's realm: the bound Tsojcanth
 #### VECNA'S PARANOIA:
 **Ensure the ascendancy of the Empire and become the undisputed Master of Undeath.**
 
-Vecna is an Apotheid: a mortal-turned god by the power given to him by his people. Before this episode, he was a powerful necromancer and god -- he was a ruthless conqueror, but he wasn't entirely evil or malevolent. He was graceful, and truly wished to maintain the Eternal Empire as a haven for all peoples. Yet, over the millennia, he had grown fearful of his Empire crumbling and his powers being lost. When Fraz Urb'luu was ousted and Orcus set his sights on eliminating Vecna, the Emperor's fears were realized. Over the last two hundred years, since he learned of Orcus's ire, Vecna constructed together layer after layer of protections out of a raving paranoia for his life and power. He delved further into vile magics as a means to defeat the looming demon lord, egged on by the imprisoned Fraz Urb'luu. Vecna saw the imprisoned demon as a potential ally against Orcus, learning from him but unknowingly becoming twisted by the whispers of the Prince of Lies. Vecna compiled his writings into the Book of Vile Darkness, which he continues to pen. Recently, Vecna acquired an artifact once used against Tasha's summoned demon armies: the Crook of Rao -- though he is loathe to call upon the Crook's powers lest it doom the entire plane.
+Vecna is an Apotheid: a mortal-turned god by the power given to him by his people. Before this episode, he was a powerful necromancer and god -- he was a ruthless conqueror, but he wasn't entirely evil or malevolent. He was graceful, and truly wished to maintain the Eternal Empire as a haven for all peoples. Yet, over the millennia, he had grown fearful of his Empire crumbling and his powers being lost. When Fraz Urb'luu was ousted and Orcus set his sights on eliminating Vecna, the Emperor's fears were realized. Over the last two hundred years, since he learned of Orcus's ire, Vecna constructed together layer after layer of protections out of a raving paranoia for his life and power. He delved further into vile magics as a means to defeat the looming demon lord, egged on by the imprisoned Fraz Urb'luu. Vecna saw the imprisoned demon as a potential ally against Orcus, learning from him but unknowingly becoming twisted by the whispers of the Prince of Lies. He even went to implore Tasha for aid after she returned from Azzagrat. She, the foremost mind on the Abyssal, would surely know a way to defeat Orcus. Vecna made a deal with her, and she began working to imprison Orcus's allies within the Demonomicon -- all it cost Vecna was "whatever he loses..." Vecna compiled his writings into the Book of Vile Darkness, which he continues to pen. Recently, Vecna acquired an artifact once used against Tasha's summoned demon armies: the Crook of Rao -- though he is loathe to call upon the Crook's powers lest it doom the entire plane.
+
+#### Other players:
+**Levistus**, Lord of the Fifth circle of Hell, has been bound to a glacial prison by Asmodeus and desires only to be free and get revenge on Asmodeus. Levistus has been discretely helping Orcus achieve his goals of gaining greater power, trading the secret of attaining the Last Word from the Pale Night in exchange for Orcus's promise to help free Levistus (in winning the Blood War and sacking the Nine Hells). The Last Word is one of the few magics capable of threatening Asmodeus -- as such, Levistus believes it will be enough to coerce the Archdevil into freeing Levistus. When the Demon Lords started vanishing over the last 200 years, the demonic efforts in escaping the Abyss in the Blood War were hamstrung and Levistus's plans for the downfall of Hell were thrown out of balance. Levistus cultivated a new servant: a paladin-turned-warlock Maximo, who Levistus would direct to discover what happened to the Demon Lords (and save them) or aid Orcus in killing the Emperor (making Orcus the undisputed God of Undeath, capable of pushing into Hell.)
+
+Another vein, which makes it so **Levistus** is against both Orcus AND Uzaxuk: Asmodeus sees this opportunity to clinch an end to the Blood War through diplomacy. Orcus is the last remaining Demon Lord. He cannot hope to continue the war alone. Asmodeus offers Orcus a place in the Hells, enraging the pride of Levistus, who would never see himself become the equal to an ex-Demon Lord. Levistus convinces Orcus to pursue Vecna's power and become a true God of Undeath. If Orcus succeeds, he could refuse Asmodeus's offer. If he fails, he will be removed from the playing field all together.
+
+### The Context
+The Last and First City, heart of the Shadaean Empire, is embroiled in an underground civil war between the Duskivaines and the Ishurs, the two great families that control the Cycladene Church and the Bank of Miros. They are tightly woven into the Bureaucracy, the Criminal Underground, and the war between the Cycladenes and the Myriad. Almost all social tension and threads of control can be traced back to one of these two families interlocked in a centuries-long chess game for power.
+
+The Myriad - Cycladene war is a creation of Fraz Urb'luu, who wanted to sew the seeds of discord that would rip the Last and First City apart. The Myriad, originally a religion from the eastern lands of Oz'Leshah and the New Tanorian Empire, was hijaked by Fraz's manipulations and influence. While many deities of the Myriad are legitimate, some falsely worship their gods: "Fraz-Urb'luu's Cults of Deception pose as worshipers of a divine power, infiltrating or founding congregations and precipitating crises, pushing worshipers to make ever-escalating moral compromises in the supposed pursuit of an ever out-of-reach greater good. Such cults are often led or supported by one of the succubi or rakshasas that form the core of the Great Deceiver's cohort."
+
+The Cycladenes are not much more innocent. They are an old religion, borne from a corruption of the ancient traditions of Krinica / Sinisar Empire. The Cycle of Twins has been infiltrated by Orcus and his vampire cult. The Cycladenes, while not being the most likeable, are the defenders. They are protesting a hostile takeover by the Myriad, and would love to see the war end -- with their church still intact. Orcus, too, would like this: the longer he can keep his cult secret the better. Also, while the Cycladenes do use the Brother's Company mercenaries, their deal with Adnan is likely off due to his assassination. 
 
 ----
 ---
@@ -60,48 +72,52 @@ Vecna is an Apotheid: a mortal-turned god by the power given to him by his peopl
 ## The Campaign:
 
 >[!tip] Character Tracker
->**Orcus:**
->**Fraz:**
->**Vecna:**
->**Zagyg:**
->**Tasha:**
+>**Orcus:** Track down the Thief Blade + grow vampire cults in the Cycladene church. Has loose manipulation over Zagyg
+>**Fraz:** Groom the Crew to help him escape, sew chaos in the City. Has strong manipulation over Zagyg
+>**Zagyg:** Track down the Thief Blade
+>
+
+1. The Crew finds Fraz, disguised as Yrah, in the Godtrap beneath the Tower. He says he's been trapped here by his father, Zagyg, for being the only being able to challenge his power. Fraz begins to ally with the party, trying to get them to free him. He tells of the prophecy, and begins training Rabbitouille
+
+>[!tip] Character Tracker - After prophecy
+>**Orcus:** Reveals a way to destroy the Demonomicon! Move on Prismeer to defeat Tasha.
+>**Fraz:** Wants to recover his Staff - now knows how! Continue grooming Crew - move them towards Mordenkainen.
+>**Vecna:** Prophecy grows Vecna's paranoia. He deals with Fraz, asking for the secret in how to destroy the Blade. Fears that the Demonomicon will be destroyed. He wants to keep it safe. Helps Tasha hide Prismeer? Provides shadow guards?
+>**Zagyg:** Closer to recovering the Thief Blade; use evidence recovered by Crew to locate the Blade.
+>**Tasha:** Demonomicon's destruction makes Tasha paranoid. She hides Prismeer.
 >
 >Other entities:
->**The Bank:**
+>**The Bank:** Prophecies predicting the end of the Empire is bad for business. Start a propaganda campaign to any who have heard this news that the prophecy is entirely speculative.
 
+2. Crew recovers the Thief Blade and free Fraz from the Godtrap with Mordenkainen's help.
 
+>[!tip] Character Tracker
+>**Orcus:** Fraz is free and the Thief Blade is lost -- this is horrible news. Orcus tells Zagyg to track down Fraz and recover him. Orcus will also dedicate his own resources to finding Fraz and the Thief Blade. Rilan makes contact with the Crew, scouting out their abilities.
+>**Fraz:** Now that he is free, Fraz can more easily slip around the city and sew discord. He reveals Orcus's minions in the Cycladenes by slipping info to his servants in the Myriad. He replaces Jeffers and points Crew towards Prismeer.
+>**Vecna:** Fraz escaped, and will soon deliver the Thief Blade to Vecna's hands!
+>**Zagyg:** Fraz escaped, and still has Yrah. Zagyg, furious, will track Fraz down and kill anyone in his way.
+>**Tasha:** Tasha does not know that Fraz escaped. She has cut off contacts.
 
-- Orcus: Track down the Thief Blade, keep Fraz in prison, grow vampire cults in the Cycladene church, kill Vecna. Loose alliance with Tasha to capture Demon Lords, loose manipulation over Zagyg (I can take away your ghosts)
-- Fraz: Manipulate the Crew, grow close to Mordenkainen to escape. Then, steer the Crew towards his goals: capture Orcus, kill Zagyg and Tasha. Loose alliance with Vecna, strong manipulation over Zagyg (I've got Yrah)
-- Zagyg: Act as double-agent. Track down the Thief Blade, give it to Fraz in exchange for Yrah. Zagyg wants the freedom of Yrah most of all, and he'll kill anyone who stands in his way. He is paranoid about keeping Fraz in prison, as he knows that if the Demon King escapes there will be very little Zagyg can do to stop him from getting his revenge. Manipulated by Orcus and Fraz.
-- Tasha: Wild card with no solid loyalties. Create the Demonomicon, capture all other Demon Lords out of morbid pleasure. She'll work with both Orcus and Fraz, but turn on them in a heartbeat and imprison them in the Demonomicon if they come for her.
-- Vecna: Help Fraz recover the Thief Blade. Then, try to take the Thief Blade for himself and imprison Fraz and Orcus in the Demonomicon (work with Tasha or force the Demonomicon from her)
----
-- The Crew finds Fraz, disguised as Yrah, in the Godtrap beneath the Tower. He says he's been trapped here by his father, Zagyg, for being the only being able to challenge his power. Fraz begins to ally with the party, trying to get them to free him. He tells of the prophecy, and begins training Rabbitouille
-	- Character updates (after prophecy)
-	- Orcus: The prophecy is annoying, as it partially reveals his plots and puts people on high-alert.
-	- Fraz: This is his move to show the Crew his usefulness -- and to begin moving towards the Thief Blade.
-	- Zagyg: Begin moving towards the Thief Blade after acquiring his Gith planar tracker.
-	- Tasha: The warning about the Demonomicon sets off Tasha's alarm bells, and she hides Prismeer knowing that she'll be sought by Vecna, Orcus, and Fraz -- all of whom want the Demonomicon.
-	- Vecna: Biding time; still working loosely with Fraz to acquire the Thief Blade. Scouting out Prismeer.
-- Yrah helps revive Rabbitouille using 7th-level Lyzandred's Soul Delve
-- Yrah moves to escape by leveraging Muck's connections -- he tells the Crew to go ask Mordenkainen about Muck's past, hoping that this initial connection would grow into a way to acquire Mordenkainen's Disjunction.
-- The Crew finds the Thief Blade, but they are reluctant to hand it over to Zagyg. Instead, they call in Mordenkainen, free Yrah, and escape.
-	- Character updates:
-	- Orcus: furious that his pawn Zagyg has failed him; Fraz being free AND having the Thief Blade throws all of Orcus's plans in jeopardy. He allocates ALL of his resources into tracking Fraz down and recovering the Blade. Also, now that the Crew has more publicly moved against the Cycladenes, **Orcus will strike at the Crew** through his vampire cult headed by Rilan.
-	- Fraz: Freedom! Fraz evades Orcus's minions and Zagyg while he recovers his strength. He'll push to escalate the Myriad - Cycladene conflict and reveal Orcus's minions in the Church. He'll push the Crew towards eventual revenge against Tasha and Zagyg before honing in on Orcus and betraying Vecna. He leaves a simulacrum of himself in Leomund's Hidden Lodge while he goes out, taking the place of the Inspector Jeffers. He realizes that the Crew put Jeffers up to the case of finding Prismeer. Because Fraz wants the Crew to bring him there and support him as he kills Tasha, he poses as the Inspector.
-	- Zagyg: Basically fucked. Orcus isn't happy -- and Yrah didn't get freed. Zagyg is furious, trying to find Fraz and stop him by any means. He is under increasing pressure by Orcus to do this. Desperation sets in. The Crew said that Fraz headed for Tasha's, so Zagyg is on his way there now.
-	- Tasha: Doesn't necessarily know about Fraz's escape. If she finds out, she'll be wary. They're not friends -- especially after Tasha stole his staff. If they meet, she'll immediately try to trap Fraz via the Demonomicon.
-	- Vecna: With Fraz free, Vecna will be on guard. He wants to recover the Demonomicon and the Thief Blade.
-	- Current consensus: Race to Prismeer
-- Crew settles in with Mordenkainen - Zagyg finds them and destroys the Obsidian Citadel, showcasing the strength of the most powerful mortal caster who ever lived. Tracks the Crew down to Leomund's Hidden Lodge, but leaves in a panic to Prismeer without finishing them off.
+3. Crew settles in with Mordenkainen
 
+>[!tip] Character Tracker
+>**Zagyg:** Destroys the Obsidian Citadel and the Circle of Eight. Tracks Crew to Leomund's Hidden Lodge, but flees and prepares to find Prismeer when Crew convinces him that Fraz went to find Tasha. Zagyg reports back to Orcus that he has a lead on Fraz and possibly the Thief Blade.
 
+4.  Crew and Bank uncover that the Cycladene upper-echelons are connected to Orcus
+>[!tip] Character Tracker
+>**Orcus:** with his connections to the Cycladenes slowly being revealed, Orcus needs to move quickly if he wants to keep Khas a secret. He needs to prune his Cycladene cult, putting Khas on the side of the true Cycladenes.
 
+5. Green magic potion stuff goes down.
 
-The context:
-The Last and First City, heart of the Shadaean Empire, is embroiled in an underground civil war between the Duskivaines and the Ishurs, the two great families that control the Cycladene Church and the Bank of Miros. They are tightly woven into the Bureaucracy, the Criminal Underground, and the war between the Cycladenes and the Myriad. Almost all social tension and threads of control can be traced back to one of these two families interlocked in a centuries-long chess game for power.
+>[!tip] Character Tracker
+>**Fraz:** He weaves a plot with Dorthyza to get the Crew's attention and convincingly feign his deal with Vecna. This gets a little complicated, but the details don't really matter. Fraz sets up Dorthyza and the Green Magic potions as a way to get the Crew out to Prismeer so he can kill Tasha.
+>**Vecna:** Fraz escaped, but he says the Thief Blade is bound to Leomund's Lodge. He'll need to recover Leomund from Dorthyza's prisons before he can unbind the Blade.
 
+5. Crew kills Adnan, taking his place on Council of Brother's Company
+
+>[!tip] Character Tracker
+>**The Brother's Company:** Valandor Sef, a rakshasa working for Fraz, wants to continue escalating the conflict in the City. Adnan was innovative, but increasingly influential and troublesome. He welcomes Maximo, but does not yet give him power in the Company until he knows his stance. Valandor wants to continue the conflict by working with both sides in the war -- which Adnan stepped against.
+>**The Cycladenes:** The Cycladenes have been forced to use mercenaries because of the sheer volume of forces put forward by the Myriad. They attempted to wrest control of the mercenaries, but this fell through with Adnan's assassination.They are losing the war, and are forced to make a choice. 1. They shouldn't make an enemy of the mercenaries, but it is by the manipulations of the current leadership that the war is serviced. The Cycladenes can attempt to run their own manipulations, supporting Elara the Giantess and unseating Valandor Sef.
 
 
 - ***Orcus cult worship existed before 215 years ago, but the growth increased then. It dropped off 150 years ago.***

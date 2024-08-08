@@ -1,5 +1,4 @@
 
-
 # Act 1
 
 ### Arc 1: Welcome to the Tower Crew

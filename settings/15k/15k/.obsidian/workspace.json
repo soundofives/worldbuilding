@@ -13,19 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Adventures/Plot developments and Ideas.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a952f7d5c355b630",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Personalities/Abyss/Fraz, Var-Az the Hollow King.md",
+                "file": "Factions/Religious/The Myriad.md",
                 "mode": "source",
                 "source": false
               }
@@ -40,7 +28,7 @@
             }
           },
           {
-            "id": "ec6f8af71edaccef",
+            "id": "2113a8fd3d1e4b01",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -52,19 +40,43 @@
             }
           },
           {
-            "id": "2113a8fd3d1e4b01",
+            "id": "2692b2b226f73757",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Adventures/Adventure 27/Adventure 27 Narrative.md",
+                "file": "Adventures/Adventure 28/statblocks.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "fd1334999ca77f14",
+            "id": "d8b1c6ee7c489b80",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Personalities/PCs/Current Loadouts.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "932a63c4b81a617d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Adventures/Plot developments and Ideas.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b0a8081e472a7828",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -76,19 +88,43 @@
             }
           },
           {
-            "id": "2692b2b226f73757",
+            "id": "2f735cc01ae00e18",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Adventures/Chronicles.md",
+                "file": "Personalities/The Last and First City/House of Duskivaine/House of Duskivaine.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a35d2c445d23b5be",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Adventures/Adventure 19/Adventure 19 Narrative.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5a9bbb22129a4159",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Personalities/Name Bank.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -117,7 +153,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"Pale Night\"",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -236,49 +272,48 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "ec6f8af71edaccef",
+  "active": "2113a8fd3d1e4b01",
   "lastOpenFiles": [
-    "Adventures/Arcs and Themes.md",
+    "Adventures/Adventure 28/statblocks.md",
+    "Attachments/Pasted image 20240808152632.png",
+    "Attachments/Pasted image 20240808152607.png",
+    "Attachments/Pasted image 20240808152014.png",
+    "Attachments/Pasted image 20240808145856.png",
+    "Attachments/Pasted image 20240808145609.png",
     "Adventures/Adventure 28/Adventure 28 Narrative.md",
-    "Adventures/Adventure 28",
-    "Adventures/Adventure 27/Adventure 27 Narrative.md",
-    "Adventures/Arcs and Themes 2.md",
-    "Adventures/Adventure 1/Advenutre 1 Narrative.md",
-    "Adventures/Adventure 1/Adventure 1.md",
-    "Personalities/Abyss/Fraz, Var-Az the Hollow King.md",
-    "Adventures/Chronicles.md",
-    "Adventures/Adventure 24/statblocks.md",
-    "Essays/On the Shadaean Economy.md",
-    "Adventures/Plot developments and Ideas.md",
-    "Adventures/Adventure 25/statblocks.md",
-    "Adventures/Adventure 25/Adventure 25 narrative.md",
-    "Adventures/Adventure 26/Adventure 26 narrative.md",
-    "Adventures/Adventure 24/Adventure 24 narrative.md",
-    "Adventures/Adventure 22/Adventure 22 narrative.md",
-    "Adventures/Adventure 21/Adventure 21 narrative.md",
-    "Adventures/Adventure 20/Adventure 20 Narrative.md",
     "Adventures/Adventure 19/Adventure 19 Narrative.md",
-    "Adventures/Adventure 18/Adventure 18 Narrative.md",
-    "Quotes.md",
-    "Adventures/Loose Ends.md",
+    "Personalities/Name Bank.md",
+    "Factions/Religious/The Myriad.md",
     "Personalities/The Last and First City/House of Duskivaine/House of Duskivaine.md",
-    "Essays/Summoning a Demon Lord.md",
-    "Ethnography/Untitled.md",
-    "History/History.md",
+    "Personalities/PCs/Current Loadouts.md",
+    "Attachments/Pasted image 20240808134502.png",
+    "Adventures/Plot developments and Ideas.md",
+    "Adventures/Adventure 18/Adventure 18 Narrative.md",
+    "Adventures/Adventure 25/Adventure 25 narrative.md",
+    "Adventures/Adventure 24/Adventure 24 narrative.md",
+    "Personalities/Abyss/Fraz, Var-Az the Hollow King.md",
+    "Personalities/PCs/Maximo.md",
+    "Adventures/Adventure 23/Adventure 23 narrative.md",
+    "Adventures/Arcs and Themes 2.md",
+    "Attachments/Pasted image 20240803220335.png",
+    "Factions/Renown and Patronage.md",
+    "Adventures/Adventure 22/Adventure 22 narrative.md",
+    "Attachments/Pasted image 20240801172313.png",
+    "Adventures/Adventure 21/Adventure 21 narrative.md",
+    "Factions/Religious/Cycle of Twins.md",
+    "Factions/Religious/Sashism.md",
+    "Factions/Religious/Cult of Decay.md",
+    "Factions/Criminal/Shynedar-Kai.md",
+    "Factions/Financial/Brothers Company.md",
+    "Adventures/Adventure 27/Adventure 27 Narrative.md",
+    "Adventures/Adventure 20/Adventure 20 Narrative.md",
+    "Attachments/Pasted image 20240801124740.png",
+    "Attachments/Pasted image 20240801124551.png",
+    "Adventures/Adventure 28",
     "Adventures/Adventure 27",
     "Untitled",
     "Adventures/Adventure 26",
-    "Attachments/Pasted image 20240523182559.png",
-    "Attachments/Pasted image 20240523182506.png",
-    "Attachments/Pasted image 20240523144220.png",
-    "Attachments/Pasted image 20240523144026.png",
     "Adventures/Adventure 25",
-    "Attachments/Pasted image 20240515131702.png",
-    "Attachments/Pasted image 20240515131530.png",
-    "Attachments/Pasted image 20240515130959.png",
-    "Attachments/Pasted image 20240515125255.png",
-    "Attachments/Pasted image 20240514085242.png",
-    "Attachments/Pasted image 20240514085052.png",
     "Adventures/Adventure 24",
     "Adventures/Adventure 23",
     "Adventures/Adventure 22",

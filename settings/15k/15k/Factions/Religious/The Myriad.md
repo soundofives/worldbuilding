@@ -148,3 +148,10 @@ Initial / Expanded list:
 
 
 
+
+#### Clerics of Heironeous
+Priests of Heironeous often travel the world on orders from their superiors to seek out and destroy evil. Older priests often work as strategists, military instructors, or judges. Several of the faith's most powerful clerics, seeking to gain the benefits of meersalm, have had themselves embalmed alive with the substance, though some have not survived the ritual. Their favored weapons are the longsword and battleaxe.
+
+Novices of Heironeous are known as the Blessed. Full priests are called the Glorious or, collectively, the Valorous Host. Other titles used by Heironian priests are Hero of the Third Rank, Hero of the Second Rank, Hero of the First Rank, Champion of Glory, Knight Gallant, Knight Courageous, Knight Valiant, and Knight Champion. Senior priests are called Paragons, while those who command armies are known as Paragon-Generals. These titles are separate from duty-titles such as postulant, novitiate, professed priest, cloistered cleric, affirmed priest, and templar. They are also separate from ranks within the temple hierarchy such as hierodeacon and abbot. In everyday use, senior priests are called Father or Mother, while lesser priests are known as Brother or Sister. There is also an elite order of priests known as the gloryaxes.
+
+The head of the military efforts of the Myriad is the Knight Paragon Valorant.

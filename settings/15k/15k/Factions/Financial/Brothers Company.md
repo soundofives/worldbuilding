@@ -71,7 +71,6 @@ This likely isn't the same expectation as for the *qattarunas/k*, the battalion 
 
 --
 
-
 **Operational Structure**:
 
 The Brothers' Company is divided into "Orders," each specializing in different aspects of mercenary work. These orders reflect the duality of Hextor and Heironeous:

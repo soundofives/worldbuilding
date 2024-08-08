@@ -3,7 +3,6 @@
 ```ccard
 type: folder_brief_live
 ```
-
 The Duskivaines are an old and powerful family in the Last and First City.
 
 Milo's great-great grandparents carried the Cycle of Twins to its height in the 147th century. Their daughter, Nezana Duskivaine, went on to head the Cycladenes until her death in the 143rd century. Their son, Kasra, founded the Bank of Miros and blazed the path forward for the entire economy of the Empire until his death in the 145th century. His family, the House of Ishur, holds the Bank to this day. Nezana's descendants, the Duskivaines, still control the Cycladenes.
@@ -153,13 +152,13 @@ Nezana's brother,
 	Her four daughters:
 	Dragana Duskivaine, Fifth Life of Ivara (14687 - present, currently 565, bs 1313) m. Palnek Duskivaine, Second Life of Zoran (14,827 - 14545, d. 282, bs 1173, ds 1455) -- **Current Matriarch of the Cycladene Church**
 		Their five children:
-		**Banik** (14578-14147, d 431, bs 1422, ds 1853) m Natasa (14588-14388, d 200, bs 1412, ds 1612)
-			-Their three children: **Shanam and Mahin are influencial Bureaucrats with children training in law. Kasra, named for his great-grand uncle Kasra, was reborn as a vampire -- Kas the Bloody Handed, currently a prodigy and Archlord of Defense. Partner to the vampire Rilan, head of the Thieves Guild.**
-			Shanam (14466-present, curr 344, bs 1534)
+		**Banik** (14578-14147, d 431, bs 1422, ds 1853) m Natasa Orzai (14588-14388, d 200, bs 1412, ds 1612)
+			-Their three children: **Shanam and Mahin are influencial Bureaucrats with children training in law. Kasra, named for his great-grand uncle Kasra, was reborn as a vampire -- Kas the Bloody Handed, currently a prodigy and Archlord of Defense. Partner to the vampire Rilan, head of the Thieves Guild and rakshasa plant by Fraz.**
+			Shanam Orzai (14466-present, curr 344, bs 1534)
 				Several children ~age 150
-			Mahin (14457-present, curr 335, bs 1543)
+			Mahin Orzai (14457-present, curr 335, bs 1543)
 				Several children ~age 150
-			Kasra (14427-present, curr 305, bs 1573)
+			Kasra Orzai (14427-present, curr 305, bs 1573)
 		**Testra** (14565-present, curr 443, bs 1435) m Talmir (14538-present, curr 416, bs 1462) -- washed up, trying to get back into the succession but generally believed to be failures.
 			-Their two children:
 			Milo (14335-present, curr 213, bs 1665)
