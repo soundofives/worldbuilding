@@ -138,18 +138,56 @@ Kasra is a swordfighter -- and the Archlord of Defense for the Empire. His part 
 >- Torvir and Ellyn, dwarvish toy merchants
 >- Arik Kala - the stuttery banker
 >- The fencer that Maximo beat outside the Shark (Hadi Zeq, Tiefling)
+>- Druids - after the assassination of the Logging Guild Master 4 months ago, the Children of Erthynul have regrown and the Grove of Obad-Hai has been able to regroup. The Children of Erythnul have been bolstered by outlander tribes -- those from distant southern hills and dark forests. One of these outlanders, Didjumata, brought with her knowledge of the spirit of the Coal-Eyed Boar God, Marvoch the Beast, who could be returned to rampage through Sinisa. Marvoch was one of the great spirits of the Druids before they were forcibly resettled by the Empire. When the Cycladene Archpriest cursed the Children of Erythnul, he did so by separating them from their God Spirits, whom he forced out into the Astral Sea and drove them mad with the corruption of Shynedar. If Marvoch can be found and cleansed, he could return to the Druids and rampage through the city.
 
+## Interlude - Solodovnika
+
+>[!quote] Solodovnika, through the Staff of the Woodlands
+>*"I have sensed Cailana's breath within the nostrils of your ally. You have found her. Bring her to my roost in the Bleakwood, and I shall reward you well: bring me my consort and I will grant you a single wish."*
+
+---
 
 >[!warning] Finding the Chosen
 >
->The Chosen starts with her Sanguine Cyclone uncharged -- over time, she'll have chances to roll to re-charge her ritual. If Rabbitouille finds her, she'll reveal herself to him and say he can help with the ritual. He can roll as well to help her.
+>This time: the Crew has successfully locked down many cultists on the outside with a great nat 20 and good organization of their forces. Now, Mahin is growing desperate for a show of her powers. She knows that she needs to strike and that the Cycladenes need to be seen battling her. She will tell Rabbitouille that she needs to find her cousing NOW -- because he is the one that they're all looking for.
 >
->This isn't a skill challenge;  skill challenges are supposed to generally be open ended -- this has a concrete plan to work against. So there are several different places they can check: the collonade, the streets, the painter's quarter, the theater, etc. Successes will either rule the location out or confirm that further investigation is necessary.
+>>[!quote] Mahin
+>>*"Rabbitouille, we need to find my cousin NOW...because he's the one you're all looking for."*
+>>She looks pained, desperate, guilty. She refuses to explain how she knows all this at the moment, saying *"Please, I'll explain it all later, but time is running out!"*
+>>>
 >
->If they succeed with no failures, they are able to find the Chosen early. Each failure is time given to the Chosen more chances to recharge her Sanguine Cyclone.
+Brief question on how they search, which sets up a skill challenge to chase him and catch him. During the search, if Mahin is free to talk to Rabbitouille, she will switch the tone of her conversation:
+>>[!quote] Mahin
+>>*"Rabbitouille, please forgive me. I haven't been telling the truth, but I swear I'm going to come clean. I'm begging you to listen to me -- what lengths would you go to save your people? Your family?"*
+>>
 >
 >
 >
+Some relevant skills: Perception, Investigation, Insight, Acrobatics, Arcana, Athletics, Deception, Intimidation, Stealth, spells + attacks.
+Danoris is going to be a child on stage, waiting to slink upstairs to the rafters when he is signalled - but the search prompts him to go early if he's discovered.
+Chase challenges, DC 16 if double chase, 18 if single chase.
+Danoris kills and instantly raises an innocent bystander in his way, turning them into a zombie. The Zombie attempts to grapple one of the Crew DC 16 Dex save or Athletics/Acrobatics check.
+Danoris blows up the stairs with a flaming burst of magic, toppling them.
+>
+>Danoris clicks his winged boots and flies ahead -- he stays within the structure to give him cover though.
+>A darkness spell gets thrown down - (InSight/Arcana 20, Danoris didn't cast it)
+>
+>
+Base Clot: 1. For each failure the Crew gets, an additional Clot is summoned (up to 4!!)
+>
+>Just before Mahin splits, she holds out her hand to Rabbitouille:
+>>[!quote] Mahin
+>>Just after she uses Graveway Travel to get an initial escape:
+>>Beckoning to Rabbitouille: *"Please? I can give you His gifts!"*
+>
+>Mahin will try to split off once Danoris is revealed and head towards her hidden staff and grimoire. She can use Graveway travel to get out of a grapple or Hold once. Set up a double chase maybe? Some going after Mahin, some going after Danoris? Letting Mahin get to the top = she finds the staff and grimoire, buffing her. Letting Danoris get to the top = more Clots!
+>
+>Mahin immediatly downs 2 innocents and releases Horde Ghouls from Thanatos, using them to boost her/ throw her/ block attacks, etc. She will kill more and raise more Ghouls, using them to trip, shove, block the PCs chasing her. She'll also open small rifts to Thanatos to try to trip PCs up.
+
+The Grimoire:
+![[Pasted image 20240814150928.png]]
+
+
 
 >[!warning] The Attack
 >
@@ -159,6 +197,13 @@ Kasra is a swordfighter -- and the Archlord of Defense for the Empire. His part 
 The Child climbs into the rafters of the Theatre to get a vantage point, and the Chosen, disguised as a tragic villain in the play, emerges on stage, in the background. He begins his magical ritual, trying to cast Sanguine Cyclone (ability starts un-charged, needs to roll 5 or 6 to charge). The Chosen can be spotted, and the Crew could have a chance to delay the Cyclone. If combat starts, the Chosen will still cast the spell immediately.
 The Chosen creates a Sanguine Cyclone in the center of the theatre, quickly spreading and slaughtering festival-goers who are raised by the Eye of Flame and Fear and formed into Zombie Clots. Once the Clots are created, the Child flies onto one of their backs as it rampages and generally uses its winged boots to evade the Crew. The Chosen slips out into the crowd. The crowds panic, running randomly to get away from the disaster. The cultists attack the streets outside the Theatre from nearby alleys and tents, making primarily for Myriad clerics.
 Thesmata-Kai oathsworn move in, protecting innocents. Shynedar kai move in and start attacking zombies, ghouls, cultists in the crowd. Myriad clerics (Penitents of Arinas, Knights of Heironeous), city guards, and the Emperor's shadows descend on the chaotic scene. Pillars of sacred flame burn Orcus's undead, guards battle against cultists, and Thesmata-Kai oathsworn shield the innocent. Shadows swirl overhead in a storm of darkness.
+>-----------------------------------------------------------------
+>Now: many cultists have been locked down. People will be much safer outside the main combat area, and they can even be saved within it if the Crew acts well. The Thesmata Kai will team up with Myriad clerics to surround the Theatre with a protective wall of divine energy, giving the following benefits:
+>The area within the divine shield is considered roughly Hallowed by Thesmata and Arinas:
+Any creature charmed, frightened, or possessed by an evil creature is no longer charmed, frightened, or possessed upon entering the area. You can exclude one or more of those types of creatures from this effect.
+When a creature that would be affected enters the spell’s area for the first time on a turn or starts its turn there, it can make a Charisma saving throw. On a success, the creature ignores the extra effect until it leaves the area.
+>**Energy Vulnerability.** Affected creatures in the area have vulnerability to fire
+>**Courage.** Advantage against being Frightened.
 >
 >**Terrain:** The Sanguine Cyclone rages in the heart of the Theatre until the Chosen loses concentration on it. It expands, ripping people apart and creating a damaging zone. Around the Cyclone and throughout the streets, panicking crowds are inter spaced with battling clerics, knights, zombies, etc. In a crowd / battle, you have to make an Athletics check (DC 12) or be moved 15 ft in a random direction. Have a 50% chance of taking 10 damage from enemies or getting healed 10 points from paladins or clerics.
 >
@@ -181,7 +226,6 @@ Also uses the Plague Breath spell which he has in his grimoire.
 #### After effects of the attack
 This strike sets off a schism within the Cycladene Church. Perhaps the Matriarch is killed by Kas, prompting the Shynedar Kai and Thesmata Kai to break away under the leadership of the Rook. Shynedar may "manifest" and decrees this.
 
-
 ### The Inspector
 Inspector Jeffers approaches them at the end of the Grand Revelry
 
@@ -190,5 +234,109 @@ Inspector Jeffers approaches them at the end of the Grand Revelry
  -- Fraz is casting himself as Jeffers so as to push the Prismeer investigation forward.
 
 
+---
 
+# Through the Wildring:
+
+Quests:
+Find Marvoch the Beast
+Force Cailana back to Solodovnika (if you don't she'll reward you as a powerful Fey ally)
+Follow Zagyg and find Prismeer
+Meet with Dorthyza
+
+
+Other things I thought of:
+
+Re-introduce Adnan Alisi as an imp for Maximo.
+Adnan was also in service to Levistus -- though he was passed up by his apprentice. Levistus had given Adnan unnatural charisma and boons for his service, in exchange for his eternal servitude. Now he is a phlegmatic imp with the most cowardly parts of his personality amplified.
+
+
+
+-----
+
+
+### The Wand of Orcus
+![[Pasted image 20240817192702.png]]
+For Rabbitouille:
+While you are attuned to the Wand of Orcus, your body rots over the course of four days. You lose your hair by the end of day 1, paw tips and toes by day 2. Your lips and nose decay by day 3. You lose most of your weight by the end of day 4 becoming an almost skeletal figure, which reduces your Strength and Constitution each by 2. These negative effects can be reversed with a **regenerate** spell, though they immediately begin again.
+
+Also, attuning to the Wand of Orcus demands your loyalty to the Bloodlord.
+
+### Meeting with Cailana
+
+The New Tanore druid Circle, the **Hefsansarak**, or the Totem Keepers, are an egalitarian group that interfaces with the Bureaucracy to govern the city. They ensure natural influence on all things, though allow the Urban concepts of commerce, people, etc, to exist in harmony with their protective rites. They are very protective and traditional, ritualistic and safeguarded. They take pilgrims of the Land, and their HQ is in a totemic grove in the center of the city, split over the chasm. Tree-branch bridges connect the two sides. Pilgrims who come to them have annonymety, unless they say otherwise. Entrance into the grove is strictly forbidden for those carrying iron-based metals.
+	Archdruid of the Hefsansarak: **Heiydark**, an ancient druid. His spokesman is **Nidal**. 
+
+
+## Through the Wildring
+
+**New understanding: The Wildring is a boundary between Arangil and Asfalon; Arangil is an extension of Asfalon and thus they are technically the same plane.**
+Travelling between them is thus easier, and travelling between the Astral plane and other planes is flavored like the "Deep Ethereal", deep misty walls.
+
+The Wildring is an astral injunction bridging the Feywild Courts and the Prime Material plane. Just beyond it is a stretch of the Astral Plane called the Thither and the Wildroad, a gorgeous expanse of land that seems to stretch forever, the view of it almost warped like a fish-eye lens. Once one travels into it, though, your mind adjusts. The area around the Wildring is dominated by Fis/Fos effects, which balance because of its frequent use. Generally, when one appears in a new place they feel a sudden drop in temperature, the dissolution or decay of nearby plants, or the sudden deaths of animals. Thus, when passing through the Wildring, it's usually advised to buy a cheap animal to bring along with, which will usually die instead of you.
+When someone has left the plane through the Wildring, the air around will experience a hotflash, plants will grow, storms start, etc.
+
+The Wildroad is commonly traversed by travelers. The Fis/Fos effects make any attempts at housing or business around the Wildring impractical, but farther down the Wildroad there is the famous Safelight Inn, a refuge that many travelers find when they are afriad. It's run by a pair of archons, a Hound named Barney and a Lantern Archon named Alfariel. They take in people looking for safety, and generally the inn has several refugees in it. She serves food, though it is only for comfort as food offers no sustenance here.
+
+The Astral lands around the Fey Courts take on their appearance--wild, natural, yet unruled and without bounds. It grows Elemental, fundamental, when near a piece of the Unravelling. There are sometimes vast swathes of nonexistance set in the wilds of the Astral. Currently, the Astral planes around the Feywild are shone down upon by several Wandering Stars. Most notably now is Caiphon, drawn to the border of Asfalon and the Astral. The Astral plane is timeless.
+
+Astral plane is created from the threads of Arangil, the space of Artifex. It is thus only matter, timeless, formless, and traveling through it is a matter of will and thought. Navigation here is done with Insight rather than Survival.
+Distance, time, etc are fluid here. Spells might last forever. Long casting times can be shortened. All people can make checks to let them bend the Astral space--letting them fall wherever they want. Essentially allows misty step but with damage if you're not careful. 
+
+Terrains:
+Prime Material
+Feywild
+Elemental Plane Water
+Plane Fire
+Earth
+Air
+
+A psychic wind isn't a physical wind like that found on
+the Material Plane, but a storm of thought that batters
+travelers' minds rather than their bodies. A psychic
+wind is made up of lost memories, forgotten ideas,
+minor musings, and subconscious fears that went
+astray in the Astral Plane and conglomerated into this
+powerful force.
+A psychic wind is first sensed as a rapid darkening of
+the silver-gray sky. After a few rounds, the area becomes
+as dark as a moonless night. As the sky darkens, the
+traveler feels buffeting and shaking, as if the plane itself
+was rebelling against the storm. As quickly as it comes,
+the psychic wind passes, and the sky returns to normal
+in a few rounds.
+The psychic wind has two kinds of effects: a
+location effect and a mental effect. A group of travelers
+journeying together suffers the same location effect.
+Each traveler affected by the wind must also make a
+DC 15 Intelligence saving throw. On a failed save, the
+traveler suffers the mental effect as well. Roll a d20
+twice and consult the Psychic Wind Effects table to
+determine the location and mental effects.
+
+![[Pasted image 20240508100742.png]]
+
+Encounters:
+
+Abberations:
+Star Spawn Manglers
+Slaadi - a pair of green slaadi trying to extort travelers for goods, appear as beggers
+Archons - Hound + Lantern, searching for 
+
+
+## Shinfting Court of Arcturiadoom
+
+To get through to Bleakwood, one only needs to pass through the edges of Arcturiadoom. Caiphon-influenced mutant Boggles try to mislead them though, drawing them closer in to Arcturiadoom by switchign road signs, felling trees, pickpotting, etc. They will offer to lead the party as guides, though they will simply guide them further into Arcturiadoom. A simple crossing takes 3 days -- every day, there's a chance that the Crew can meet hobgoblins, star spawn, hobgoblins, fire giants, etc. Each of these are mutated in some way by Arcturia. The land itself polymorphs according to her whims and unconcious wills.
+
+Danger:
+Clay that transfigures a person trapped in it. The boggles love this trap! They'll mold you into the opposite gender, or add funny features -- large nose, ears, etc.
+
+
+
+## Fablerise
+
+The Realm of the storyteller spider Yarnspinner.
+
+https://homebrewery.naturalcrit.com/share/7cJER2anncHM
+![[Pasted image 20240508111208.png]]![[Pasted image 20240508111242.png]]
 

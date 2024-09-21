@@ -6,11 +6,11 @@
 "Do you need a loan?" - Carrix -x2
 "I don't care about their names, are they wealthy?" - Muck
 "I yawn" - Muck , "Cool. I turn into a dire wolf" - Mysto
-"I think I could kill kids easier if I had a few beers in me" - Rabbitouille
+"I think I could kill these kids easier if I had a few beers in me" - Rabbitouille
 "Here's the plan. We get in, get out, and burn it down with the kids in there." - Rabbitouille.
 "It's not a pyramid scheme, it's more of a ponzi scheme." - Carric
 "I might need a big strong man to ship my books" - Rabittouille
-"Give me a vibe check" - RabbiPttouille to DM
+"Give me a vibe check" - Rabbittouille to DM
 "I open my eyes and draw a dick on his forehead" - Carric
 "Are you describing the opioid crisis in your country?" - Rory "Yes, but we would be targeting wealthy neighborhoods" - Erik
 "I kiss him" - Rabbitouille
@@ -104,3 +104,22 @@
 "Hey lil mamma" - Gilbert
 "ALright, how many people am I sucking.... 1, 2, 3, 4... I'm sucking 4 people at once!" - Rabbitouille
 "The fine china broke my fall" - Maximo
+"I puppet Naz Bahar's severed head" - Rabbitouille
+"From the holy perspective, this is very unholy" - Koshi
+"Is this more of a *locate create* or a *speak with dead* sort of situation?" - Carric
+"Locate object: nearest milk farm" - Carric
+"I wish for 1 million beers" - Rabbitouille
+"I come back and start chugging blood" - Carric
+"We gotta get rid of the fucking moose" - Rabbitouille
+"A huge speckeled black cock with blood on it" - Rabbitouille
+"A cock you see once or twice in a lifetime, maybe at the YMCA" - Rabbitouille
+"Burn my ass, I punch him in my stupid little eye" - Carric
+"It was an internship, that's all it was" - Maximo
+"STICK" - Carric
+"Let's fucking kill her dad" - Rabbitouille
+"GRAB" - Carric
+"WET GIRL WET GIRL" - Carric
+"My fingers are down her throat" - Carric
+"She spits in your face", "I caress her leg" - Rabbitouille
+"What dowry doth thou need, when hips as mine make love as sweet as honey" - Rabbitouille
+"It's 100% the ballsack" - Rabbitouille

@@ -6,7 +6,7 @@
 >[!success] **Attuned**
 >1. Marwan's Sword of Life Stealing
 >2. Ioun Stone of Leadership (+2 Cha)
->3. Cape of Protection (+1 AC)
+>3. Winged Boots
 
 >[!abstract] Other
 >Eye of Harmanand (Crystal Ball)
@@ -14,13 +14,14 @@
 >Adnan's Masterwork greatsword
 >1 vial of kumquat poison (4d10)
 >Half plate armor (equiped)
+>Cape of Protection (+1 AC) - 2500 gp
 
 Approx wealth:
-5000 sword + 4000 ioun + 2500 cloak = 11500
-Deficit ~ 10,000
+5000 sword + 4000 ioun + 6000 boots + 2500 Cape = 17500
+Deficit ~ 12,500
 
 >[!bug] Future plans
-> Winged boots ~ 6000 gp
+> 
 
 
 ---
@@ -28,7 +29,7 @@ Deficit ~ 10,000
 
 >[!success] **Attuned**
 >1. Demonic Adamantine Breastplate (no crit, +1 melee, 15+dex)
->2. Kord's Gauntlets (+1 atk/dmg on unarmed strikes)
+>2. Kord's Battleaxe (+2 atk/dmg on unarmed strikes)
 >3. Belt of Ice Giant Strength (str 23)
 
 >[!abstract] Other
@@ -36,12 +37,13 @@ Deficit ~ 10,000
 >Necklace of Force Beads
 >Cloak of billowing
 >Mordenkainen's Anti-Scrying Ring
+>Kord's Gauntlets (+1)
 >
 >3 blood vials - return hit dice
 
 Approx wealth:
-2300 (armor) + 750 (gauntlets) + 1500 (haversack) + 15000 (belt) + 1000 (force beads) = 21000
-Deficit ~ 0
+2300 (armor) + 4100 (+2 gauntlets) + 750 (gauntlets) + 1500 (haversack) + 15000 (belt) + 1000 (force beads) = 21000
+Deficit ~ 9000
 
 >[!bug] Future plans:
 >![[Pasted image 20240729141047.png]]
@@ -61,7 +63,7 @@ Deficit ~ 0
 
 Approx wealth:
 5000 (moon sickle) + 40000 (staff) = 45000
-Deficit: -24000
+Deficit: -15000
 
 >[!bug] Future plans
 >Boon: Gain the ability to wildshape into draconic or celestial forms
@@ -77,64 +79,56 @@ Deficit: -24000
 >Mordenkainen's Anti-Scrying Ring
 
 approx wealth:
-1500 (acheron mace) + 5000 (boon)
-deficit ~ 12000
+1500 (acheron mace) + 5000 (boon) = 6500
+deficit ~ 23,500
 
 >[!bug] Future plans:
 >
->**Boon**:
->![[Pasted image 20240729132800.png]]
 >
 >- Amulet of the Devout +2
-
 
 
 ---
 ## Muck
 
 >[!success] Attuned
+>+1 Acheron Spear
+>
 
 >[!abstract] Other
 >Bagpipes of Invisibility
 >Mordenkainen's Anti-Scrying Ring
+>+1 Shield
+>
 
 
 ---
 ## Rabbitouille
 
 >[!success] Attuned
->1. Librum of Souls and Flesh
->2.
+>1. Mahin's Blackened Tome +2, 12000 gp
+>2. Wand of Orcus 100,000 gp
 >3.
 
 >[!abstract] Other
 >Mordenkainen's Anti-Scrying Ring
+>Librum of Souls and Flesh
+>Drawmij's Paints (3500)
 
 Approx wealth:
-7200 (libram)
-Deficit: 14,000
+12000 tome + 100000 Wand + 3500 pigments = 112000 gp
+Deficit: - a lot
 
 >[!bug] Future plans:
->![[Pasted image 20240729140623.png]]
->Also make this a Grimoire +2 (worth ~12000 gp)
->
->Spells:
->Yrah's Fantastic Forensics : 5th level necromancy, ritual, touch, V,S
->- You cast a spell on a corpse you touch, learning the means by which it was killed. If the target was killed by a spell, you can spend the normal amount of gold and time to copy the spell into your spellbook.
 
->![[Pasted image 20240729145400.png]]
 >
 >![[Pasted image 20240729141813.png]]
->
->![[Pasted image 20240729143047.png]]
 >
 >![[Pasted image 20240729150207.png]]
 >
 >![[Pasted image 20240729143430.png]]
 >
 >![[Pasted image 20240729143501.png]]
->
->![[Pasted image 20240729143702.png]]
 >
 >![[Pasted image 20240729150526.png]]
 >
@@ -152,4 +146,4 @@ Deficit: 14,000
 
 >[!abstract] Other
 >1. Thief Blade
->2. 16800 gp from Adnan's
+>2. 6800 gp from Adnan's
